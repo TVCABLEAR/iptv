@@ -1,0 +1,125 @@
+#EXTM3U
+
+#EXTINF:-1, lista ahtziri
+http://
+#EXTINF:-1,suscribete y busca las nuevas listas en: https://www.youtube.com/channel/UCBu8_V-Y_dphiYIkc196FqQ
+http://
+
+#EXTINF:-1,Paka paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1,Anime
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1,Antena 3 internacional
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Antena 3 series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,LA Sexta 
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8
+#EXTINF:-1,Neox 
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,Fdf
+http://tepo6.telesport.pw/live/fdf/index.m3u8?token=PdZjl-ErOJRXGUjsPkq6Gg&expires=1506100257
+#EXTINF:-1,1
+http://tepo6.telesport.pw/live/tve1/index.m3u8?token=x9RwQcELc7MFiSTyUggL_g&expires=1506100370
+#EXTINF:-1,2
+http://xxedge61.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8?token=OT-YTvztw3ETcD0A74bbzQ&expires=1506017398
+#EXTINF:-1, 4
+http://piedra18.pedromo.online/live/cuatro/index.m3u8?token=5Xrucp6m8Th_sZekF1LjRw&expires=1506100213
+#EXTINF:-1,5
+http://piedra21.pedromo.online/live/telecinco/index.m3u8?token=-W8-yQxiqU8OwBNIFzsWgA&expires=1506100219
+#EXTINF:-1,0
+http://tepo2.telesport.pw/live/plus11/index.m3u8?token=qBQq9KRGW2kpwjNzGxLahA&expires=1506100559
+
+#EXTINF:-1,Axn
+http://tepo5.telesport.pw/live/axn/index.m3u8?token=jL2-CxVSJfks-dy_IwPEOw&expires=1506100698
+#EXTINF:-1,Tnt
+http://tepo1.telesport.pw/live/tnt/index.m3u8?token=W5o8EtNkCRWlW9ObQd0EVg&expires=1506100736
+#EXTINF:-1,amc
+http://xxedge60.livesports.pw/live/veramcespteledd21791245ff/index.m3u8?token=gqQxYPgr5PaSE4rflk2ijw&expires=1506017836
+#EXTINF:-1, comedy central
+http://xxedge61.livesports.pw/live/vercomedycentral6b595e876/index.m3u8?token=IabvDKG6lBdIyRgCeqaqxw&expires=1506018007
+#EXTINF:-1,Holliwood
+http://xxedge61.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8?token=ZUZQirgx5mLeWHx1X1qvUg&expires=1506018065
+#EXTINF:-1,Dark
+http://xxedge60.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8?token=PaudzWyYN5u4snLykCrjGg&expires=1506014580
+#EXTINF:-1,Dark op2
+http://xxedge61.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8?token=IvJ6gONwBDeKL4AVQEY9RQ&expires=1506014800
+
+#EXTINF:-1,Calle 13
+http://xxedge61.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8?token=tuktzST1bxVJh_XvnYlJrg&expires=1506018200
+#EXTINF:-1,Syfy
+http://xxedge61.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8?token=ifLE_kXxwY2IUaKscHHsRw&expires=1506018250
+#EXTINF:-1,Mtv
+http://tepo2.telesport.pw/live/mtv/index.m3u8?token=NKlN1ztwr8F2diLalbWZFA&expires=1506100978
+#EXTINF:-1,Energy
+http://tepo4.telesport.pw/live/energy/index.m3u8?token=uE-zxaf0kD6A0kn6res8bg&expires=1506100997
+#EXTINF:-1,Divinity
+http://tepo1.telesport.pw/live/divinity/index.m3u8?token=Y-BjF_3tBqysOcsbJlj2qQ&expires=1506101158
+#EXTINF:-1,Fox
+http://tepo6.telesport.pw/live/fox/index.m3u8?token=qhAm4YCZWSdANH_tES_w_Q&expires=1506101204
+
+#EXTINF:-1,Movistar series
+http://piedra11.pedromo.online/live/plusseries/index.m3u8?token=5YWh04YMLzi9Epi_cBZP9Q&expires=1506101264
+#EXTINF:-1,Movistar series xtra
+http://xxedge51.livesports.pw/live/vera6669184f0b71095624027/index.m3u8?token=Xi6LAnNl601Zp6Fl0gIcmQ&expires=1506025657
+#EXTINF:-1,Movistar estrenos
+http://tepo5.telesport.pw/live/plusestrenos/index.m3u8?token=oKBvyTjTENKmjitS43dDZQ&expires=1506101437
+#EXTINF:-1,Movistar accion
+http://tepo1.telesport.pw/live/plusaccion/index.m3u8?token=2u9LcVKKk-8FPLtQXZXr3w&expires=1506101536
+#EXTINF:-1,Movistar comedia
+http://tepo1.telesport.pw/live/comedia/index.m3u8?token=yHv1WZjVGtwM-hx_JfdyAg&expires=1506101305
+#EXTINF:-1,Movistar d cine
+http://tepo5.telesport.pw/live/dcine/index.m3u8?token=mB1G63or5D_Pddz1C4czmQ&expires=1506101312
+#EXTINF:-1,Disney chanel
+http://xxedge60.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8?token=nvmVp_BA95GYWTePeMHjXg&expires=1506018957
+#EXTINF:-1,Boing
+http://xxedge51.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8?token=CpXgCbdTmBplKl52Ba9UIw&expires=1506026160
+
+#EXTINF:-1,univision
+http://xxedge53.livesports.pw/live/verunivision0af09b57c447c9f794/index.m3u8?token=lNkXcI3UOWJixAVFBn_4hg&expires=1505981023
+
+#EXTINF:-1,Nat geo
+http://xxedge60.livesports.pw/live/vernatgeo23aa76d3cff3572e/index.m3u8?token=tMNv7zmt6b_yDfJ3SQgGug&expires=1506019536
+#EXTINF:-1,Historia
+http://tepo2.telesport.pw/live/historia/index.m3u8?token=NMbDFsvqVREYCIvfO14haA&expires=1506102364
+#EXTINF:-1,Dscovery
+http://tepo6.telesport.pw/live/discovery/index.m3u8?token=r0P5kXFNjrvVWHJvULBQdQ&expires=1506102540
+#EXTINF:-1,Crimen e investigacion
+http://xxedge61.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8?token=mAl7gWJG5onYeqHiEhswGg&expires=1506019778
+
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Movistar deportes
+http://xxedge50.livesports.pw/live/verdeporteone5e281e2e8f20/index.m3u8?token=RnPK4JHAAmKY1hn4WZlWLg&expires=1506027197
+#EXTINF:-1,Movistar deportes 2
+http://xxedge51.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8?token=4pMmBNBKsOOE6LIZw1zooA&expires=1506027238
+#EXTINF:-1, bein sport la liga
+http://xxedge53.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8?token=rLcriqgglvVkL2jIEYW3Jw&expires=1506027302
+#EXTINF:-1,bein sport
+token=pHDHjEj4Jhk8D9ZX-9TXwQ&expires=1505980371
+http://www.dailymotion.com/cdn/manifest/video/x60vgrj.m3u8?auth=1506189430-2562-8dwoqrpc-8c5c19c596b3839927fd78e274c17580Qwy0LWQA3JhUticX0tspHj9Wawmu8l6h11mHSyxqnYWLleIEtJaPfn70-lV8xHpl3hke1SsFFGS6UOXNz4-AhZOPC1xfTIyktnmpkUjnDqipHZ2OiCcqqzCgCmXryCEBt6VpXjzJMRh_uNOkYyfd9MgeKnrteX0y_66O4Wz1HCihP2kirsc7kEzpsOmzYyAbxtSHqZTqO3IwpuVVp1c8wSaByH4ASjEqXo4_pBCTdEgNmPx71mJrd-KIf8gPk4kYg1G7FBljp0znO1BG38E9mTB-5GtKtIBOuX1HbTJtDhG-LTR_5wpJTdecx3rSPFaBVLh6K37yRAyVzZyFu8xRF_FPGXFjfMnAUkO1W87TP5fOnadfRUBp0sRNxEo6mYMvv92iSwxLAnazohlEN4mBctm1tlhgv0xAdqTrwriOaFvPXqwalQd6gAsl2Ev22-N1haoSct_K8DZqC_X6Z8EBol-N0SJ1pmdMr0RmgJdwJjFaCUMtw-aojkNj08NyoBL17u3uA9xdL6uqcmjqNxJgHCtJaeaG6ZBeyjx5FdvKKkPEIs_ouUMbuDl6H543tfWs-C1g7evPMeFT39ei0jymqLM8Y5eG1uOvcAugDkTqHwR-c0_BhMdr5sHHdnLN32bJmbxNl8zKgVfAjYuTaElUeSgDFBVV9O7CIdGxsUPkOckn2ZkOJ4aZnrCfFjZHvm86PS74zq0kzRmAkpHEJzJylLBrR_EdWHffE10wt64LKFaMrFgr3Fppxxbp1DK9U7uH-Su1nllr3pA6BeUNaTKQNqv1whIqE-wKLoriUJsZmov8no_mDku8yuwc5yrR3YTua6Z4GCRP5SGBJ8jO1yWEKh-X1dhrV-Z8IcsZ1_SM6Uc2RDq2FWLgsW-6jeV3NOPrFxG1bsXrW_zGwq_ehAAaqyK8p4GXLyvl2doL4oJ1P1e5VkchsEWsF9r7gGHsg7VJM9-KeZ8cULPzOx1R4oaYFoFyAGz_3CDZAUXHfJGBKjR89i2N8sScGk-mWSG-eMB8eBk5_yWk881aqoh4NgRdW2xLzLQ5-f0WVqYTOu1RQMi3NJ5xYjLSztarallo1CPkvKJTz3cw5fkxdPpPLdPYHSzi_UxF-TLKQXw884JWbaQQdSjN8qLMazMGaAMwumngB1hETfUx7Tr-BAtHyTo-JGDMnC8E0I12vzfRaoUpgCnsjKNdTstjfGkpPxH6dATgvZedkByYnK1agtd41bHux9LQBDzXJ-N9nPRY-coj4wdZ470F5IihdyoJ08A_So48k2kL1ZpaH1WPbvrNuWs-VlDY-C-6slg7RFl9lkMSF5f7tnhpB5lHcCUbPiTA97Myym75ZytmQtjXT4RcA2rg7y54jbbZ0M_8SjSKnOhMGSe5SI1nVr2Q8bEZE8-muV9LRjWbODtM5Xglwc-8uKE72VHpVru5rzRAt0hvPgjVExHa9SNWyDJFvr_F4C7Z27-5DXModnqizR2ymyvDp2w5HubWf3D_RhCJ8qmMQE6RTyabYDTv3Uid2ghEnLADhfoWPdYL6NrcppAB0nhVZFdTmIN3aNd1p6FkOG5h2cGjBTX8&ps=0x0&ct=website&callback=jsonp_1506016632885_35214
+#EXTINF:-1, betis
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+#EXTINF:-1,El pinguino tv
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1,Todo Deportes Honduras
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,Olympic Channel 2
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_3_964000.m3u8
+#EXTINF:-1,Dxtv
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1,Aym Sports
+http://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8
+#EXTINF:-1,Latin Sports
+http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
+#EXTINF:-1,Tyc sports
+https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
+#EXTINF:-1,tyc superliga
+https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
+
