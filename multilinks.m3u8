@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, PROYECTO TVCABLEAR
-http://shilenitou.blogspot.com.ar/p/mega-chile-fungerar-funciona-m3u-adress.html
+#EXTINF:-1, PROYECTO TVCABLEAR PELICULAS
+http://www.achotv.com/listas/peliculas.m3u
+#EXTINF:-1, PROYECTO TVCABLEAR TV
+http://www.achotv.com/listas/canales.m3u
+
 #EXTINF:-1, CANALES CHILENOS
 http://shilenitou.blogspot.com.ar/p/mega-chile-fungerar-funciona-m3u-adress.html
 
