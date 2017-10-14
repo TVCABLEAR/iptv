@@ -29,8 +29,28 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.
 http://www.achotv.com/listas/peliculas.m3u
 #EXTINF:-1,<< TVCABLEAR Television >>
 http://www.achotv.com/listas/canales.m3u
+#EXTINF:-1,<< TVCABLEAR CHILE >>
+http://chileiptv.cl/cl.m3u
+#EXTINF:-1,<< TVCABLEAR MAUIGA >>
+http://maui.ga/tv.m3u
+#EXTINF:-1,<< TVCABLEAR XTREAM >>
+http://xtreamiptv.cl/listagratis.m3u
 #EXTINF:-1,<< TVCABLEAR PASTEBIN >>
 https://pastebin.com/raw/Eng9EbiL
+#EXTINF:-1,<< TVCABLEAR PASTE 1 >>
+https://pastebin.com/raw/f4j2EcbU
+#EXTINF:-1,<< TVCABLEAR PASTE 2 >>
+https://pastebin.com/raw/VqDaV73W
+#EXTINF:-1,<< TVCABLEAR PASTE 3 >>
+https://pastebin.com/raw/yGhgVUHx
+#EXTINF:-1,<< TVCABLEAR PASTE 4 >>
+https://pastebin.com/raw/UWjHTTWJ
+#EXTINF:-1,<< PASTEBIN ALEATORIOS >>
+https://pastebin.com/A2nMn6cS
+#EXTINF:-1,<< PASTEBIN IZZI >>
+https://pastebin.com/raw/cnQnAp5k
+#EXTINF:-1,<< PASTEBIN TODOUNPOCO >>
+https://pastebin.com/raw/DVRcphYK
 
 #EXTINF:-1, COLOMBIA
 http://shilenitou.blogspot.com.ar
