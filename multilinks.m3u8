@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, PROYECTO TVCABLEAR PELICULAS
-http://www.achotv.com/listas/peliculas.m3u
-#EXTINF:-1, PROYECTO TVCABLEAR TV
-http://www.achotv.com/listas/canales.m3u
-
 #EXTINF:-1, CANALES CHILENOS
 http://shilenitou.blogspot.com.ar/p/mega-chile-fungerar-funciona-m3u-adress.html
 
@@ -15,11 +10,11 @@ https://vivoplay-i.akamaihd.net/hls/live/255329/canal8/master2500k.m3u8
 http://chv.movil.hls.ztreaming.com/chvmovil2/chilevision@140569/1.m3u8
 #EXTINF:-1,TV CHILE
 https://vivoplay-i.akamaihd.net/hls/live/255329/canal8/master2500k.m3u8
-#EXTINF:-1,Chilevision
+#EXTINF:-1,CHILEVISION 2
 http://chv.movil.hls.ztreaming.com/chvmovil2/chilevision@140569/1.m3u8
-#EXTINF:-1,MEGA
+#EXTINF:-1,MEGA 1
 http://cl-a3-p-e-hb2.cdn.mdstrm.com/live-stream/53d2c1a32640614e62a0e000/publish/media_900.m3u8?dnt=true&access_token=false&ref=http%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F&es=cl-a3-p-e-hb2.cdn.mdstrm.com&ote=1503671716540&ot=Ub1_4_jqjMVdU6XmxQqjBA&proto=http
-#EXTINF:-1,MEGA
+#EXTINF:-1,MEGA 2
 http://cl-a3-p-e-hb2.cdn.mdstrm.com/live-stream/53d2c1a32640614e62a0e000/publish/media_900.m3u8?dnt=true&access_token=false&ref=http%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F&es=cl-a3-p-e-hb2.cdn.mdstrm.com&ote=1503671716540&ot=Ub1_4_jqjMVdU6XmxQqjBA&proto=http
 
 #EXTINF:-1, INFANTILES
@@ -30,6 +25,12 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/chunklist
 #EXTINF:-1,THE SIMPSONS (2) 24/7
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
+#EXTINF:-1,<< TVCABLEAR MOVIES >>
+http://www.achotv.com/listas/peliculas.m3u
+#EXTINF:-1,<< TVCABLEAR Television >>
+http://www.achotv.com/listas/canales.m3u
+#EXTINF:-1,<< TVCABLEAR PASTEBIN >>
+hhttps://pastebin.com/raw/Eng9EbiL
 
 #EXTINF:-1, COLOMBIA
 http://shilenitou.blogspot.com.ar
@@ -42,31 +43,34 @@ http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 
 #EXTINF:-1, CANALES ESPAÑOLES
 http://shilenitou.blogspot.com.ar/p/mega-chile-fungerar-funciona-m3u-adress.html
-
-#EXTINF:-1,MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Atreseries
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Antena 3 Internacional
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,Miami Tv espa?a
-http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,MEGA España
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8?sd=10&rebase=on
+#EXTINF:-1,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8?sd=10&rebase=on
+#EXTINF:-1,A3S A3 series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,La 1
 http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/index_0400_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, La 2
 http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/index_0400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8?sd=10&rebase=on
+#EXTINF:-1,ANTENA 3 Internacional
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,ANTENA 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,MIAMI TV ESPAÑA
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?iptvgratis?chile.m3u8
+
+
+
+
 
 #EXTINF:-1,LISTA REMOTA
 https://pastebin.com/raw/xkR6D1nf
