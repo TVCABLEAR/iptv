@@ -24,22 +24,7 @@ http://shilenitou.blogspot.com.ar
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/chunklist_w1726892137.m3u8
 #EXTINF:-1,THE SIMPSONS (2) 24/7
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
-#EXTINF:-1,SOUTH PARK 24H
-https://live69.vkuserlive.com/639906/live/tyBhhhhAfwQZjr06/playlist.m3u8
-#EXTINF:-1,South Park 24H
-https://live69.vkuserlive.com/639906/live/tyBhhhhAfwQZjr06/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1,DISNEY XD
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BaC4MFOsvBwzj2PprhMnRtPPqSDOv0l2k%2FyvwVD1uioZOV6eZN23htozJ9Jc7TTC8YBK2psI9kEQ%3D%3D
-#EXTINF:-1,Disney XD
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BaC4MFOsvBwzj2PprhMnRtPPqSDOv0l2k%2FyvwVD1uioZOV6eZN23htozJ9Jc7TTC8YBK2psI9kEQ%3D%3D
-#EXTINF:-1,CARTOON NETWORK
-https://live56.vkuserlive.com/639904/live/B18eNlNDfE9B9mYO/playlist.m3u8
-#EXTINF:-1,Cartoon Network
-https://live56.vkuserlive.com/639904/live/B18eNlNDfE9B9mYO/playlist.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-https://live58.vkuserlive.com/637604/live/1s2M52NAf3_nsF86/playlist.m3u8
-#EXTINF:-1,Disney Channel
-https://live58.vkuserlive.com/637604/live/1s2M52NAf3_nsF86/playlist.m3u8
+
 
 #EXTINF:-1, COLOMBIA
 http://shilenitou.blogspot.com.ar
