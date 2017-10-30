@@ -1,0 +1,45 @@
+#EXTM3U
+
+#EXTINF:0,-TELETRACK-
+
+#EXTINF:-1 tvg-logo="http://imgur.com/SGX5yDQ.png" group-title="Teletrack",Teletrack
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,-SPORTING TV-
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/qAMAW1z.jpg" group-title="Sporting Tv",Sporting Tv HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/qAMAW1z.jpg" group-title="Sporting Tv",Sporting Tv SD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/qAMAW1z.jpg" group-title="Sporting Tv",Sporting Tv SD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,-DEPORTV-
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/PxyIZNW.png" group-title="Deportv",Deport Tv
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,-TODO DEPORTES-
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p7DAIKG.png" group-title="Todo Deportes",Todo Deportes 
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,-REAL MADRID TV-
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="Real Madrid TV", Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:0,-BETIS TV-
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LWH23O0.jpg" group-title="Betis tv",Betis tv	
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,-SEVILLA FC-
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/3GIGy3P.png" group-title="Sevilla FC",Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,-ALL SPORTS-
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/u7R3qcx.png" group-title="All Sports",All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
