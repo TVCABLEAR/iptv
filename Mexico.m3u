@@ -10,68 +10,23 @@ http://www.lengua.com/anthems/Mexico.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/NewLogo2016.png/250px-NewLogo2016.png",LAS ESTRELLAS 
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/NewLogo2016.png/250px-NewLogo2016.png",LAS ESTRELLAS LATINOAMERICA 
-
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png",FORO TV 
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1296_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.galatvacapulco.tv/templates/televisaregional/images/config/logo.png",GALA TV ACAPULCO
-https://www.youtube.com/watch?v=ZWFPPFFCBpw?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="http://galatvaguascalientes.tv/themes/televisa/assets/img/header_aguascalientes.png",GALA TV AGUASCALIENTES
-https://www.youtube.com/watch?v=QG7UP5fedNA?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="http://galatvchihuahua.tv/themes/televisa/assets/img/header_chihuahua.png",GALA TV CHIHUAHUA
-https://www.youtube.com/watch?v=XTL3_KQ1tWs?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="http://www.galatvedomex.tv/templates/televisaregional/images/config/logo.png",GALA TV EDO.MEXICO
-https://www.youtube.com/watch?v=w2ppMjVDYBo?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="http://www.galatvlaguna.tv/templates/televisaregional/images/config/logo.png",GALA TV LAGUNA
-https://www.youtube.com/watch?v=j2aXisrt2BM?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="http://www.galatvmorelos.tv/templates/televisaregional/images/config/logo.png",GALA TV MORELOS
-https://www.youtube.com/watch?v=ShLt75IpMB0?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="http://www.galatvqueretaro.tv/templates/televisaregional/images/config/logo.png",GALA TV QUERETARO
-https://www.youtube.com/watch?v=6sm8EB1Zn9M?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/733023357801660417/B2itvTyQ.jpg",GALA TV ZACATECAS
-https://www.youtube.com/watch?v=egEAlY0oOiE?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="http://www.televisaguadalajara.tv/templates/televisaregional/images/config/logo.png",TELEVISA GUADALAJARA
-https://www.youtube.com/watch?v=nXxO9u_fij8?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-RB406YR-Fw4/AAAAAAAAAAI/AAAAAAAAAAA/3Vvbmr0kdz8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",TELEVISA MEXICALI
-https://www.youtube.com/watch?v=ID_vuqSepAE?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="http://televisamonterrey.tv/themes/televisa/assets/img/header_monterrey.png",TELEVISA MONTERREY
-https://www.youtube.com/watch?v=tcZPzYbBHgc?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="http://www.televisanoreste.tv/templates/televisaregional/images/config/logo.png",TELEVISA NORESTE
-https://www.youtube.com/watch?v=WHZFr4hv720?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="http://www.televisapuebla.tv/templates/televisaregional/images/config/logo.png",TELEVISA PUEBLA
-https://www.youtube.com/watch?v=RVXs1V9Bk7Q?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/915250495962222592/L3q6vt3M_400x400.jpg",TELEVISA SONORA
-https://www.youtube.com/watch?v=MQXnL8xnYxM?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="http://www.televisaveracruz.tv/templates/televisaregional/images/config/logo.png",TELEVISA VERACRUZ
-https://www.youtube.com/watch?v=194ue5o1ReM?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="http://www.amastv.com/img/logo_amas.png",A+
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8?sd=10&rebase=onCompu-Cue.m3u8
 #EXTINF:-1 tvg-logo="http://static.azteca.com/portal/genericas-responsivas/images/azteca-trece.jpg",AZTECA TRECE
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.adn40.mx/images/adn40.png",ADN 40 
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=onCompu-Cue.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/images/az.png",AZ NOTICIAS 
 http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/165px-Logo-Imagen-TV-MX.png",IMAGEN TV
-http://66.70.178.201:25461/live/colombia3/pokpoguv/183.m3u8
-#EXTINF:-1 tvg-logo="http://www.pctv.com.mx/Portals/_default/Skins/Incredible/css/tvc/canales/Excelsior_TV-571992.png",EXCELSIOR TV 
-https://www.youtube.com/watch?v=L3pAMSDepok?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/817091152075554816/9xWXkvj0_400x400.jpg",CADENA H
-https://www.youtube.com/watch?v=HE03wTKYtNg?autoplay=1.m3u8Compu-Cue.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/noticias-01.png",TV 4.1 GUANAJUATO
-https://58821c4c82c47.streamlock.net/tv4/videotv4/playlist.m3u8#Compu-Cue
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/cultura-01.png",TV 4.2 GUANAJUATO
-https://58821c4c82c47.streamlock.net/tv42/videotv42/playlist.m3u8#Compu-Cue
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/deportes-02.png",TV 4.3 GUANAJUATO
-https://58821c4c82c47.streamlock.net/tv43/videotv43/playlist.m3u8#Compu-Cue
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-t3aNu0XoQ0M/VSh6RzeTEeI/AAAAAAAAAkg/JN4ixO4-8CM/s320/Canal%2B4%2BMonclova.jpg",CANAL 4 MONCLOVA
 http://192.163.250.253:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cincotv.com/v2/wp-content/uploads/2014/01/logo4.png",5TV SABINAS
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://0201.nccdn.net/1_2/000/000/171/c3c/logo.png",CANAL 6 SALTILLO
 http://192.163.250.253:1935/live/canal6/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ochotv.com/imagenes/logo.jpg",OCHO TV GUADALAJARA
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on#Compu-Cue
+
 #EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal10-Chiapas-Logo.jpg",CANAL 10 CHIAPAS
 http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/drn6mck6d/image/upload/v1449952705/logocanal10/c10_logo_112_web_red2.png",CANAL 10 MERIDA
@@ -202,3 +157,51 @@ http://www.lengua.com/anthems/Mexico.mp3
 http://72.29.70.19:8038/stream/1/
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-YrYLA5ejwbc/VQz19cKCjCI/AAAAAAAADfA/5dt1KMSq52U/s1600/saldazo.png",DONACIONES EN SALDAZO OXXO CUENTA: 4746 8406 8485 2291
 http://72.29.70.19:8038/stream/1/
+
+#EXTINF:-1 tvg-logo="http://www.galatvacapulco.tv/templates/televisaregional/images/config/logo.png",GALA TV ACAPULCO
+https://www.youtube.com/watch?v=ZWFPPFFCBpw?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="http://galatvaguascalientes.tv/themes/televisa/assets/img/header_aguascalientes.png",GALA TV AGUASCALIENTES
+https://www.youtube.com/watch?v=QG7UP5fedNA?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="http://galatvchihuahua.tv/themes/televisa/assets/img/header_chihuahua.png",GALA TV CHIHUAHUA
+https://www.youtube.com/watch?v=XTL3_KQ1tWs?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="http://www.galatvedomex.tv/templates/televisaregional/images/config/logo.png",GALA TV EDO.MEXICO
+https://www.youtube.com/watch?v=w2ppMjVDYBo?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="http://www.galatvlaguna.tv/templates/televisaregional/images/config/logo.png",GALA TV LAGUNA
+https://www.youtube.com/watch?v=j2aXisrt2BM?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="http://www.galatvmorelos.tv/templates/televisaregional/images/config/logo.png",GALA TV MORELOS
+https://www.youtube.com/watch?v=ShLt75IpMB0?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="http://www.galatvqueretaro.tv/templates/televisaregional/images/config/logo.png",GALA TV QUERETARO
+https://www.youtube.com/watch?v=6sm8EB1Zn9M?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/733023357801660417/B2itvTyQ.jpg",GALA TV ZACATECAS
+https://www.youtube.com/watch?v=egEAlY0oOiE?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="http://www.televisaguadalajara.tv/templates/televisaregional/images/config/logo.png",TELEVISA GUADALAJARA
+https://www.youtube.com/watch?v=nXxO9u_fij8?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-RB406YR-Fw4/AAAAAAAAAAI/AAAAAAAAAAA/3Vvbmr0kdz8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",TELEVISA MEXICALI
+https://www.youtube.com/watch?v=ID_vuqSepAE?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="http://televisamonterrey.tv/themes/televisa/assets/img/header_monterrey.png",TELEVISA MONTERREY
+https://www.youtube.com/watch?v=tcZPzYbBHgc?autoplay=1.m3u8Compu-Cue.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.televisanoreste.tv/templates/televisaregional/images/config/logo.png",TELEVISA NORESTE
+https://www.youtube.com/watch?v=WHZFr4hv720?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="http://www.televisapuebla.tv/templates/televisaregional/images/config/logo.png",TELEVISA PUEBLA
+https://www.youtube.com/watch?v=RVXs1V9Bk7Q?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/915250495962222592/L3q6vt3M_400x400.jpg",TELEVISA SONORA
+https://www.youtube.com/watch?v=MQXnL8xnYxM?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="http://www.televisaveracruz.tv/templates/televisaregional/images/config/logo.png",TELEVISA VERACRUZ
+https://www.youtube.com/watch?v=194ue5o1ReM?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="http://www.amastv.com/img/logo_amas.png",A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8?sd=10&rebase=onCompu-Cue.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/165px-Logo-Imagen-TV-MX.png",IMAGEN TV
+http://66.70.178.201:25461/live/colombia3/pokpoguv/183.m3u8
+#EXTINF:-1 tvg-logo="http://www.pctv.com.mx/Portals/_default/Skins/Incredible/css/tvc/canales/Excelsior_TV-571992.png",EXCELSIOR TV 
+https://www.youtube.com/watch?v=L3pAMSDepok?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/817091152075554816/9xWXkvj0_400x400.jpg",CADENA H
+https://www.youtube.com/watch?v=HE03wTKYtNg?autoplay=1.m3u8Compu-Cue.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/noticias-01.png",TV 4.1 GUANAJUATO
+https://58821c4c82c47.streamlock.net/tv4/videotv4/playlist.m3u8#Compu-Cue
+#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/cultura-01.png",TV 4.2 GUANAJUATO
+https://58821c4c82c47.streamlock.net/tv42/videotv42/playlist.m3u8#Compu-Cue
+#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/deportes-02.png",TV 4.3 GUANAJUATO
+https://58821c4c82c47.streamlock.net/tv43/videotv43/playlist.m3u8#Compu-Cue
+#EXTINF:-1 tvg-logo="http://ochotv.com/imagenes/logo.jpg",OCHO TV GUADALAJARA
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on#Compu-Cue
