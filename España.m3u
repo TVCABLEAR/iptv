@@ -1,0 +1,170 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="LOCALES", 324
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES", Antena 3 
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 group-title="LOCALES", Aragon Tv
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1 group-title="LOCALES", Barometro 8
+http://cls.todostreaming.eu/unatv/live/chunklist.m3u8
+#EXTINF:-1 group-title="LOCALES", CANAL SUR
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1 group-title="LOCALES", EL DÍA TV España
+http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
+#EXTINF:-1 group-title="LOCALES", EXTREMADURA TV
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:-1 group-title="LOCALES", La Sexta 
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="LOCALES", LEVANTE TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES", Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="LOCALES", Marbella TV
+http://cls.provideo.es/marbellatv/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="LOCALES", Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="LOCALES", ONDA AZUL MALAGA
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES", ONDA AZUL SEVILLA
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
+#EXTINF:-1 group-title="LOCALES", REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="LOCALES", Telecinco
+http://cdn2.shurs.xyz/verdirectotv/1/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES", TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+#EXTINF:-1 group-title="LOCALES", TV GALICIA
+http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES", TV Melilla
+http://melillatv.hls.flumotion.com/melilla/live-hls-2/playlist.m3u8
+#EXTINF:-1 group-title="z-omitir" group-title="CABLE",[COLOR YELLOW] [/COLOR] =CABLE=
+https://www.youtube.com/channel/UCHKjyfC3HqGeGUxR_9wgzSw
+#EXTINF:-1 group-title="CABLE", Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Caza y Pesca
+http://edge2.telesport.pw/live/cazaypesca/index.m3u8
+#EXTINF:-1 group-title="CABLE", Discovery 
+http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Discovery Crimen e Investigación
+http://edge6.telesport.pw/live/canalcrimen/index.m3u8 
+#EXTINF:-1 group-title="CABLE", National geographic
+http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", Nat Geo Wild
+http://edge7.telesport.pw/live/nationalwild/index.m3u8
+#EXTINF:-1 group-title="CABLE", ODISEA 
+http://edge7.telesport.pw/live/odisea/index.m3u8
+#EXTINF:-1 group-title="CABLE", All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 group-title="CABLE", Deport Tv
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
+#EXTINF:-1 tvg-logo="http://mitvrd.com/uploads/CdnSportsMax1.jpg" group-title="DEPORTES", CDN Sports Max
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+#EXTINF:-1 group-title="CABLE", Claro Sports
+http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="CABLE", ESPN
+http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8
+#EXTINF:-1 group-title="CABLE", Fox sports
+http://wowza2.mysoltv.com:1992/Latino_Fox_Sports/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="CABLE", MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="CABLE", MOVISTAR DEPORTES 2
+http://edge16.verliga.me/live/plusdeportes2/index.m3u8 
+#EXTINF:-1 group-title="CABLE", Olympic Channel SD
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_3_964000.m3u8
+#EXTINF:-1 group-title="CABLE", Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
+#EXTINF:-1 group-title="CABLE", Sporting Tv HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="CABLE", Todo Deportes 
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1 group-title="CABLE", AMC
+http://edge4.telesport.pw/live/amc/index.m3u8
+#EXTINF:-1 group-title="CABLE", Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1  group-title="CABLE", AXN
+http://edge4.telesport.pw/live/axn/index.m3u8
+#EXTINF:-1  group-title="CABLE", Canal Claro
+http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
+#EXTINF:-1  group-title="CABLE", Canal plus
+http://edge6.telesport.pw/live/plus1/index.m3u8
+#EXTINF:-1  group-title="CABLE", Canal Savoir 
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:-1  group-title="CABLE", Comedy Central
+http://209.126.116.177:2086/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", Cinecanal
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", Cinemax
+http://wowza2.mysoltv.com:1992/Latino_CINEMAX/index.m3u8
+#EXTINF:-1  group-title="CABLE", Cine On Demand (Brasil) 
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=412620615
+#EXTINF:-1  group-title="CABLE", Deutsche Welle Latinoamérica
+http://50.7.98.234:1935/rtv/videortv/chunklist_w1293948741.m3u8
+#EXTINF:-1  group-title="CABLE", Fox Series
+http://wowza2.mysoltv.com:1992/Latino_Fox_1_HD/index.m3u8
+#EXTINF:-1  group-title="CABLE", LIFETIME
+http://wowza2.mysoltv.com:1992/Latino_LIFETIME/index.m3u8
+#EXTINF:-1  group-title="CABLE", SinoVision 
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1  group-title="CABLE", Telemundo
+http://edge5.telesport.pw/live/telemundo/index.m3u8
+#EXTINF:-1  group-title="CABLE", TNT
+http://edge1.telesport.pw/live/tnt/index.m3u8
+#EXTINF:-1  group-title="CABLE", SONY
+http://wowza2.mysoltv.com:1992/Latino_SONY/index.m3u8
+#EXTINF:-1  group-title="CABLE", WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1  group-title="CABLE", 24/7 Gravity Falls 
+http://stream.latino-webtv.com/series/gravityfalls.mp4
+#EXTINF:-1  group-title="CABLE", 24/7 Los Simpson
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1  group-title="CABLE", Cartoon Network
+http://theplayersklub.host:2095/live/husham/isaplayer/1123.ts
+#EXTINF:-1  group-title="CABLE", Disney Channel
+http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", Disney Junior
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", Disney XD
+http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", Discovery Kids
+http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8
+#EXTINF:-1  group-title="CABLE", Nickelodeon
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", NickJR
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+#EXTINF:-1  group-title="CABLE", Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", Telemúsica
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", Teleritmo
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+#EXTINF:-1  group-title="CABLE", Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:-1  group-title="CABLE", Vibee
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1  group-title="CABLE", ABC News
+http://abclive.abcNEWS.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1  group-title="CABLE", Al Jazeera 
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1  group-title="CABLE", CBS News
+http://cbsNEWShd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1  group-title="CABLE", CGTN Español 
+http://live.cgtn.com/cctv-e.m3u8
+#EXTINF:-1  group-title="CABLE", CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", Euronews en Español
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1  group-title="CABLE", HispanTV
+http://178.32.255.199:1935/live/hispantv/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", Nigeria TVC News
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+#EXTINF:-1  group-title="CABLE", RT en español
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
+#EXTINF:-1  group-title="CABLE", RT en inglés
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
