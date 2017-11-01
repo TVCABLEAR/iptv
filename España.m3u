@@ -8,8 +8,7 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTINF:-1 group-title="LOCALES", Barometro 8
 http://cls.todostreaming.eu/unatv/live/chunklist.m3u8
-#EXTINF:-1 group-title="LOCALES", CANAL SUR
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+
 #EXTINF:-1 group-title="LOCALES", EL DÍA TV España
 http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
 #EXTINF:-1 group-title="LOCALES", EXTREMADURA TV
