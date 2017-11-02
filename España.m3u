@@ -30,6 +30,300 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 #EXTINF:-1 group-title="LOCALES", TV GALICIA
 http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES",,La 1
+http://edge4.telesport.pw/live/tve1/index.m3u8
+#EXTINF:-1 group-title="LOCALES",La 1
+http://edge203.livesports.pw/live/verlaunotelefivegb3264628423ff/index.m3u8
+#EXTINF:-1 group-title="LOCALES",La 2
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/483.ts
+#EXTINF:--1 group-title="LOCALES",La 2
+http://edge202.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Antena 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,Antena 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=1439881142212
+#EXTINF:--1 group-title="LOCALES",La Cuatro
+http://cdn2.shurs.xyz/verdirectotv/2/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES",La Cuatro
+http://edge204.livesports.pw/live/verlacuatro3f266ebf406797/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Telecinco
+http://cdn2.shurs.xyz/verdirectotv/1/playlist.m3u8
+#EXTINF:--1 group-title="LOCALES",Telecinco
+http://edge201.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
+#EXTINF:-1 group-title="LOCALES",La Sexta HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:--1 group-title="LOCALES",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 group-title="LOCALES",INTERECONOMÍA TV España
+https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist_w1991986513_b500000.m3u8
+#EXTINF:-1 group-title="LOCALES",8 TV España
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+#EXTINF:-1 group-title="LOCALES",13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES",TVE
+http://198.71.163.252/img/home/adryanlist.php?c=198&p=3&k=Adryanlist-Adryanlist-Adryanlist&f=.m3u8
+#EXTINF:-1 group-title="LOCALES",TVE 24h
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/498.ts
+#EXTINF:-1 group-title="LOCALES",Rtv ce
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES",MEGA HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="LOCALES",MEGA ESPANA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:-1 group-title="LOCALES",Neox HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="LOCALES",Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 group-title="LOCALES",NOVA  HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="LOCALES",NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1 group-title="LOCALES",LIFE TV
+http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES",A3SERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="LOCALES",A3SERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 group-title="LOCALES",#0 Series
+http://edge3.telesport.pw/live/plus1/index.m3u8
+#EXTINF:-1 group-title="LOCALES",#0 Series
+http://edge501.livesports.pw/live/verpluscerob81d6577d6c8c9/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Movistar Estrenos
+http://edge6.telesport.pw/live/plusestrenos/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Movistar Estrenos
+http://edge202.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
+#EXTINF:--1 group-title="LOCALES",Movistar Estrenos
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/509.ts
+#EXTINF:-1 group-title="LOCALES",Movistar Accion
+http://edge8.telesport.pw/live/plusaccion/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Movistar Accion
+http://edge202.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Movistar Accion
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/512.ts
+#EXTINF:--1 group-title="LOCALES",Movistar Comedia
+http://cdn2.shurs.xyz/verliga/1/playlist.m3u8
+#EXTINF:--1 group-title="LOCALES",Movistar Comedia
+http://edge505.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Movistar Comedia
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/513.ts
+#EXTINF:-1 group-title="LOCALES",Movistar DCINE
+http://cdn1.shurs.xyz/verliga/3/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES",Movistar DCINE
+http://edge204.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Movistar DCINE
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/511.ts
+#EXTINF:-1 group-title="LOCALES",DCINE Español
+http://bit.ly/2sX0gUg
+#EXTINF:-1 group-title="LOCALES",DCINE Español
+http://edge203.livesports.pw/live/verdCINEn472ab4996ac0193b/index.m3u8
+#EXTINF:-1,Movistar Series
+http://edge204.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
+#EXTINF:--1 group-title="LOCALES",Movistar Series
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/503.ts
+#EXTINF:-1 group-title="LOCALES",Movistar Series Xtra
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/514.ts
+#EXTINF:-1 group-title="LOCALES",Movistar Series Xtra
+http://edge201.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Movistar Xtra
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/534.ts
+#EXTINF:-1 group-title="LOCALES",Movistar Xtra
+http://edge504.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8
+#EXTINF:-1 group-title="LOCALES",la Otra
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+#EXTINF:--1 group-title="LOCALES",Clan TVE
+http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/545.ts
+#EXTINF:-1 group-title="LOCALES",1,COSMO TV
+http://192.99.149.20:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3300.ts
+#EXTINF:-1 group-title="LOCALES",COSMO TV
+http://cdn1.shurs.xyz/verdirectotv/15/chunks.m3u8
+#EXTINF:-1 group-title="LOCALES",SOMOS
+http://85.84.54.213:8001/1:0:1:10E:190:A041:FFFF0000:0:0:0
+#EXTINF:-1 group-title="LOCALES",Divinity
+http://cdn2.shurs.xyz/verdirectotv/3/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES",Divinity
+http://edge204.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8
+#EXTINF:-1,Energy
+http://edge502.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Energy
+http://edge504.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8
+#EXTINF:-1 group-title="LOCALES",FDF
+http://edge7.telesport.pw/live/fdf/index.m3u8
+#EXTINF:-1 group-title="LOCALES",FDF
+http://149.100.19.147:8000/play/a01k
+#EXTINF:-1 group-title="LOCALES",Calle 13
+http://edge8.telesport.pw/live/calle13/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Calle 13
+http://edge204.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
+#EXTINF:-1 group-title="LOCALES",RT Español
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
+
+#EXTINF:-1 group-title="INTERNACIONALES",TELEFORMULA
+http://gformula.mmdlive.lldns.net/gformula/1cb087d8264e4b4097a6ac23cff3cbea/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",TELEFORMULA
+http://gformula.mmdlive.lldns.net/gformula/1cb087d8264e4b4097a6ac23cff3cbea/chunklist_b732000.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",MVS NOTICIAS
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",DW LATINOAMERICA
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",UNO TV Mexico
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
+#EXTINF:--1 group-title="INTERNACIONALES",América TV
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/1.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Cable NOTICIAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",CNN CHILE
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",ECO TV
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-720p/chunks.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",EL TIEMPO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Globovision
+https://www.youtube.com/watch?v=RjRaxsrchYc
+#EXTINF:-1 group-title="INTERNACIONALES",NTN24
+https://www.youtube.com/watch?v=z8vQPtsALjk
+#EXTINF:-1 group-title="INTERNACIONALES",N
+https://www.youtube.com/watch?v=0tek2aa8hAQ
+#EXTINF:-1 group-title="INTERNACIONALES",TeleSUR
+https://www.youtube.com/watch?v=1wdSLicqp2c
+#EXTINF:-1,VPI TV Venezolanos por la Informacion
+https://www.youtube.com/watch?v=YiuAE5MY9_U
+#EXTINF:-1 group-title="INTERNACIONALES",Weather Nation Tv
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:--1 group-title="INTERNACIONALES",BBC WORLD NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",CBN NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",CBN NEWS
+http://cbsNEWShd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="INTERNACIONALES",C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="INTERNACIONALES",C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="INTERNACIONALES",CNN International
+http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",CNN International
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8910.ts
+#EXTINF:-1 group-title="INTERNACIONALES",DW USA
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",FOX NEWS 23
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",FOX 25 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",FOX 30 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",FOX 59 NEWS
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",NEWSMAX TV
+http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",MSNBC
+http://sky@tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8?sd=10
+#EXTINF:-1 group-title="INTERNACIONALES",Press TV
+http://178.32.255.199:1935/live/ptven/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",RT Documentary
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Rusia Today
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Sky NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skyNEWS/1404/live/04.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Channel NEWS Asia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",China CCTV 13
+http://61.155.167.11/live/cctv13.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Syria News
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+#EXTINF:-1 group-title="INTERNACIONALES",Nigeria TVC News
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:--1 group-title="INTERNACIONALES",Arte HD
+http://92.62.110.198:8000/play/a00h
+#EXTINF:-1 group-title="INTERNACIONALES",Be Mad
+http://cdn2.shurs.xyz/verdirectotv/14/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",-1,Ten
+http://88.148.69.129:9090/play/a022
+#EXTINF:-1 group-title="INTERNACIONALES",Ten
+http://edge4.telesport.pw/live/ten/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM", Comedy Central
+http://cdn1.shurs.xyz/verdirectotv/8/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM", Comedy Central
+http://edge202.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", Crimen investigacion
+http://edge7.telesport.pw/live/canalcrimen/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", Crimen investigacion
+http://edge202.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", A&E
+http://edge201.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", A&E
+http://edge202.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", AMC 1
+http://edge8.telesport.pw/live/amc/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", AMC 2
+http://edge203.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", AXN 1 
+http://edge5.telesport.pw/live/axn/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", AXN 2
+http://edge202.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", AXN White
+http://192.99.149.20:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3277.ts
+#EXTINF:-1 group-title="PREMIUM", Dark
+http://edge203.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
+#EXTINF:--1 group-title="PREMIUM", TCM
+http://edge502.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM", TNT España
+http://edge8.telesport.pw/live/tnt/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", TNT España
+http://edge204.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", CINEmax
+http://cdn2.shurs.xyz/verliga/4/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM", CINEmax
+http://cdn3.shurs.xyz/verliga/4/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM", Hollywood
+http://cdn2.shurs.xyz/verdirectotv/10/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM", Hollywood
+http://edge204.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", FOX
+http://edge3.telesport.pw/live/fox/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", FOX
+http://edge203.livesports.pw/live/verfoxespana247756767558f1/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", FOX Life
+http://edge2.telesport.pw/live/foxlife/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", FOX Life
+http://192.99.149.20:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3299.ts
+#EXTINF:-1 group-title="PREMIUM", SyFy
+http://edge8.telesport.pw/live/syfy/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", SyFy
+http://edge201.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
+#EXTINF:-1 group-title="PREMIUM", Paramount Channel
+http://cdn2.shurs.xyz/verdirectotv/5/chunks.m3u8
+
 
 #EXTINF:-1 group-title="CABLE", Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
