@@ -157,10 +157,7 @@ http://edge204.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
 #EXTINF:-1 group-title="LOCALES",RT Español
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONALES",TELEFORMULA
-http://gformula.mmdlive.lldns.net/gformula/1cb087d8264e4b4097a6ac23cff3cbea/chunklist_b1128000.m3u8
-#EXTINF:-1 group-title="INTERNACIONALES",TELEFORMULA
-http://gformula.mmdlive.lldns.net/gformula/1cb087d8264e4b4097a6ac23cff3cbea/chunklist_b732000.m3u8
+
 #EXTINF:-1 group-title="INTERNACIONALES",MVS NOTICIAS
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES",DW LATINOAMERICA
@@ -270,71 +267,17 @@ http://88.148.69.129:9090/play/a022
 #EXTINF:-1 group-title="INTERNACIONALES",Ten
 http://edge4.telesport.pw/live/ten/index.m3u8
 
-#EXTINF:-1 group-title="PREMIUM", Comedy Central
-http://cdn1.shurs.xyz/verdirectotv/8/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM", Comedy Central
-http://edge202.livesports.pw/live/vercomedycentral6b595e876/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", Crimen investigacion
-http://edge7.telesport.pw/live/canalcrimen/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", Crimen investigacion
-http://edge202.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", A&E
-http://edge201.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", A&E
-http://edge202.livesports.pw/live/veranadetelefive17669f5d28e4d7/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", AMC 1
-http://edge8.telesport.pw/live/amc/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", AMC 2
-http://edge203.livesports.pw/live/veramcespteledd21791245ff/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", AXN 1 
-http://edge5.telesport.pw/live/axn/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", AXN 2
-http://edge202.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", AXN White
-http://192.99.149.20:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3277.ts
-#EXTINF:-1 group-title="PREMIUM", Dark
-http://edge203.livesports.pw/live/verdarkes07ff3fa6e4dc81d3/index.m3u8
-#EXTINF:--1 group-title="PREMIUM", TCM
-http://edge502.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM", TNT España
-http://edge8.telesport.pw/live/tnt/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", TNT España
-http://edge204.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", CINEmax
-http://cdn2.shurs.xyz/verliga/4/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM", CINEmax
-http://cdn3.shurs.xyz/verliga/4/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM", Hollywood
-http://cdn2.shurs.xyz/verdirectotv/10/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM", Hollywood
-http://edge204.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", FOX
-http://edge3.telesport.pw/live/fox/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", FOX
-http://edge203.livesports.pw/live/verfoxespana247756767558f1/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", FOX Life
-http://edge2.telesport.pw/live/foxlife/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", FOX Life
-http://192.99.149.20:8080/live/naeem_dsjsdlkj03343lskd/dsklj4kdtkc9s36dsk/3299.ts
-#EXTINF:-1 group-title="PREMIUM", SyFy
-http://edge8.telesport.pw/live/syfy/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", SyFy
-http://edge201.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
-#EXTINF:-1 group-title="PREMIUM", Paramount Channel
-http://cdn2.shurs.xyz/verdirectotv/5/chunks.m3u8
 
 
 #EXTINF:-1 group-title="CABLE", Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CABLE", All Sports
+#EXTINF:-1 group-title="DEPORTES", All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 group-title="CABLE", Deport Tv
+#EXTINF:-1 group-title="DEPORTES", Deport Tv
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
-#EXTINF:-1 tvg-logo="http://mitvrd.com/uploads/CdnSportsMax1.jpg" group-title="DEPORTES", CDN Sports Max
-http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+
 #EXTINF:-1 group-title="CABLE", Claro Sports
 http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1 group-title="CABLE", ESPN
