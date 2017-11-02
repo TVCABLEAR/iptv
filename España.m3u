@@ -8,7 +8,6 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTINF:-1 group-title="LOCALES", Barometro 8
 http://cls.todostreaming.eu/unatv/live/chunklist.m3u8
-
 #EXTINF:-1 group-title="LOCALES", EL DÍA TV España
 http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
 #EXTINF:-1 group-title="LOCALES", EXTREMADURA TV
@@ -19,8 +18,6 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chi
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
 #EXTINF:-1 group-title="LOCALES", Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="LOCALES", Marbella TV
-http://cls.provideo.es/marbellatv/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="LOCALES", Mega
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="LOCALES", ONDA AZUL MALAGA
@@ -29,16 +26,11 @@ http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
 http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
 #EXTINF:-1 group-title="LOCALES", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="LOCALES", Telecinco
-http://cdn2.shurs.xyz/verdirectotv/1/playlist.m3u8
 #EXTINF:-1 group-title="LOCALES", TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 #EXTINF:-1 group-title="LOCALES", TV GALICIA
 http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
-#EXTINF:-1 group-title="LOCALES", TV Melilla
-http://melillatv.hls.flumotion.com/melilla/live-hls-2/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir" group-title="CABLE",[COLOR YELLOW] [/COLOR] =CABLE=
-https://www.youtube.com/channel/UCHKjyfC3HqGeGUxR_9wgzSw
+
 #EXTINF:-1 group-title="CABLE", Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="CABLE", Caza y Pesca
