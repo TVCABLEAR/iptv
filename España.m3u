@@ -33,18 +33,8 @@ http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
 
 #EXTINF:-1 group-title="CABLE", Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="CABLE", Caza y Pesca
-http://edge2.telesport.pw/live/cazaypesca/index.m3u8
-#EXTINF:-1 group-title="CABLE", Discovery 
-http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 group-title="CABLE", Discovery Crimen e Investigación
-http://edge6.telesport.pw/live/canalcrimen/index.m3u8 
-#EXTINF:-1 group-title="CABLE", National geographic
-http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-#EXTINF:-1 group-title="CABLE", Nat Geo Wild
-http://edge7.telesport.pw/live/nationalwild/index.m3u8
-#EXTINF:-1 group-title="CABLE", ODISEA 
-http://edge7.telesport.pw/live/odisea/index.m3u8
+
+
 #EXTINF:-1 group-title="CABLE", All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="CABLE", Deport Tv
