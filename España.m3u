@@ -40,7 +40,7 @@ http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/483.ts
 http://edge202.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8
 #EXTINF:-1 group-title="LOCALES",Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1,Antena 3 Internacional
+#EXTINF:-1 group-title="LOCALES",Antena 3 Internacional
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=1439881142212
 #EXTINF:--1 group-title="LOCALES",La Cuatro
 http://cdn2.shurs.xyz/verdirectotv/2/playlist.m3u8
@@ -142,7 +142,7 @@ http://85.84.54.213:8001/1:0:1:10E:190:A041:FFFF0000:0:0:0
 http://cdn2.shurs.xyz/verdirectotv/3/playlist.m3u8
 #EXTINF:-1 group-title="LOCALES",Divinity
 http://edge204.livesports.pw/live/verdivinity84d3666dac8715/index.m3u8
-#EXTINF:-1,Energy
+#EXTINF:-1 group-title="LOCALES",Energy
 http://edge502.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8
 #EXTINF:-1 group-title="LOCALES",Energy
 http://edge504.livesports.pw/live/verenergyf61a67355e5cfb23/index.m3u8
