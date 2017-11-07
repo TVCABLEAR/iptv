@@ -1,17 +1,33 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", SRREGIO.NET
-http://srregio.com/
-#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Actualizada 06.11.2017
-http://srregio.com/
-#EXTINF:0 tvg-logo="http://imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", sr.reegioo@gmail.com
-http://srregio.com/
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @SrRegio
-http://srregio.com/
-#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://srregio.com/
-#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioPeticiones
-http://srregio.com/
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lX3w-kIoLyg/WVya6-xYd1I/AAAAAAAAAGQ/qeodsMw8xjgzVMIdpW9EP7WJ6aGH080ygCLcBGAs/s320/icon.png", SrRegio
+http://srreigo.net
+#EXTINF:-1 tvg-logo="", = RegioDeportes =
+http://srregio.net
+
+#EXTINF:-1 tvg-logo="http://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F22.png", = Domingo 5 de Noviembre =
+http://srregio.net
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082012/liga_mx.png?itok=KhhKowu0", Pumas vs Santos 12:00hrs 
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082012/liga_mx.png?itok=KhhKowu0", Pumas vs Santos 12:00hrs 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082012/liga_mx.png?itok=KhhKowu0", Veracruz vs Toluca 18:30hrs 
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082012/liga_mx.png?itok=KhhKowu0", Veracruz vs Toluca 18:30hrs 
+http://ipthost.com:25461/live/U2XOCy8FlM/25rb0nSeIj/4126.ts
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082012/liga_mx.png?itok=KhhKowu0", Tigres vs Necaxa 19:00hrs 
+http://ipthost.com:25461/live/U2XOCy8FlM/25rb0nSeIj/4195.ts
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082012/liga_mx.png?itok=KhhKowu0", Tigres vs Necaxa 19:00hrs 
+http://ipthost.com:25461/live/U2XOCy8FlM/25rb0nSeIj/3175.ts
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082012/liga_mx.png?itok=KhhKowu0", Tigres vs Necaxa 19:00hrs 
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082012/liga_mx.png?itok=KhhKowu0", Tigres vs Necaxa 19:00hrs 
+http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
+
+
+
+
 
 
 *** Entretenimiento *** 
