@@ -1,0 +1,119 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", SRREGIO.NET
+http://srregio.com/
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Actualizada 06.11.2017
+http://srregio.com/
+#EXTINF:0 tvg-logo="http://imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", sr.reegioo@gmail.com
+http://srregio.com/
+#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @SrRegio
+http://srregio.com/
+#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
+http://srregio.com/
+#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioPeticiones
+http://srregio.com/
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/15/Imagen58_5_15.png/revision/latest?cb=20150316151928&path-prefix=es", CANAL 5
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png",PARAMOUNT CHANNEL
+http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png",SONY
+http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062010/AMCHepburn_B.png?itok=18X2cfEC",AMC HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg",AXN
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2yovqqh.jpg",SPACE
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/30mv6eu.jpg",TNT HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/vsn8uv.jpg",TCM
+http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
+#EXTINF:-1 tvg-logo="",AE
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/j0vajn.jpg",WARNER
+http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/r2tjx2.jpg",TNT SERIES
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/34hx7kg.jpg",CINEMAX HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/2hxvxol.jpg",GOLDEN HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(Golden_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="",ATRES SERIES
+http://live.izzitv.mx/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
+#EXTINF:-1 tvg-logo="",LIFETIME
+http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
+#EXTINF:-1 tvg-logo="",DE PELICULA HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/1038d9bf7b53d57b3ca486a8d42196b1_170x70.png",I-SAT
+http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
+#EXTINF:-1 tvg-logo="",Comedy Central
+http://live.izzitv.mx/Content/HLS/Live/Channel(Comedy_Central)/index.m3u8
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/b42331787eb3c9aea4e6a39789cec9c8_150x80.png",ESPN HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/242bo6v.jpg",ESPN2 HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/e12l42.jpg",ESPN3
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+#EXTINF:-1 tvg-logo="",CANAL F1 LATAM
+http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/127af058e6f74c9564b658bef16954c6_160x80.png",TDN
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2gy8t5h.jpg",UNIVISION TDN
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:-1 tvg-logo="",NBA TV
+http://live.izzitv.mx/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/143kj0g.jpg",HISTORY
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/23t3zp3.jpg",H2
+http://live.izzitv.mx/Content/HLS/Live/Channel(h2)/index.m3u8
+#EXTINF:-1 tvg-logo="",NAT_GEO
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i58.tinypic.com/11ryvsw.jpg",NAT_GEO_WILD
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i60.tinypic.com/dnojyd.jpg",TRUTV
+http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
+#EXTINF:-1 tvg-logo="",EL GOURMET
+http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
+#EXTINF:-1 tvg-logo="",MTV LIVE HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="",VH1
+http://live.izzitv.mx/Content/HLS/Live/Channel(VH1)/index.m3u8
+#EXTINF:-1 tvg-logo="",RITMOSON
+http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
+#EXTINF:-1 tvg-logo="",TELEHIT
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
+#EXTINF:-1 tvg-logo="",TIIN
+http://live.izzitv.mx/Content/HLS/Live/Channel(TIIN)/Stream(018)/index.m3u8
+#EXTINF:-1 tvg-logo="",NICK JR
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/Stream(017)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/2j295ww.jpg",NICK HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/Stream(016)/index.m3u8
+#EXTINF:-1 tvg-logo="",FUSION
+http://live.izzitv.mx/Content/HLS/Live/Channel(FUSION)/index.m3u8
+#EXTINF:-1 tvg-logo="",CNN
+http://live.izzitv.mx/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/deda2ffadf26c0d30c8b39b2bb273934_100x100.gif",UNICABLE HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="",SUNDANCE CHANNEL
+http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
+#EXTINF:-1 tvg-logo="",ESTRELLAS
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESTRELLAS_SD)/index.m3u8
+#EXTINF:-1 tvg-logo="",HOLA_TV
+http://live.izzitv.mx/Content/HLS/Live/Channel(HOLA_TV)/index.m3u8
+#EXTINF:-1 tvg-logo="",MILENIO HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="",FORO TV
+http://live.izzitv.mx/Content/HLS/Live/Channel(FORO_TV)/index.m3u8
+#EXTINF:-1 tvg-logo="",GALA TV
+http://live.izzitv.mx/Content/HLS/Live/Channel(GALA_TV)/index.m3u8
+#EXTINF:-1 tvg-logo="",XHGC
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1 tvg-logo="",Azteca7
+http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8
+#EXTINF:-1 tvg-logo="",Azteca13
+http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca13)/index.m3u8
+#EXTINF:-1 tvg-logo="",Pendiente
+http://live.izzitv.mx/Content/HLS/Live/Channel(ImagenTV)/index.m3u8
+#EXTINF:-1 tvg-logo="",BANDAMAX
+http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
