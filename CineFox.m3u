@@ -24,121 +24,215 @@ https://live.tutvplay.com/CH/QTRJWnpTZVQrZjhKa0ZLWDZvN1FOQT09/HBO-2.m3u8
 https://live.tutvplay.com/CH/akt2QzJTaHUyV2lJUERkRGEyS3ltbkFwT3pxZDBEM3E4UW9PclBrSkZuaz0=/Simpsons-24.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/C5N.png" group-title="INTERES GENERAL",C5N
-https://live.tutvplay.com/CH/UGUzaHFjVVNyVU1YU3pLYXVQMjM1UT09/C5N.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Canal-26.png" group-title="INTERES GENERAL",Canal 26
-https://live.tutvplay.com/CH/V3ZqK2tPZUdjc09xOXlkREUrUUZHQT09/Canal-26.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/TN.png" group-title="INTERES GENERAL",TN
-https://live.tutvplay.com/CH/TTQwbENxRzJEaFdXc08vT0dkVmI2Zz09/TN.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/America-2.png" group-title="INTERES GENERAL",America 2
-https://live.tutvplay.com/CH/RFpNcmFSUjdqNm51SlpENTlHMENyQT09/America-2.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Telefe.png" group-title="INTERES GENERAL",Telefe
-https://live.tutvplay.com/CH/ZUx3RFptMTk3VDdPa2JqS2VCWlNuZz09/Telefe.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Tv-Publica.png" group-title="INTERES GENERAL",Tv Publica
-https://live.tutvplay.com/CH/NUJITTdzV0lZdytjT0x5RzlTMm40UT09/Tv-Publica.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/El-Trece.png" group-title="INTERES GENERAL",El Trece
-https://live.tutvplay.com/CH/TnFWRFpaTllPQWRSRElzRENNdDBudz09/El-Trece.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Canal-9.png" group-title="INTERES GENERAL",Canal 9
-https://live.tutvplay.com/CH/SGV4eEFVakRjR0hyTWlTSFdadkw1QT09/Canal-9.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Encuentro.png" group-title="INTERES GENERAL",Encuentro
-https://live.tutvplay.com/CH/em01L0tmWFBLL3JHZWxvbXl2TU9sQT09/Encuentro.m3u8
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1509144620.jpg" group-title="TuTvPlay-Peliculas",The WalkingDead T8-C2
+https://live.tutvplay.com/PELI/RWw3ZTh1UzlySVZQUGR1QWRtZGhka1RCVnh5dkY0cjBaeGJrMStldlpGWnk5S0FXNzVqZkd4Rmlzb29RMmJTZEw5TWJXckUrYmJVakFtWWJPK28yN1QxV2xHNVpHN2tROXNwUjUzdWhpUTNTbUZpNHpwdmUwb3NWSVpSYnlRekd6SEgrR1dPQXJZRDN2TEtRZ2FPL2V6anhxSlZlMGJqTy92MCtxcDFLeWRjPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507314418.jpg" group-title="TuTvPlay-Peliculas",Piratas del Caribe - La venganza de Salazar
+https://live.tutvplay.com/PELI/dFFIcm9TL0MxUi82NFZ1WEUwU2ppcDJzUjR5RVNqMS9PQ01CN0FaZHdGOHlReWhTZy9uWktOcHRhMUhrYzlWbmRVUmx3UG5BMzFMUkdtR0lXVWJDQXZFcGU0LzBJWm90eVp5SzBIbXpIUDQ9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507739392.jpg" group-title="TuTvPlay-Peliculas",Transformers: el último caballero
+https://live.tutvplay.com/PELI/Q3RQS25HbFVnblVBdnU5cytuZHNIZ1dkK3FRUzYvdTNMbE9SdTRSUGVuQ3FhZ0dGT2ZsYTMweEdUdGlDRDBRNFJPMWt1RlRpVEFwd0NuWWF3UUtsUDUxRktPb1MvMWg0a2JWVlZ0am5mMVJvdGJvd2FOVHI4R2ViRm9VVE9sZWE=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507413267.jpg" group-title="TuTvPlay-Peliculas",Premonition
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSWF5TVRabkdlVVYvTldEVU9ndHNMajg2c0FxODdhOWs3L2F3Q1NFVFBwams0bEw3cW5sN2V4YWVkRlRpcGpJcWdSY2xxWXhCRU9hM2IySEVqeDA2L1BZcUhNRHBqYWpxUlJsZlM1K1BXS25GbHo5V1ZDbHFaR2s4c2ZiaGw5bVg1dEpOSjhXKzVPTzZaQTJPWGVVeWtG
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507413343.jpg" group-title="TuTvPlay-Peliculas",Actividad Paranormal 2
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSWFSL1c1emtleXZIaU9TRm9UcXFNV1ZjSmtrYS9ycVdxZEh3UnQxSTVHWXZpbkFJSmUvVzdpVWgwRkVIMS9wTzcrODl4MXRlQlo2R2N5R3pMNlJGVi90ejlBZm9xb254UW1jaUFXT3JsUC9ySy9tR0ozMXJmNVpoR1MyVEZ4QXJadjFSY08yeU02dWQvQlByV1BkbGVh
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507413578.jpg" group-title="TuTvPlay-Peliculas",Legends Of Valhalla: Thor
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSWF5TVRabkdlVVYvTldEVU9ndHNManNqd1pvSFZoWmlIVmVyQXFzb0lRaGs0bEw3cW5sN2V4YWVkRlRpcGpJcWdSY2xxWXhCRU9hM2IySEVqeDA2L1BZcUhNRHBqYWpxUlJsZlM1K1BXS25GbHo5V1ZDbHFaR2s4c2ZiaGw5bVg2MFRwd2xjV3I3YlZ6dzl2QytSWGRi
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507413776.jpg" group-title="TuTvPlay-Peliculas",Cowboys & Aliens
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSllBN25JamRwaERXUTdWaFYwdVN2UWF3YXBrTXZRRERkMFkzY29PNzFxUkU0bEw3cW5sN2V4YWVkRlRpcGpJcWdSY2xxWXhCRU9hM2IySEVqeDA2L1BZcUhNRHBqYWpxUlJsZlM1K1BXS25GbHo5V1ZDbHFaR2s4c2ZiaGw5bVg2MFRwd2xjV3I3YlZ6dzl2QytSWGRi
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507413949.jpg" group-title="TuTvPlay-Peliculas",All Dogs Go To Heaven 2
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSWZQTXZJNjRkdHlOUnNXQW9jVzJtVElud2VFUGQxK1ZZUFVLZS9HQU8veFhxRjRyWlo1RWJESUFnWklXS1h5N3BHbGZZbVZ0RWNMQ25HdzZRaXN3TkYxa1VQM2UrWEJseit6c3BTRVp1ajNVWmQ3K212WUhWMFpKcG9GVCtZZUtBPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507414167.jpg" group-title="TuTvPlay-Peliculas",The Beach
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSWZQTXZJNjRkdHlOUnNXQW9jVzJtVFo2R3c2ZDd5SE9USVZrTjRQY2JDSjNxRjRyWlo1RWJESUFnWklXS1h5N3BHbGZZbVZ0RWNMQ25HdzZRaXN3TkYxa1VQM2UrWEJseit6c3BTRVp1ajNVWmQ3K212WUhWMFpKcG9GVCtZZUtBPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507414362.jpg" group-title="TuTvPlay-Peliculas",Silent Hill 2: Revelation 3d
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSWZQTXZJNjRkdHlOUnNXQW9jVzJtVDVXajVkbHZVV2R0T2FLYjBMT0RQcUhxRjRyWlo1RWJESUFnWklXS1h5N3BHbGZZbVZ0RWNMQ25HdzZRaXN3TkYxa1VQM2UrWEJseit6c3BTRVp1ajNVWmQ3K212WUhWMFpKcG9GVCtZZUtBPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507739545.jpg" group-title="TuTvPlay-Peliculas",Cult Of Chucky
+https://live.tutvplay.com/PELI/Q3RQS25HbFVnblVBdnU5cytuZHNIazdOU3oxSFpDOGtZb3cvOWNIS0Y5aFRsT0M5YTIxWGo4Qjg1WGh6KzZRZXZiNTZWaE5EY2Z3SDdTb3QraDF3MzdpSlV2ZkFzdXp1WEhORk5XdzVSQ3c9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507739661.jpg" group-title="TuTvPlay-Peliculas",Spiderman- De regreso a casa
+https://live.tutvplay.com/PELI/NDFndDM1c0pMamZ5NlRhYUN1eHRZOVJSZkxtVUhTY0JnZnF6cTBiK1NpVHIyWk9uTHAya3Z0MFMxYnR1dmFEdE5sUlh4OUhVOW5ySURqY3VOUStiMGh1VHQ3OVVsaVlQSmhEcHlwUFUvWHg5OFpxNXUrcU9VTkpvSSswYjFza1EvQStVTEozOU9BVmxmc1o2WnlkMTJkK1U2andTNEg5ZXNBRUJGZlRlVmVHT1JXS0ZuSHBmSG00N0oyYmZ2dFAr
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507835547.jpg" group-title="TuTvPlay-Peliculas",El Aro 3
+https://live.tutvplay.com/PELI/N1ZwTU5mSmdlUmF3NXFKbUpiaTFVTVRwbVlYYVorK1RjRThTRlhTOHpoYmNhcWRPRmFjem4wb3BiQ0o0YnFGQTUwR2UwdTZpeU9xREQydEtVM2xuaDRtdWZtTVh0NlZIWEMzUGp0UGh3bXJ0ZS9zcll1ZmZPbUxwS1FKVmJpNHc4MW4ra0kwQnJFRnB3TzlWWjFlYkFRPT0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507835761.jpg" group-title="TuTvPlay-Peliculas",Ted
+https://live.tutvplay.com/PELI/N1ZwTU5mSmdlUmF3NXFKbUpiaTFVTVRwbVlYYVorK1RjRThTRlhTOHpoYmNhcWRPRmFjem4wb3BiQ0o0YnFGQTUwR2UwdTZpeU9xREQydEtVM2xuaDM3VmU4UnJqNVNISXU2c0NXWmN0dm1LSngza09Gd2s1Q05CRXhmdDRGYlEzOUhTMFVNMFQ1RytZTU5MT01kSHpBPT0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507835851.jpg" group-title="TuTvPlay-Peliculas",El Principe de Persia
+https://live.tutvplay.com/PELI/N1ZwTU5mSmdlUmF3NXFKbUpiaTFVTVRwbVlYYVorK1RjRThTRlhTOHpoYmNhcWRPRmFjem4wb3BiQ0o0YnFGQTUwR2UwdTZpeU9xREQydEtVM2xuaDIwWlp6cDFZZSttQWNWL29kazV0ZTh3OTRLdWhPQU90WUI3cjJNU2FDV0Z1aEovSUZ1dG5TM3BIdzA2dkx2eGk5VkxiR0YvZWhWYVZIQmZEMncwbmViN0d6NlY3dXVPOUtPdnh3dkZWUXNv
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1507836561.jpg" group-title="TuTvPlay-Peliculas",Sing
+https://live.tutvplay.com/PELI/N1ZwTU5mSmdlUmF3NXFKbUpiaTFVTVRwbVlYYVorK1RjRThTRlhTOHpoYmNhcWRPRmFjem4wb3BiQ0o0YnFGQTUwR2UwdTZpeU9xREQydEtVM2xuaCtoNGR5WXpqZmI0NkUzNmtQdFJkN29EajRsTGk0Q1RQTVVrb20zVTkxR1BCeDQzbzZoanZMVWJ1TDRnRDB1STBkQTNETjJ1RHFCL0ZrTlh6LzVTUDNjPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1508787430.jpg" group-title="TuTvPlay-Peliculas",Hombre en Llamas
+https://live.tutvplay.com/PELI/VkEzSUQwWTEwS2ZEZ0kvSlUvQS9jUEpFcEZha1MxeVV3R2V6MkdYdVAvS2RVUWFNS0sxWmp0UWxzWDdGcUVyTExTS0xNNzZYc29keEhQWXNjcXEyeWJqcWZWcVd0a2pENVk1ZndaVXJjVXB6d2k0eUNtdGJuck80L0d0OTk0cjhOL2Y0L2FQT2k1TlZkbUJBTHRVMDdBPT0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1499183916.jpg" group-title="TuTvPlay-Peliculas",La Mujer Maravilla 2017
+https://live.tutvplay.com/PELI/UnBEYmxaaVIwS2JZcmYzRHJwV2FsbXAweHhXNDFJSlBjeXN6bTBaWk5hVT0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1505153606.jpg" group-title="TuTvPlay-Peliculas",El libro de la selva
+https://live.tutvplay.com/PELI/Q3RQS25HbFVnblVBdnU5cytuZHNIclpjaTVUVmxEelE4OGpRVkJpbmNkUFdTdk0wY0U2UU5sc1U2NnNWOVRXSlRHbWNzS2RmRW5SRUpjTmNjMXdNbGpjdFlWWURtQndyYWpneUtkU0hCWlE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1505153402.jpg" group-title="TuTvPlay-Peliculas",Dr Strange
+https://live.tutvplay.com/PELI/Q3RQS25HbFVnblVBdnU5cytuZHNIakZSOUNRLy9rY0FjbVNLSTNQWlhPV1hqYWVZYnY0NTE2K05HV1pjekhldlB1UEJsQkhhV2lCTTl0TG52dURjOGYrdytCQmNqV0l6YlJxcThnQW14YVdqa2lObzdQZzZjNE4rc0R5TGdidkljQ2s3T3AzUVBlcnhDZzZzK1FrV2VRPT0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1505153812.jpg" group-title="TuTvPlay-Peliculas",Harry Potter y el Principe Mestizo
+https://live.tutvplay.com/PELI/Q3RQS25HbFVnblVBdnU5cytuZHNIa0R1bTNJOGZ4V3d0Wjh3REFONndCb0daUjVLUkJaa0NJZmI2VUs2cm1HZytIMlM5d3l1d2VyTVFMb2wrdUlMbzRkbytHS3NwSldMRHozOHp4Z0JqUDZsdzd6M043TWVNNVI1NFIxU3V1OGxwdkF0Nm9QaHFYSnREYVcrV1lvUy9neW5FNFpYemo5QldpT3JncnRETnJ1TEpIZnJCUEo2NnhPNVBNbVJneWJjYUdhcEQyeVhiMTFxUTdrbTRIeFRoL1plZFlHaGV6cld4MjB5VHN4Nk05bVZITXp0bG8yWFp6blVPV3psVE5saTVTK0l6UHhCVXI4QS8wNkJSN0RadFd5MnMvR2F1Tmg2ZlEyOTk0Y0xTc3JDMThGNWZ6RVNZWTY5UTRtT1Z5d005NHlXS2ZwbmxldWQ3S05OTXloUWZoUGdMY2ZZRkZqTmwzdkFySVNYTFJ6N2JQdkdlTG5wNFVocEF3UEpxUHN2
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1505155172.jpg" group-title="TuTvPlay-Peliculas",Anabelle 2
+https://live.tutvplay.com/PELI/VkEzSUQwWTEwS2ZEZ0kvSlUvQS9jUEpFcEZha1MxeVV3R2V6MkdYdVAvSWlVZndMZVRScTR6TVJvRzlWSkRkT1NCVVE1bW1EZ0RiOWh5NGF4TVpISEE9PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1505054730.jpg" group-title="TuTvPlay-Peliculas",IT (Eso) 2017
+https://live.tutvplay.com/PELI/N1ZwTU5mSmdlUmF3NXFKbUpiaTFVTVRwbVlYYVorK1RjRThTRlhTOHpoYmNhcWRPRmFjem4wb3BiQ0o0YnFGQTUwR2UwdTZpeU9xREQydEtVM2xuaDVNNTFsN002c1FqUk15bTV4RmYveEVtVERveDRsQkN2cG1CRnFDdGMyVzRGZGVScFNkRllaNk0rZGlqd3RNREdBPT0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1503606329.jpg" group-title="TuTvPlay-Peliculas",Transformers - Dark of the moon
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSWZQTXZJNjRkdHlOUnNXQW9jVzJtVEJXYlhBb3JvMUlBc1RRTi9HRkZZN1hxRjRyWlo1RWJESUFnWklXS1h5N3BHbGZZbVZ0RWNMQ25HdzZRaXN3TkYxa1VQM2UrWEJseit6c3BTRVp1ajNVWmQ3K212WUhWMFpKcG9GVCtZZUtBPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1504399045.jpg" group-title="TuTvPlay-Peliculas",Mi VIllano Favorito 3
+https://live.tutvplay.com/PELI/N1ZwTU5mSmdlUmF3NXFKbUpiaTFVTVRwbVlYYVorK1RjRThTRlhTOHpoYmNhcWRPRmFjem4wb3BiQ0o0YnFGQTUwR2UwdTZpeU9xREQydEtVM2xuaHlQMk9Jdno0L2MzYXJmUWJTZEwzZy9GQzBTOHpsakZsQW15NlRXVGxrRDdjZFRNckxsR3pOMzd0OEtIK0xmWTltd3hyaEJmQXlaVlp4dCs4RkdBdmdJPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1503782605.jpg" group-title="TuTvPlay-Peliculas",Interestellar
+https://live.tutvplay.com/PELI/bVp5RVVrblMvMFlOZWdTRStNWmpzUG50YkNiU0dsWWxtbE9OV2YwUEplVDIzcXVIakFvdVRxWFljU3p2dUZiK09lcWYxK1pYaldJY1hlVjh3T2RPNnpuK2VjVThCTm5TMkNWRTRsVEx2ak09
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1503605939.jpg" group-title="TuTvPlay-Peliculas",Busqueda Implacable 3
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSUJscWIrUVZNNVBMN0thN3VJT3I1MHJMRThSdENSdWxuV0w4WXlvMTJ4UDA0bEw3cW5sN2V4YWVkRlRpcGpJcWdSY2xxWXhCRU9hM2IySEVqeDA2L1BZcUhNRHBqYWpxUlJsZlM1K1BXS25GbHo5V1ZDbHFaR2s4c2ZiaGw5bVg2MFRwd2xjV3I3YlZ6dzl2QytSWGRi
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1503606526.jpg" group-title="TuTvPlay-Peliculas",Transformers: Age Of Extinction
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLS2VwUm1jRTA1QXZzVHRnYlRIRmxXQUJ4L1U3TENNcGc2TnRURlg0aUp6MFU0bEw3cW5sN2V4YWVkRlRpcGpJcWdSY2xxWXhCRU9hM2IySEVqeDA2L1BZcUhNRHBqYWpxUlJsZlM1K1BXS25GbHo5V1ZDbHFaR2s4c2ZiaGw5bVg2MFRwd2xjV3I3YlZ6dzl2QytSWGRi
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1503606250.jpg" group-title="TuTvPlay-Peliculas",Rango
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSWZQTXZJNjRkdHlOUnNXQW9jVzJtVCtqT3J5RGdmQTkrR1R5ZURoR1Z6M25xRjRyWlo1RWJESUFnWklXS1h5N3BHbGZZbVZ0RWNMQ25HdzZRaXN3TkYxa1VQM2UrWEJseit6c3BTRVp1ajNVWmQ3K212WUhWMFpKcG9GVCtZZUtBPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1503605800.jpg" group-title="TuTvPlay-Peliculas",X-Men - The Last Stand
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLS2VwUm1jRTA1QXZzVHRnYlRIRmxXQUtncE5GK1cycEpRZlZ3TEJWcjBEdWs0bEw3cW5sN2V4YWVkRlRpcGpJcWdSY2xxWXhCRU9hM2IySEVqeDA2L1BZcUhNRHBqYWpxUlJsZlM1K1BXS25GbHo5V1ZDbHFaR2s4c2ZiaGw5bVg2MFRwd2xjV3I3YlZ6dzl2QytSWGRi
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1503605622.jpg" group-title="TuTvPlay-Peliculas",Forest Gump
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSUJscWIrUVZNNVBMN0thN3VJT3I1MHUxcWNhNzh4SWpwYXVPaXhXelVNSkU0bEw3cW5sN2V4YWVkRlRpcGpJcWdSY2xxWXhCRU9hM2IySEVqeDA2L1BZcUhNRHBqYWpxUlJsZlM1K1BXS25GbHo5V1ZDbHFaR2s4c2ZiaGw5bVg1dEpOSjhXKzVPTzZaQTJPWGVVeWtG
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1503606179.jpg" group-title="TuTvPlay-Peliculas",Kick-Ass
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSkl4eWlLdmM2TnMxd3A0RHU4OTVDSFkvWktvYW5MUGJKWXhoNDFPaGpERXZpbkFJSmUvVzdpVWgwRkVIMS9wTzcrODl4MXRlQlo2R2N5R3pMNlJGVi90ejlBZm9xb254UW1jaUFXT3JsUC9ySy9tR0ozMXJmNVpoR1MyVEZ4QXJaMFBMSFlZaVorV1U5SHhONWdSL0J0
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1501873399.jpg" group-title="TuTvPlay-Peliculas",Charlie y la fabrica de Chocolates
+https://live.tutvplay.com/PELI/TmZPclVDdWRBZ3ZKTStnTXJZeGxLMWU2L0Q4bktnbzdreERGWTEyN0o3Zz0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1500395623.jpg" group-title="TuTvPlay-Peliculas",Moana 2016
+https://live.tutvplay.com/PELI/N1ZwTU5mSmdlUmF3NXFKbUpiaTFVTVRwbVlYYVorK1RjRThTRlhTOHpoYmNhcWRPRmFjem4wb3BiQ0o0YnFGQTUwR2UwdTZpeU9xREQydEtVM2xuaDBiWXZ2bmp5bE9BWGxFUVBDVTN4b3RKOXltcndUcnVwckI5THpjK3VOVS9YOFcvdjN6Z00vMWY0dngxRjZzK2NzSmR3T3dqM3hTcmdXS200d3JiQk5BPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1500395556.jpg" group-title="TuTvPlay-Peliculas",Grease 1978
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSUJscWIrUVZNNVBMN0thN3VJT3I1MEZJcEpVWTNXYnkwc3pYc2E3ajJQeHF3cEtWWVhIWGZJNmx5czNnSGkwNG5wU2FOenpUczlZbDA3Q3NyM3FlU3gvdVpMN3BUUmFLYlBnR1lJQlgwZHdIRkt6QmpmSHpJNGxBLzR2ODNyUmNRWGFYeVpUcHd4V29DaXZMUUs3VDVo
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1496837862.jpg" group-title="TuTvPlay-Peliculas",Jefe en Pañales
+https://live.tutvplay.com/PELI/N1ZwTU5mSmdlUmF3NXFKbUpiaTFVTVRwbVlYYVorK1RjRThTRlhTOHpoYmNhcWRPRmFjem4wb3BiQ0o0YnFGQTUwR2UwdTZpeU9xREQydEtVM2xuaDFQNUlENTJCa0ltdW1lbG9YUlFJQXpEemNiNkt3TlFTNnNFOGZTaXFROTFzM3BmUnNQNE9iVXlFNnU4MmpWY1VSWFhrYVVuUldHZWpQbllvOExUQXhnPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1500382923.jpg" group-title="TuTvPlay-Peliculas",La Pasion de Cristo
+https://live.tutvplay.com/PELI/dFFIcm9TL0MxUi82NFZ1WEUwU2ppazkxVHAzaFF6RHJGa2RpVUxDOG01MWQzd1JkbzRGdzZiMFpQbk9pU2NRVzQwcnU3TTM5MEdJRTJuTDVKZGZGZGc9PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1499982586.jpg" group-title="TuTvPlay-Peliculas",Chucky El Muñeco Diabolico
+https://live.tutvplay.com/PELI/Z21sL2hJRTM5dyt2OVF0bGUzZHdGdFJSZkxtVUhTY0JnZnF6cTBiK1NpUkNSSXBjUkZvRkEzVW83aHFvVlVJeDk0aG5SSnVUZmJJTFlLZWdqK21hellhMWVQdHpuSkhzUHhpWkt1REpRMUE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1499353973.jpg" group-title="TuTvPlay-Peliculas",50 Sombras mas Oscuras
+https://live.tutvplay.com/PELI/N1ZwTU5mSmdlUmF3NXFKbUpiaTFVTVRwbVlYYVorK1RjRThTRlhTOHpoYmNhcWRPRmFjem4wb3BiQ0o0YnFGQTUwR2UwdTZpeU9xREQydEtVM2xuaDdJUDBHNHV0SUJ0UE5jWFRmMi90bXJzR0xVTEpnQ3h1MVh1dGhQRjNOTmxvV3p3VUIyeW1JYXhIOTJZNUkxSGFCVW5pMTU5NUw4QjhMYThMZ1F4dE1ZPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1500406985.jpg" group-title="TuTvPlay-Peliculas",Irene, Yo, y mi otro Yo
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSWZQTXZJNjRkdHlOUnNXQW9jVzJtVFk2QTluSE80VWQyNURmMHRMK2k4dEhxRjRyWlo1RWJESUFnWklXS1h5N3BHbGZZbVZ0RWNMQ25HdzZRaXN3TkYxa1VQM2UrWEJseit6c3BTRVp1ajNVWmQ3K212WUhWMFpKcG9GVCtZZUtBPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1499973812.jpg" group-title="TuTvPlay-Peliculas",El dia de la Independencia 2
+https://live.tutvplay.com/PELI/Q3RQS25HbFVnblVBdnU5cytuZHNIcUFjd0wzZlpodG01clFoSjdMa3pOM2w1QW01ZGJVUVl2THFhT0ZYUHhZZ1p0NXU4MC9Nc1ZWWUxUMm44YmI0MkNtYjZlamN5YUdTNmdFOEduS2lVNjE3RnFhNlR5b1ZxZWx4L3I1L0pjSHVTbXZoOGpqYlpGMzBkSnJMdCtwZWZuS1VwU3dNTmFTMGF4dEhicmRRaFJjPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1499183999.jpg" group-title="TuTvPlay-Peliculas",Power Rangers 2017
+https://live.tutvplay.com/PELI/dHFOMnp2SDA2d1J1UUVPREFtMjZza3REbWt2SjUzU0tGQytjallHanR6UXpEME5aQmk3ZndXMklJWnBxdUErYg==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1499982484.jpg" group-title="TuTvPlay-Peliculas",Chucky El Muñeco Diabolico II
+https://live.tutvplay.com/PELI/UEhnR09SNW4zVzFmb3JvdlR1Qi9KOVJSZkxtVUhTY0JnZnF6cTBiK1NpU2ZveTd5SVZ6MWVTaVJsWG9iU09xcUlPSnl6aENsYnN0a0o1VWhNNzRDc2FqdEsrZU1OY0ZhNHhyV0FqaWR5UDA9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1494414276.jpg" group-title="TuTvPlay-Peliculas",Logan (2017)
+https://live.tutvplay.com/PELI/RGpwdzVzWDJxY0Q1dmJnL0FDWDFLZFJSZkxtVUhTY0JnZnF6cTBiK1NpUS9pb3g2UTJpVis0MWw1NVYyVWRLRWhYNU9CbnI1aytVVlpCbVRXQ2Q5dmY5UzdSUkhaYmc3TzdxWXB6VEVxMUE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1499208697.jpg" group-title="TuTvPlay-Peliculas",Generación Perdida 1987
+https://live.tutvplay.com/PELI/RGI1TVl5YVJ0bFFrbnlsNnB4TUpCbCtGbkEvcGJrVUdBOUNSb0hhTi9HZ0l0dkN2NUxzQURBajFJRXVUZkZmTlV5SStaL293R3J6QlBKeTJ2c0dNRmc9PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1495117838.jpg" group-title="TuTvPlay-Peliculas",La Bella y la Bestia 2017
+https://live.tutvplay.com/PELI/a1kvV3RMZU1ncHJzK254SnI4TlZKWWlReEFBNGEwUEZvR2JmWUNSckNzR1BHK2RaMEh5STFFSWQ2Y2R4WEdpdVN4RGxCT2VsMVJxNFF1U3A4UE9pTE5ha2JkM2k3c0NZWnZISXZJMkdaZEZYM1MzVk9JbGJxYk9XU1dRMXJkM0g=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1497386104.jpg" group-title="TuTvPlay-Peliculas",Harry Potter Y La Piedra Filosofal
+https://live.tutvplay.com/PELI/NWcwc09mdjVhQWtCbU0rbUtHcTl1OVJSZkxtVUhTY0JnZnF6cTBiK1NpUzhmSFM0V2RMOFhsbXQ3dFdFS0x4dHhGWFRLZVpYckd2cENETWVIS0N6eWY4QlVXR0thRHJmckFLMzVxTjJCU0p3S1RzNm5kQTk2dkVLRHF6NUNSWjU=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1496762220.jpg" group-title="TuTvPlay-Peliculas",Un lobo Americano en Londres (Latino)
+https://live.tutvplay.com/PELI/RGI1TVl5YVJ0bFFrbnlsNnB4TUpCdjdkd0o5NnE1d3B4N0MyTW1TeTNXcHdLVHM2bmRBOTZ2RUtEcXo1Q1JaNQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1495737623.jpg" group-title="TuTvPlay-Peliculas",Star Wars: El despertar de la Fuerza
+https://live.tutvplay.com/PELI/K1ppSTFBdWhMV1Z1RGRBck9wcnV5MHduM2U0N1R5Z0VlSlZCV05GMmVyUWRwRHFWTVZHT0hId2NGTEpaNlZWUDJGMlRIbTJ2MEh6dkxUQytrZytiMEVHVzlvY3RGM0MvT0NmSEtJcm9qS2tUc2dlQ2dLMy83NDZ3dXNkb0krd0duRVZRZE5vWjFQelVMUUJKQmZFUElpTS9FSGI2TGVtMVNSdmxjaTVZU2h3PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1497386155.jpg" group-title="TuTvPlay-Peliculas",Harry Potter Y La Camara Secreta
+https://live.tutvplay.com/PELI/VUovWnVrRmtZWEZPTnhvK3hIU0ZuOVJSZkxtVUhTY0JnZnF6cTBiK1NpU1IzYUxGc0wzdmVoUDB4U1BrcTVINGhSTExWV2pUUzRFcFowM3NKMmNMTWZBNHZwLzcrTFV0V0oxMVFTOU5wSUh4S1h1UDlDR2FMY21jaXRCNXN4eis=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1497386208.jpg" group-title="TuTvPlay-Peliculas",Harry Potter Y El Prisionero De Azkaban
+https://live.tutvplay.com/PELI/aDhWQW0vb0dFd0ZCd2Nxb3dqNFRDZFJSZkxtVUhTY0JnZnF6cTBiK1NpUWMrR2g5aFJvUlZRL3NXNXZTd2RTc2dNTllKbkMrRzlkbUU3REM2cG1MZklZTHh5YW1xVDJ0elNpeXZ5THZVN1JhTmRWc1dqOXBSNy9BejhJdFdZT3Y=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1497386251.jpg" group-title="TuTvPlay-Peliculas",Harry Potter Y El Caliz De Fuego
+https://live.tutvplay.com/PELI/L1N5WkNvdU1xOU1zUVhuTFhKd2poZFJSZkxtVUhTY0JnZnF6cTBiK1NpVGlRZ0g4RjhxWHFIdVM2NDlxVEFuMW5wWWYwNzJlSlg0eVVlT0hLVUZEcjNqOHpkZWdZakgydlFrbkQ5TnZ0enlDK3JobUsyYjBSZGZibEhlckdRbmw=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1495749968.jpg" group-title="TuTvPlay-Peliculas",Rocky 3
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSkl4eWlLdmM2TnMxd3A0RHU4OTVDSEJvcm02cUxYMGlPVlJkNmNEMFdIdC9pbkFJSmUvVzdpVWgwRkVIMS9wTzcrODl4MXRlQlo2R2N5R3pMNlJGVi90ejlBZm9xb254UW1jaUFXT3JsUC9ySy9tR0ozMXJmNVpoR1MyVEZ4QXJaMFBMSFlZaVorV1U5SHhONWdSL0J0
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1495749863.jpg" group-title="TuTvPlay-Peliculas",Rocky 1
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLS2VwUm1jRTA1QXZzVHRnYlRIRmxXQUkwbVNCaEFMN1FMejdPT1ozWEpiWGZpbkFJSmUvVzdpVWgwRkVIMS9wTzcrODl4MXRlQlo2R2N5R3pMNlJGVi90ejlBZm9xb254UW1jaUFXT3JsUC9ySy9tR0ozMXJmNVpoR1MyVEZ4QXJadjFSY08yeU02dWQvQlByV1BkbGVh
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1495202339.jpg" group-title="TuTvPlay-Peliculas",Quisiera ser Grande (Tom Hanks)
+https://live.tutvplay.com/PELI/SE1wRGgyaklPa1NWUUhya0lhdGdtMDEzcDNQZzQ5UldEZFJTb1labC9GcWpicVpXNjNhUXpod2QweVJhc292RQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/14957499186ZJ.jpg" group-title="TuTvPlay-Peliculas",Rocky 2
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLSUdXMVVVVXZpRFZBaFU4Q1lHbVNYc05JRFowcmxpZyt4Vy9yanVXb2wwS0U0bEw3cW5sN2V4YWVkRlRpcGpJcWdSY2xxWXhCRU9hM2IySEVqeDA2L1BZcUhNRHBqYWpxUlJsZlM1K1BXS25GbHo5V1ZDbHFaR2s4c2ZiaGw5bVg1dEpOSjhXKzVPTzZaQTJPWGVVeWtG
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1492916251.jpg" group-title="TuTvPlay-Peliculas",Rapido y Furioso 8
+https://live.tutvplay.com/PELI/N1ZwTU5mSmdlUmF3NXFKbUpiaTFVTVRwbVlYYVorK1RjRThTRlhTOHpoYmNhcWRPRmFjem4wb3BiQ0o0YnFGQTUwR2UwdTZpeU9xREQydEtVM2xuaHhNMkFoK0cwNy9UWlhZSkovSW1TYkhOTUxJRWFLZVpVRjVRdHpMS1hybUhzNXdKbmNxMEZlU2wxMXZqME9BNlE0eWM5VTJ2c0hSRGhjU09PKzM0MFVjPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1493923668.jpg" group-title="TuTvPlay-Peliculas",Señales (2002)
+https://live.tutvplay.com/PELI/M3ZpOHRGRTlOMVBreWlER3p5MG5zaDZoVjZVTHM5cEVxQnVDakR1N2JmZmdNc3ovMVpDS1BlU2ExalI4NjNqcE9jbHhoOU4rUWNQS0s2aTNhZC9Db2c9PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/341823.jpg" group-title="TuTvPlay-Peliculas",Escuadron Suicida
+https://live.tutvplay.com/PELI/Q3RQS25HbFVnblVBdnU5cytuZHNIaDFZcVR1MGV6U1JkRGJ4enpiaEM1MzVWVU1MYy9sbzY3bUs0a0JNQmFtVFpZZEdnTVI0RnV4djU2VW5FUTVjU0o5bEJCZENzL1o5cHNuMmdGSUNtbHVoVWZXelg0aElXMmtIZ2Z6QUdxUlFrbTdLQy8xUzdBMllUcVBXeUxDOU45MUQ2L2d1TnZCQlg2MXFBRy9QNWQ5cTZDMkwyb1ROYUNMU0JPT0JHeUs0
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1493924254Z0F.jpg" group-title="TuTvPlay-Peliculas",Rapido y Furioso 7
+https://live.tutvplay.com/PELI/TXhjczVvZWlUZTd3RE9NamZNVFNpOVJSZkxtVUhTY0JnZnF6cTBiK1NpUkZiTDJVVE8vaVptbEd0TWVRUmFobTNHL2RtUG4zSVkwbEh6WXF5a1VJc0lxUTM3Wm01S0N4aHFSdi9PL2M0bmZlMU81Syt4eUpzOE1MU1IvWSthOVo=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1492716569.jpg" group-title="TuTvPlay-Peliculas",Tu mejor amigo (2017)
+https://live.tutvplay.com/PELI/TWc3aTZEOXEzMVIwbVBDcEczaDI4OVJSZkxtVUhTY0JnZnF6cTBiK1NpVGJTMTdXYloxOWsyU0tFbkNmRVFldVBjUXJEeDhNa0FXdDZ5NWJDNHUzek5kNUhtOTB2WVZpSkRuUHpZK2UzSTg9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1492716769SDP.jpg" group-title="TuTvPlay-Peliculas",BICHOS (1998)
+https://live.tutvplay.com/PELI/M3ZpOHRGRTlOMVBreWlER3p5MG5zaDZoVjZVTHM5cEVxQnVDakR1N2JmZDNoMlo1RkRrdkYwTjRHRGpyQnFRUk9jbHhoOU4rUWNQS0s2aTNhZC9Db2c9PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1492717221.jpg" group-title="TuTvPlay-Peliculas",Hombres de Negro 1
+https://live.tutvplay.com/PELI/VUovWnVrRmtZWEZPTnhvK3hIU0ZuOVJSZkxtVUhTY0JnZnF6cTBiK1NpU3JXdDJPUmJLMVFZd20raklieXVIejNldzYvTzhMSDk5SzFRQ1lPVGNtMkovd0R6SXJINFRyTXN6djFtOFpDeEU9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1494781853fB5.jpg" group-title="TuTvPlay-Peliculas",El exorcismo de Emily Rose (2005)
+https://live.tutvplay.com/PELI/M3ZpOHRGRTlOMVBreWlER3p5MG5zaDZoVjZVTHM5cEVxQnVDakR1N2JmZjBPeE5OSjNZTmlDVDRxaG8vZlZ5Qk9jbHhoOU4rUWNQS0s2aTNhZC9Db2c9PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/157nuevaimg.jpg" group-title="TuTvPlay-Peliculas",Cuando Se Rompe La Rama
+https://live.tutvplay.com/PELI/cFdscW54cjFRN2pRL2hRMFJXWnk3N1QyQ1ExL0pJNk9VZ080cFcwUXNvMD0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1492006417.jpg" group-title="TuTvPlay-Peliculas",Las aventuras de Tintin
+https://live.tutvplay.com/PELI/M3ZpOHRGRTlOMVBreWlER3p5MG5zaDZoVjZVTHM5cEVxQnVDakR1N2JmY0pGZUtiZkJJRFBzTkNwMTFQTXE2Mk9jbHhoOU4rUWNQS0s2aTNhZC9Db2c9PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/40nuevaimg.jpg" group-title="TuTvPlay-Peliculas",En El Corazon Del Mar
+https://live.tutvplay.com/PELI/K1ppSTFBdWhMV1Z1RGRBck9wcnV5MHduM2U0N1R5Z0VlSlZCV05GMmVyU3dtWmltWGhuVUFwYWc3aTBnVVFVZ2ZqcUw5TjVZUDAyYnArcHRSUmtnVkx1VEhQbmVoNDB1clZMaFZ6dHh3d3lOMW1MaEhrZXBac1JFd3IveElsdWpYZTFab3ozTlZnSmw5VkwrZkgzc0VBPT0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1494868167BCr.jpg" group-title="TuTvPlay-Peliculas",Capitan America Civil War
+https://live.tutvplay.com/PELI/N1ZwTU5mSmdlUmF3NXFKbUpiaTFVTVRwbVlYYVorK1RjRThTRlhTOHpoYmNhcWRPRmFjem4wb3BiQ0o0YnFGQTUwR2UwdTZpeU9xREQydEtVM2xuaHdxYVJ1S1dUSGxoQ0IreE5ZOTAzTlVObjV2N1ErOFd2RnRZOENwQVg5NWhDdzJST3hiR2psWGs1ckZzSWtaMGd4K2Rua25kVWRuUHNkaU4vNUNJMElFPQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1486489193.jpg" group-title="TuTvPlay-Peliculas",Jesus de Nazaret HD (Clasico)
+https://live.tutvplay.com/PELI/dFFIcm9TL0MxUi82NFZ1WEUwU2ppc2twNlJOYkt6MmJJallYTEV4eUVvZ2wyRE9WZ3RXS0dLY2ZvZ1RJZVFReVJYQmNlcUsxTSsxWXBUS0ZZYjZiL2lUZlhHSGl1WThoMlFjYk1oTVpKZldDK3JobUsyYjBSZGZibEhlckdRbmw=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/314nuevaimg.jpg" group-title="TuTvPlay-Peliculas",El dia del apocalipsis
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZySFl2V1dtU2lEbEtTYW9pSWYzdlA5dXZUMkF1d3ZsbmFVV2ZyL3pLSWxzUVB1MG1DNHZsR3RJbE1lbXNtOFFWb2c9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/170nuevaimg.jpg" group-title="TuTvPlay-Peliculas",Yo Soy Furia
+https://live.tutvplay.com/PELI/MTZwRHhBSWxZT29DTi9VOVk4ZDdKMUNZMXZqbkdsY2pXdlZhakdZcEJJdz0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/290nuevaimg.jpg" group-title="TuTvPlay-Peliculas",Siniestro
+https://live.tutvplay.com/PELI/UW1pNWF4TGczVGlTcU85NFE3Y0lmMUFCNHNTYmppOWRZTndWdWZNTEpzdz0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/336nuevaimg.jpg" group-title="TuTvPlay-Peliculas",Cubo Y las Dos Cuerdas Magicas
+https://live.tutvplay.com/PELI/bXBEbThEUjgzMzZ4WEdOTUhkN3YzeEc5YUp6TWZ5c3pXa0dZdFBGRzVRcz0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1494870577jBq.jpg" group-title="TuTvPlay-Peliculas",The Hitcher
+https://live.tutvplay.com/PELI/M3ZpOHRGRTlOMVBreWlER3p5MG5zaDZoVjZVTHM5cEVxQnVDakR1N2JmYzMxR3pjSTR1YjVQU0tUc2ZyQWpueUlISE9FVXdxVlp0WG9XYUtoL0d2aW5BcE96cWQwRDNxOFFvT3JQa0pGbms9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1494868899ohd.jpg" group-title="TuTvPlay-Peliculas",Perfume
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZyRnpYQ1d5ME11Yk5JMUtWVUpDdUM2Q3ZQdHl0K2xRU3VLdk1VSktmS2t2ZEJISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/14948687932tm.jpg" group-title="TuTvPlay-Peliculas",Volver al futuro 1 (1985)
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2bjJrKzdaaEFwWnR5Q2U4aXNPTGh2dlNuOWVxOXA1VEppMzdOTUJUcXlhVk1OZHgrYjhTOFRVZngxMXQrMUtTSkZ2anM1a2l3R0poWWNLeklHVURWcFhYZVI1dmRMMkZZaVE1ejgyUG50eVA=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/313nuevaimg.jpg" group-title="TuTvPlay-Peliculas",La marca de la bestia
+https://live.tutvplay.com/PELI/M3ZpOHRGRTlOMVBreWlER3p5MG5zaDZoVjZVTHM5cEVxQnVDakR1N2JmZlJSc09tUVNIUTVEa0VWNE5lc0tuMUlISE9FVXdxVlp0WG9XYUtoL0d2aW5BcE96cWQwRDNxOFFvT3JQa0pGbms9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",El gran robo
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZyRUhzdVNlaVcrVVd1dkVlK1lmWFdIM3hDNzM2eTA0RXk4WVZhT0x4RUd0Z3hISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/160nuevaimg.jpg" group-title="TuTvPlay-Peliculas",Un Cadaver Para Sobrevivir
+https://live.tutvplay.com/PELI/MTZwRHhBSWxZT29DTi9VOVk4ZDdKeUphYW9LRkRqSGw3OVZKVjZKdi96OD0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/287nuevaimg.jpg" group-title="TuTvPlay-Peliculas",Al Final Del Tunel
+https://live.tutvplay.com/PELI/L0FrYUgvYWdYTHBTZ0dZV0VyT0ZJaWJnWEFCL3J0c1BUR3N4L2JLMUFuUT0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",El dia del apocalipsis
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZySFl2V1dtU2lEbEtTYW9pSWYzdlA5dXZUMkF1d3ZsbmFVV2ZyL3pLSWxzUUJISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Asesino de La Carretera
+https://live.tutvplay.com/PELI/M3ZpOHRGRTlOMVBreWlER3p5MG5zaDZoVjZVTHM5cEVxQnVDakR1N2JmYzMxR3pjSTR1YjVQU0tUc2ZyQWpueUlISE9FVXdxVlp0WG9XYUtoL0d2aW5BcE96cWQwRDNxOFFvT3JQa0pGbms9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Niña mala
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZyR3NHL1hxcExVaE9ab0VJLzdLbkpRbWM4SXE1WFo4OXZBcWZqM0U4Mm5WOXhISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/169nuevaimg.jpg" group-title="TuTvPlay-Peliculas",GuatDefoc
+https://live.tutvplay.com/PELI/MXI5OTJLYXkwNEtBVFVXK1BhMGtiOHJGZ2loOUNGeWdPcjN3LzRLblFEZz0=
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Impacto mortal
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZyR1VVeXNZb1h3dnl2U2ZHaVRndWEySlFyQ29qbVJiS3dtU3RtZmZPQnBpU1JISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Robocop defensor del futuro
+https://live.tutvplay.com/PELI/M3ZpOHRGRTlOMVBreWlER3p5MG5zaDZoVjZVTHM5cEVxQnVDakR1N2JmZU1Jc1BGd1RqNXhxR0V2b2ExendSOWxZT3dYWWhxSS81RVExUnRFYTQ4NEE9PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",La pantera rosa
+https://live.tutvplay.com/PELI/M3ZpOHRGRTlOMVBreWlER3p5MG5zaDZoVjZVTHM5cEVxQnVDakR1N2JmZnBreVRjb25XWXdBc0ZPa2E0cnBBdmxZT3dYWWhxSS81RVExUnRFYTQ4NEE9PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",El Senor de la guerra
+https://live.tutvplay.com/PELI/M3ZpOHRGRTlOMVBreWlER3p5MG5zaDZoVjZVTHM5cEVxQnVDakR1N2JmY2NyUjdkd0pMeUhPTmt6U0xUYTFkQWxZT3dYWWhxSS81RVExUnRFYTQ4NEE9PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Espia Por accidente
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZyRVdpR3Qxd3ZhRW5BRTVzcHNtZDBDQmlqTnZJUWtmQVA4MTFjcFNnVnN2b0JISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Peligro en bangkok
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZyR294TmNWU0lNV3ZvcWhoQzZ3S0JiYWxVY2R6RDN2Sy9vaVU1SUtMQTRDYUJISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Ilusionista
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZySGlRcU9yTzdoZmRDUERnbXhLZmVQYWRCbkJ4RE91dmFMZTRSNDA4YmVZekJISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Alto impacto
+https://live.tutvplay.com/PELI/M3ZpOHRGRTlOMVBreWlER3p5MG5zaDZoVjZVTHM5cEVxQnVDakR1N2JmZmhBWC9Kb3ZQeU4vODZMOTF5S1VPQmxZT3dYWWhxSS81RVExUnRFYTQ4NEE9PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/1503605678ius.jpg" group-title="TuTvPlay-Peliculas",El mensajero de la oscuridad
+https://live.tutvplay.com/PELI/U2VQVzI0TnBmRjQrYWcwTmVwZDdHWXVjcEpIa2V2aUY2bUZEZ0ZCNVZLS1BRS1Rya0JnRWF6VVcxU0R6T3ZFWTlnSjlvWmREY2I5QlY2QzBQZXZEU0U0bEw3cW5sN2V4YWVkRlRpcGpJcWdSY2xxWXhCRU9hM2IySEVqeDA2L1BZcUhNRHBqYWpxUlJsZlM1K1BXS25GbHo5V1ZDbHFaR2s4c2ZiaGw5bVg1dEpOSjhXKzVPTzZaQTJPWGVVeWtG
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Zona de miedo
+https://live.tutvplay.com/PELI/M3ZpOHRGRTlOMVBreWlER3p5MG5zaDZoVjZVTHM5cEVxQnVDakR1N2JmYzVlMTBzVmc5SzNPaG5oVHpGYzlTZmxZT3dYWWhxSS81RVExUnRFYTQ4NEE9PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Sacrificio
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZyRzV4SlAzaFZ2OS9yVnhiNFB0am5COTdqaU5RdjZIUXEyQ2Z1RjZlNEZVT1JISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",El matador
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZyRm9TWTFQSzhPdURQMDV0VlFGTVl0eGlWSjQzcXhjRDNBSDZBMnBQaWF6WlJISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Horas de oscuridad
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZySFdYeUVabGw2a0VtRjZ5Ty9DUlRsbkZUKzRzU1VFcnV4U0srQUNtUjhRdWhISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Red line
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZyR1plQ2NHNG1hSHNHOWtWUVBHLzEweG5ocDlNcTB6VnY2bTlXOURxbEs0eHhISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Premoniciones
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZyR1plQ2NHNG1hSHNHOWtWUVBHLzEweE5Pa09kdmN2YXNVSUplcEQyc3c3ZFJISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",La vida perfecta
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZyR3lGZFJ6R3E1bWxySEsyM1g1TUpENy9tTUc3MnlTZm5mb1VHYnNqdFo4THhISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Fiesta-de-bodas
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZyRlZERXozRjVXdE16ZGZGT0tTTmlER3MvNHdwdjZGN3BLUkl3bXozZ2V1SkJISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Esquizofrenia
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZySHkwK3hHdDlsRS9PekRNU0QxcDBGcm5ZbWVXNFR6ZGluWHFLYmdENTZpRFJISCtJaldJbVlNR2hBZW1tMzdJdFE9
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Un perdedor sin suerte
+https://live.tutvplay.com/PELI/M3ZpOHRGRTlOMVBreWlER3p5MG5zaDZoVjZVTHM5cEVxQnVDakR1N2JmY2IwYjh3NkhZdFYydkxVeHRvN2IzbmxZT3dYWWhxSS81RVExUnRFYTQ4NEE9PQ==
+#EXTINF:-1 tvg-logo="http://lospotitos.esy.es/android/images/Cine-World-web-logo.jpg" group-title="TuTvPlay-Peliculas",Hermanos grimm
+https://live.tutvplay.com/PELI/N1ZGTUE3bUxlQ3B0cHE2dzk1NkZ2cmwyNDhYQ1RmWk5kMzRaUzFrZlZyRVVYcjByM21tL2twVVB2VzFCaTAzbERXcmhVU2d4SDJnK1piVDBzVWJzaXhISCtJaldJbVlNR2hBZW1tMzdJdFE9
 
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- DEPORTES --
-http://www.tutvplay.com/
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/TyC-Sports.png" group-title="DEPORTES",TyC Sports
-https://live.tutvplay.com/CH/R2FYZXFyNXRsWEhOZFRlUHNaQTkydz09/TyC-Sports.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/TNT-Sports.png" group-title="DEPORTES",TNT Sports
-https://live.tutvplay.com/CH/dE16dy82ZEdhY1RNY3FNbjFYY1grQT09/TNT-Sports.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/ESPN.png" group-title="DEPORTES",ESPN
-https://live.tutvplay.com/CH/YW9VSW5rSjZwSVU5S3pBWXRBUDFzdz09/ESPN.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/ESPNmas.png" group-title="DEPORTES",ESPNmas
-https://live.tutvplay.com/CH/ejd3SUU5UnBCT0xEazA3Ry8xWU1EUT09/ESPNmas.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/ESPN-2.png" group-title="DEPORTES",ESPN 2
-https://live.tutvplay.com/CH/ODdxWWtMTjNDY0F4S2VVQTMxVHFldz09/ESPN-2.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/ESPN-3.png" group-title="DEPORTES",ESPN 3
-https://live.tutvplay.com/CH/S1ROdHVGWU9XUHZES3V0Zk5Bc0xLUT09/ESPN-3.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Fox-Sports.png" group-title="DEPORTES",Fox Sports
-https://live.tutvplay.com/CH/WXE2QTFPem15aTZJL21jRDExQURvZz09/Fox-Sports.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Fox-Sports-2.png" group-title="DEPORTES",Fox Sports 2
-https://live.tutvplay.com/CH/YVJOMDVtU3ZYcEh3UVoyVmE2aWw5WEFwT3pxZDBEM3E4UW9PclBrSkZuaz0=/Fox-Sports-2.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Fox-Sports-3.png" group-title="DEPORTES",Fox Sports 3
-https://live.tutvplay.com/CH/SHJKZFZmdVFsVjZmd0FsSGZWVjhQSEFwT3pxZDBEM3E4UW9PclBrSkZuaz0=/Fox-Sports-3.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Fox-Sports-Premium.png" group-title="DEPORTES",Fox Sports Premium
-https://live.tutvplay.com/CH/RGtpNlNqd0tIZWhGZnRZQWFFbkYySG44YmtiZkt6OXgyK0E4UUMzZWRrZz0=/Fox-Sports-Premium.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/DirecTV-Sports.png" group-title="DEPORTES",DirecTV Sports
-https://live.tutvplay.com/CH/dW01UGxTYVRGSEp1dEVtV2tIdGV0QT09/DirecTV-Sports.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/WIN-Sports.png" group-title="DEPORTES",WIN Sports
-https://live.tutvplay.com/CH/TktlMDVQTjVlSW5GSm9OOHNOTGtmUT09/WIN-Sports.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- INFANTILES --
-http://www.tutvplay.com/
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Boomerang.png" group-title="INFANTILES",Boomerang
-https://live.tutvplay.com/CH/U1Z4WXBTTC9PMGlVbDdoa3hUbURRUT09/Boomerang.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Cartoon-Network.png" group-title="INFANTILES",Cartoon Network
-https://live.tutvplay.com/CH/Q2F5bnJ6V1N1eHhVVVJPRHJFTDk2UT09/Cartoon-Network.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Disney-Channel.png" group-title="INFANTILES",Disney Channel
-https://live.tutvplay.com/CH/eWgxSlFKRmY0UWlmT2tlNWhtei8wNzFEWnltemFuWmc3MVFPNHFtbGNZZz0=/Disney-Channel.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Disney-XD.png" group-title="INFANTILES",Disney XD
-https://live.tutvplay.com/CH/UzhNUFVORlRSS05xQjVTM0Z4K0VIUT09/Disney-XD.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/NickHD.png" group-title="INFANTILES",NickHD
-https://live.tutvplay.com/CH/cXNxWDdRT1E5aEwrODBodDluVGk3Zz09/NickHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Tooncast.png" group-title="INFANTILES",Tooncast
-https://live.tutvplay.com/CH/eklsYWxXVmhWMDdzbmJaTmJWNS8rUT09/Tooncast.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- CINE Y SERIES --
-http://www.tutvplay.com/
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FX.png" group-title="CINE Y SERIES",FX
-https://live.tutvplay.com/CH/OVdXWlM5ZldTWk1OK0hScXEvSElJUT09/FX.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FOX.png" group-title="CINE Y SERIES",FOX
-https://live.tutvplay.com/CH/WmE2V3dkSVRXY0swU29kNXdMQkYxZz09/FOX.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FOX-Action.png" group-title="CINE Y SERIES",FOX Action
-https://live.tutvplay.com/CH/QUV1OVRmcDRZSHZCY1RYdldCajQ1UT09/FOX-Action.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FOX-Movies.png" group-title="CINE Y SERIES",FOX Movies
-https://live.tutvplay.com/CH/c0dDMzZvOWYrNHZmM3cwc09sTlFhUT09/FOX-Movies.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/CineCanal.png" group-title="CINE Y SERIES",CineCanal
-https://live.tutvplay.com/CH/SzNsdmFZZ2NLSjNXZnNCZXFJTE5ldz09/CineCanal.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/TNT.png" group-title="CINE Y SERIES",TNT
-https://live.tutvplay.com/CH/R2ZXdTBlNDFVVnRqRG8vTGVhem8rdz09/TNT.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/AMC.png" group-title="CINE Y SERIES",AMC
-https://live.tutvplay.com/CH/eHc1QnE3TFlpV3BzR2FQVGJtME1xQT09/AMC.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Space.png" group-title="CINE Y SERIES",Space
-https://live.tutvplay.com/CH/aXV0TWFVRi9ZWVpHWllNZ2o1ZlllZz09/Space.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Sony.png" group-title="CINE Y SERIES",Sony
-https://live.tutvplay.com/CH/Wm5vMDRzalRnbEdIazAwaUFFQ3podz09/Sony.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Warner-Ch.png" group-title="CINE Y SERIES",Warner Ch
-https://live.tutvplay.com/CH/R2w5aU1XTDlzRENhWXN1V2hnbzQwTVA4WE5CK2p0eVdDYlVreHBiR2JDMD0=/Warner-Ch.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/AXN.png" group-title="CINE Y SERIES",AXN
-https://live.tutvplay.com/CH/aER2ZlRPMGx6bFJZMjh1SWtRbWd5dz09/AXN.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Distrito-Comedia.png" group-title="CINE Y SERIES",Distrito Comedia
-https://live.tutvplay.com/CH/bHFOT0NoMFBBSDBIRk5JTU1XNEx4SEFwT3pxZDBEM3E4UW9PclBrSkZuaz0=/Distrito-Comedia.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/HBO.png" group-title="CINE Y SERIES",HBO
-https://live.tutvplay.com/CH/K0k0YVFhVUVwYmxlOERwTU5relBiQT09/HBO.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/HBO-2.png" group-title="CINE Y SERIES",HBO 2
-https://live.tutvplay.com/CH/QTRJWnpTZVQrZjhKa0ZLWDZvN1FOQT09/HBO-2.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Simpsons-24.png" group-title="CINE Y SERIES",Simpsons 24
-https://live.tutvplay.com/CH/akt2QzJTaHUyV2lJUERkRGEyS3ltbkFwT3pxZDBEM3E4UW9PclBrSkZuaz0=/Simpsons-24.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- DOCUMENTALES --
-http://www.tutvplay.com/
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/National-Geographic.png" group-title="DOCUMENTALES",National Geographic
-https://live.tutvplay.com/CH/L3Z5V2tPL3YrNTFmRkFMRmYveGVoUT09/National-Geographic.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Discovery-Channel-HD.png" group-title="DOCUMENTALES",Discovery Channel HD
-https://live.tutvplay.com/CH/eWgxSlFKRmY0UWlmT2tlNWhtei8wNzFEWnltemFuWmc3MVFPNHFtbGNZZz0=/Discovery-Channel-HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Investigation-Discovery.png" group-title="DOCUMENTALES",Investigation Discovery
-https://live.tutvplay.com/CH/a0w5bjJPSmdoRHhFN0tzMWJ4dXMzRmZUYmhjMGEwV0d0aW1oRzNrTVZNTT0=/Investigation-Discovery.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Animal-Planet.png" group-title="DOCUMENTALES",Animal Planet
-https://live.tutvplay.com/CH/M2hSVDVjbG1LUGN0MjdqSjR4WFJ4UT09/Animal-Planet.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/History.png" group-title="DOCUMENTALES",History
-https://live.tutvplay.com/CH/M3I4SklkbSszRlNoUlM4OXVYMjBCZz09/History.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- ADULTOS(+18) --
-http://www.tutvplay.com/
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Playboy.png" group-title="ADULTOS(+18)",Playboy
-https://live.tutvplay.com/CH/Umg0TmszSWxuRkZteUdpMFhVck12dz09/Playboy.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Venus.png" group-title="ADULTOS(+18)",Venus
-https://live.tutvplay.com/CH/VUZrNFFCbU5uZ0J0YmZzK0E3YjQ5Zz09/Venus.m3u8
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Babestation.png" group-title="ADULTOS(+18)",Babestation
-https://live.tutvplay.com/CH/UEtLTWhOWmFiTlhvTHlWd3hjSEhhdz09/Babestation.m3u8
 
 
 
