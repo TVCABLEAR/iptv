@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1, FOX HD
+https://live.tutvplay.com/CH/WmE2V3dkSVRXY0swU29kNXdMQkYxZz09/FOX.m3u8
+#EXTINF:-1, FOX ACTION
+https://live.tutvplay.com/CH/QUV1OVRmcDRZSHZCY1RYdldCajQ1UT09/FOX-Action.m3u8
+#EXTINF:-1, FOX MOVIES
+https://live.tutvplay.com/CH/c0dDMzZvOWYrNHZmM3cwc09sTlFhUT09/FOX-Movies.m3u8
+#EXTINF:-1, FX HD
+https://live.tutvplay.com/CH/OVdXWlM5ZldTWk1OK0hScXEvSElJUT09/FX.m3u8
+#EXTINF:-1, CINECANAL
+https://live.tutvplay.com/CH/SzNsdmFZZ2NLSjNXZnNCZXFJTE5ldz09/CineCanal.m3u8
+#EXTINF:-1, TNT HD
+https://live.tutvplay.com/CH/R2ZXdTBlNDFVVnRqRG8vTGVhem8rdz09/TNT.m3u8
+
+
