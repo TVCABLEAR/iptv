@@ -59,11 +59,11 @@ http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 2" tvg-logo="" group-title="DEPORTES",FOX SPORT 2
+http://144.217.79.223:8000/live/vidal/vidal/602.m3u8
 #EXTINF:-1 tvg-logo="http://i59.tinypic.com/30ttd0g.jpg" group-title="DEPORTES", WIN SPORT
 http://144.217.79.223:8000/live/vidal/vidal/351.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 2" tvg-logo="http://1.bp.blogspot.com/-tt3j4vpuBZ8/Vl-heU6anJI/AAAAAAAAAgc/eeGesHgWV8Y/s1600/Fox-Sports-2.png" group-title="DEPORTES",FOX SPORT 2
-http://144.217.79.223:8000/live/vidal/vidal/602.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-en-vivo-205x205.png" group-title="DEPORTES",ESPN
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="DEPORTES",ESPN 2
