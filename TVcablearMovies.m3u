@@ -25,136 +25,136 @@ http://www.cinevall.club/videos/eso.m4v
 
 #EXTGRP:PELICULAS XTREAM
 
-#EXTINF:-1 tvg-logo="http://www.peliculasabc.net/files/uploads/2006.jpg" group-title="XTREAM IPTV",Capitan Calzoncillos HD
+#EXTINF:-1,Capitan Calzoncillos HD
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:333-Las_aventuras_del_Capitan_Calzoncillos.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.cinepol.is/img/peliculas/23647/1/1/23647.jpg" group-title="XTREAM IPTV", Emoji (SD)
+#EXTINF:-1, Emoji (SD)
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:261-Emoji_La_pel���cula.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://paseodelapatagonia.com/wp-content/uploads/2017/06/Banner-Grande-Village.png" group-title="XTREAM IPTV",Mi villano favorito 3
+#EXTINF:-1,Mi villano favorito 3
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:335-Mi_villano_favorito_3.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dyn0.media.forbiddenplanet.com/event/2017/02/06/batposter.jpg.size-230.jpg" group-title="XTREAM IPTV", Lego Batman
+#EXTINF:-1, Lego Batman
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:21-Lego_Batman.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_boss_baby-993580095-large.jpg" group-title="XTREAM IPTV", Un jefe en pañales (2017)
+#EXTINF:-1, Un jefe en pañales (2017)
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:28-Un_jefe_en_pañales.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/zootopia-155827662-large.jpg" group-title="XTREAM IPTV", Zootopia
+#EXTINF:-1, Zootopia
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:366-Zootopia.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/sing-431201889-mmed.jpg" group-title="XTREAM IPTV", Sing
+#EXTINF:-1, Sing
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:277-Sing_Ven_y_canta.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/moana-802273424-large.jpg" group-title="XTREAM IPTV", Moana
+#EXTINF:-1, Moana
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:274-Moana_Un_mar_de_aventuras.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/frozen-680009505-mmed.jpg" group-title="XTREAM IPTV", Frozen
+#EXTINF:-1, Frozen
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:148-Frozen_una_aventura_congelada.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.laprensa.com.ni-bq.s3-us-west-2.amazonaws.com/wp-content/uploads/2017/01/18185503/POSTER-BAILARINA-3-188x264.jpg", group-title="XTREAM IPTV", Bailarina
+#EXTINF:-1, Bailarina
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:107-Ballerina.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/life-510388488-mmed.jpg" group-title="XTREAM IPTV", Life Vida Inteligente
+#EXTINF:-1, Life Vida Inteligente
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:6-Life_Vida_Inteligente.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/power_rangers-297859835-large.jpg" group-title="XTREAM IPTV", Power Rangers (2017)
+#EXTINF:-1, Power Rangers (2017)
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:7-Power_rangers.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/guardians_of_the_galaxy_vol_2-755407784-large.jpg" group-title="XTREAM IPTV", Guardianes de la galaxia 2 (2017) 
+#EXTINF:-1, Guardianes de la galaxia 2 (2017) 
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:20-Guardianes_de_la_Galaxia_2.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/alien_covenant-271063602-large.jpg" group-title="XTREAM IPTV", Alien covenant
+#EXTINF:-1, Alien covenant
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:235-Alien_Covenant.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/what_happened_to_monday-107122698-mmed.jpg" group-title="XTREAM IPTV", Que le paso a lunes (2017)
+#EXTINF:-1, Que le paso a lunes (2017)
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:334-Que_le_paso_a_Lunes.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://hackstore.net/wp-content/uploads/2017/07/La-Mujer-Maravilla-DVDRip-Subtitulada-Poster-Latino.jpg" group-title="XTREAM IPTV",La Mujer Maravilla
+#EXTINF:-1,La Mujer Maravilla
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:5-La_Mujer_Maravilla_2017.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/beauty_and_the_beast-281766413-large.jpg" group-title="XTREAM IPTV",La Bella y la bestia (2017)
+#EXTINF:-1,La Bella y la bestia (2017)
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:34-La_Bella_y_la_Bestia.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/spider_man_homecoming-336093112-mmed.jpg" group-title="XTREAM IPTV", Spiderman, de regreso a casa (2017)
+#EXTINF:-1, Spiderman, de regreso a casa (2017)
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:0-Spider_Man_homecoming.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone-255494440-mmed.jpg" group-title="XTREAM IPTV",Harry Potter y la piedra filosofal
+#EXTINF:-1,Harry Potter y la piedra filosofal
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:399-Harry_Potter_y_la_piedra_filosofa.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_chamber_of_secrets_harry_potter_2-209568445-mmed.jpg" group-title="XTREAM IPTV",Harry Potter y la camara secreta
+#EXTINF:-1,Harry Potter y la camara secreta
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:400-Harry_Potter_y_la_camara_secreta.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_prisoner_of_azkaban_harry_potter_3-928131061-mmed.jpg" group-title="XTREAM IPTV",Harry Potter y el prisionero de Azkaban
+#EXTINF:-1Harry Potter y el prisionero de Azkaban
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:401-Harry_Potter_y_el_prisionero_de_Azkaba.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_goblet_of_fire_harry_potter_4-872646483-mmed.jpg" group-title="XTREAM IPTV",Harry Potter y el caliz de fuego
+#EXTINF:-1,Harry Potter y el caliz de fuego
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:402-Harry_Potter_y_el_caliz_de_fuego.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_order_of_the_phoenix_harry_potter_5-448254831-mmed.jpg" group-title="XTREAM IPTV",Harry Potter y la orden del fenix
+#EXTINF:-1,Harry Potter y la orden del fenix
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:403-Harry_Potter_y_la_orden_del_fenix.mp4/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_half_blood_prince_harry_potter_6-140623436-mmed.jpg" group-title="XTREAM IPTV",Harry Potter y el misterio del principe
+EXTINF:-1,Harry Potter y el misterio del principe
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:404-Harry_Potter_y_el_misterio_del_Principe.mp4/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_deathly_hallows_part_i-158932179-mmed.jpg" group-title="XTREAM IPTV",Harry Potter y las reliquias de la muerte (parte 1)
+EXTINF:-1,Harry Potter y las reliquias de la muerte (parte 1)
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:405-Harry_Potter_y_las_reliquias_de_la_muerte_Parte_1.mp4/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/harry_potter_and_the_deathly_hallows_part_ii-477385286-mmed.jpg" group-title="XTREAM IPTV",Harry Potter y las reliquias de la muerte (parte 2)
+EXTINF:-1,Harry Potter y las reliquias de la muerte (parte 2)
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:406-Harry_Potter_y_las_reliquias_de_la_muerte_Parte_2.mp4/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/alice_through_the_looking_glass-160005310-mmed.jpg" group-title="XTREAM IPTV",Alicia a traves del espejo (2016)
+EXTINF:-1,Alicia a traves del espejo (2016)
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:283-Alicia_a_traves_delespejo.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_mummy-692544562-mmed.jpg" group-title="XTREAM IPTV", La Momia (2017)
+#EXTINF:-1 La Momia (2017)
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:4-La_momia.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/transformers_the_last_knight-188708679-mmed.jpg" group-title="XTREAM IPTV", Transformers el ultimo caballero (2017)
+#EXTINF:-1, Transformers el ultimo caballero (2017)
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:1-Transformers_5_el_ultimo_caballero.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/logan-528968427-large.jpg" group-title="XTREAM IPTV", Logan (2017)
+#EXTINF:-1, Logan (2017)
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:13-Logan.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_fate_of_the_furious-720946563-mmed.jpg" group-title="XTREAM IPTV", Rapido y furioso 8 
+#EXTINF:-1, Rapido y furioso 8 
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:29-Rapido_y_Furioso_8.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/transformers_the_last_knight-188708679-mmed.jpg" group-title="XTREAM IPTV", Transformers 5, el ultimo caballero
+#EXTINF:-1, Transformers 5, el ultimo caballero
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:1-Transformers_5_el_ultimo_caballero.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/security-951235644-mmed.jpg" group-title="XTREAM IPTV", Security (2017)
+#EXTINF:-1, Security (2017)
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:421-Vigilante_nocturno.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/baywatch-194302457-mmed.jpg" group-title="XTREAM IPTV", Baywatch (2017)
+#EXTINF:-1, Baywatch (2017)
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:3-Baywatch_Guardianes_de_la_bahia.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/la_la_land-262021831-large.jpg" group-title="XTREAM IPTV", La la land (2016)
+#EXTINF:-1, La la land (2016)
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:172-La_La_Land.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/naked-127358184-mmed.jpg" group-title="XTREAM IPTV", Desnudo (2017)
+#EXTINF:-1, Desnudo (2017)
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:306-Desnudo.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/pirates_of_the_caribbean_dead_men_tell_no_tales-750385069-large.jpg" group-title="XTREAM IPTV", Piratas del caribe 5
+#EXTINF:-1, Piratas del caribe 5
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:11-Piratas_del_Caribe_La_venganza_de_Salazar.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_bye_bye_man-814923065-mmed.jpg" group-title="XTREAM IPTV", Nunca digas su nombre (2017)
+#EXTINF:-1, Nunca digas su nombre (2017)
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:9-Nunca_digas_su_nombre.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/a_cure_for_wellness-671966407-large.jpg" group-title="XTREAM IPTV", La cura siniestra (2017)
+#EXTINF:-1, La cura siniestra (2017)
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:12-La_cura_siniestra.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/rings-728446533-large.jpg" group-title="XTREAM IPTV", El aro 3
+#EXTINF:-1, El aro 3
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:40-Rings.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/annabelle_creation-692576203-mmed.jpg" group-title="XTREAM IPTV", Annabelle 2
+#EXTINF:-1, Annabelle 2
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:321-Annabelle_2_La_creacion.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/before_i_fall-769651092-mmed.jpg" group-title="XTREAM IPTV", Si no despierto
+#EXTINF:-1, Si no despierto
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:307-Before_Falli.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JWd77D6iMc8/WcqMkec2m5I/AAAAAAABbzY/NCxMDTmj48I45HJHmERLXns-NLkoPPn0ACLcBGAs/s1600/culto-chucky-2017-hd-1080p-y-720p-latino-cover.jpg" group-title="XTREAM IPTV", El culto de chucky
+#EXTINF:-1, El culto de chucky
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:398-Culto_a_Chuckyyyy.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/it-787119144-mmed.jpg" group-title="XTREAM IPTV", IT (2017)
+#EXTINF:-1, IT (2017)
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:397-It.mp4/playlist.m3u8
 
 
