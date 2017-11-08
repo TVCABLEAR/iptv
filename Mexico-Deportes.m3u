@@ -61,19 +61,18 @@ http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 2" tvg-logo="" group-title="DEPORTES",FOX SPORT 2
 http://144.217.79.223:8000/live/vidal/vidal/602.m3u8
-#EXTINF:-1 tvg-logo="http://i59.tinypic.com/30ttd0g.jpg" group-title="DEPORTES", WIN SPORT
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", WIN SPORT
 http://144.217.79.223:8000/live/vidal/vidal/351.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-en-vivo-205x205.png" group-title="DEPORTES",ESPN
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="DEPORTES",ESPN 2
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",ESPN 2
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-deporte.png" group-title="DEPORTES", ESPN 3
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 3
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(07)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.imfranetx.com/wp-content/uploads/2015/04/logo_final1.jpg" group-title="LATINOS", LATINA HD
 http://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/telemundon.jpg" group-title="LATINOS", TELEMUNDO
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/300px-RCN_Nuestra_Tele_logo.svg.png" group-title="LATINOS", RCN
-http://vivoplay-i.akamaihd.net/hls/live/255327/canal1/master2500k.m3u8
+
