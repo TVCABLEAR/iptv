@@ -79,7 +79,7 @@ http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:34-La
 #EXTINF:-1, Spiderman, de regreso a casa (2017)
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:0-Spider_Man_homecoming.mp4/playlist.m3u8
 
-#EXTINF:-1,Harry Potter y la piedra filosofal
+#EXTINF:-1, Harry Potter y la piedra filosofal
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:399-Harry_Potter_y_la_piedra_filosofa.mp4/playlist.m3u8
 
 #EXTINF:-1, Harry Potter y la camara secreta
