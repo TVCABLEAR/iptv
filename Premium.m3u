@@ -7,17 +7,17 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" group-title="MEXICO", AZTEKA 13
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://cindytakahashi.com/wp-content/uploads/TV-Mexiquense.png" group-title="MEXICO",TV MEXIQUENSE-tecnowillblog.wordpress.com
+#EXTINF:-1 tvg-logo="http://cindytakahashi.com/wp-content/uploads/TV-Mexiquense.png" group-title="MEXICO",TV MEXIQUENSE
 http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.matrixtvnet.com.ve/img/canales/az_clic.png" group-title="MEXICO", AZ CLICK-tecnowillblog.wordpress.com
+#EXTINF:-1 tvg-logo="http://www.matrixtvnet.com.ve/img/canales/az_clic.png" group-title="MEXICO", AZ CLICK
 http://bit.ly/2yFTOFY
 
 
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal5.jpg" group-title="MEXICO", CANAL 5-tecnowillblog.wordpress.com
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal5.jpg" group-title="MEXICO", CANAL 5
 http://s1.iptvmanagerpro.com/stream_14_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/LogoGalavision2013.png" group-title="MEXICO", GALATV YUCATAN-tecnowillblog.wordpress.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/LogoGalavision2013.png" group-title="MEXICO", GALATV YUCATAN
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 
 
@@ -27,7 +27,7 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/once.jpg" group-title="MEXICO", CANAL ONCE
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/sky-logo-adn40.jpg" group-title="MEXICO", ADN 40-tecnowillblog.wordpress.com
+#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/sky-logo-adn40.jpg" group-title="MEXICO", ADN 40
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8?JoCaRoIPTV.m3u8
 
 
