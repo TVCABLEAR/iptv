@@ -456,4 +456,8 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/YZlueRG.jpg" group-title="SPAIN",Factoria de Ficcion
 http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/62/IB3_logo_2008_1.jpg" group-title="SPAIN",IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
