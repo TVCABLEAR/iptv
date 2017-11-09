@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---------TVCABLEAR---------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",--------globalentv@gmail.com-----
+https://github.com/TVCABLEAR/
 
 #EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/C5N.png" group-title="INTERES GENERAL",C5N
 https://live.tutvplay.com/CH/UGUzaHFjVVNyVU1YU3pLYXVQMjM1UT09/C5N.m3u8
