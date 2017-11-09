@@ -6,19 +6,8 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",--------globalentv@gmail.com-----
 https://github.com/TVCABLEAR/
 
-#EXTINF:-1 tv-logo="" group-title="CABLEARTV", TUTVPLAY
+#EXTINF:-1 tv-logo="" group-title="CABLEARTV", TUTVPLAY LIST
 https://github.com/TVCABLEAR/
-
-#EXTINF:0 tvg-logo='https://www.tutvplay.com/img/ch/\TvPlay.png' group-title='INFO',-- LISTA DE CANALES --
-https://www.tutvplay.com/
-
-#EXTM3U
-#EXTINF:0 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- www.TuTvPlay.com --
-https://www.tutvplay.com/
-
-#EXTM3U
-#EXTINF:0 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",DONACIONES a gonzaguerini@gmail.com
-https://www.tutvplay.com/Donacion
 
 #EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- INTERES GENERAL --
 http://www.tutvplay.com/
@@ -138,7 +127,7 @@ https://live.tutvplay.com/CH/ek5helFVemlJOC9YU3JoNDBzNHRMQT09/Venus.m3u8
 #EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Babestation.png" group-title="ADULTOS(+18)",Babestation
 https://live.tutvplay.com/CH/Y0Fscm1FRkQreDd3STdZdEd2UHRUZz09/Babestation.m3u8
 
-<!--- NO FUNCIONAN 
+<!--NO FUNCIONAN 
 #EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/C5N.png" group-title="INTERES GENERAL",C5N
 https://live.tutvplay.com/CH/UGUzaHFjVVNyVU1YU3pLYXVQMjM1UT09/C5N.m3u8
 #EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Canal-26.png" group-title="INTERES GENERAL",Canal 26
@@ -255,5 +244,4 @@ https://live.tutvplay.com/CH/VUZrNFFCbU5uZ0J0YmZzK0E3YjQ5Zz09/Venus.m3u8
 #EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Babestation.png" group-title="ADULTOS(+18)",Babestation
 https://live.tutvplay.com/CH/UEtLTWhOWmFiTlhvTHlWd3hjSEhhdz09/Babestation.m3u8
 
-http://www.tutvplay.com/TV.m3u
--->
+http://www.tutvplay.com/TV.m3u -->
