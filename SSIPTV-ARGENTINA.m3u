@@ -9,13 +9,13 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 group-title="z-omitir", =IPTV-ARGENTINA=
 https://www.youtube.com/watch?v=_-QdZafFHwg
 
-#EXTINF:-1 group-title="IPTV-ARGENTINA", 30 CN 24/7 - 17CTV - Neuquén
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:30 CN 24/7 - 17CTV - Neuquén
 http://142.4.208.146:1935/cn247/cn247/chunklist_w1749576870.m3u8
  
-#EXTINF:-1 group-title="IPTV-ARGENTINA", 35 - 24/7 Noticias NQN
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:35 - 24/7 Noticias NQN
 http://142.4.208.146:1935/cn247/cn247/chunklist.m3u8
  
-#EXTINF:-1 group-title="IPTV-ARGENTINA", 36 Telemax en Vivo
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:36 Telemax en Vivo
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1695602278_b364000_sleng.m3u8
  
 #EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:39 Canal 4 Jujuy
