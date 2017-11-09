@@ -6,59 +6,16 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
 https://github.com/TVCABLEAR/
 
-
 #EXTINF:-1 group-title="z-omitir", =IPTV-ARGENTINA=
 https://www.youtube.com/watch?v=_-QdZafFHwg
 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",17 TELEFE
-http://ar.watcha.live/ch6/hi.m3u8
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",18 CANAL 13
-http://ar.watcha.live/ch7/hi.m3u8
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",19 CANAL 9
-http://ar.watcha.live/ch5/hi.m3u8
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",20 C5N
-http://ar.watcha.live/ch1/hi.m3u8
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",21 A24
-http://ar.watcha.live/ch2/hi.m3u8
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",22 CINE ARGENTINO
-http://us.watcha.live/ch17/hi.m3u8
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",23 T Y C SPORT HD
-http://190.57.234.164/V5/5/1.m3u8
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",24 FOX SPORTS ARG
-http://190.57.234.164/V5/2/1.m3u8
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",25 Fox Sports 3 (ARG)
-http://190.57.234.164/V5/1/1.m3u8
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",26 FOX SPORTS
-http://190.57.234.164/V6/6/1.m3u8
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",30 CN 24/7 - 17CTV - Neuquén
+#EXTINF:-1 group-title="IPTV-ARGENTINA", 30 CN 24/7 - 17CTV - Neuquén
 http://142.4.208.146:1935/cn247/cn247/chunklist_w1749576870.m3u8
  
-#EXTINF:-1 group-title="IPTV-ARGENTINA",31 ORBE TV
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",32 TV PUBLICA
-http://190.57.234.164/V2/1/1.m3u8
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",33 AMERICA
-http://190.57.234.164/V2/7/1.m3u8
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",34 CANAL 10 MDP
-http://186.0.233.76:1935/Canal10MDQ/smil:canal10mdq.smil/chunklist_w1639354169_b1912000_sleng.m3u8
- 
-#EXTINF:-1 group-title="IPTV-ARGENTINA",35 - 24/7 Noticias NQN
+#EXTINF:-1 group-title="IPTV-ARGENTINA", 35 - 24/7 Noticias NQN
 http://142.4.208.146:1935/cn247/cn247/chunklist.m3u8
  
-#EXTINF:-1 group-title="IPTV-ARGENTINA",36 Telemax en Vivo - Argentina
+#EXTINF:-1 group-title="IPTV-ARGENTINA", 36 Telemax en Vivo
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1695602278_b364000_sleng.m3u8
  
 #EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:39 Canal 4 Jujuy
