@@ -116,3 +116,137 @@ https://live.tutvplay.com/CH/Umg0TmszSWxuRkZteUdpMFhVck12dz09/Playboy.m3u8
 https://live.tutvplay.com/CH/VUZrNFFCbU5uZ0J0YmZzK0E3YjQ5Zz09/Venus.m3u8
 #EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Babestation.png" group-title="ADULTOS(+18)",Babestation
 https://live.tutvplay.com/CH/UEtLTWhOWmFiTlhvTHlWd3hjSEhhdz09/Babestation.m3u8
+
+#EXTINF:-1 tv-logo="" group-title="CABLEARTV", TUTVPLAY
+http://www.tutvplay.com/TV.m3u
+
+
+#EXTINF:0 tvg-logo='https://www.tutvplay.com/img/ch/\TvPlay.png' group-title='INFO',-- LISTA DE CANALES --
+https://www.tutvplay.com/
+
+#EXTM3U
+#EXTINF:0 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- www.TuTvPlay.com --
+https://www.tutvplay.com/
+
+#EXTM3U
+#EXTINF:0 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",DONACIONES a gonzaguerini@gmail.com
+https://www.tutvplay.com/Donacion
+
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- INTERES GENERAL --
+http://www.tutvplay.com/
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/C5N.png" group-title="INTERES GENERAL",C5N
+https://live.tutvplay.com/CH/MzcwbmlPVVV5YmJrRWNMUU5jdHR2dz09/C5N.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Canal-26.png" group-title="INTERES GENERAL",Canal 26
+https://live.tutvplay.com/CH/UmJhRTlDT3UzU1BVMmtJUThPU3FpUT09/Canal-26.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/TN.png" group-title="INTERES GENERAL",TN
+https://live.tutvplay.com/CH/VFdCRG1peG9nSVdTNDVmY3lMckc2Zz09/TN.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/America-2.png" group-title="INTERES GENERAL",America 2
+https://live.tutvplay.com/CH/SGpjdUw3SkJHTjZVQXFTWDh6aThPdz09/America-2.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Telefe.png" group-title="INTERES GENERAL",Telefe
+https://live.tutvplay.com/CH/QkJWN0hRUkdCR0MxdWdKeGtxUFp1QT09/Telefe.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Tv-Publica.png" group-title="INTERES GENERAL",Tv Publica
+https://live.tutvplay.com/CH/d0dNUHlPbzFnSTNURGI1MzlYVTFhUT09/Tv-Publica.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/El-Trece.png" group-title="INTERES GENERAL",El Trece
+https://live.tutvplay.com/CH/UU9sMXBmNmt0RVMzOWpLU1d4QTgvUT09/El-Trece.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Canal-9.png" group-title="INTERES GENERAL",Canal 9
+https://live.tutvplay.com/CH/a3pPc3dnQVVwM0QwV20yajdkKzVmdz09/Canal-9.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Encuentro.png" group-title="INTERES GENERAL",Encuentro
+https://live.tutvplay.com/CH/aWFFY2U0QVpOQjcxTG9zbkZhZHdoUT09/Encuentro.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- DEPORTES --
+http://www.tutvplay.com/
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/TyC-Sports.png" group-title="DEPORTES",TyC Sports
+https://live.tutvplay.com/CH/TWJhMVRXdEJrZXZ6cVBsL0c4VEVwQT09/TyC-Sports.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/TNT-Sports.png" group-title="DEPORTES",TNT Sports
+https://live.tutvplay.com/CH/RWFVVE5PTk1SOHJXa2RoM0NCTkpLQT09/TNT-Sports.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/ESPN.png" group-title="DEPORTES",ESPN
+https://live.tutvplay.com/CH/RXlTYlZVaWV0Z2d0THc4RkJxNlNNZz09/ESPN.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/ESPNmas.png" group-title="DEPORTES",ESPNmas
+https://live.tutvplay.com/CH/b2RkYnF4NHNtSGNDREpvYWFRbEx1dz09/ESPNmas.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/ESPN-2.png" group-title="DEPORTES",ESPN 2
+https://live.tutvplay.com/CH/WXcxV2xXTUNyRFBFVitFV2dQazFNQT09/ESPN-2.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/ESPN-3.png" group-title="DEPORTES",ESPN 3
+https://live.tutvplay.com/CH/YWRjNW9UZHlPOTFEUWN4Z25uTzBIQT09/ESPN-3.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Fox-Sports.png" group-title="DEPORTES",Fox Sports
+https://live.tutvplay.com/CH/Uzl5NTNuQVlIZjVDYVVpeXVFT2p6dz09/Fox-Sports.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Fox-Sports-2.png" group-title="DEPORTES",Fox Sports 2
+https://live.tutvplay.com/CH/MlcwNGZraEt4L0p2RWEwOTg2K1J0YVVqNWVsYitvaU9KOXBxMnNkeFJGaz0=/Fox-Sports-2.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Fox-Sports-3.png" group-title="DEPORTES",Fox Sports 3
+https://live.tutvplay.com/CH/OXVzRlFzNXlZeGoyY1Y3OVIxaTJVcVVqNWVsYitvaU9KOXBxMnNkeFJGaz0=/Fox-Sports-3.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Fox-Sports-Premium.png" group-title="DEPORTES",Fox Sports Premium
+https://live.tutvplay.com/CH/cHZLanVzaDJROHlEQ00wNnZiMGR6ZVM4YnZFZGtsR2ZHZEY1Mi9MVFpEOD0=/Fox-Sports-Premium.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/DirecTV-Sports.png" group-title="DEPORTES",DirecTV Sports
+https://live.tutvplay.com/CH/VFh3cFdsM1A4QWhOY2JUZ1FpTUMwUT09/DirecTV-Sports.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/WIN-Sports.png" group-title="DEPORTES",WIN Sports
+https://live.tutvplay.com/CH/SkhQK2tXb3NONitOZVhQTXQ1VGd4Zz09/WIN-Sports.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- INFANTILES --
+http://www.tutvplay.com/
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Boomerang.png" group-title="INFANTILES",Boomerang
+https://live.tutvplay.com/CH/Q2RpS1hXOS91QkVjblN0SkxZakxOZz09/Boomerang.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Cartoon-Network.png" group-title="INFANTILES",Cartoon Network
+https://live.tutvplay.com/CH/Y0ZwajYzNDcybVBuRFdYSUk0ZTZBQT09/Cartoon-Network.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Disney-Channel.png" group-title="INFANTILES",Disney Channel
+https://live.tutvplay.com/CH/VkpBaHpZWVpPNjlIQUFoN0dtekhxRFU2MC84UnJibS9PeU9xUFl0RGpwTT0=/Disney-Channel.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Disney-XD.png" group-title="INFANTILES",Disney XD
+https://live.tutvplay.com/CH/K2dMVkJZRCtJTWFrUmQ0MzVaZ1pwQT09/Disney-XD.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/NickHD.png" group-title="INFANTILES",NickHD
+https://live.tutvplay.com/CH/aWVqZFMrajJxc1FmQ0tteDFZNFREUT09/NickHD.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Tooncast.png" group-title="INFANTILES",Tooncast
+https://live.tutvplay.com/CH/MCt1N2dpdk02aHFQSWZVOGhEeStvdz09/Tooncast.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- CINE Y SERIES --
+http://www.tutvplay.com/
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FX.png" group-title="CINE Y SERIES",FX
+https://live.tutvplay.com/CH/OU9VUlR1bzBPVHVvTmFJalNJK0pnQT09/FX.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FOX.png" group-title="CINE Y SERIES",FOX
+https://live.tutvplay.com/CH/anlhTkZ4VkEyVE5jOS9pOHJBaFFGQT09/FOX.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FOX-Action.png" group-title="CINE Y SERIES",FOX Action
+https://live.tutvplay.com/CH/aVk0R0hMQWhzT0RpVy9QaEVZbzBVQT09/FOX-Action.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/FOX-Movies.png" group-title="CINE Y SERIES",FOX Movies
+https://live.tutvplay.com/CH/UThqbDJxN0YzYy9RbUcveG9mNnduUT09/FOX-Movies.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/CineCanal.png" group-title="CINE Y SERIES",CineCanal
+https://live.tutvplay.com/CH/eVgrUG5FUk1wYXVXT3lhRGl0NU15Zz09/CineCanal.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/TNT.png" group-title="CINE Y SERIES",TNT
+https://live.tutvplay.com/CH/VmpLQXN3elJzbzhZc1ROaVBKWFpUdz09/TNT.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/AMC.png" group-title="CINE Y SERIES",AMC
+https://live.tutvplay.com/CH/Z2lYUUUwUjlBQ1dpbGZhVEhMV240UT09/AMC.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Space.png" group-title="CINE Y SERIES",Space
+https://live.tutvplay.com/CH/NnBja29aZVBBUDZ3eGJkVmZySVhyZz09/Space.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Sony.png" group-title="CINE Y SERIES",Sony
+https://live.tutvplay.com/CH/ODNQekhVd3c0OWh3VUlGbXNDQWM1Zz09/Sony.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Warner-Ch.png" group-title="CINE Y SERIES",Warner Ch
+https://live.tutvplay.com/CH/ckc3T2dwaFhQUGVoTmdqbUdQNXpHWlNqYkZoWWU1T1h1emh3cWdwU2d6WT0=/Warner-Ch.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/AXN.png" group-title="CINE Y SERIES",AXN
+https://live.tutvplay.com/CH/dlBRS0dVOHZhTEg2NFlIRllLTDc2dz09/AXN.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Distrito-Comedia.png" group-title="CINE Y SERIES",Distrito Comedia
+https://live.tutvplay.com/CH/R3Ztd2RlOXZoVm9SZEFRY2ZDYURucVVqNWVsYitvaU9KOXBxMnNkeFJGaz0=/Distrito-Comedia.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/HBO.png" group-title="CINE Y SERIES",HBO
+https://live.tutvplay.com/CH/dFVCQk1tN3AvbDVJUXM3UTIzU1ZIUT09/HBO.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/HBO-2.png" group-title="CINE Y SERIES",HBO 2
+https://live.tutvplay.com/CH/aUpKMWhicnB4RDlUQkdKY3FTMFpPQT09/HBO-2.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Simpsons-24.png" group-title="CINE Y SERIES",Simpsons 24
+https://live.tutvplay.com/CH/cTRUMkxqdWcvcmJuTkovemdvOXgrS1VqNWVsYitvaU9KOXBxMnNkeFJGaz0=/Simpsons-24.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- DOCUMENTALES --
+http://www.tutvplay.com/
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/National-Geographic.png" group-title="DOCUMENTALES",National Geographic
+https://live.tutvplay.com/CH/a3dPaWk3QXZRU2sweCtWZndjQmMyQT09/National-Geographic.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Discovery-Channel-HD.png" group-title="DOCUMENTALES",Discovery Channel HD
+https://live.tutvplay.com/CH/VkpBaHpZWVpPNjlIQUFoN0dtekhxRFU2MC84UnJibS9PeU9xUFl0RGpwTT0=/Discovery-Channel-HD.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Investigation-Discovery.png" group-title="DOCUMENTALES",Investigation Discovery
+https://live.tutvplay.com/CH/VC9aNkd3RjNEWXJQdTZBU0ZFd2NyUFpPamtySDZ2QkZUeEZVMnREM1RQRT0=/Investigation-Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Animal-Planet.png" group-title="DOCUMENTALES",Animal Planet
+https://live.tutvplay.com/CH/TEFtWXVuMkRSWWNVSDJXSDEzZ1JFZz09/Animal-Planet.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/History.png" group-title="DOCUMENTALES",History
+https://live.tutvplay.com/CH/V3lJN3UxUkpiVmM1V3hZQm4zVmc1UT09/History.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/\TvPlay.png" group-title="INFO",-- ADULTOS(+18) --
+http://www.tutvplay.com/
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Playboy.png" group-title="ADULTOS(+18)",Playboy
+https://live.tutvplay.com/CH/R01rZUZYejJnWHB1VjBZMHE1ZGJBdz09/Playboy.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Venus.png" group-title="ADULTOS(+18)",Venus
+https://live.tutvplay.com/CH/ek5helFVemlJOC9YU3JoNDBzNHRMQT09/Venus.m3u8
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/Babestation.png" group-title="ADULTOS(+18)",Babestation
+https://live.tutvplay.com/CH/Y0Fscm1FRkQreDd3STdZdEd2UHRUZz09/Babestation.m3u8
+
