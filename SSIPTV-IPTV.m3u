@@ -504,23 +504,114 @@ http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
 #EXTINF:-1 group-title="VENEZUELA", Vale TV
 http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
 
-#EXTINF:-1 group-title="z-omitir", =IPTV-PANAMA=
+#EXTINF:-1 group-title="z-omitir", =IPTV-ARGENTINA=
 https://www.youtube.com/watch?v=8PrWTHyGdNA
-#EXTINF:-1 group-title="IPTV-PANAMA",TVN-2 (PA)
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:0_6gox09ym_all.smil/35/chunklist.m3u8
-#EXTINF:-1 group-title="IPTV-PANAMA",SERTV (PA)
-http://216.224.177.132:1935/live/sertv/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-PANAMA",CB24 (PA)
-http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-PANAMA", TELEMETRO CANAL 13 PANAMA
-http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-PANAMA,RPCTV Panama
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-PANAMA",TiVa HD 720 Puerto Rico
-http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292
-#EXTINF:-1 group-title="IPTV-PANAMA",Telemundo
-http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
-#EXTINF:-1 group-title="IPTV-PANAMA",SER TV Panamá
-rtmp://216.224.177.132/live/sertv
-#EXTINF:-1 group-title="IPTV-PANAMA",Canal de Panamá
-rtmp://216.224.177.132/live/canaldepanama
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch1/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch2/full.m3u8
+
+#EXTINF:--1 group-title="IPTV-ARGENTINA", CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch3/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch4/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch5/full.m3u8
+
+#EXTINF:--1 group-title="IPTV-ARGENTINA", CH6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch6/full.m3u8
+
+#EXTINF:--1 group-title="IPTV-ARGENTINA", CH7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch7/full.m3u8
+
+#EXTINF:--1 group-title="IPTV-ARGENTINA", CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch8/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch9/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch10/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch11/full.m3u8
+
+
+
+#EXTINF:--1 group-title="IPTV-ARGENTINA", CH12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch12/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch13/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch14/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA",I CH15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch15/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch16/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch17/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA",I CH18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch18/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch19/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch20/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch21/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch22/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch23/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch24/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch25/full.m3u8
+
+#EXTINF:--1 group-title="IPTV-ARGENTINA", CH26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch26/full.m3u8
+
+#EXTINF:--1 group-title="IPTV-ARGENTINA", CH27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch27/full.m3u8
