@@ -1,0 +1,1188 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="z-omitir", =IPTV-ARGENTINA=
+https://www.youtube.com/watch?v=_-QdZafFHwg
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA",17 TELEFE
+http://ar.watcha.live/ch6/hi.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",18 CANAL 13
+http://ar.watcha.live/ch7/hi.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",19 CANAL 9
+http://ar.watcha.live/ch5/hi.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",20 C5N
+http://ar.watcha.live/ch1/hi.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",21 A24
+http://ar.watcha.live/ch2/hi.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",22 CINE ARGENTINO
+http://us.watcha.live/ch17/hi.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",23 T Y C SPORT HD
+http://190.57.234.164/V5/5/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",24 FOX SPORTS ARG
+http://190.57.234.164/V5/2/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",25 Fox Sports 3 (ARG)
+http://190.57.234.164/V5/1/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",26 FOX SPORTS
+http://190.57.234.164/V6/6/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",30 CN 24/7 - 17CTV - Neuquén
+http://142.4.208.146:1935/cn247/cn247/chunklist_w1749576870.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",31 ORBE TV
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",32 TV PUBLICA
+http://190.57.234.164/V2/1/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",33 AMERICA
+http://190.57.234.164/V2/7/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",34 CANAL 10 MDP
+http://186.0.233.76:1935/Canal10MDQ/smil:canal10mdq.smil/chunklist_w1639354169_b1912000_sleng.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",35 - 24/7 Noticias NQN
+http://142.4.208.146:1935/cn247/cn247/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",36 Telemax en Vivo - Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1695602278_b364000_sleng.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:39 Canal 4 Jujuy
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:40 Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:42 Canal de la Ciudad
+http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:44 Cool 103.7
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:46 Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:48 Power HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:49 Radio One
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:50 Tec TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:51 TelpinTV Canal 2
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:0,TV Pastebin iHNrXc26
+https://pastebin.com/iHNrXc26
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png",PAKA PAKA
+http://us.watcha.live/ch15/hi.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TATETI
+http://us.watcha.live/ch16/hi.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",EL NUEVE
+http://ar.watcha.live/ch5/hi.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",EL TRECE
+http://ar.watcha.live/ch7/hi.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",AMERICA TV
+http://ar.watcha.live/ch3/hi.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TELEFE
+http://ar.watcha.live/ch6/hi.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", MAGAZINE
+http://prepublish.f.qaotic.net/f01/ngrp:magazine_live01-1 group-title="IPTV-ARGENTINA"00083_all/chunklist_b1692000.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TV PUBLICA
+http://ar.watcha.live/ch4/hi.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",A24
+http://ar.watcha.live/ch2/hi.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",C5N
+http://ar.watcha.live/ch1/hi.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CN23
+http://us.watcha.live/ch11/mid.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",360 TV
+http://us.watcha.live/ch12/hi.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CINE AR
+http://us.watcha.live/ch17/hi.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",EL 1 WEB TV
+http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 2 CORDOBA
+http://arcast.tv:1935/envivo/marcos/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 3 PINAMAR
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", chaco tv
+rtmp://debred5.ecomchaco.com.ar/oflaDemo/j8gz-9fr9-vtwr-4a7t
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 4
+http://192.99.46.56:1935/envivo/canal4esquel/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 4
+http://panel.dattalive.com:1935/8002/8002/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 4 EL DORADO
+http://arcast.tv:1935/canal4eldorado/canal4eldorado/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 4 MISIONES
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", tvg-logo="http://cemlmontecarlo.com.ar/images/canal12.jpg" group-title="Argentina", Canal 12 - Posadas/Misiones
+http://new.livestream.com/accounts/16177873/events/5340927/player?autoPlay=true
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 4 SAN JUAN
+http://streammax.alsolnet.com:332/canal4sanjuansd/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",5TV
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",5TV ENTRE RIOS
+http://panel.dattalive.com:1935/8044/8044/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 6
+http://158.69.141.200:1935/envivo/canal6moreno/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 6 CORDOBA
+http://01.solumedia.com.ar:1935/corraldebustos/myStream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 5 iguazu
+http://enhd.co:1935/canal5/canal5/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 9 SALTA
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 9 SANTA CRUZ
+http://01.solumedia.com.ar:1935/canal9/myStream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 9 RIO CUARTO
+rtmp://canal9riocuartotv.com.ar:1935/canal9riocuarto/canal9riocuartotv
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL NUEVE
+rtmp://www.canal9comodoro.com/live/c9/mp4:canal
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 10
+http://186.0.233.76:1935/Canal10MDQ/smil:canal10mdq.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 11
+http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/index.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ONCE FENIX TV
+http://149.56.25.23:8022/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",EL DOCE
+http://prepublish.f.qaotic.net/a14/ngrp:el12_live01-1 group-title="IPTV-ARGENTINA"00083_all/chunklist_b1596000.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 13 TIERRA DEL FUEGO
+http://01.solumedia.com.ar:1935/c13/myStream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",13 CABLE
+http://stream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",13 MAXDIGITAL
+http://www.coninfo.net:1935/13max/live/index.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 26 HD
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 32 VIDA NUEVA HD
+http://181.118.213.137/hls/mystream_720/index.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 32 VIDA NUEVA
+http://181.118.213.137/hls/mystream_360/index.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 41 XFN
+http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 79
+http://painel.serveron.com.br:1935/8168/8168/live.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 79
+http://painel.serveron.com.br:1935/8096/8096/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINISIMA
+http://stream-04.vty.dailymotion.com/47/dm/1/x5es9x0/live.isml/events(live-1 group-title="IPTV-ARGENTINA"493279352)/live-audio=128000-video=1260000.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CABLE HOGAR
+http://media203.services.digitar.net:1935/cablehogar/cablehogar/index.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL COOP
+rtmp://190.122.75.19:1936/live/Canal602
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CATAMARCA
+http://192.99.38.174:1935/catamarca/catamarca/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CELTA TV
+http://iphone-streaming.ustream.tv/uhls/13952483/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CONSTRUIR TV
+http://sjc-ucdn02.ustream.tv/sao01/sao01-uhs-beta02/live/9143107/1499400443901/plain/uhs/1/chunk_1499411386_465f37f85f.flv
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CPE TV HD
+http://live-1 group-title="IPTV-ARGENTINA"9.viewer.dacast.com/i/dclive_1@336785/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ECO TV
+rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv
+#EXTINF:-1 group-title="IPTV-ARGENTINA",LITUS TV
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",MISIONES CUATRO
+http://stream.duplika.com:1935/9044/9044/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",6 Posadas TV
+rtsp://streamlky.alsolnet.com/noticiasdel6/live
+#EXTINF:-1 group-title="IPTV-ARGENTINA",SAMPACHO TV
+http://arcast.tv:1935/envivo/sampacho/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TELEJUNIN
+http://stream.shockmedia.com.ar:1935/9618/9618/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TELESUR
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TELPIN HD
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TDC
+http://painel.serveron.com.br:1935/8166/8166/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TLX HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TLX HD
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",OLAVARRIA
+http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",PROVINCIAL
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",RIONEGRINA TV
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TYC SPORTS
+http://clairinlive-a.akamaihd.net/dc-1 group-title="IPTV-ARGENTINA"/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32-v1-a1.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",DEPORTV
+http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w788509661_b800000_slesp.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",FOX SPORTS
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",FOX SPORTS
+http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",AM 1020
+http://164.132.202.17:1935/8060/8060/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CALLE ANGOSTA
+http://stream.shockmedia.com.ar:1935/8742/8742/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CADENA 103
+http://181.30.96.251:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",COOL 103.7
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",FM LATINA 94.5
+http://192.99.46.56:1935/fmlatina/fmlatina/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",GENESIS
+https://589ff3c36f7e8.streamlock.net/genesishd/genesishd/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",MUSICTOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",MUSICTOP HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ONE TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",POWER HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",Q MUSICA
+mms://streamqm.uigc.net/qmusica
+#EXTINF:-1 group-title="IPTV-ARGENTINA",RADIO CIUDAD 92.3
+http://www.coninfo.net:1935/chacodiapordia/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",RADIO CITY 97.5
+http://video.questreaming.com:8022/radiocity/radiocity/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",RADIO SUR 105.1
+http://arcast.tv:1935/envivo/radiosurvideo/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",SUPERCANAL
+http://5.179.201.88:1935/golive/59_179_live/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL DE LA CIUDAD HD
+http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8#IptvPlay
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CONSTRUIR TV
+http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TEC TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TV UNIVERSITARIA DE MISIONES
+http://184.154.28.210:1935/unm/unm/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ENCUENTRO
+http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",CN 24/7
+http://142.4.208.146:1935/cn247/cn247/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",NOTICIAS DEL 6
+rtmp://streamlky.alsolnet.com:332/noticiasdel6/live
+#EXTINF:-1 group-title="IPTV-ARGENTINA",QM NOTICIAS
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",DTV
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ORBE
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",SOLIDARIA TV
+http://panel.cdnstreamserver.com/live/argentina-web.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", tvg-logo="https://scontent.fuio2-1 group-title="IPTV-ARGENTINA".fna.fbcdn.net/v/t1.0-1 group-title="IPTV-ARGENTINA"/p200x200/943985_1676982602587675_3383017970504710584_n.png?oh=1c57cf5b0b4315defc07c705efae0e4b&oe=59B8C5C6" group-title="Paraguay", CNE - Canindeyu/Paraguay
+http://enhd.co:1935/8504/8504/playlist.m3u8
+#EXTINF:0,de Usuario Pastebin 
+https://pastebin.com/u/ferr88
+
+#EXTGRP:CANALES ESPECIALES
+#EXTINF:0,EL TRECE
+http://190.57.234.164/V3/1/1.m3u8
+#EXTINF:0,EL NUEVE
+http://190.57.234.164/V3/2/1.m3u8
+#EXTINF:0,NICK2
+http://190.57.234.164/V3/3/1.m3u8
+#EXTINF:0,DEPORTV
+http://190.57.234.164/V3/4/1.m3u8
+#EXTINF:0,AM SPORT
+http://190.57.234.164/V3/5/1.m3u8
+#EXTINF:0,FIGHTING
+http://190.57.234.164/V3/6/1.m3u8
+#EXTINF:0,DEPORTV 2
+http://190.57.234.164/V3/7/1.m3u8
+
+
+
+#EXTGRP:DEPORTES
+ 
+http://logan.exabytetv.info/exabytetv-esgratis/broadcast/XWBFS-1 group-title="IPTV-ARGENTINA"011001001010101011111010100100-ExabyteTV/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9mb3gtc3BvcnRzLTMtZW4tdml2by5odG1s/visita-exabytetv.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ST:Fox Sports Latinoamerica
+http://latinchannel.tv:8000/live/123/123/381.ts
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ST:Fox Sports 2 Latinoamerica
+http://latinchannel.tv:8000/live/123/123/382.ts
+#EXTINF:-1 group-title="IPTV-ARGENTINA",ST:Fox Sports 3 Latinoamerica
+http://latinchannel.tv:8000/live/123/123/185.ts
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TPP5:FOX SPORTS
+http://latinchannel.tv:8000/live/123/123/118.ts
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TPP5: FOX SPORTS 2
+http://latinchannel.tv:8000/live/123/123/151.ts
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TP:FOX SPORTS 2
+http://latinchannel.tv:8000/live/123/123/95.ts
+#EXTINF:-1 group-title="IPTV-ARGENTINA",TP:FOX SPORTS
+http://latinchannel.tv:8000/live/123/123/94.ts
+#EXTINF:0,De PASTEBIN rcYqmH7D
+https://pastebin.com/rcYqmH7D
+
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://www.produccionesjpcradio.com/wp-content/uploads/2015/08/tv_online.png",***TV ARGENTINA***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png",CANAL 9
+http://190.57.234.164/V3/2/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png",CANAL 9
+http://ar.watcha.live/ch5/full.m3u8|User-agent=iPhone
+ 
+#E#XTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tec.png/250px-Tec.png",TEC
+http://190.57.234.164/V2/4/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Telefe_Logo.svg/2000px-Telefe_Logo.svg.png",TELEFE
+http://ar.watcha.live/ch6/full.m3u8|User-agent=iPhone
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://www.agenciacta.org/IMG/jpg/TvPublicaLogo.jpg",TV PUBLICA
+http://ar.watcha.live/ch4/full.m3u8|User-agent=iPhone
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://www.agenciacta.org/IMG/jpg/TvPublicaLogo.jpg",TV PUBLICA
+http://190.57.234.164/V2/1/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_02/large.15894856_1597949680220611_323754753860807496_n.jpg.ef41cf0b817ab344248174a80c035769.jpg",AMERICA
+http://ar.watcha.live/ch3/full.m3u8|User-agent=iPhone
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_02/large.15894856_1597949680220611_323754753860807496_n.jpg.ef41cf0b817ab344248174a80c035769.jpg",A24
+http://ar.watcha.live/ch2/full.m3u8|User-agent=iPhone
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="https://1.bp.blogspot.com/_YkZZPo1aKZU/SSnlXN_t85I/AAAAAAAAGno/ICpSoajsnN8/s400/canal13-2.gif",EL TRECE
+http://ar.watcha.live/ch7/full.m3u8|User-agent=iPhone
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="https://1.bp.blogspot.com/_YkZZPo1aKZU/SSnlXN_t85I/AAAAAAAAGno/ICpSoajsnN8/s400/canal13-2.gif",EL TRECE
+http://190.57.234.164/V3/1/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://3.bp.blogspot.com/-d0WQfjhe5yA/ULgFqt1rKnI/AAAAAAAAXoY/_6BhXfw9-DY/s1600/tn.png",TN
+https://www.youtube.com/watch?v=0tek2aa8hAQ
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://1.bp.blogspot.com/_YkZZPo1aKZU/TKY48EDUu2I/AAAAAAAAOM4/PPrCANWVNR0/s1600/C5N-2010.gif",C5N
+http://190.57.234.164/V2/5/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png",CANAL 26
+http://200.115.193.177/live/26hd-720/.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png",CANAL 26
+http://190.57.234.164/V2/7/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://www.produccionesjpcradio.com/wp-content/uploads/2015/08/tv_online.png" group-title="z-omitir",***ENTRETENIMIENTO***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="ENTRETENIMIENTO",AXN
+http://23.237.22.2:8080/lstream4/404/10/5bac2479610bead6bf7939891285f5fd/213.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="ENTRETENIMIENTO",A&E
+http://23.237.22.2:8080/lstream4/430/16/5bac2479610bead6bf7939891285f5fd/211.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="ENTRETENIMIENTO",A&E
+http://158.69.225.126:8000/live/hosting593/charly2012/217.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="ENTRETENIMIENTO",Comedy Central
+http://live.tvplayerlatino.com/streaming/src1/EKlNT?4e839b|User-Agent: Lavf/57.71.100
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://3.bp.blogspot.com/-VCve3qBUUxk/UKs-x_dNQhI/AAAAAAAAB2c/x_vx5be4bUw/s1600/distrito+comedia.JPG" group-title="ENTRETENIMIENTO", Comedy Central
+http://158.69.225.126:8000/live/hosting593/charly2012/261.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e-entertainment-television.gif" group-title="ENTRETENIMIENTO",E! Entertainment
+http://live.tvplayerlatino.com/streaming/src1/DhZOs?4e839b|User-Agent: Lavf/57.71.100
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="ENTRETENIMIENTO",Fox
+http://23.237.22.2:8080/lstream4/835/10/bfe052ff6fa8e05e537dc7d385971173/251.flv|User-Agent:S53878U1736M
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="ENTRETENIMIENTO",Fox
+http://158.69.225.126:8000/live/hosting593/charly2012/223.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="ENTRETENIMIENTO",Fox Life
+http://23.237.22.2:8080/lstream4/436/10/5bac2479610bead6bf7939891285f5fd/271.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_3698.png" group-title="ENTRETENIMIENTO",GOURMET
+http://23.237.22.2:8080/lstream4/475/16/5bac2479610bead6bf7939891285f5fd/268.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="ENTRETENIMIENTO",FX
+http://live.tvplayerlatino.com/streaming/src1/PEhC4?4e839b|User-Agent: Lavf/57.71.100
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="ENTRETENIMIENTO",FX
+http://158.69.225.126:8000/live/hosting593/charly2012/306.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Sony" tvg-name="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony.gif" group-title="ENTRETENIMIENTO",Sony
+http://23.237.22.2:8080/lstream4/396/10/5bac2479610bead6bf7939891285f5fd/203.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Sony" tvg-name="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony.gif" group-title="ENTRETENIMIENTO",Sony
+http://158.69.225.126:8000/live/hosting593/charly2012/325.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="ENTRETENIMIENTO",SyFy
+http://158.69.225.126:8000/live/hosting593/charly2012/329.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="ENTRETENIMIENTO",SyFy
+http://23.237.22.2:8080/lstream4/433/10/5bac2479610bead6bf7939891285f5fd/257.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="ENTRETENIMIENTO",Lifetime
+http://23.237.22.2:8080/lstream4/478/16/5bac2479610bead6bf7939891285f5fd/379.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif" group-title="ENTRETENIMIENTO",TruTV
+http://23.237.22.2:8080/lstream4/431/16/5bac2479610bead6bf7939891285f5fd/215.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="TBS" tvg-name="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="ENTRETENIMIENTO",TBS Very Funny
+http://23.237.22.2:8080/lstream4/431/16/5bac2479610bead6bf7939891285f5fd/273.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://www.produccionesjpcradio.com/wp-content/uploads/2015/08/tv_online.png",***INFANTILES***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="INFANTILES",Boomerang
+http://23.237.22.2:8080/lstream4/440/14/5bac2479610bead6bf7939891285f5fd/324.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="INFANTILES",Cartoon Network
+http://23.237.22.2:8080/lstream4/106/14/5bac2479610bead6bf7939891285f5fd/320.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg id="NATGEO KIDS" tvg name="Mundo fox"tvglogo="https://seeklogo.com/images/N/National_Geographic_Kids-logo-DBF8D75F07-seeklogo.com.png", NATGEO KIDS
+http://190.57.234.164/V0/4/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="INFANTILES",Discovery Kids
+http://23.237.22.2:8080/lstream4/108/14/5bac2479610bead6bf7939891285f5fd/303.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="INFANTILES",Disney Channel
+http://158.69.225.126:8000/live/hosting593/charly2012/287.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="INFANTILES",Disney Channel
+http://23.237.22.2:8080/lstream4/104/14/5bac2479610bead6bf7939891285f5fd/312.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="INFANTILES",Disney Junior
+http://158.69.225.126:8000/live/hosting593/charly2012/288.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="INFANTILES",Disney Junior
+http://23.237.22.2:8080/lstream4/109/14/5bac2479610bead6bf7939891285f5fd/308.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="INFANTILES",Disney XD
+http://23.237.22.2:8080/lstream4/107/14/5bac2479610bead6bf7939891285f5fd/322.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NICK_Splat_Logo.png/revision/latest?cb=20111007092753" group-title="INFANTILES",Nick
+http://158.69.225.126:8000/live/hosting593/charly2012/237.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NICK_Splat_Logo.png/revision/latest?cb=20111007092753" group-title="INFANTILES",Nick
+http://23.237.22.2:8080/lstream4/105/14/5bac2479610bead6bf7939891285f5fd/317.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif" group-title="INFANTILES",Nick Jr
+http://live.tvplayerlatino.com/streaming/src1/DFX8y?4e839b|User-Agent: Lavf/57.71.100
+http://23.237.22.2:8080/lstream4/439/14/5bac2479610bead6bf7939891285f5fd/310.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="NickToons" tvg-name="NickToons" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nicktoons.gif" group-title="INFANTILES",Nick Toons (ARG)
+http://23.237.22.2:8080/lstream4/458/14/5bac2479610bead6bf7939891285f5fd/314.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="TIIN" tvg-name="TIIN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif" group-title="INFANTILES",TIIN
+http://158.69.225.126:8000/live/hosting593/charly2012/1277.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif" group-title="INFANTILES",Tooncast
+http://23.237.22.2:8080/lstream4/126/14/5bac2479610bead6bf7939891285f5fd/328.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://www.produccionesjpcradio.com/wp-content/uploads/2015/08/tv_online.png",***PELICULAS Y SERIES***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="PELÍCULAS Y SERIES",AMC
+http://live.tvplayerlatino.com/streaming/src1/fRonE?4e839b|User-Agent: Lavf/57.71.100
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="PELÍCULAS Y SERIES",AMC
+http://23.237.22.2:8080/lstream4/526/10/5bac2479610bead6bf7939891285f5fd/444.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="The Film Zone" tvg-name="The Film Zone" tvg-logo="http://i.imgur.com/Lu1nl.png" group-title="PELÍCULAS Y SERIES",Film Zone
+http://23.237.22.2:8080/lstream4/431/16/5bac2479610bead6bf7939891285f5fd/440.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="PELÍCULAS Y SERIES",Cinecanal
+http://23.237.22.2:8080/lstream4/394/10/5bac2479610bead6bf7939891285f5fd/430.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Cinemax (W)" tvg-name="Cinemax (W)" tvg-logo="http://puu.sh/v4w7r/70e2f9995e.png" group-title="PELÍCULAS Y SERIES",Cinemax
+http://23.237.22.2:8080/lstream4/401/10/5bac2479610bead6bf7939891285f5fd/481.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="The Film Zone" tvg-name="The Film Zone" tvg-logo="http://www.caratulasylogos.com/sites/default/files/styles/medium/public/paramount_chanel.jpg?itok=rhRmnKts" group-title="PELÍCULAS Y SERIES", PARAMOUNT CHANNEL (ARG)
+http://190.57.234.164/V6/8/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="DE PELICULA HD" tvg-name="Cinemax (W)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png", de pelicula hd
+http://158.69.225.126:8000/live/hosting593/charly2012/258.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Action
+http://23.237.22.2:8080/lstream4/449/10/5bac2479610bead6bf7939891285f5fd/416.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="PELÍCULAS Y SERIES",Fox Classics
+http://23.237.22.2:8080/lstream4/871/10/5bac2479610bead6bf7939891285f5fd/424.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Movies HD
+http://23.237.22.2:8080/lstream4/450/10/5bac2479610bead6bf7939891285f5fd/417.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Movies HD
+http://158.69.225.126:8000/live/hosting593/charly2012/300.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox 1 (E)" tvg-name="Fox 1 (E)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-1 group-title="IPTV-ARGENTINA"-e.gif" group-title="PELÍCULAS Y SERIES",Fox Series
+http://live.tvplayerlatino.com/streaming/src1/NCheB?4e839b|User-Agent: Lavf/57.71.100
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox 1 (E)" tvg-name="Fox 1 (E)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-1 group-title="IPTV-ARGENTINA"-e.gif" group-title="PELÍCULAS Y SERIES",Fox Series
+http://158.69.225.126:8000/live/hosting593/charly2012/301.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Cinema-Logo-01.png" group-title="PELÍCULAS Y SERIES",Fox Cinema
+http://23.237.22.2:8080/lstream4/454/10/5bac2479610bead6bf7939891285f5fd/421.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Cinema-Logo-01.png" group-title="PELÍCULAS Y SERIES",Fox Cinema
+http://158.69.225.126:8000/live/hosting593/charly2012/224.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif" group-title="PELÍCULAS Y SERIES",Golden Edge
+http://live.tvplayerlatino.com/streaming/src1/QfuWa?4e839|User-Agent: Lavf/57.71.100
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif" group-title="PELÍCULAS Y SERIES",Golden HD
+http://158.69.225.126:8000/live/hosting593/charly2012/227.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",Space
+http://158.69.225.126:8000/live/hosting593/charly2012/326.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",Space
+http://23.237.22.2:8080/lstream4/402/10/5bac2479610bead6bf7939891285f5fd/445.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://vignette4.wikia.nocookie.net/trueblood/images/8/88/Logo-HBO.png/revision/latest?cb=20141126012851" group-title="PELÍCULAS Y SERIES",HBO Latino
+http://ryuk.onetvgratis.com/lstream4/5908304f7efd824f7a2fe625/5900bc02970b1071e240b0cb/_/401.flv|User-Agent:S53878U1736M
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://vignette4.wikia.nocookie.net/trueblood/images/8/88/Logo-HBO.png/revision/latest?cb=20141126012851" group-title="PELÍCULAS Y SERIES",HBO Latino
+http://158.69.225.126:8000/live/hosting593/charly2012/231.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="PELÍCULAS Y SERIES",HBO 2
+http://158.69.225.126:8000/live/hosting593/charly2012/229.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="PELÍCULAS Y SERIES",HBO 2
+http://ryuk.onetvgratis.com/lstream4/5908304f7efd824f7a2fe625/5900bc02970b1071e240b0cb/_/402.flv|User-Agent:S53878U1736M
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="http://www.impulsotv.com.ar/sites/default/files/canales/logos/HBOPLUS.png" group-title="PELÍCULAS Y SERIES",HBO Plus (ARG)
+http://ryuk.onetvgratis.com/lstream4/5908304f7efd824f7a2fe648/5900bc02970b1071e240b0cb/_/HBO_Plus.flv|User-Agent:S53878U1736M
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="http://logonoid.com/images/hbo-family-logo.png" group-title="PELÍCULAS Y SERIES",HBO Family
+http://158.69.225.126:8000/live/hosting593/charly2012/230.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="http://logonoid.com/images/hbo-family-logo.png" group-title="PELÍCULAS Y SERIES",HBO Family
+http://ryuk.onetvgratis.com/lstream4/5908304f7efd824f7a2fe624/5900bc02970b1071e240b0cb/_/HBO_Family.flv|User-Agent:S53878U1736M
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="PELÍCULAS Y SERIES", MAX PRIME (ARG)
+http://190.57.234.164/V9/6/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516" group-title="PELÍCULAS Y SERIES", MAX UP (ARG)
+http://190.57.234.164/V6/9/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="PELÍCULAS Y SERIES",Studio Universal
+http://23.237.22.2:8080/lstream4/473/10/5bac2479610bead6bf7939891285f5fd/492.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="PELÍCULAS Y SERIES",Studio Universal
+http://158.69.225.126:8000/live/hosting593/charly2012/238.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="PELÍCULAS Y SERIES",Universal Channel
+http://158.69.225.126:8000/live/hosting593/charly2012/338.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="PELÍCULAS Y SERIES",Universal Channel
+http://23.237.22.2:8080/lstream4/399/10/5bac2479610bead6bf7939891285f5fd/256.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="PELÍCULAS Y SERIES",TNT
+http://23.237.22.2:8080/lstream4/77/10/5bac2479610bead6bf7939891285f5fd/435.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="PELÍCULAS Y SERIES",TNT SERIES
+http://23.237.22.2:8080/lstream4/469/10/5bac2479610bead6bf7939891285f5fd/266.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="PELÍCULAS Y SERIES",TCM
+http://23.237.22.2:8080/lstream4/456/10/5bac2479610bead6bf7939891285f5fd/496.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif" group-title="PELÍCULAS Y SERIES",Warner HD
+http://158.69.225.126:8000/live/hosting593/charly2012/274.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif" group-title="PELÍCULAS Y SERIES",Warner HD
+http://23.237.22.2:8080/lstream4/400/10/5bac2479610bead6bf7939891285f5fd/205.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://www.produccionesjpcradio.com/wp-content/uploads/2015/08/tv_online.png",***DEPORTES - SPORTS***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ifr-ckA35Yo/maxresdefault.jpg" group-title="DEPORTES - SPORTS", T Y C SPORTS (ARG)
+http://190.57.234.164/V5/5/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/800px-Bein_sport_logo.png" group-title="DEPORTES - SPORTS",Bein Sports
+http://158.69.225.126:8000/live/hosting593/charly2012/427.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ifr-ckA35Yo/maxresdefault.jpg" group-title="DEPORTES - SPORTS", T Y C SPORTS (ARG)
+http://190.57.234.164/V5/5/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.Deportv.png.17022f27c037a64a82793b917598ff28.png" group-title="DEPORTES - SPORTS", DEPORTV (ARG)
+http://190.57.234.164/V3/4/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.Deportv.png.17022f27c037a64a82793b917598ff28.png" group-title="DEPORTES - SPORTS", DEPORTV (ARG)
+http://ar.watcha.live/ch8/full.m3u8|User-agent=iPhone
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 2 (ARG)
+http://190.57.234.164/V5/4/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 3
+http://23.237.22.2:8080/lstream4/400/10/5bac2479610bead6bf7939891285f5fd/516.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN
+http://158.69.225.126:8000/live/hosting593/charly2012/1257.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 2
+http://158.69.225.126:8000/live/hosting593/charly2012/1255.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 3
+http://158.69.225.126:8000/live/hosting593/charly2012/1256.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports (ARG)
+http://190.57.234.164/V5/2/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 3 (ARG)
+http://190.57.234.164/V5/1/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES - SPORTS",Fox Sports (ARG)
+http://190.57.234.164/V6/6/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports
+http://158.69.225.126:8000/live/hosting593/charly2012/282.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports hd
+http://158.69.225.126:8000/live/hosting593/charly2012/303.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",FOX SPORTS SUR (chile)
+http://live.tvplayerlatino.com/streaming/src5/gj84S?4e839b|User-Agent: Lavf/57.71.100
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",FOX SPORTS 2
+http://live.tvplayerlatino.com/streaming/src5/gj842?4e839b|User-Agent: Lavf/57.71.100
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://www.produccionesjpcradio.com/wp-content/uploads/2015/08/tv_online.png",***MUSICALES***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV
+http://23.237.22.2:8080/lstream4/402/10/5bac2479610bead6bf7939891285f5fd/445.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV Hits (ARG)
+http://190.57.234.164/V6/3/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV DANCE (ARG)
+http://190.57.234.164/V6/4/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV LIVE HD (ARG)
+http://190.57.234.164/V6/7/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="MTV" tvg-name="MTV" tvg-logo="https://seeklogo.com/images/R/Rock__and__Pop_TV-logo-F536DFC9D7-seeklogo.com.gif" group-title="MÚSICA - MUSIC", ROCK AND POP (ARG)
+http://190.57.234.164/V2/3/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="MTV" tvg-name="MTV" tvg-logo="http://1.bp.blogspot.com/-tmhSjMT6cYg/VmtgpK5j3wI/AAAAAAAAAV8/iqcRk98LW3o/s1600/onetv.png" group-title="MÚSICA - MUSIC", ONE (ARG)
+http://190.57.234.164/V2/2/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://www.produccionesjpcradio.com/wp-content/uploads/2015/08/tv_online.png",***CULTURALES***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="MUNDO Y CULTURA",Animal Planet
+http://23.237.22.2:8080/lstream4/402/10/5bac2479610bead6bf7939891285f5fd/373.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="MUNDO Y CULTURA",Discovery Channel
+http://23.237.22.2:8080/lstream4/402/10/5bac2479610bead6bf7939891285f5fd/371.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigación-discovery.gif" group-title="ENTRETENIMIENTO",Investigation Discovery
+http://23.237.22.2:8080/lstream4/434/16/5bac2479610bead6bf7939891285f5fd/263.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="ENTRETENIMIENTO",Discovery H&H (ARG)
+http://23.237.22.2:8080/lstream4/434/16/5bac2479610bead6bf7939891285f5fd/374.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif" group-title="MUNDO Y CULTURA",Discovery Civilization (ARG)
+http://190.57.234.164/V0/2/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="MUNDO Y CULTURA",Discovery Theater HD
+http://158.69.225.126:8000/live/hosting593/charly2012/214.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="MUNDO Y CULTURA",Discovery Theater HD (ARG)
+http://190.57.234.164/V1/5/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="MUNDO Y CULTURA",Discovery Turbo
+http://23.237.22.2:8080/lstream4/434/16/5bac2479610bead6bf7939891285f5fd/383.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif" group-title="MUNDO Y CULTURA",Discovery World (ARG)
+http://190.57.234.164/V1/4/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="MUNDO Y CULTURA", DISCOVERY SCIENCE (ARG)
+http://190.57.234.164/V0/3/1.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="MUNDO Y CULTURA",History Channel
+http://158.69.225.126:8000/live/hosting593/charly2012/341.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="MUNDO Y CULTURA",Nat Geo Wild
+http://23.237.22.2:8080/lstream4/434/16/5bac2479610bead6bf7939891285f5fd/355.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="MUNDO Y CULTURA",Nat Geo Wild
+http://158.69.225.126:8000/live/hosting593/charly2012/317.ts|User-Agent: Lavf/56.15.102
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="MUNDO Y CULTURA",NATGEO
+http://23.237.22.2:8080/lstream4/434/16/5bac2479610bead6bf7939891285f5fd/377.flv
+#EXTINF:0,De PASTEBIN rcYqmH7D
+https://pastebin.com/rcYqmH7D
+
+#EXTINF:0,BAJO EDICION
+https://pastebin.com/JZUKahyv
+
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Eco TV - 1220 TV - CABA AM - CD Cd Aut Bs As
+https://www.youtube.com/embed/acPID-oFEhU?autoplay=1
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Vorterix Rock - 92.1 TV - CABA FM - CD Cd Aut Bs As
+rtmp://r20057.smi.vmf.edge-apps.net/magma-apps/vorterix_video1
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Canal Rural - CTV - CABA TV Cable - CD Cd Aut Bs As
+http://200.42.92.149/liverural/crural/rural1/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",DW - CTV - CABA TV Cable - CD Cd Aut Bs As
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Magazine - CTV - CABA TV Cable - CD Cd Aut Bs As
+http://200.42.92.149/live/mgzntv/mgzntv/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Q Musica - CTV - CABA TV Cable - CD Cd Aut Bs As
+mms://streamqm.uigc.net/qmusica
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",TN Todo Noticias - CTV - CABA TV Cable - CD Cd Aut Bs As
+http://200.42.92.149/live/tnhd1/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",TyC Sports - CTV - CABA TV Cable - CD Cd Aut Bs As
+http://kalseglive-a.akamaihd.net/dc-1 group-title="IPTV-ARGENTINA"/m/ny-live-publish1/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",LRL456 Orbe 21 - 21.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Encuentro - 22.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Paka Paka - 22.2 TV - CABA TV TDA - CD Cd Aut Bs As
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",TaTeTi - 22.3 TV - CABA TV TDA - CD Cd Aut Bs As
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",TECtv - 22.5 TV - CABA TV TDA - CD Cd Aut Bs As
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",LS82 TVP HD - 23.2 TV - CABA TV TDA - CD Cd Aut Bs As
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist_w1548416639_b2628000_sleng.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",LS82 TVP SD - 23.2 TV - CABA TV TDA - CD Cd Aut Bs As
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist_w1548416639_b1264000_sleng.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Construir TV - 23.3 TV - CABA TV TDA - CD Cd Aut Bs As
+http://iphone-streaming.ustream.tv/ustreamVideo/9143107/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",DTV Diputados - 23.4 TV - CABA TV TDA - CD Cd Aut Bs As
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",DxTV - 24.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w788509661_b800000_slesp.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Viajar - 24.4 TV - CABA TV TDA - CD Cd Aut Bs As
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/index_814_av-p.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Telesur - 25.3 TV - CABA TV TDA - CD Cd Aut Bs As
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",G360 - 25.4 TV - CABA TV TDA - CD Cd Aut Bs As
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",RT - 25.5 TV - CABA TV TDA - CD Cd Aut Bs As
+http://rt-a.akamaihd.net/ch_02@325606/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Canal 26 HD - 26.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Canal 26 SD - 26.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Telemax HD - 26.3 TV - CABA TV TDA - CD Cd Aut Bs As
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",Telemax SD - 26.3 TV - CABA TV TDA - CD Cd Aut Bs As
+http://live-edge01.telecentro.net.ar/live/tlxhd-360/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",C5N HD - 27.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://server5.stweb.tv/c5n/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",One TV - 27.2 TV - CABA TV TDA - CD Cd Aut Bs As
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",LS85 El Trece - 33.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://200.42.92.149/live13/13tv/13tv1/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",ACUA Mayor - 34.3 TV - CABA TV TDA - CD Cd Aut Bs As
+https://www.youtube.com/embed/4L8Lqj6rxYE?autoplay=1
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",LS83 Canal 9 - 35.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://dvahbkwepwpuu.cloudfront.net/livec9/smil:deco.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",ACUA Federal - 35.3 TV - CABA TV TDA - CD Cd Aut Bs As
+https://www.youtube.com/embed/NvkTJSiiiac?autoplay=1
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CD Cd Aut Bs As",A24 - 36.3 TV - CABA TV TDA - CD Cd Aut Bs As
+https://www.youtube.com/watch?v=NCfc_zDzLD0
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="GB Gran Bs As",Solidaria TV - 45 TV - Caseros - GB Gran Bs As
+http://188.165.135.22/remararg/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="GB Gran Bs As",Telecreativa - 5 TV - Lanus - GB Gran Bs As
+http://iphone-streaming.ustream.tv/ustreamVideo/18545628/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="GB Gran Bs As",Moreno Visión - 13 TV - Moreno - GB Gran Bs As
+rtmp://morenovisiontv.noip.me/oflaDemo/live
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="GB Gran Bs As",TV SION - 20 TV - Quilmes - GB Gran Bs As
+rtmp://streamingrtmp.sion.com:10002/live/video
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="GB Gran Bs As",Provincial - 2CTV - San Miguel - GB Gran Bs As
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="GB Gran Bs As",Tigre TV - 5 TV - Tigre - GB Gran Bs As
+http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",BVC 4 - 4CTV - Bahia Blanca  TV - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/13490492/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",EPS TV - 5 TV - Bragado - BA Buenos Aires
+http://streamtv.sib-2000.com.ar:1935/8330/8330/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Red Difusora - 3CTV - Carhué - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/10863994/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",LRI754 Cariló - 104.3 TV - Cariló - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/4390191/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Pringles TV - 6 TV - Coronel Pringles - BA Buenos Aires
+mmsh://186.0.210.71:8080/
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",TV 29 Ensenada - 29 TV - Ensenada - BA Buenos Aires
+http://panel.dattalive.com:1935/8008/8008/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",LRS843 Infinita - 89.7 TV - General Villegas - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/11212276/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Cool HD - 103.7 TV - La Plata - BA Buenos Aires
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Qm Noticias - 5 TV - La Plata  TV - BA Buenos Aires
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",TV Universidad - 56.1 TV - La Plata  TV - BA Buenos Aires
+rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Canal 4 - 4CTV - Lobos - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/5808974/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Parestv  Canal 3 - 30.1 TV - Luján - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/6721636/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Canal 2 MDP - 2 TV - Mar del Plata TV - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/13284341/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Canal 5 MDP - 5 TV - Mar del Plata TV - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/20909367/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",XFN TV - 41 TV - Mar del Plata TV - BA Buenos Aires
+http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Clima + Servicios - 66CTV - Mar del Plata TV - BA Buenos Aires
+http://painel.serveron.com.br:1935/8168/8168/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",LU82 Canal 10 - 43.1 TV - Mar del Plata TV - BA Buenos Aires
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Teleguia - 5CTV - Necochea - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/7846138/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",TSN TV - 10 TV - Necochea - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/18684140/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Local Olavarría - 5CTV - Olavarría - BA Buenos Aires
+http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",LRI966 Cadena 103 - 103.1 TV - Olavarría - BA Buenos Aires
+http://200.41.182.220:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Urban - 106.1 TV - Pehuajó - BA Buenos Aires
+http://ar.solumedia.com.ar:1935/2/myStream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Bunge y El Mar - ITV - Pinamar - BA Buenos Aires
+http://wowza.telpin.com.ar:1935/camara-bunge/camara-bunge.stream_720p/1.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Bunge-Libertador - ITV - Pinamar - BA Buenos Aires
+http://wowza.telpin.com.ar:1935/camara-fuente/fuente.stream_720p/1.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Ostende-La Rambla - ITV - Pinamar - BA Buenos Aires
+http://wowza.telpin.com.ar:1935/camara-rambla/rambla.stream_720p/1.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Telpin t2 - 2CTV - Pinamar - BA Buenos Aires
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Pinamar TV - 3 TV - Pinamar - BA Buenos Aires
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",LRI875 Power Cam - 100.3 TV - Pinamar - BA Buenos Aires
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Aire Visión 31 TDA - 6 TV - Punta Alta - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/20552916/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",LRI997 LVA - 103.3 TV - Saladillo - BA Buenos Aires
+http://panel.dattalive.com:1935/8168/8168/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",CC TV - 6CTV - Salto - BA Buenos Aires
+http://panel.dattalive.com:1935/8180/8180/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Canal 5 - 5 TV - San Cte del Tuyú - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/22361445/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",C7N - 7 TV - San Nicolas - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/10175515/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",AVC Atlántica - 2CTV - Santa Teresita - BA Buenos Aires
+mmsh://190.14.32.204:3905/
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Eco TV - 2CTV - Tandil - BA Buenos Aires
+http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Celta TV - 9 TV - Tres Arroyos - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/13952483/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="BA Buenos Aires",Cabletel - 12CTV - Zárate - BA Buenos Aires
+http://190.151.144.22:8083/canallocal.flv
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CA Catamarca",Canal 79 - 2CTV - SFV de Catamarca - CA Catamarca
+http://painel.serveron.com.br:1935/8096/8096/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CA Catamarca",LRK471 Provincia - 7.1TV - SFV de Catamarca - CA Catamarca
+rtmp://190.12.101.126/catamarcartv.com/catamarcartv.com
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CC Chaco",CN 22 Chaco TV - ITV - Resistencia - CC Chaco
+rtmp://painel.serveron.com.br:1935/8178/8178
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CC Chaco",Chaco TV - 28.2 TV - Resistencia - CC Chaco
+rtmp://debred5.ecomchaco.com.ar/oflaDemo/chacoTV01-1 group-title="IPTV-ARGENTINA"00041
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CH Chubut",LU83 Canal 9 - 9 TV - Cdro Rivadavia - CH Chubut
+rtmp://www.canal9comodoro.com/live/c9/mp4:canal
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CH Chubut",ETC - 4CTV - Esquel - CH Chubut
+http://192.99.46.56:1935/envivo/canal4esquel/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CH Chubut",Madryn TV - 12CTV - Puerto Madryn - CH Chubut
+http://iphone-streaming.ustream.tv/ustreamVideo/7029416/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CH Chubut",Total - 90.1 TV - Puerto Madryn - CH Chubut
+rtmp://158.69.223.236/aireurbano/mp4:aireurbano
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CH Chubut",LU90 CHB 29.1 TDA - 7 TV - Rawson - CH Chubut
+http://01.solumedia.com.ar:1935/c7/myStream/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CO Cordoba",Canal C - 2CTV - Cordoba  TV - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/22153434/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CO Cordoba",El Show de la Mañana - 12 TV - Cordoba  TV - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CO Cordoba",Cba24N - 31.1 TV - Cordoba  TV - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/11678041/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CO Cordoba",LV80 SRT (10) - 31.2 TV - Cordoba  TV - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/20251601/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CO Cordoba",LV81 El Doce (12) 1 - 40.1 TV - Cordoba  TV - CO Cordoba
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:1_jfy47czy_all.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CO Cordoba",LV81 El Doce (12) 2 - 40.1 TV - Cordoba  TV - CO Cordoba
+http://kalseglive-a.akamaihd.net/dc-1 group-title="IPTV-ARGENTINA"/m/ny-live-publish3/kLive/smil:1_jfy47czy_all.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CO Cordoba",Telered - TV - Marcos Juarez - CO Cordoba
+http://192.99.46.56:1935/envivo/teleredtv/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CO Cordoba",LRJ504 TRU - 21 TV - Marcos Juarez - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/5832294/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CO Cordoba",UniRío TV - TV - Rio Cuarto - CO Cordoba
+https://www.youtube.com/embed/jPv9Idqtn3k?autoplay=1
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CO Cordoba",Quatro TV - 4 TV - Rio Cuarto - CO Cordoba
+http://enhd.co:1935/8938/8938/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CO Cordoba",LV86 Imperio 13 - 29.1 TV - Rio Cuarto - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/18376856/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CO Cordoba",VTV - CTV - Vicuña Mackenna - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/11057537/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CO Cordoba",Villa Huidobro TV - 11 TV - Villa Huidobro - CO Cordoba
+http://enhd.co:1935/8494/8494/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CR Corrientes",JEES TV - ITV - Corrientes - CR Corrientes
+http://iphone-streaming.ustream.tv/ustreamVideo/18409610/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CR Corrientes",5tv - 5 TV - Corrientes - CR Corrientes
+http://www.coninfo.net:1935/tvcinco/live2/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CR Corrientes",T5 Satelital - 5STV - Corrientes - CR Corrientes
+http://iphone-streaming.ustream.tv/ustreamVideo/14816945/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CR Corrientes",CTV Corrientes TV - 7 TV - Corrientes - CR Corrientes
+http://cdns840stu1010.multistream.net/telemedia1live/amlst:ctvlive/1.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CR Corrientes",13 Max - 32.1 TDA - Corrientes - CR Corrientes
+http://www.coninfo.net:1935/13max/live/index.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="CR Corrientes",Tele Diez - 10 TV - Ps de los Libres - CR Corrientes
+http://iphone-streaming.ustream.tv/ustreamVideo/10327824/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ER Entre Rios",Entre Rios TV - 6 TV - Crespo - ER Entre Rios
+http://iphone-streaming.ustream.tv/ustreamVideo/9042949/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ER Entre Rios",El 4 TV - 4CTV - Gualeguaychú - ER Entre Rios
+http://iphone-streaming.ustream.tv/ustreamVideo/15024581/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ER Entre Rios",LRI450 TV Litoral - 9 TV - Paraná - ER Entre Rios
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ER Entre Rios",Canal 11 - 11 TV - Paraná - ER Entre Rios
+http://iphone-streaming.ustream.tv/ustreamVideo/8957585/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ER Entre Rios",LRI501 Canal 10 - 10 TV - San José - ER Entre Rios
+http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="FO Formosa",LT88 Lapacho 11 - 29.1 TV - Formosa  TV - FO Formosa
+http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/index.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="JU Jujuy",Canal 2 - 2 TV - San S de Jujuy - JU Jujuy
+http://xcanal2jujuyx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="JU Jujuy",Canal 4 HD - 4CTV - San S de Jujuy - JU Jujuy
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="JU Jujuy",LW80 36.1 TDA - 7 TV - San S de Jujuy - JU Jujuy
+https://www.youtube.com/embed/Z9pN_UsGifc?autoplay=1
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="LP La Pampa",Popular - 97.7 TV - Catriló - LP La Pampa
+http://31.186.229.150:1935/cplp/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="LP La Pampa",CPEtv - 2CTV - Santa Rosa - LP La Pampa
+http://live-1 group-title="IPTV-ARGENTINA"9.viewer.dacast.com/i/dclive_1@336785/master.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="LR La Rioja",Rioja - 96.9 TV - La Rioja - LR La Rioja
+rtmp://streamlky.alsolnet.com:1935/mediosriojatv/live
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="LR La Rioja",Canal 2 - 2 TV - La Rioja TV - LR La Rioja
+http://iphone-streaming.ustream.tv/ustreamVideo/18654672/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="LR La Rioja",LV91 29.1 TDA - 9 TV - La Rioja TV - LR La Rioja
+http://iphone-streaming.ustream.tv/ustreamVideo/20837930/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="LR La Rioja",Canal 13 - 13 TV - La Rioja TV - LR La Rioja
+http://iphone-streaming.ustream.tv/ustreamVideo/14694479/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ME Mendoza",LV89 Mendoza 7 - 7 TV - Mendoza  TV - ME Mendoza
+https://www.youtube.com/watch?v=JzQfRsew5vc
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ME Mendoza",Señal U - 30.1 TV - Mendoza  TV - ME Mendoza
+http://iphone-streaming.ustream.tv/ustreamVideo/20087208/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ME Mendoza",LV83 Televida 9 - 33.1 TV - Mendoza  TV - ME Mendoza
+http://iphone-streaming.ustream.tv/ustreamVideo/22337169/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ME Mendoza",LV84 Telesur - 6 TV - San Rafael - ME Mendoza
+https://www.youtube.com/watch?v=B4n9dBbsjAU
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ME Mendoza",CN 10 Libres - 10 TV - San Rafael - ME Mendoza
+http://iphone-streaming.ustream.tv/ustreamVideo/22426716/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="MI Misiones",TV Cable - 4CTV - Candelaria - MI Misiones
+http://iphone-streaming.ustream.tv/ustreamVideo/19317720/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="MI Misiones",Canal 2 - 2 TV - Posadas  TV - MI Misiones
+http://190.57.237.59/live/canal101010102.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="MI Misiones",Canal 4 - 4 TV - Posadas  TV - MI Misiones
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="MI Misiones",Noticias del 6 - 6 TV - Posadas  TV - MI Misiones
+rtmp://streamlky.alsolnet.com:332/noticiasdel6sd/live
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="MI Misiones",Misiones Cuatro - 8 TV - Posadas  TV - MI Misiones
+http://streamlky.alsolnet.com/misionescuatro/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="MI Misiones",Canal 21 - 21 TV - Posadas  TV - MI Misiones
+http://iphone-streaming.ustream.tv/ustreamVideo/18595742/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="MI Misiones",TVM - 27 TV - Posadas  TV - MI Misiones
+http://stream1.livestreamingservices.com:1935/tvmlive/tvmlive/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="NQ Neuquen",CN 24/7 - 17CTV - Neuquén - NQ Neuquen
+http://184.172.26.212:1935/cn247live/cn247live/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="RN Rio Negro",LU92 TVRionegrina 31 - 10 TV - General Roca - RN Rio Negro
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="RN Rio Negro",SAOTV - 4CTV - Sn Antonio Oeste - RN Rio Negro
+http://iphone-streaming.ustream.tv/ustreamVideo/18496605/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SA Salta",TV dos - 2 TV - Salta  TV - SA Salta
+http://iphone-streaming.ustream.tv/ustreamVideo/14249309/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SA Salta",Cable Express - 4CTV - Salta  TV - SA Salta
+http://media203.services.digitar.net:1935/canal4salta/canal4salta/index.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SA Salta",Canal 7 - 7 TV - Salta  TV - SA Salta
+http://iphone-streaming.ustream.tv/ustreamVideo/19467262/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SA Salta",Multivisión 9 - 9 TV - Salta  TV - SA Salta
+http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SA Salta",Tele 10 - 10 TV - Salta  TV - SA Salta
+http://iphone-streaming.ustream.tv/ustreamVideo/14183607/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SA Salta",Milenium TV - 17 TV - Salta  TV - SA Salta
+http://iphone-streaming.ustream.tv/ustreamVideo/18731894/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SA Salta",Salta TV - 27 TV - Salta  TV - SA Salta
+http://cdns840stu1010.shooowit.net/telemedia1live/amlst:saltatv/master.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SC Santa Cruz",TV5 - 5CTV - El Calafate - SC Santa Cruz
+http://servicioamerica.net:1935/8206/8206/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SE S del Estero",Canal Express - 4CTV - Stgo del Estero - SE S del Estero
+http://iphone-streaming.ustream.tv/ustreamVideo/18381074/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SE S del Estero",LW81 7.1 TDA - 7 TV - Stgo del Estero - SE S del Estero
+https://www.youtube.com/embed/jhpLpZKil1g?autoplay=1
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SJ San Juan",Canal 79 - CTV - San Juan  TV - SJ San Juan
+http://painel.serveron.com.br:1935/8090/8090/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SJ San Juan",LRJ518 Canal 4 - 4 TV - San Juan  TV - SJ San Juan
+http://streammax.alsolnet.com:332/canal4sanjuansd/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SJ San Juan",LV82 Canal 8 - 8 TV - San Juan  TV - SJ San Juan
+https://www.youtube.com/watch?v=SoQEO9Ta6vk
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SJ San Juan",San Juan TV - 13 TV - San Juan  TV - SJ San Juan
+https://www.youtube.com/embed/c2SlQZ_fUA4?autoplay=1
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SJ San Juan",XAMA UNSJ - 33.1 TV - San Juan  TV - SJ San Juan
+http://iphone-streaming.ustream.tv/ustreamVideo/20540361/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SJ San Juan",TL5 Telesol - 36.1 TV - San Juan  TV - SJ San Juan
+http://37.187.108.127:554/canal5telesol/radiostation.stream/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SL San Luis",LV90 San LuisTV 28.1 - 13 TV - San Luis  TV - SL San Luis
+http://iphone-streaming.ustream.tv/ustreamVideo/21717464/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="SL San Luis",Carolina Cable Color - 14CTV - San Luis  TV - SL San Luis
+http://iphone-streaming.ustream.tv/ustreamVideo/5031477/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ST Santa Fe",ACH Cable Hogar - 2CTV - Alvarez - ST Santa Fe
+http://iphone-streaming.ustream.tv/ustreamVideo/8053481/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ST Santa Fe",CL3 Cablevisión - 3CTV - Chañar Ladeado - ST Santa Fe
+http://stream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ST Santa Fe",Link TV - ITV - Esperanza - ST Santa Fe
+http://xlinktvcanalx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ST Santa Fe",TDC - CTV - Firmat - ST Santa Fe
+http://painel.serveron.com.br:1935/8166/8166/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ST Santa Fe",Litoral TV - 4 TV - Reconquista - ST Santa Fe
+http://iphone-streaming.ustream.tv/ustreamVideo/9160292/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ST Santa Fe",LT83 Canal 3 - 32.1 TV - Rosario  TV - ST Santa Fe
+https://www.youtube.com/embed/zpJQEYmQoG8?autoplay=1
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ST Santa Fe",Telecable - 2CTV - San J del Rincón - ST Santa Fe
+http://iphone-streaming.ustream.tv/ustreamVideo/18217253/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ST Santa Fe",Canal 69 - 69 TV - Santa Eufemia - ST Santa Fe
+http://servicioamerica.net:1935/8498/8498/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ST Santa Fe",Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ST Santa Fe",Litus TV - 28.1 TV - Santa Fe  TV - ST Santa Fe
+https://www.youtube.com/embed/SndnXGL1T1E?autoplay=1
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="ST Santa Fe",Canal 12 - 12 TV - Venado Tuerto - ST Santa Fe
+http://iphone-streaming.ustream.tv/ustreamVideo/4818914/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="TU Tucuman",TN5 Supercanal - 5CTV - San M de Tucuman - TU Tucuman
+http://5.9.59.236:1935/golive/59_179_live/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="TU Tucuman",Norte TV - 7 TV - San M de Tucuman - TU Tucuman
+http://5.9.59.236:1935/golive/59_305_live/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="TU Tucuman",LRK458 TV Canal 8 - 8 TV - San M de Tucuman - TU Tucuman
+https://www.youtube.com/embed/KN8symJGUpQ?autoplay=1
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="TU Tucuman",LW83 C10 28.1 - 10 TV - San M de Tucuman - TU Tucuman
+http://usasec.fankytv.com/livesec//canal10tuc.stream/playlist.m3u8?cp=/livesec//canal10tuc.stream/*&cf=1444608743&e=1444579958&h=d3c492112c598f2aa1e29fe711458426
+#EXTINF:-1 group-title="IPTV-ARGENTINA", group-title="TU Tucuman",Metro TV - 12 TV - San M de Tucuman - TU Tucuman
+http://5.9.59.236:1935/golive/59_186_live/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch1/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch2/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch3/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch4/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch5/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch6/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch7/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch8/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch9/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch10/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch11/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch12/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch13/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch14/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA",I CH15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch15/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch16/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch17/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA",I CH18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch18/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch19/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch20/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch21/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch22/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch23/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch24/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch25/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch26/full.m3u8
+
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CH27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch27/full.m3u8
