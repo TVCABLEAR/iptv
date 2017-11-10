@@ -1,10 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/7/16/24/2222976.jpg",[COLOR DODGERBLUE] [/COLOR] *LISTA REMOTA CINEARGTV*
-http://streaming203.radionomy.com:80/City-Dance-Rad
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--eoTYDMKEOk/Wfnhl6J2v7I/AAAAAAAAAS4/4RKW-iUo2nsq3V4n2kBiJsY1sbJdErUfQCLcBGAs/s400/2017-11-01.png",[COLOR DODGERBLUE] [/COLOR]*ACTUALIZACION NOVIEMBRE*
-http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
 
 #EXTINF:0 type="video" tvg-logo="https://userscontent2.emaze.com/images/55d05c40-7f1c-444b-8bb2-cd7f034ca728/713e037d0734fa8d691f936a2539722d.png" , FOX SPORTS HD (Eventos Importantes)
 https://live11.userapi.com/637611/live/ZEABVbVCfak/playlist.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
