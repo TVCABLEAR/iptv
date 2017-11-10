@@ -3,6 +3,12 @@
 <!--https://pastebin.com/6Lq8c1hM-->
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
 #EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="TELEMUNDO" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="ENTRETENIMIENTO",TELEMUNDO (mc)
 http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/691.m3u8
 
