@@ -28,3 +28,122 @@ http://xx.cast3d.info/live/ligarincon_cyy1j05/playlist.m3u8?st=p16lbNzCfKmMuSRpa
 
 #EXTINF:-1, GOL PERU
 http://121.liveflashplayer.org:8088/zenex/fulltvhd1/playlist.m3u8?id=26853&wowzasessionid=025192644&pk=4cebfe492d003347e4e4607635f3c89a22b6741353f5fd865c8e1b236bacd780
+
+#EXTINF:-1 tvg-id="" tvg-name="CDO Basico" tvg-logo="http://www.chileiptv.xyz/logos/61.jpg" group-title="Deportes",CDO Basico
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/445.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio CDF" tvg-logo="https://image.ibb.co/cW6Zo6/64.jpg" group-title="Deportes",Estadio CDF
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1545.ts
+#EXTINF:-1 tvg-id="" tvg-name="Estadio CDF HD" tvg-logo="http://www.chileiptv.xyz/logos/64.jpg" group-title="Deportes",Estadio CDF HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/444.ts
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF PREMIUM" tvg-logo="http://www.chileiptv.xyz/logos/62.jpg" group-title="Deportes",CDF PREMIUM
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/114.ts
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF HD" tvg-logo="http://www.chileiptv.xyz/logos/63.jpg" group-title="Deportes",CDF HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/863.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDF HD 2" tvg-logo="http://www.chileiptv.xyz/logos/63.jpg" group-title="Deportes",CDF HD 2
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1350.ts
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF HD 3" tvg-logo="http://www.chileiptv.xyz/logos/63.jpg" group-title="Deportes",CDF HD 3
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1547.ts
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="Univision Deportes HD" tvg-logo="http://www.chileiptv.xyz/logos/108.jpg" group-title="Deportes",Univision Deportes HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Chile" tvg-logo="http://www.chileiptv.xyz/logos/84.jpg" group-title="Deportes",Fox Sports Chile
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/479.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD [Chile]" tvg-logo="http://www.chileiptv.xyz/logos/85.jpg" group-title="Deportes",Fox Sports HD [Chile]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/476.ts
+#EXTINF:-1 tvg-id="FoxSports1.cl" tvg-name="Fox Sports 1 HD [Chile]" tvg-logo="http://www.chileiptv.xyz/logos/86.jpg" group-title="Deportes",Fox Sports 1 HD [Chile]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/474.ts
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 HD [Chile]" tvg-logo="http://www.chileiptv.xyz/logos/87.jpg" group-title="Deportes",Fox Sports 2 HD [Chile]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/473.ts
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3 HD [Chile]" tvg-logo="http://www.chileiptv.xyz/logos/88.jpg" group-title="Deportes",Fox Sports 3 HD [Chile]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/475.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD [Mexico]" tvg-logo="" group-title="Deportes",Fox Sports 1 HD [Mexico]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD [Colombia]" tvg-logo="" group-title="Deportes",Fox Sports 2 HD [Colombia]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1535.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD [Mexico]" tvg-logo="" group-title="Deportes",Fox Sports 2 HD [Mexico]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD [Colombia]" tvg-logo="" group-title="Deportes",Fox Sports 3 HD [Colombia]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD [Mexico]" tvg-logo="" group-title="Deportes",Fox Sports 3 HD [Mexico]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD [Colombia]" tvg-logo="" group-title="Deportes",Fox Sports HD [Colombia]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1534.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports [MX]" tvg-logo="http://www.chileiptv.xyz/logos/80.jpg" group-title="Deportes",Fox Sports [MX]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 [MX]" tvg-logo="http://www.chileiptv.xyz/logos/82.jpg" group-title="Deportes",Fox Sports 2 [MX]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/58.ts
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Deportes HD" tvg-logo="http://www.chileiptv.xyz/logos/79.jpg" group-title="Deportes",Fox Deportes HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1178.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1 [BR]" tvg-logo="http://www.chileiptv.xyz/logos/89.jpg" group-title="Deportes",FOX Sports 1 [BR]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1140.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD [USA]" tvg-logo="http://www.chileiptv.xyz/logos/91.jpg" group-title="Deportes",Fox Sports 1 HD [USA]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1114.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 [BR]" tvg-logo="http://www.chileiptv.xyz/logos/90.jpg" group-title="Deportes",Fox Sports 2 [BR]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1141.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD [USA]" tvg-logo="http://www.chileiptv.xyz/logos/92.jpg" group-title="Deportes",Fox Sports 2 HD [USA]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium HD [Argentina]" tvg-logo="" group-title="Deportes",Fox Sports Premium HD [Argentina]
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1533.ts
+#EXTINF:-1 tvg-id="" tvg-name="DTV" tvg-logo="http://www.chileiptv.xyz/logos/96.jpg" group-title="Deportes",DTV
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/465.ts
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="http://www.chileiptv.xyz/logos/102.jpg" group-title="Deportes",Real Madrid TV
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/459.ts
+#EXTINF:-1 tvg-id="UFCNetwork.mx" tvg-name="UFC HD" tvg-logo="http://www.chileiptv.xyz/logos/65.jpg" group-title="Deportes",UFC HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/417.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight pass" tvg-logo="" group-title="Deportes",UFC Fight pass
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1352.ts
+#EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="Teletrak HD" tvg-logo="http://www.chileiptv.xyz/logos/106.jpg" group-title="Deportes",Teletrak HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/159.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://www.chileiptv.xyz/logos/66.jpg" group-title="Deportes",ESPN
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/41.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://www.chileiptv.xyz/logos/69.jpg" group-title="Deportes",ESPN 3
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/43.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://www.chileiptv.xyz/logos/68.jpg" group-title="Deportes",ESPN 2
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/42.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes HD" tvg-logo="" group-title="Deportes",ESPN Deportes HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1539.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="http://www.chileiptv.xyz/logos/111.jpg" group-title="Deportes",NBA TV HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/148.ts
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORTS EURASIA HD" tvg-logo="http://www.chileiptv.xyz/logos/118.jpg" group-title="Deportes",SETANTA SPORTS EURASIA HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1157.ts
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORTS PLUS HD" tvg-logo="http://www.chileiptv.xyz/logos/119.jpg" group-title="Deportes",SETANTA SPORTS PLUS HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1158.ts
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports HD" tvg-logo="http://www.chileiptv.xyz/logos/127.jpg" group-title="Deportes",Skynet Sports HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1124.ts
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 1 SD" tvg-logo="http://www.chileiptv.xyz/logos/128.jpg" group-title="Deportes",Skynet Sports 1 SD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1125.ts
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 2 SD" tvg-logo="http://www.chileiptv.xyz/logos/129.jpg" group-title="Deportes",Skynet Sports 2 SD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1126.ts
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 3 SD" tvg-logo="http://www.chileiptv.xyz/logos/130.jpg" group-title="Deportes",Skynet Sports 3 SD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1127.ts
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 4 SD" tvg-logo="http://www.chileiptv.xyz/logos/131.jpg" group-title="Deportes",Skynet Sports 4 SD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1128.ts
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sports 5 SD" tvg-logo="http://www.chileiptv.xyz/logos/132.jpg" group-title="Deportes",Skynet Sports 5 SD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1129.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR VIP: Bein Sport 2 HD (Backup)" tvg-logo="" group-title="",AR VIP: Bein Sport 2 HD (Backup)
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1419.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR VIP: Bein Sport 3 HD (Backup)" tvg-logo="" group-title="",AR VIP: Bein Sport 3 HD (Backup)
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1418.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR VIP: Bein Sport 4 HD (Backup)" tvg-logo="" group-title="",AR VIP: Bein Sport 4 HD (Backup)
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1417.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR VIP: Bein Sport 6 HD (Backup)" tvg-logo="" group-title="",AR VIP: Bein Sport 6 HD (Backup)
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1415.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR VIP: Bein Sport 7 HD (Backup)" tvg-logo="" group-title="",AR VIP: Bein Sport 7 HD (Backup)
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1414.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR VIP: Bein Sport 8 HD (Backup)" tvg-logo="" group-title="",AR VIP: Bein Sport 8 HD (Backup)
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1413.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR VIP: Bein Sport 9 HD (Backup)" tvg-logo="" group-title="",AR VIP: Bein Sport 9 HD (Backup)
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1412.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: FOX SPORTS 1 SUR" tvg-logo="" group-title="",AR: FOX SPORTS 1 SUR
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1364.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: FOX SPORTS 3 SUR  *" tvg-logo="" group-title="",AR: FOX SPORTS 3 SUR  *
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1362.ts
+#EXTINF:-1 tvg-id="" tvg-name="AyM Sports HD" tvg-logo="" group-title="Deportes",AyM Sports HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1492.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge HD" tvg-logo="" group-title="Internacionales",Golden Edge HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1518.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sport HD" tvg-logo="" group-title="Deportes",ES: Bein Sport HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1386.ts
+#EXTINF:-1 tvg-id="" tvg-name="DTV + HD" tvg-logo="" group-title="Deportes",DTV + HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1369.ts
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sport 2 HD" tvg-logo="" group-title="Deportes",Directv Sport 2 HD
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/1370.ts
