@@ -1,0 +1,1591 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/7/16/24/2222976.jpg",[COLOR DODGERBLUE] [/COLOR] *LISTA REMOTA CINEARGTV*
+http://streaming203.radionomy.com:80/City-Dance-Rad
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--eoTYDMKEOk/Wfnhl6J2v7I/AAAAAAAAAS4/4RKW-iUo2nsq3V4n2kBiJsY1sbJdErUfQCLcBGAs/s400/2017-11-01.png",[COLOR DODGERBLUE] [/COLOR]*ACTUALIZACION NOVIEMBRE*
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:0 type="video" tvg-logo="https://userscontent2.emaze.com/images/55d05c40-7f1c-444b-8bb2-cd7f034ca728/713e037d0734fa8d691f936a2539722d.png" , FOX SPORTS HD (Eventos Importantes)
+https://live11.userapi.com/637611/live/ZEABVbVCfak/playlist.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:0 type="video" tvg-logo="https://userscontent2.emaze.com/images/55d05c40-7f1c-444b-8bb2-cd7f034ca728/713e037d0734fa8d691f936a2539722d.png" , CDF hd (Eventos Importantes)
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1584.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TdloX7UFIKM/hqdefault.jpg",[COLOR DODGERBLUE] [/COLOR]*LIGA ARGENTINA*
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-logo="http://guillermopanizza.com.ar/beta/wp-content/uploads/2017/07/TNT-Sports-logo.png",[COLOR TRANSPARENT] [/COLOR]TNT SPORTS (PL)
+http://live.tvplayerlatino.com/streaming/src5/ITzba?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-logo="http://guillermopanizza.com.ar/beta/wp-content/uploads/2017/07/TNT-Sports-logo.png",[COLOR TRANSPARENT] [/COLOR]TNT SPORTS (G)
+http://149.56.46.135/live/web/GMdrt5qOwLa/9.m3u8
+
+#EXTINF:-1 tvg-logo="http://guillermopanizza.com.ar/beta/wp-content/uploads/2017/07/TNT-Sports-logo.png",[COLOR TRANSPARENT] [/COLOR]TNT SPORTS (cl)
+http://iptv61w.com:25461/live/daniel/daniel/6483.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-logo="http://guillermopanizza.com.ar/beta/wp-content/uploads/2017/07/TNT-Sports-logo.png",[COLOR TRANSPARENT] [/COLOR]TNT SPORTS (cl)
+http://iptv61w.com:25461/live/daniel/daniel/6484.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-logo="http://guillermopanizza.com.ar/beta/wp-content/uploads/2017/07/TNT-Sports-logo.png",[COLOR TRANSPARENT] [/COLOR]TNT SPORTS (test)
+http://tenip.x10host.com/tp.php?idcanal=TNTSports&clave=solo-10-usuarios&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_77971.png",[COLOR DODGERGREEN] [/COLOR]FOX SPORTS PREMIUM (PL)
+http://live.tvplayerlatino.com/streaming/src5/A8PA5?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_77971.png",[COLOR DODGERGREEN] [/COLOR]FOX SPORTS PREMIUM (G)
+http://149.56.46.135/live/web/GMdrt5qOwLa/13.m3u8
+
+#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_77971.png",[COLOR DODGERGREEN] [/COLOR]FOX SPORTS PREMIUM (cl)
+http://iptv61w.com:25461/live/daniel/daniel/6475.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_77971.png",[COLOR DODGERGREEN] [/COLOR]FOX SPORTS PREMIUM (C)
+https://live.tutvplay.com/CH/Snp3cFJSeUhDU2lTc3EwbTZHb2hrNmRhbzM2VlVtSnhqaGlzTGI0Z2VkWT0=/Fox-Sports-Premium.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TdloX7UFIKM/hqdefault.jpg",[COLOR RED][/COLOR]*DEPORTES CHILE*
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-id="ESTADIO CDF" tvg-name="ESTADIO CDF" tvg-logo="https://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png" group-title="DEPORTES - SPORTS",[COLOR RED][/COLOR]ESTADIO CDF (cl)
+http://iptv61w.com:25461/live/daniel/daniel/6164.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="ESTADIO CDF" tvg-name="ESTADIO CDF" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_8435_2_27313.png" group-title="DEPORTES - SPORTS",[COLOR RED][/COLOR] CDF BASICO (cl) 
+http://iptv61w.com:25461/live/daniel/daniel/3679.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="CDF SPORTS" tvg-name="CDF SPORTS" tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="DEPORTES - SPORTS",[COLOR RED][/COLOR]CDF PREMIUM HD(cl)
+http://iptv61w.com:25461/live/daniel/daniel/3933.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="CDF SPORTS" tvg-name="CDF SPORTS" tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="DEPORTES - SPORTS",[COLOR RED][/COLOR]CDF PREMIUM FHD(cl)
+http://iptv61w.com:25461/live/daniel/daniel/3934.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="CDF SPORTS" tvg-name="CDF SPORTS" tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="DEPORTES - SPORTS",[COLOR RED][/COLOR]CDF PREMIUM FHD(cl)
+http://iptv61w.com:25461/live/daniel/daniel/3680.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="CDF SPORTS" tvg-name="CDF SPORTS" tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="DEPORTES - SPORTS",[COLOR RED][/COLOR]CDF PREMIUM (test)
+http://tenip.x10host.com/tp.php?idcanal=CDFPremium&clave=solo-10-usuarios&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="CDF SPORTS" tvg-name="CDF SPORTS" tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="DEPORTES - SPORTS",[COLOR RED][/COLOR]CDF PREMIUM (PL)
+http://live.tvplayerlatino.com/streaming/src5/CDFPremium?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TdloX7UFIKM/hqdefault.jpg",[COLOR DODGERBLUE][/COLOR]*CINEARGTV.BLOGSPOT.COM*
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TdloX7UFIKM/hqdefault.jpg",***TV ARGENTINA***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-NfB9-hzQ1wY/To-6EZ_QBrI/AAAAAAAAAlY/JGSF36U7s90/s1600/canal+4+jujuy.jpg",CANAL 4 JUJUY (*)
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png",CANAL 9 (W)
+http://ar.watcha.live/ch5/full.m3u8|User-agent=iPhone
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png",CANAL 9 (C)
+http://iptv.cserver.nu:9922/live/juansl/ZtewErkVka/16.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Telefe_Logo.svg/2000px-Telefe_Logo.svg.png",TELEFE (C)
+http://iptv.cserver.nu:9922/live/juansl/ZtewErkVka/12.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Telefe_Logo.svg/2000px-Telefe_Logo.svg.png",TELEFE (V)
+http://144.217.79.29:25461/live/vidal/vidal/2500.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Telefe_Logo.svg/2000px-Telefe_Logo.svg.png",TELEFE (W)
+http://ar.watcha.live/ch6/full.m3u8|User-agent=iPhone
+
+#EXTINF:-1 tvg-logo="http://www.agenciacta.org/IMG/jpg/TvPublicaLogo.jpg",TV PUBLICA (W)
+http://ar.watcha.live/ch4/full.m3u8|User-agent=iPhone
+
+#EXTINF:-1 tvg-logo="http://www.agenciacta.org/IMG/jpg/TvPublicaLogo.jpg",TV PUBLICA (C)
+http://iptv.cserver.nu:9922/live/juansl/ZtewErkVka/17.ts
+
+#EXTINF:-1 tvg-logo="http://www.agenciacta.org/IMG/jpg/TvPublicaLogo.jpg",TV PUBLICA (*)
+http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/chunklist.ts|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="http://www.agenciacta.org/IMG/jpg/TvPublicaLogo.jpg",TV PUBLICA (*)
+http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.ts|User-Agent=iPhone#bsfx
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_02/large.15894856_1597949680220611_323754753860807496_n.jpg.ef41cf0b817ab344248174a80c035769.jpg",AMERICA (W)
+http://ar.watcha.live/ch3/full.m3u8|User-agent=iPhone
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_02/large.15894856_1597949680220611_323754753860807496_n.jpg.ef41cf0b817ab344248174a80c035769.jpg",AMERICA (G)
+http://149.56.46.135/live/web/GMdrt5qOwLa/1.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Tzh2xMEeh2A/Vl9k3Pxdz4I/AAAAAAAAAKk/_KWFcMW8GzI/s1600/Cronica.png",CRONICA (cl)
+http://iptv61w.com:25461/live/daniel/daniel/6470.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Tzh2xMEeh2A/Vl9k3Pxdz4I/AAAAAAAAAKk/_KWFcMW8GzI/s1600/Cronica.png",CRONICA (W)
+http://ar.watcha.live/ch18/lo.ts|User-agent=iPhone
+
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/9/91/Logo_a24.jpg/revision/latest?cb=20120329214913",A24 (C)
+http://iptv.cserver.nu:9922/live/juansl/ZtewErkVka/39.ts
+
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/9/91/Logo_a24.jpg/revision/latest?cb=20120329214913",A24 (W)
+http://ar.watcha.live/ch2/full.m3u8|User-agent=iPhone
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/applications/core/interface/imageproxy/imageproxy.php?img=http://i.imgur.com/HFGGwWi.png&key=337299aaf9e8fb38d471732a1de182bf62dbac652ab4d17f5ae20ea55fe3bda1",KZO (Y)
+https://www.youtube.com/watch?v=9Jdx_JAZ8eY
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/_YkZZPo1aKZU/SSnlXN_t85I/AAAAAAAAGno/ICpSoajsnN8/s400/canal13-2.gif",EL TRECE (C)
+https://live.tutvplay.com/CH/Z0MwRDlQSVJZNzBWN0U4dGh5YllqZz09/El-Trece.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/_YkZZPo1aKZU/SSnlXN_t85I/AAAAAAAAGno/ICpSoajsnN8/s400/canal13-2.gif",EL TRECE (cl)
+http://iptv61w.com:25461/live/daniel/daniel/6472.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/_YkZZPo1aKZU/SSnlXN_t85I/AAAAAAAAGno/ICpSoajsnN8/s400/canal13-2.gif",EL TRECE (W)
+http://ar.watcha.live/ch7/full.m3u8|User-agent=iPhone
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-d0WQfjhe5yA/ULgFqt1rKnI/AAAAAAAAXoY/_6BhXfw9-DY/s1600/tn.png",TN (C)
+http://iptv.cserver.nu:9922/live/juansl/ZtewErkVka/90.ts
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-d0WQfjhe5yA/ULgFqt1rKnI/AAAAAAAAXoY/_6BhXfw9-DY/s1600/tn.png",TN (D)
+http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/Playlist.ts|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-d0WQfjhe5yA/ULgFqt1rKnI/AAAAAAAAXoY/_6BhXfw9-DY/s1600/tn.png",TN (Y)
+https://www.youtube.com/watch?v=0tek2aa8hAQ
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-d0WQfjhe5yA/ULgFqt1rKnI/AAAAAAAAXoY/_6BhXfw9-DY/s1600/tn.png",TN (V)
+http://144.217.79.29:25461/live/vidal/vidal/2503.ts
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_YkZZPo1aKZU/TKY48EDUu2I/AAAAAAAAOM4/PPrCANWVNR0/s1600/C5N-2010.gif",C5N (C)
+https://live.tutvplay.com/CH/cVNSY2tYTkVBeGRCYzd2SDJsUGZ2UT09/C5N.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_YkZZPo1aKZU/TKY48EDUu2I/AAAAAAAAOM4/PPrCANWVNR0/s1600/C5N-2010.gif",C5N (W)
+http://ar.watcha.live/ch1/hi.m3u8|User-Agent: iphone
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png",CANAL 26
+http://200.115.193.177/live/26hd-720/.ts
+
+#EXTINF:-1 tvg-logo="http://www.blog.xmundo.net/wp-content/uploads/2011/07/360tv-logo-200x200.png",360 TV
+http://ar.watcha.live/ch12/full.m3u8|User-Agent: iphone
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TdloX7UFIKM/hqdefault.jpg" group-title="z-omitir",***ENTRETENIMIENTO***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://dwactive.files.wordpress.com/2015/04/dw-logo_circles_turq.png" group-title="ENTRETENIMIENTO",DW (AM)
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.ts
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://dwactive.files.wordpress.com/2015/04/dw-logo_circles_turq.png" group-title="ENTRETENIMIENTO",DW (AM)
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.ts?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/7/78/Med_gallery_6423_7_1320.png/revision/latest?cb=20151110223245" group-title="ENTRETENIMIENTO",CNN ESPAÑOL(TU)
+http://m3u.iptvla.xyz/usuarios/src5/CNNenEspanol/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://prolecenter.files.wordpress.com/2015/07/rt-logo.png" group-title="ENTRETENIMIENTO",RT (m3u)
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.ts
+
+#EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://prolecenter.files.wordpress.com/2015/07/rt-logo.png" group-title="ENTRETENIMIENTO",RT (Y)
+https://www.youtube.com/watch?v=kFpzwhYhNg4
+
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="TELEMUNDO" tvg-logo="https://www.nbcumv.com/sites/default/files/styles/shows_landing_image_height_400_300/public/images/author_created/telemundonuevayork47_wnju_show.jpg?itok=TTDfBNtj" group-title="ENTRETENIMIENTO",TELEMUNDO (RTV)
+http://144.217.181.197:25461/live/appandroid/app/691.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="TELEMUNDO" tvg-logo="https://www.nbcumv.com/sites/default/files/styles/shows_landing_image_height_400_300/public/images/author_created/telemundonuevayork47_wnju_show.jpg?itok=TTDfBNtj" group-title="ENTRETENIMIENTO",TELEMUNDO (RTV)
+http://149.56.46.135/live/web/GMdrt5qOwLa/10.m3u8
+
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="TELEMUNDO" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="ENTRETENIMIENTO",TELEMUNDO (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/691.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="ENTRETENIMIENTO",AXN (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/93.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="ENTRETENIMIENTO",AXN (mx)
+http://tests.jl.serv.net.mx/singe0.php/Channel(AXN)/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn.gif" group-title="ENTRETENIMIENTO",AXN HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/93.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="ENTRETENIMIENTO",A&E (TU)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/94.m3u8
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="ENTRETENIMIENTO",A&E (PL)
+http://live.tvplayerlatino.com/streaming/src1/a9C5z?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="ENTRETENIMIENTO",A&E HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/94.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="ENTRETENIMIENTO",Comedy Central (PL)
+http://live.tvplayerlatino.com/streaming/src1/EKlNT?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="ENTRETENIMIENTO",Comedy Central (RTV)
+http://144.217.181.197:25461/live/appandroid/app/91.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="ENTRETENIMIENTO",Comedy Central (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/91.m3u8
+
+#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="ENTRETENIMIENTO",DISCOVERY H&H (RTV)
+http://144.217.181.197:25461/live/appandroid/app/51.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="ENTRETENIMIENTO",DISCOVERY H&H (C)
+http://iptv.cserver.nu:9922/live/juansl/ZtewErkVka/176.ts
+
+#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="ENTRETENIMIENTO",DISCOVERY H&H (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/51.m3u8
+
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/74.m3u8
+
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA (RTV)
+http://144.217.181.197:25461/live/appandroid/app/74.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="MAS CHIC" tvg-name="MAS CHIC" tvg-logo="http://masideas.com/files/2015/06/MAS-CHIC.-LOGOTIPO.png" group-title="ENTRETENIMIENTO",MAS CHIC (RTV)
+http://144.217.181.197:25461/live/appandroid/app/87.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="MAS CHIC" tvg-name="MAS CHIC" tvg-logo="http://masideas.com/files/2015/06/MAS-CHIC.-LOGOTIPO.png" group-title="ENTRETENIMIENTO",MAS CHIC (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/87.m3u8
+
+#EXTINF:-1 tvg-id="TELENOVELAS" tvg-name="TELENOVELAS" tvg-logo="https://img.webme.com/pic/f/fullradios/tlnovelas-logo.jpg" group-title="ENTRETENIMIENTO",TELENOVELAS (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/72.m3u8
+
+#EXTINF:-1 tvg-id="TELENOVELAS" tvg-name="TELENOVELAS" tvg-logo="https://img.webme.com/pic/f/fullradios/tlnovelas-logo.jpg" group-title="ENTRETENIMIENTO",TELENOVELAS (RTV)
+http://144.217.181.197:25461/live/appandroid/app/72.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e-entertainment-television.gif" group-title="ENTRETENIMIENTO",E! Entertainment (PL)
+http://live.tvplayerlatino.com/streaming/src1/DhZOs?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e-entertainment-television.gif" group-title="ENTRETENIMIENTO",E! Entertainment (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/84.m3u8
+
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e-entertainment-television.gif" group-title="ENTRETENIMIENTO",E! Entertainment (RTV)
+http://144.217.181.197:25461/live/appandroid/app/84.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="ENTRETENIMIENTO",FOX (RTV)
+http://144.217.181.197:25461/live/appandroid/app/85.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="ENTRETENIMIENTO",FOX (RTV)
+http://144.217.181.197:25461/live/appandroid/app/98.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="ENTRETENIMIENTO",FOX (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/85.m3u8
+
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="ENTRETENIMIENTO",FOX (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/98.m3u8
+
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="ENTRETENIMIENTO",FOX (cl)
+http://iptv61w.com:25461/live/daniel/daniel/3752.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="ENTRETENIMIENTO",FOX ARG (QB)
+http://35.196.195.222/hls/live/channel5.m3u8
+
+#EXTINF:-1 tvg-id="GARAGE TV" tvg-name="GARAGE TV" tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/GarajeTV-Logo.jpg" group-title="ENTRETENIMIENTO",GARAGE TV (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/77.m3u8
+
+#EXTINF:-1 tvg-id="GARAGE TV" tvg-name="GARAGE TV" tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/GarajeTV-Logo.jpg" group-title="ENTRETENIMIENTO",GARAGE TV (web)
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.ts
+
+#EXTINF:-1 tvg-id="GARAGE TV" tvg-name="GARAGE TV" tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/GarajeTV-Logo.jpg" group-title="ENTRETENIMIENTO",GARAGE TV (RTV)
+http://144.217.181.197:25461/live/appandroid/app/77.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="ENTRETENIMIENTO",FOX LIFE (TU)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/75.m3u8
+
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="ENTRETENIMIENTO",Fox Life (PL)
+http://live.tvplayerlatino.com/streaming/src1/7eNpt?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="ENTRETENIMIENTO",FOX LIFE (RTV)
+http://144.217.181.197:25461/live/appandroid/app/75.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="ENTRETENIMIENTO",FX (PL)
+http://live.tvplayerlatino.com/streaming/src1/PEhC4?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="ENTRETENIMIENTO",FX (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/81.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="ENTRETENIMIENTO",FX (ftv)
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1645.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="ENTRETENIMIENTO",FX (cl)
+http://iptv61w.com:25461/live/daniel/daniel/4674.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="ENTRETENIMIENTO",FX (RTV)
+http://144.217.181.197:25461/live/appandroid/app/81.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="GOURMET" tvg-name="GOURMET" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_3698.png" group-title="ENTRETENIMIENTO",GOURMET(TU)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/188.m3u8
+
+#EXTINF:-1 tvg-id="GOURMET" tvg-name="GOURMET" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_3698.png" group-title="ENTRETENIMIENTO",GOURMET (PL)
+http://live.tvplayerlatino.com/streaming/src1/WrdYp?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="GOURMET" tvg-name="GOURMET" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_3698.png" group-title="ENTRETENIMIENTO",GOURMET (RTV)
+http://144.217.181.197:25461/live/appandroid/app/188.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony.gif" group-title="ENTRETENIMIENTO",Sony (PL)
+http://live.tvplayerlatino.com/streaming/src1/wMbZG?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony.gif" group-title="ENTRETENIMIENTO",SONY (RTV)
+http://144.217.181.197:25461/live/appandroid/app/97.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony.gif" group-title="ENTRETENIMIENTO",SONY (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/97.m3u8
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="ENTRETENIMIENTO",SyFy (PL)
+http://live.tvplayerlatino.com/streaming/src1/GU0FE?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="ENTRETENIMIENTO",SYFY (RTV)
+http://144.217.181.197:25461/live/appandroid/app/82.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="ENTRETENIMIENTO",SYFY (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/82.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="ENTRETENIMIENTO",LIFETIME (RTV)
+http://144.217.181.197:25461/live/appandroid/app/49.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="ENTRETENIMIENTO",LIFETIME (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/49.m3u8
+
+#EXTINF:-1 tvg-id="HOLA TV" tvg-name="HOLA TV" tvg-logo="http://tuotrodiario.himgs.com/imagenes/noticias/000/078/782/78838/detail_landscape/logo-holatv1.jpg?1378886676" group-title="ENTRETENIMIENTO",HOLA TV (*)
+http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.ts
+
+#EXTINF:-1 tvg-id="HOLA TV" tvg-name="HOLA TV" tvg-logo="http://tuotrodiario.himgs.com/imagenes/noticias/000/078/782/78838/detail_landscape/logo-holatv1.jpg?1378886676" group-title="ENTRETENIMIENTO",HOLA TV (RTV)
+http://144.217.181.197:25461/live/appandroid/app/89.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="HOLA TV" tvg-name="HOLA TV" tvg-logo="http://tuotrodiario.himgs.com/imagenes/noticias/000/078/782/78838/detail_landscape/logo-holatv1.jpg?1378886676" group-title="ENTRETENIMIENTO",HOLA TV (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/89.m3u8
+
+#EXTINF:-1 tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif" group-title="ENTRETENIMIENTO",TRUTV (RTV)
+http://144.217.181.197:25461/live/appandroid/app/92.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TruTV HD" tvg-name="TruTV HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif" group-title="ENTRETENIMIENTO",TRUTV (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/92.m3u8
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="ENTRETENIMIENTO",TBS Very Funny (PL)
+http://live.tvplayerlatino.com/streaming/src1/DbqPb?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="ENTRETENIMIENTO",TBS (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/73.m3u8
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="ENTRETENIMIENTO",TBS (mx)
+http://tests.jl.serv.net.mx/singe0.php/Channel(TBS)/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="ENTRETENIMIENTO",TBS (RTV)
+http://144.217.181.197:25461/live/appandroid/app/73.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="NIUMEDIA" tvg-name="NIUMEDIA" tvg-logo="https://pbs.twimg.com/profile_images/900787675220848640/sFDN-dbp.jpg" group-title="ENTRETENIMIENTO",NIUMEDIA (W)
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.ts
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TdloX7UFIKM/hqdefault.jpg",***INFANTILES***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/boomerang_logo_detalles-550x416.png" group-title="INFANTILES",BOOMERANG (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/60.m3u8
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/boomerang_logo_detalles-550x416.png" group-title="INFANTILES",BOOMERANG (RTV)
+http://144.217.181.197:25461/live/appandroid/app/60.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/boomerang_logo_detalles-550x416.png" group-title="INFANTILES",BOOMERANG (mx)
+http://tests.jl.serv.net.mx/singe0.php/Channel(BOOMERANG)/index.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="INFANTILES",CARTOON NETWORK (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/62.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="INFANTILES",CARTOON NETWORK (PL)
+http://live.tvplayerlatino.com/streaming/src1/owHw3?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="INFANTILES",CARTOON NETWORK (RTV)
+http://144.217.181.197:25461/live/appandroid/app/62.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://k32.kn3.net/8/D/E/8/3/F/637.jpg" group-title="INFANTILES",TOONCAST (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/58.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif" group-title="INFANTILES",Tooncast (PL)
+http://live.tvplayerlatino.com/streaming/src1/BNgf7?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://k32.kn3.net/8/D/E/8/3/F/637.jpg" group-title="INFANTILES",TOONCAST (RTV)
+http://144.217.181.197:25461/live/appandroid/app/58.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="http://i.televisa.com/2017/04/tiin.jpg" group-title="INFANTILES",TIIN (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/58.m3u8
+
+#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="http://i.televisa.com/2017/04/tiin.jpg" group-title="INFANTILES",TIIN (RTV)
+http://144.217.181.197:25461/live/appandroid/app/58.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="http://i.televisa.com/2017/04/tiin.jpg" group-title="INFANTILES",TIIN (RTV)
+http://144.217.181.197:25461/live/appandroid/app/200.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="INFANTILES",Discovery Kids (PL)
+http://live.tvplayerlatino.com/streaming/src1/Q99yx?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="INFANTILES",DISCOVERY KIDS (RTV)
+http://144.217.181.197:25461/live/appandroid/app/69.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="INFANTILES",DISCOVERY KIDS HD(mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/69.m3u8 
+
+#EXTINF:-1 tvg-id="NAT GEO KIDS" tvg-name="NAT GEO KIDS" tvg-logo="http://is1.mzstatic.com/image/thumb/Purple62/v4/0f/fc/68/0ffc68f7-f681-6239-c46f-61bd766c6a45/source/1200x630bb.jpg" group-title="INFANTILES",NAT GEO KIDS (C)
+http://iptv.cserver.nu:9922/live/juansl/ZtewErkVka/207.ts
+
+#EXTINF:-1 tvg-id="NAT GEO KIDS" tvg-name="NAT GEO KIDS" tvg-logo="http://is1.mzstatic.com/image/thumb/Purple62/v4/0f/fc/68/0ffc68f7-f681-6239-c46f-61bd766c6a45/source/1200x630bb.jpg" group-title="INFANTILES",NAT GEO KIDS (TU)
+http://158.69.52.43:8000/live/zonatv/zonatv/3280.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="INFANTILES",Disney Channel (PL)
+http://live.tvplayerlatino.com/streaming/src1/yr1Y7?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="INFANTILES",DISNEY CHANNEL (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/66.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="INFANTILES",DISNEY CHANNEL (RTV)
+http://144.217.181.197:25461/live/appandroid/app/66.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="INFANTILES",Disney Junior (PL)
+http://live.tvplayerlatino.com/streaming/src1/BOgKm?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="INFANTILES",DISNEY JUNIOR (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/68.m3u8 
+
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="INFANTILES",DISNEY JUNIOR (RTV)
+http://144.217.181.197:25461/live/appandroid/app/68.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="INFANTILES",Disney XD (PL)
+http://live.tvplayerlatino.com/streaming/src1/Ow853?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="INFANTILES",Disney XD (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/61.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="INFANTILES",Disney XD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/61.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NICK_Splat_Logo.png/revision/latest?cb=20111007092753" group-title="INFANTILES",NICKELODEON (RTV)
+http://144.217.181.197:25461/live/appandroid/app/64.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NICK_Splat_Logo.png/revision/latest?cb=20111007092753" group-title="INFANTILES",NICKELODEON (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/64.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NICK_Splat_Logo.png/revision/latest?cb=20111007092753" group-title="INFANTILES",Nick (PL)
+http://live.tvplayerlatino.com/streaming/src1/Q7iup?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NICK_Splat_Logo.png/revision/latest?cb=20111007092753" group-title="INFANTILES",NICK (RTV)
+http://144.217.181.197:25461/live/appandroid/app/63.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon (Nick)" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NICK_Splat_Logo.png/revision/latest?cb=20111007092753" group-title="INFANTILES",NICK (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/93.m3u8
+
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif" group-title="INFANTILES",Nick Jr (PL)
+http://live.tvplayerlatino.com/streaming/src1/DFX8y?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif" group-title="INFANTILES",NICK JR (RTV)
+http://144.217.181.197:25461/live/appandroid/app/67.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif" group-title="INFANTILES",NICK JR (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/67.m3u8
+
+#EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nicktoons.gif" group-title="INFANTILES",NICK TOONS (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/65.m3u8
+
+#EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nicktoons.gif" group-title="INFANTILES",NICK TOONS (RTV)
+http://144.217.181.197:25461/live/appandroid/app/65.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TdloX7UFIKM/hqdefault.jpg",***PELICULAS Y SERIES***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="PELÍCULAS Y SERIES",AMC HD (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/32.m3u8
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="PELÍCULAS Y SERIES",AMC (PL)
+http://live.tvplayerlatino.com/streaming/src1/fRonE?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="PELÍCULAS Y SERIES",AMC (mx)
+http://iptv61w.com:25461/live/daniel/daniel/4667.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="PELÍCULAS Y SERIES",AMC (test)
+http://tenip.x10host.com/tp.php?idcanal=AMC&clave=solo-10-usuarios&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="PELÍCULAS Y SERIES",AMC HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/32.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="The Film Zone" tvg-name="The Film Zone" tvg-logo="http://tmsimg.video.cdn.charter.com/h3/NowShowing/14988/s14988_h3_ba.png" group-title="PELÍCULAS Y SERIES",FXM (PL) 
+http://live.tvplayerlatino.com/streaming/src1/8VRfG?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="The Film Zone" tvg-name="The Film Zone" tvg-logo="http://tmsimg.video.cdn.charter.com/h3/NowShowing/14988/s14988_h3_ba.png" group-title="PELÍCULAS Y SERIES",FXM (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/34.m3u8
+
+#EXTINF:-1 tvg-id="The Film Zone" tvg-name="The Film Zone" tvg-logo="http://tmsimg.video.cdn.charter.com/h3/NowShowing/14988/s14988_h3_ba.png" group-title="PELÍCULAS Y SERIES",FXM HD (RTV) 
+http://144.217.181.197:25461/live/appandroid/app/34.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="PELÍCULAS Y SERIES",CINECANAL (PL)
+http://live.tvplayerlatino.com/streaming/src1/XwyF3?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="PELÍCULAS Y SERIES",CINECANAL (ftv)
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1707.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="PELÍCULAS Y SERIES",CINECANAL (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/30.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="PELÍCULAS Y SERIES",CINECANAL (RTV)
+http://144.217.181.197:25461/live/appandroid/app/30.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="PELÍCULAS Y SERIES",CINECANAL (cl)
+http://iptv61w.com:25461/live/daniel/daniel/4692.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="PELÍCULAS Y SERIES",CINECANAL HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/37.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="PELÍCULAS Y SERIES",CINECANAL HD (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/37.m3u8
+
+#EXTINF:-1 tvg-id="AZCINEMA" tvg-name="AZCINEMA" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_5692_6_14252.png" group-title="PELÍCULAS Y SERIES",AZCINEMA (*)
+http://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.ts
+
+#EXTINF:-1 tvg-id="AZCINEMA" tvg-name="AZCINEMA" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_5692_6_14252.png" group-title="PELÍCULAS Y SERIES",AZCINEMA (RTV)
+http://144.217.181.197:25461/live/appandroid/app/38.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="AZCINEMA" tvg-name="AZCINEMA" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_5692_6_14252.png" group-title="PELÍCULAS Y SERIES",AZCINEMA (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/38.m3u8
+
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PELÍCULAS Y SERIES",DE PELICULA (PL)
+http://live.tvplayerlatino.com/streaming/src1/syIoC?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PELÍCULAS Y SERIES",DE PELICULA (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/33.m3u8
+
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PELÍCULAS Y SERIES",DE PELICULA (RTV)
+http://144.217.181.197:25461/live/appandroid/app/33.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-dhehd.jpg" group-title="PELÍCULAS Y SERIES",DHE (TS)
+http://main.nrdtv.gq:2095/live/eduram/12345/412.ts
+
+#EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="PELÍCULAS Y SERIES",Fox Classics (PL)
+http://live.tvplayerlatino.com/streaming/src1/ulhmA?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="PELÍCULAS Y SERIES",Fox Classics (RTV)
+http://144.217.181.197:25461/live/appandroid/app/39.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="PELÍCULAS Y SERIES",Fox Classics (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/39.m3u8
+
+#EXTINF:-1 tvg-id="FOX FAMILY" tvg-name="FOX FAMILY" tvg-logo="http://2.bp.blogspot.com/-XHnOowpWbpk/VAedVYhXB2I/AAAAAAAAEIk/4YzviVLDT60/s1600/Logo%2BFox_Family.png" group-title="PELÍCULAS Y SERIES",FOX FAMILY (PL)
+http://live.tvplayerlatino.com/streaming/src5/HiIqb?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="FOX FAMILY" tvg-name="FOX FAMILY" tvg-logo="http://2.bp.blogspot.com/-XHnOowpWbpk/VAedVYhXB2I/AAAAAAAAEIk/4YzviVLDT60/s1600/Logo%2BFox_Family.png" group-title="PELÍCULAS Y SERIES",FOX FAMILY (V)
+http://144.217.79.29:25461/live/vidal/vidal/607.ts
+
+#EXTINF:-1 tvg-id="FOX FAMILY" tvg-name="FOX FAMILY" tvg-logo="http://2.bp.blogspot.com/-XHnOowpWbpk/VAedVYhXB2I/AAAAAAAAEIk/4YzviVLDT60/s1600/Logo%2BFox_Family.png" group-title="PELÍCULAS Y SERIES",FOX FAMILY (TU)
+http://m3u.iptvla.xyz/usuarios/src5/FoxFamily/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Action (RTV)
+http://144.217.181.197:25461/live/appandroid/app/42.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Action (ftv)
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1694.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Action HD (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/42.m3u8
+
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Action HD (cl)
+http://iptv61w.com:25461/live/daniel/daniel/4688.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="Fox SERIES (E)" tvg-name="Fox SERIES (E)" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1552.png.3368f8635097a2c7591feefb116bdba1.png" group-title="PELÍCULAS Y SERIES",FOX SERIES (PL)
+http://live.tvplayerlatino.com/streaming/src1/NCheB?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Fox Series" tvg-name="Fox Series" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1552.png.3368f8635097a2c7591feefb116bdba1.png" group-title="PELÍCULAS Y SERIES",FOX SERIES HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/43.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Fox Series" tvg-name="Fox Series" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1552.png.3368f8635097a2c7591feefb116bdba1.png" group-title="PELÍCULAS Y SERIES",FOX SERIES HD (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/43.m3u8
+
+#EXTINF:-1 tvg-id="Fox Series" tvg-name="Fox Series" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1552.png.3368f8635097a2c7591feefb116bdba1.png" group-title="PELÍCULAS Y SERIES",FOX SERIES HD (cl)
+http://iptv61w.com:25461/live/daniel/daniel/4686.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Movies HD (PL)
+http://live.tvplayerlatino.com/streaming/src1/pf5II?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Movies HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/41.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Movies HD (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/41.m3u8
+
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Movies HD (cl)
+http://iptv61w.com:25461/live/daniel/daniel/3718.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="PELÍCULAS Y SERIES",Fox Movies HD (cl)
+http://iptv61w.com:25461/live/daniel/daniel/4689.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="Fox COMEDY" tvg-name="Fox COMEDY" tvg-logo="http://www.beeta.es/dev/wp-content/uploads/2017/03/Optical_Open-0-00-02-24.jpg" group-title="PELÍCULAS Y SERIES",FOX COMEDY (cl)
+http://iptv61w.com:25461/live/daniel/daniel/3691.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Cinema-Logo-01.png" group-title="PELÍCULAS Y SERIES",FOX CINEMA (PL)
+http://live.tvplayerlatino.com/streaming/src1/rvTcm?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Cinema-Logo-01.png" group-title="PELÍCULAS Y SERIES",FOX CINEMA HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/40.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Cinema-Logo-01.png" group-title="PELÍCULAS Y SERIES",FOX CINEMA HD (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/40.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax (W)" tvg-name="Cinemax (W)" tvg-logo="http://puu.sh/v4w7r/70e2f9995e.png" group-title="PELÍCULAS Y SERIES",Cinemax (PL)
+http://live.tvplayerlatino.com/streaming/src1/k8MBl?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Cinemax (W)" tvg-name="Cinemax (W)" tvg-logo="http://puu.sh/v4w7r/70e2f9995e.png" group-title="PELÍCULAS Y SERIES",Cinemax HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/29.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Cinemax (W)" tvg-name="Cinemax (W)" tvg-logo="http://puu.sh/v4w7r/70e2f9995e.png" group-title="PELÍCULAS Y SERIES",Cinemax HD (mx)
+http://tests.jl.serv.net.mx/singe0.php/Channel(CINEMAX_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax (W)" tvg-name="Cinemax (W)" tvg-logo="http://puu.sh/v4w7r/70e2f9995e.png" group-title="PELÍCULAS Y SERIES",Cinemax HD (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/29.m3u8
+
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif" group-title="PELÍCULAS Y SERIES",EDGE (PL)
+http://live.tvplayerlatino.com/streaming/src1/QfuWa?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="EDGE" tvg-name="EDGE" tvg-logo="http://1.bp.blogspot.com/-ZTK9I53pH_8/Vk6DN7lIfeI/AAAAAAAAAnM/mFKDrAl0gnc/s1600/goldenedge.png" group-title="PELÍCULAS Y SERIES",EDGE (RTV)
+http://144.217.181.197:25461/live/appandroid/app/28.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="EDGE" tvg-name="EDGE" tvg-logo="http://1.bp.blogspot.com/-ZTK9I53pH_8/Vk6DN7lIfeI/AAAAAAAAAnM/mFKDrAl0gnc/s1600/goldenedge.png" group-title="PELÍCULAS Y SERIES",EDGE (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/28.m3u8
+
+#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif" group-title="PELÍCULAS Y SERIES",GOLDEN HD (PL)
+http://live.tvplayerlatino.com/streaming/src1/PLMti?ZGtkYwVmZQR1ZQLlZQVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQLlZQVm
+
+#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif" group-title="PELÍCULAS Y SERIES",Golden HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/35.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif" group-title="PELÍCULAS Y SERIES",Golden HD (cl)
+http://iptv61w.com:25461/live/daniel/daniel/4684.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="https://mediacache.homeimprovementpages.com.au/creative/galleries/1415001_1420000/1418506/original_images/1130671.jpg?v=" group-title="PELÍCULAS Y SERIES",Golden PLUS (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/35.m3u8
+
+#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="https://mediacache.homeimprovementpages.com.au/creative/galleries/1415001_1420000/1418506/original_images/1130671.jpg?v=" group-title="PELÍCULAS Y SERIES",Golden PLUS (D)
+http://158.69.52.43:8000/live/zonatv/zonatv/122.m3u8
+
+#EXTINF:-1 tvg-id="Golden PREMIER" tvg-name="Golden PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-.jpg" group-title="PELÍCULAS Y SERIES",Golden PREMIER (TU)
+http://gratis.iptvcanales.com/~ifkpxwth/J02/60.m3u8|user-agent=Lavf/57.71.100
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",SPACE (PL)
+http://live.tvplayerlatino.com/streaming/src1/qQIPI?ZGtkYwVmZQR1ZQLlZQVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQLlZQVm
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",SPACE (BOX)
+http://186.103.216.85:85/m/p3.php?id=130&type=m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",SPACE (cl)
+http://iptv61w.com:25461/live/daniel/daniel/4674.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",SPACE (RTV)
+http://144.217.181.197:25461/live/appandroid/app/31.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="PELÍCULAS Y SERIES",SPACE (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/31.m3u8
+
+#EXTINF:-1 tvg-id="MULTI PREMIERE" tvg-name="MULTI PREMIERE" tvg-logo="https://vignette2.wikia.nocookie.net/doblaje/images/f/f2/Fotomultipremier.png/revision/latest?cb=20160114210008&path-prefix=es" group-title="PELÍCULAS Y SERIES",MULTI PREMIERE (TU)
+http://m3u.iptvla.xyz/usuarios/src5/MultiPremier/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://vignette4.wikia.nocookie.net/trueblood/images/8/88/Logo-HBO.png/revision/latest?cb=20141126012851" group-title="PELÍCULAS Y SERIES",HBO (PL)
+http://live.tvplayerlatino.com/streaming/src5/YStPQ?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://vignette4.wikia.nocookie.net/trueblood/images/8/88/Logo-HBO.png/revision/latest?cb=20141126012851" group-title="PELÍCULAS Y SERIES",HBO (ftv)
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1643.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://vignette4.wikia.nocookie.net/trueblood/images/8/88/Logo-HBO.png/revision/latest?cb=20141126012851" group-title="PELÍCULAS Y SERIES",HBO LATINO(RTV)
+http://144.217.181.197:25461/live/appandroid/app/126.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://vignette4.wikia.nocookie.net/trueblood/images/8/88/Logo-HBO.png/revision/latest?cb=20141126012851" group-title="PELÍCULAS Y SERIES",HBO LATINO(cl)
+http://iptv61w.com:25461/live/daniel/daniel/6203.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2011/07/logo_hbo2.jpg" group-title="PELÍCULAS Y SERIES",HBO 2 HD (PL)
+http://live.tvplayerlatino.com/streaming/src5/chbo2?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2011/07/logo_hbo2.jpg" group-title="PELÍCULAS Y SERIES",HBO 2 HD (ftv)
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1642.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2011/07/logo_hbo2.jpg" group-title="PELÍCULAS Y SERIES",HBO 2 HD(RTV)
+http://144.217.181.197:25461/live/appandroid/app/128.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2011/07/logo_hbo2.jpg" group-title="PELÍCULAS Y SERIES",HBO 2 HD(cl)
+http://iptv61w.com:25461/live/daniel/daniel/6204.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="http://www.impulsotv.com.ar/sites/default/files/canales/logos/HBOPLUS.png" group-title="PELÍCULAS Y SERIES",HBO PLUS HD (PL)
+http://live.tvplayerlatino.com/streaming/src5/gso2W?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="http://www.impulsotv.com.ar/sites/default/files/canales/logos/HBOPLUS.png" group-title="PELÍCULAS Y SERIES",HBO PLUS HD (ftv)
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1643.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="http://www.impulsotv.com.ar/sites/default/files/canales/logos/HBOPLUS.png" group-title="PELÍCULAS Y SERIES",HBO PLUS HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/125.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PELÍCULAS Y SERIES",HBO FAMILY HD (PL)
+http://live.tvplayerlatino.com/streaming/src5/8F6CC?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PELÍCULAS Y SERIES",HBO FAMILY HD (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/127.m3u8
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PELÍCULAS Y SERIES",HBO FAMILY HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/127.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PELÍCULAS Y SERIES",HBO FAMILY HD (cl)
+http://iptv61w.com:25461/live/daniel/daniel/6202.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PELÍCULAS Y SERIES",HBO FAMILY HD (test)
+http://tenip.x10host.com/tp.php?idcanal=HBOFamily&clave=solo-10-usuarios&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="http://tudotv.tv/fotos/f17d92287fe68e4166baebd177ec1632.jpg" group-title="PELÍCULAS Y SERIES",HBO SIGNATURE HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/123.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="http://tudotv.tv/fotos/f17d92287fe68e4166baebd177ec1632.jpg" group-title="PELÍCULAS Y SERIES",HBO SIGNATURE HD (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/123.m3u8
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="http://tudotv.tv/fotos/f17d92287fe68e4166baebd177ec1632.jpg" group-title="PELÍCULAS Y SERIES",HBO SIGNATURE HD (cl)
+http://iptv61w.com:25461/live/daniel/daniel/6201.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="PELÍCULAS Y SERIES", MAX PRIME (PL)
+http://live.tvplayerlatino.com/streaming/src5/iBdQU?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="PELÍCULAS Y SERIES", MAX PRIME (cl)
+http://iptv61w.com:25461/live/daniel/daniel/3800.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="PELÍCULAS Y SERIES", MAX PRIME (cl)
+http://iptv61w.com:25461/live/daniel/daniel/3721.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="PELÍCULAS Y SERIES", MAX PRIME (test)
+http://tenip.x10host.com/tp.php?idcanal=MaxPrime&clave=solo-10-usuarios&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516" group-title="PELÍCULAS Y SERIES", MAX UP (cl)
+http://iptv61w.com:25461/live/daniel/daniel/3720.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="PELÍCULAS Y SERIES",Studio Universal (PL)
+http://live.tvplayerlatino.com/streaming/src1/CZ6O4?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="PELÍCULAS Y SERIES",STUDIO UNIVERSAL (RTV)
+http://144.217.181.197:25461/live/appandroid/app/25.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="PELÍCULAS Y SERIES",STUDIO UNIVERSAL (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/25.m3u8
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="PELÍCULAS Y SERIES",TNT SERIES (PL)
+http://live.tvplayerlatino.com/streaming/src1/9HmKY?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="PELÍCULAS Y SERIES",TNT Series (RTV)
+http://144.217.181.197:25461/live/appandroid/app/79.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="PELÍCULAS Y SERIES",TNT SERIES (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/79.m3u8
+
+#EXTINF:-1 tvg-id="TNT " tvg-name="TNT " tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/tnt_2016_logo.jpg" group-title="PELÍCULAS Y SERIES",TNT (PL)
+http://live.tvplayerlatino.com/streaming/src1/uny6i?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="TNT " tvg-name="TNT " tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/tnt_2016_logo.jpg" group-title="PELÍCULAS Y SERIES",TNT (mx)
+http://tests.jl.serv.net.mx/singe0.php/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT " tvg-name="TNT " tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/tnt_2016_logo.jpg" group-title="PELÍCULAS Y SERIES",TNT (*)
+https://futargentinasp-lh.akamaihd.net/i/tntSD_1@528891/master.m3u8?
+
+#EXTINF:-1 tvg-id="TNT " tvg-name="TNT " tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/tnt_2016_logo.jpg" group-title="PELÍCULAS Y SERIES",TNT (QB)
+http://35.196.195.222/hls/live/channel8.m3u8
+
+#EXTINF:-1 tvg-id="TNT " tvg-name="TNT " tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/tnt_2016_logo.jpg" group-title="PELÍCULAS Y SERIES",TNT (RTV)
+http://144.217.181.197:25461/live/appandroid/app/36.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TNT " tvg-name="TNT " tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/tnt_2016_logo.jpg" group-title="PELÍCULAS Y SERIES",TNT (RTV)
+http://144.217.181.197:25461/live/appandroid/app/174.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TNT " tvg-name="TNT " tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/tnt_2016_logo.jpg" group-title="PELÍCULAS Y SERIES",TNT (*)
+http://144.217.85.216/streams/src3/lk.m3u8?mxg=U2FsdGVkX1%2BMV2vWTZHhO2IJ%2BYcSI%2F3m0VgLXi4yS4RZhWvfvOoGVBJX23tfdtnxq0%2FsAxNUu8SN2XSPseNTbg%3D%3D
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="PELÍCULAS Y SERIES",TCM (PL)
+http://live.tvplayerlatino.com/streaming/src1/7x3AE?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="PELÍCULAS Y SERIES",TCM (RTV)
+http://144.217.181.197:25461/live/appandroid/app/23.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="PELÍCULAS Y SERIES",TCM (mx)
+http://tests.jl.serv.net.mx/singe0.php/Channel(TCM)/index.m3u8
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="PELÍCULAS Y SERIES",TCM (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/23.m3u8
+
+#EXTINF:-1 tvg-id="ISAT" tvg-name="ISAT" tvg-logo="http://www.lateledelacoope.com.ar/images/cinesseries/isat.png" group-title="PELÍCULAS Y SERIES",ISAT (PL)
+http://live.tvplayerlatino.com/streaming/src1/r7Ohf?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="ISAT" tvg-name="ISAT" tvg-logo="http://www.lateledelacoope.com.ar/images/cinesseries/isat.png" group-title="PELÍCULAS Y SERIES",ISAT (RTV)
+http://144.217.181.197:25461/live/appandroid/app/24.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="ISAT" tvg-name="ISAT" tvg-logo="http://www.lateledelacoope.com.ar/images/cinesseries/isat.png" group-title="PELÍCULAS Y SERIES",ISAT (mx)
+http://tests.jl.serv.net.mx/singe0.php/Channel(ISAT)/index.m3u8
+
+#EXTINF:-1 tvg-id="ISAT" tvg-name="ISAT" tvg-logo="http://www.lateledelacoope.com.ar/images/cinesseries/isat.png" group-title="PELÍCULAS Y SERIES",ISAT (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/24.m3u8
+
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="PELÍCULAS Y SERIES",UNIVERSAL CHANNEL (PL)
+http://live.tvplayerlatino.com/streaming/src1/nfdUc?ZGtkYwVmZQR1ZQLlZQVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQLlZQVm
+
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="PELÍCULAS Y SERIES",UNIVERSAL CHANNEL (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/95.m3u8
+
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="PELÍCULAS Y SERIES",UNIVERSAL CHANNEL (RTV)
+http://144.217.181.197:25461/live/appandroid/app/95.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif" group-title="PELÍCULAS Y SERIES",Warner HD (PL)
+http://live.tvplayerlatino.com/streaming/src1/SO0M3?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif" group-title="PELÍCULAS Y SERIES",WARNER HD (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/96.m3u8
+
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif" group-title="PELÍCULAS Y SERIES",WARNER HD (mx)
+http://tests.jl.serv.net.mx/singe0.php/Channel(WARNER)/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif" group-title="PELÍCULAS Y SERIES",WARNER HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/96.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.design7studio.com/wp-content/uploads/2008/12/thumb_paramount-logo.jpg" group-title="PELICULAS Y SERIES", PARAMOUNT (RTV)
+http://144.217.181.197:25461/live/appandroid/app/172.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.design7studio.com/wp-content/uploads/2008/12/thumb_paramount-logo.jpg" group-title="PELICULAS Y SERIES", PARAMOUNT (mc)
+http://144.217.181.197:25461/live/micineroxtvplusPXa7E3EBvACNaJmqjRej/micinemicinemicinephohibidoladrones1234567890777/172.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.design7studio.com/wp-content/uploads/2008/12/thumb_paramount-logo.jpg" group-title="PELICULAS Y SERIES", PARAMOUNT (cl)
+http://iptv61w.com:25461/live/daniel/daniel/4543.m3u8|user-agent=iphone
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.design7studio.com/wp-content/uploads/2008/12/thumb_paramount-logo.jpg" group-title="PELICULAS Y SERIES", PARAMOUNT (ftv)
+http://195.181.162.207:25461/live/peliculas/fanstvapp/1724.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.design7studio.com/wp-content/uploads/2008/12/thumb_paramount-logo.jpg" group-title="PELICULAS Y SERIES", PARAMOUNT (test)
+http://tenip.x10host.com/tp.php?idcanal=Paramount&clave=solo-10-usuarios&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--eoTYDMKEOk/Wfnhl6J2v7I/AAAAAAAAAS4/4RKW-iUo2nsq3V4n2kBiJsY1sbJdErUfQCLcBGAs/s400/2017-11-01.png",*PELICULAS YOUTUBE EN VIVO*
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-id="JEEPERS CREEPERS 3:CATHEDRAL" tvg-name="JEEPERS CREEPERS 3:CATHEDRAL" tvg-logo="https://www.workinghomeguide.com/wp-content/uploads/2012/05/youtube-tv-logo.jpg" group-title="PELÍCULAS",Peliculas en vivo 24/7
+https://www.youtube.com/watch?v=lItk5IePR2U
+
+#EXTINF:-1 tvg-id="JEEPERS CREEPERS 3:CATHEDRAL" tvg-name="JEEPERS CREEPERS 3:CATHEDRAL" tvg-logo="https://www.workinghomeguide.com/wp-content/uploads/2012/05/youtube-tv-logo.jpg" group-title="PELÍCULAS",Peliculas en vivo 24/7
+https://www.youtube.com/watch?v=zpTkScJHHno
+
+#EXTINF:-1 tvg-id="JEEPERS CREEPERS 3:CATHEDRAL" tvg-name="JEEPERS CREEPERS 3:CATHEDRAL" tvg-logo="https://www.workinghomeguide.com/wp-content/uploads/2012/05/youtube-tv-logo.jpg" group-title="PELÍCULAS",Peliculas en vivo 24/7
+https://www.youtube.com/watch?v=hcRz29jspUk
+
+#EXTINF:-1 tvg-id="JEEPERS CREEPERS 3:CATHEDRAL" tvg-name="JEEPERS CREEPERS 3:CATHEDRAL" tvg-logo="https://www.workinghomeguide.com/wp-content/uploads/2012/05/youtube-tv-logo.jpg" group-title="PELÍCULAS",Peliculas en vivo 24/7
+https://www.youtube.com/watch?v=9qGWl_RTRq8
+
+#EXTINF:-1 tvg-id="JEEPERS CREEPERS 3:CATHEDRAL" tvg-name="JEEPERS CREEPERS 3:CATHEDRAL" tvg-logo="https://www.workinghomeguide.com/wp-content/uploads/2012/05/youtube-tv-logo.jpg" group-title="PELÍCULAS",Peliculas en vivo 24/7
+https://www.youtube.com/watch?v=0pCPe1rqcW8
+
+#EXTINF:-1 tvg-id="JEEPERS CREEPERS 3:CATHEDRAL" tvg-name="JEEPERS CREEPERS 3:CATHEDRAL" tvg-logo="https://www.workinghomeguide.com/wp-content/uploads/2012/05/youtube-tv-logo.jpg" group-title="PELÍCULAS",Peliculas en vivo 24/7
+https://www.youtube.com/watch?v=arwfuj8NnQw
+
+#EXTINF:-1 tvg-id="JEEPERS CREEPERS 3:CATHEDRAL" tvg-name="JEEPERS CREEPERS 3:CATHEDRAL" tvg-logo="https://www.workinghomeguide.com/wp-content/uploads/2012/05/youtube-tv-logo.jpg" group-title="PELÍCULAS",Peliculas en vivo 24/7
+https://www.youtube.com/watch?v=yoFlh-BmFGg
+
+#EXTINF:-1 tvg-id="JEEPERS CREEPERS 3:CATHEDRAL" tvg-name="JEEPERS CREEPERS 3:CATHEDRAL" tvg-logo="https://www.workinghomeguide.com/wp-content/uploads/2012/05/youtube-tv-logo.jpg" group-title="PELÍCULAS",Peliculas en vivo 24/7
+https://www.youtube.com/watch?v=9z6hxtdD-pw
+
+#EXTINF:-1 tvg-id="JEEPERS CREEPERS 3:CATHEDRAL" tvg-name="JEEPERS CREEPERS 3:CATHEDRAL" tvg-logo="https://www.workinghomeguide.com/wp-content/uploads/2012/05/youtube-tv-logo.jpg" group-title="PELÍCULAS",Peliculas en vivo 24/7
+https://www.youtube.com/watch?v=s2ZTPzYVVVU
+
+#EXTINF:-1 tvg-id="JEEPERS CREEPERS 3:CATHEDRAL" tvg-name="JEEPERS CREEPERS 3:CATHEDRAL" tvg-logo="https://www.workinghomeguide.com/wp-content/uploads/2012/05/youtube-tv-logo.jpg" group-title="PELÍCULAS",TRANSFORMERS 5: Peliculas en vivo 24/7
+https://www.youtube.com/watch?v=wd7pH75eRCk
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TdloX7UFIKM/hqdefault.jpg" group-title="PELÍCULAS",***PELICULAS CINEARGTV.BLOGSPOT.COM***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-id="CINEARGTV PLAYLIST" tvg-name="CINEARGTV PLAYLIST" tvg-logo="https://i.ytimg.com/vi/TdloX7UFIKM/hqdefault.jpg" group-title="PELÍCULAS",CINEARGTV PLAYLIST
+https://www.youtube.com/playlist?list=PLGxcHpRIUQ_7vzJovbQXjYuviv2LMT_nh
+
+#EXTINF:-1 tvg-id="COCO" tvg-name="COCO" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5c3e9483e01f6401/image/i9e0ee018c6450a5b/version/1489796246/image.png" group-title="PELÍCULAS",COCO
+https://www1175.playercdn.net/185/5/OZmtVqpmC4c13_Frf6h57Q/1510339063/171031/913FL23YPRXANLWYOEQ1I.mp4
+
+#EXTINF:-1 tvg-id="AUTOMATA" tvg-name="AUTOMATA" tvg-logo="http://www.easmovies.com.ar/caratulas/cajita-automata.jpg" group-title="PELÍCULAS",AUTOMATA
+https://www.youtube.com/watch?v=AzUkilxinlY
+
+#EXTINF:-1 tvg-id="GEOSTORM" tvg-name="GEOSTORM" tvg-logo="https://www.vistaalmar.es/images/ampliadas381/Geostorm-cartel.jpg" group-title="PELÍCULAS",GEOSTORM
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:450-Geostorm.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SI NO DESPIERTO" tvg-name="SI NO DESPIERTO" tvg-logo="https://1yazat78t1q1ticyv3i8g9il-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/movie169_head.png" group-title="PELÍCULAS",SI NO DESPIERTO
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:307-Before_Falli.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="LA BELLA Y LA BESTIA" tvg-name="LA BELLA Y LA BESTIA" tvg-logo="https://www.ecartelera.com/carteles/9500/9524/007_p.jpg" group-title="PELÍCULAS",LA BELLA Y LA BESTIA
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:34-La_Bella_y_la_Bestia.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="QUE LE PASO A LUNES" tvg-name="QUE LE PASO A LUNES" tvg-logo="http://www.cliver.tv/img/peliculas/1056_min.jpg" group-title="PELÍCULAS",QUE LE PASO A LUNES
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:334-Que_le_paso_a_Lunes.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="IT" tvg-name="IT" tvg-logo="http://www.retornoanime.com/wp-content/uploads/2017/03/eso_02.jpg" group-title="PELÍCULAS",IT
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:397-It.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="DEATH NOTE" tvg-name="DEATH NOTE" tvg-logo="http://ramenparados.com/wp-content/uploads/2016/09/death-note-light-up-the-new-world-2016-11-1000x600.jpg" group-title="PELÍCULAS",DEATH NOTE
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:328-Death_Note.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="ANNABELLE 2" tvg-name="ANNABELLE 2" tvg-logo="http://www.procinal.com.co/sites/default/files/imagecache/pagina_pelicula/pelicula/annabelle.jpg" group-title="PELÍCULAS",ANNABELLE 2
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:321-Annabelle_2_La_creacion.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="RAPIDOS Y FURIOSOS 8" tvg-name="RAPIDOS Y FURIOSOS 8" tvg-logo="http://image.tmdb.org/t/p/w396/iNpz2DgTsTMPaDRZq2tnbqjL2vF.jpg" group-title="PELÍCULAS",RAPIDOS Y FURIOSOS 8
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:29-Rapido_y_Furioso_8.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="EL PLANETA DE LOS SIMIOS" tvg-name="EL PLANETA DE LOS SIMIOS" tvg-logo="http://www.hobbyconsolas.com/sites/hobbyconsolas.com/public/filefield_paths/poster_simios_fecha.jpg" group-title="PELÍCULAS",EL PLANETA DE LOS SIMIOS
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:321-Annabelle_2_La_creacion.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="LA MOMIA" tvg-name="LA MOMIA" tvg-logo="http://es.web.img2.acsta.net/c_215_290/pictures/17/04/11/09/51/221611.jpg" group-title="PELÍCULAS",LA MOMIA
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:4-La_momia.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="SPIDERMAN DE REGRESO A CASA" tvg-name="SPIDERMAN DE REGRESO A CASA" tvg-logo="https://starwlog.files.wordpress.com/2017/06/nuevo-poster-de-spiderman-de-regreso-a-casa.jpg?resize=480%2C691" group-title="PELÍCULAS",SPIDERMAN DE REGRESO A CASA
+http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:0-Spider_Man_homecoming.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="LIFE VIDA INTELIGENTE" tvg-name="LIFE VIDA INTELIGENTE" tvg-logo="http://www.dosismedia.com/wp-content/uploads/2017/03/life-vida-inteligente-soundtrack.jpg" group-title="PELÍCULAS",LIFE VIDA INTELIGENTE
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:6-Life_Vida_Inteligente.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="CHIPS PATRULLA MOTORIZADA" tvg-name="CHIPS PATRULLA MOTORIZADA" tvg-logo="http://www.dosismedia.com/wp-content/uploads/2017/01/patrulla-motorizada-recargada-ch-1.jpg" group-title="PELÍCULAS",CHIPS PATRULLA MOTORIZADA
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:8-CHIPS_Patrulla_Motorizada_Recargada.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="NUNCA DIGAS SU NOMBRE" tvg-name="NUNCA DIGAS SU NOMBRE" tvg-logo="https://i0.wp.com/periodistas-es.com/wp-content/uploads/nunca-digas-su-nombre-cartel.jpg?fit=294%2C416" group-title="PELÍCULAS",NUNCA DIGAS SU NOMBRE
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:9-Nunca_digas_su_nombre.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="ALIEN COVENANT" tvg-name="ALIEN COVENANT" tvg-logo="http://www.peliculasabc.net/files/uploads/2002.jpg" group-title="PELÍCULAS",ALIEN COVENANT
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:235-Alien_Covenant.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="HUYE" tvg-name="HUYE" tvg-logo="http://www.cinevistablog.com/wp-content/uploads/2017/04/huye-get-out-pelicula-de-horror-y-misterio-exito-de-taquilla-y-en-sundance_opt2_.jpg" group-title="PELÍCULAS",HUYE
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:18-Huye.mp4/playlist.ts
+
+#EXTINF:-1 tvg-id="LA RAZON DE ESTAR CONTIGO" tvg-name="LA RAZON DE ESTAR CONTIGO" tvg-logo="http://www.rocalibros.com/archivos/imagenes/mayores/3170.jpg" group-title="PELÍCULAS",LA RAZON DE ESTAR CONTIGO
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:30-La_razon_de_estar_contigo.mp4/playlist.ts
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/doblaje/images/0/01/PREMONICIONES_POSTER.jpg/revision/latest?cb=20121112021624&path-prefix=es" group-title="PREMIER IPTV DOB",PREMONICIONES
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/922/566/106625D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="http://www.labutaca.net/peliculas/wp-content/uploads/2010/03/shanghai-cartel.jpg" group-title="PREMIER IPTV DOB",SHANGAI
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/386/894/116642D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d7/4f/48/d74f486aa4f6620af75d31bd63e1ecad.jpg" group-title="PREMIER IPTV DOB",Tmnt (Teenage Mutant Ninja Turtles)
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/697/823/118623D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-1PffDhTcTiQ/TpHqrZo4FHI/AAAAAAAATnY/oPtrk0OQgrw/s1600/El+gato+con+botas%2521.jpg" group-title="PREMIER IPTV DOB",EL GATO CON BOTAS
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/215/227/121926D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/shrink_tv_series-111189185-large.jpg" group-title="PREMIER IPTV DOB",SHRINK
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/861/891/125715D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="http://www.ciudadrealdigital.es/ARCHIVO/fotografias/peliculas/moll_flanders_el_coraje_de_una_mujer_104819134_large.jpg" group-title="PREMIER IPTV DOB",MOLL FLANDERS
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/429/715/126309D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_300_300/pictures/15/02/06/14/07/389825.jpg" group-title="PREMIER IPTV DOB",ENAMORARSE
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/126607D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="http://zonatrailer.com/wp-content/uploads/2012/01/Atraco_Por_Duplicado.jpg" group-title="PREMIER IPTV DOB",ATRACO POR DUPLICADO
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/126608D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/29/59/68/2959681e59cae44b4839e3b5917fdb13--paranormal-activity--security-camera.jpg" group-title="PREMIER IPTV DOB",ACTIVIDAD PARANORMAL 2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/33/460/127502D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/03/18/10/41/399705.jpg" group-title="PREMIER IPTV DOB",DISASTER MOVIE
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/492/227/128606D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="http://unsoloclic.info/wp-content/uploads/2011/09/The-American-2010-.jpg" group-title="PREMIER IPTV DOB",EL AMERICANO
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/199/1022/130806D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/42/95/94/4295949f9d43cc029bee0bea8f15cff2--drama-films-original-sin.jpg" group-title="PREMIER IPTV DOB",ORIGINAL SIN
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/130856D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="http://medias.unifrance.org/medias/152/218/121496/format_page/media.jpg" group-title="PREMIER IPTV DOB",LLEVAME A LA LUNA
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/158/803/132036D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="http://www.ulyssesfilms.de/tl_files/projektebilder/legens_of_valhalla/Thor%20englisch.jpg" group-title="PREMIER IPTV DOB",LEGENDS OF VALHALLA: THOR
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/985/575/132244D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/H5UxOo6vQF8/hqdefault.jpg" group-title="PREMIER IPTV DOB",VAMPS
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/132266D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://st-listas.20minutos.es/images/2017-03/420035/5146546_640px.jpg?1495812562" group-title="PREMIER IPTV DOB",SUPER
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/749/607/132295D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0HnPphiezzQ/hqdefault.jpg" group-title="PREMIER IPTV DOB",AGUAS PROFUNDAS
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/132300D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/11/17/36/478160.jpg" group-title="PREMIER IPTV DOB",THE DOUBLE
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/132301D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="http://www.easmovies.com.ar/caratulas/cajita-salvationboulevard.jpg" group-title="PREMIER IPTV DOB",SALVATION BOULEVARD
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/215/227/132304D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="http://www.labutaca.net/peliculas/wp-content/uploads/2011/08/the-son-of-no-one-cartel1.jpg" group-title="PREMIER IPTV DOB",THE SON OF ON ONE
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/132306D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/ceremony-588174383-large.jpg" group-title="PREMIER IPTV DOB",CEREMONY
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/35/523/132316D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Furry Vengeance
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/211/614/134870D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Recipe For Disaster
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/556/871/135650D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Charlie St. Cloud
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/199/1022/136725D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Get Him To The Greek
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/129/71/136731D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Last Night
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/OldFiles/136959D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",The Groomsmen
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/494/582/137124D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Kick-Ass
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/664/79/137157D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",The Monk
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/137642D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Spiders 3d
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/272/926/137666D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Hart&apos;s War
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/921/371/137848D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Open Water
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/220/247/137962D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Devil
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/792/531/137980D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",In His Life: The John Lennon Story
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/665/583/138082D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Wuthering Heights
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/527/567/138087D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Americano
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/144/291/138274D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Atomic Train
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/504/442/138528D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Haywire
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/140040D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Get The Gringo
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/140047D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Immortals
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/140049D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Thunderbolt And Lightfoot
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/359/435/140090D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Cowboys & Aliens
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/496/983/140213D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Omen
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/19/239/140389D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Bandits
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/750/347/140562D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Vallanzasca - Gli Angeli Del Male
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/140636D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Sammy&apos;s Adventures
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/OldFiles/140947D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",The Resident
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/869/431/141151D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Little Fockers
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/684/427/141156D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Megamind
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/157/823/141160D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Mean Girls 2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/41/745/141169D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",The Secret Of Moonacre
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/143894D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Rabbit Hole
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/OldFiles/143979D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4spd8q5ubhzb8vl/JC%20TV.png?dl=1" group-title="PREMIER IPTV DOB",Serendipity
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/144071D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TdloX7UFIKM/hqdefault.jpg",***DEPORTES - SPORTS***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="DEPORTES - SPORTS",TDN (PL)
+http://live.tvplayerlatino.com/streaming/src5/m1u4Q?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="DEPORTES - SPORTS",TDN (*)
+http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
+
+#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="DEPORTES - SPORTS",TDN (mx)
+http://tests.jl.serv.net.mx/singe0.php/Channel(TDN)/index.m3u8
+
+#EXTINF:-1 tvg-id="UNIVISION TDN" tvg-name="UNIVISION TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="DEPORTES - SPORTS",UNIVISION TDN (*)
+http://m3u.iptvla.xyz/usuarios/src5/UnivisionTDN/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="UNIVISION DEPORTES" tvg-name="UNIVISION DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="DEPORTES - SPORTS",UNIVISION DEPORTES (TU)
+http://m3u.iptvla.xyz/usuarios/src5/UnivisionDeportes/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="UNIVISION DEPORTES" tvg-name="UNIVISION DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="DEPORTES - SPORTS",UNIVISION DEPORTES (*)
+http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.ts
+
+#EXTINF:-1 tvg-id="UNIVISION DEPORTES" tvg-name="UNIVISION DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="DEPORTES - SPORTS",UNIVISION DEPORTES (E)
+http://tv.nousiptv.com:25462/live/Educhillan/12345/3751.ts
+
+#EXTINF:-1 tvg-id="GOL PERU" tvg-name="GOL PERU" tvg-logo="http://4.bp.blogspot.com/-nDMrh_Rhusc/VxR5UTCkL3I/AAAAAAAABeo/VN5r5Toh7VEmu5YtWk_flIazqP8xjR6NwCLcB/s300/golperu-tv-tevemania.png" group-title="DEPORTES - SPORTS",GOL PERU (V)
+http://144.217.79.223:8000/live/vidal/vidal/1469.ts
+
+#EXTINF:-1 tvg-id="GOL PERU" tvg-name="GOL PERU" tvg-logo="http://4.bp.blogspot.com/-nDMrh_Rhusc/VxR5UTCkL3I/AAAAAAAABeo/VN5r5Toh7VEmu5YtWk_flIazqP8xjR6NwCLcB/s300/golperu-tv-tevemania.png" group-title="DEPORTES - SPORTS",GOL PERU (E)
+http://tv.nousiptv.com:25462/live/Educhillan/12345/3605.ts
+
+#EXTINF:-1 tvg-id="DIRECTV SPORTS" tvg-name="DIRECTV SPORTS" tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Directv-Sports.jpeg" group-title="DEPORTES - SPORTS",DIRECTV SPORTS (BOX)
+http://186.103.216.85:85/m/p3.php?id=106&type=m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="ARENA SPORTS" tvg-name="ARENA SPORTS" tvg-logo="http://www.tvportal.rs/tvportal/platforma/arena%20mala1-m.jpg" group-title="DEPORTES - SPORTS",ARENA SPORTS HD (GS)
+http://freeiptv.geantsat.com:58888/live/free-geantsat.2017/09g10fgf2017fgvQQQ/28.ts
+
+#EXTINF:-1 tvg-id="SKY SPORTS" tvg-name="SKY SPORTS" tvg-logo="https://www.sportsjournalists.co.uk/wp-content/uploads/2015/07/sky-sports-logo.png" group-title="DEPORTES - SPORTS",SKY SPORTS HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/118.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="FOX NFL" tvg-name="FOX NFL" tvg-logo="http://static-31.sinclairstoryline.com/resources/media/f0b89506-3048-487a-8ba0-0a414fac94c1-large16x9_NFL_on_Fox16x9.png?1459805963369" group-title="DEPORTES - SPORTS",FOX NFL (RTV)
+http://144.217.181.197:25461/live/appandroid/app/143.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-logo="http://guillermopanizza.com.ar/beta/wp-content/uploads/2017/07/TNT-Sports-logo.png",TNT SPORTS (PL)
+http://live.tvplayerlatino.com/streaming/src5/ITzba?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-logo="http://guillermopanizza.com.ar/beta/wp-content/uploads/2017/07/TNT-Sports-logo.png",TNT SPORTS (G)
+http://149.56.46.135/live/web/GMdrt5qOwLa/13.m3u8
+
+#EXTINF:-1 tvg-logo="http://guillermopanizza.com.ar/beta/wp-content/uploads/2017/07/TNT-Sports-logo.png",TNT SPORTS (test)
+http://tenip.x10host.com/tp.php?idcanal=TNTSports&clave=solo-10-usuarios&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-logo="http://guillermopanizza.com.ar/beta/wp-content/uploads/2017/07/TNT-Sports-logo.png",TNT SPORTS (cl)
+http://iptv61w.com:25461/live/daniel/daniel/6483.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-logo="http://guillermopanizza.com.ar/beta/wp-content/uploads/2017/07/TNT-Sports-logo.png",TNT SPORTS (cl)
+http://iptv61w.com:25461/live/daniel/daniel/6484.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_77971.png",FOX SPORTS PREMIUM (PL)
+http://live.tvplayerlatino.com/streaming/src5/A8PA5?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_77971.png",FOX SPORTS PREMIUM (cl)
+http://iptv61w.com:25461/live/daniel/daniel/6475.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_77971.png",FOX SPORTS PREMIUM (D)
+http://104.155.179.193:8900/live/pruevaiptv/pruevaiptv/1979.m3u8
+
+#EXTINF:-1 tvg-id="CDO" tvg-name="CDO" tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="DEPORTES - SPORTS",CDO (*)
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CDO" tvg-name="CDO" tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="DEPORTES - SPORTS",CDO BASICO (cl)
+http://iptv61w.com:25461/live/daniel/daniel/3681.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="CDO" tvg-name="CDO" tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="DEPORTES - SPORTS",CDO PREMIUM (cl)
+http://iptv61w.com:25461/live/daniel/daniel/3682.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="ESTADIO CDF" tvg-name="ESTADIO CDF" tvg-logo="https://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png" group-title="DEPORTES - SPORTS",CDF PREMIUM (test)
+http://tenip.x10host.com/tp.php?idcanal=CDFPremium&clave=solo-10-usuarios&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="ESTADIO CDF" tvg-name="ESTADIO CDF" tvg-logo="https://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png" group-title="DEPORTES - SPORTS",[COLOR RED][/COLOR]ESTADIO CDF (cl)
+http://iptv61w.com:25461/live/daniel/daniel/6164.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id=" CDF" tvg-name=" CDF" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_8435_2_27313.png" group-title="DEPORTES - SPORTS",[COLOR RED][/COLOR] CDF BASICO (cl) 
+http://iptv61w.com:25461/live/daniel/daniel/3679.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="CDF SPORTS" tvg-name="CDF SPORTS" tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="DEPORTES - SPORTS",[COLOR RED][/COLOR]CDF PREMIUM HD(cl)
+http://iptv61w.com:25461/live/daniel/daniel/3933.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="CDF SPORTS" tvg-name="CDF SPORTS" tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="DEPORTES - SPORTS",[COLOR RED][/COLOR]CDF PREMIUM FHD(cl)
+http://iptv61w.com:25461/live/daniel/daniel/3934.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="CDF SPORTS" tvg-name="CDF SPORTS" tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="DEPORTES - SPORTS",[COLOR RED][/COLOR]CDF PREMIUM FHD(cl)
+http://iptv61w.com:25461/live/daniel/daniel/3680.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="CDF SPORTS" tvg-name="CDF SPORTS" tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="DEPORTES - SPORTS",CDF PREMIUM (test)
+http://tenip.x10host.com/tp.php?idcanal=CDFPremium&clave=solo-10-usuarios&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="CDF SPORTS" tvg-name="CDF SPORTS" tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="DEPORTES - SPORTS",CDF PREMIUM (PL)
+http://live.tvplayerlatino.com/streaming/src5/CDFPremium?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="BEIN SPORTS" tvg-name="BEIN SPORTS" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/bein_sports_spanish_c.png" group-title="DEPORTES - SPORTS",BEIN SPORTS Ñ (G)
+http://149.56.46.135/live/web/GMdrt5qOwLa/16.m3u8
+
+#EXTINF:-1 tvg-id="BEIN SPORTS" tvg-name="BEIN SPORTS" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/bein_sports_spanish_c.png" group-title="DEPORTES - SPORTS",BEIN SPORTS Ñ HD(cl)
+http://iptv61w.com:25461/live/daniel/daniel/5768.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="BEIN SPORTS" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="DEPORTES - SPORTS",BEIN SPORTS (G)
+http://149.56.46.135/live/web/GMdrt5qOwLa/15.m3u8
+
+#EXTINF:-1 tvg-id="BEIN SPORTS" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="DEPORTES - SPORTS",BEIN SPORTS (cl)
+http://iptv61w.com:25461/live/daniel/daniel/5738.m3u8|user-agent=iphone
+
+#EXTINF:-1 tvg-id="BEIN SPORTS" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="DEPORTES - SPORTS",BEIN SPORTS (PL)
+http://live.tvplayerlatino.com/streaming/src5/7IehH?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="BEIN SPORTS" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="DEPORTES - SPORTS",BEIN SPORTS (TS)
+http://main.nrdtv.gq:2095/live/eduram/12345/147.ts
+
+#EXTINF:-1 tvg-id="BEIN SPORTS" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="DEPORTES - SPORTS",BEIN SPORTS (*)
+http://144.217.85.216/streams/src1/lk.ts?mxg=U2FsdGVkX19lp3bJiogP93GQL8ucYISR4ptg2IeRvTAfZINzz%2FkMn61dss4ouuGRupHiJ2ZAi%2FtIXPEDZqimgw%3D%3D
+
+#EXTINF:-1 tvg-id="CLARO SPORTS" tvg-name="CLARO SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO.jpeg" group-title="DEPORTES - SPORTS",CLARO SPORTS (*)
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ifr-ckA35Yo/maxresdefault.jpg" group-title="DEPORTES - SPORTS", T Y C SPORTS PLAY (y)
+https://www.youtube.com/watch?v=dAb0gqqJLGM&c,720
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ifr-ckA35Yo/maxresdefault.jpg" group-title="DEPORTES - SPORTS", T Y C SPORTS (*)
+http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ifr-ckA35Yo/maxresdefault.jpg" group-title="DEPORTES - SPORTS", T Y C SPORTS (*)
+http://playback.bcovlive.io/de6478f6fd9a4459826ffedd62aa338e/sa-east-1/5395474896001/profile_1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ifr-ckA35Yo/maxresdefault.jpg" group-title="DEPORTES - SPORTS", T Y C SPORTS (C)
+http://iptv.cserver.nu:9922/live/juansl/ZtewErkVka/87.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ifr-ckA35Yo/maxresdefault.jpg" group-title="DEPORTES - SPORTS", T Y C SPORTS (G)
+http://149.56.46.135/live/web/GMdrt5qOwLa/8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.Deportv.png.17022f27c037a64a82793b917598ff28.png" group-title="DEPORTES - SPORTS", DEPORTV (ARG)
+http://ar.watcha.live/ch8/full.ts|User-agent=iPhone
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.Deportv.png.17022f27c037a64a82793b917598ff28.png" group-title="DEPORTES - SPORTS", DEPORTV (ARG)
+http://iptv.cserver.nu:9922/live/juansl/ZtewErkVka/623.m3u8
+
+#EXTINF:-1 tvg-id="PX SPORTS" tvg-name="PX SPORTS" tvg-logo="http://pxsports.com/wp-content/uploads/2017/03/Logo-Px-Sports-Completo-300x169.png" group-title="DEPORTES - SPORTS",PX SPORTS (G)
+http://149.56.46.135/live/web/GMdrt5qOwLa/11.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN +(TS)
+http://main.nrdtv.gq:2095/live/eduram/12345/58.ts
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN +(RTV)
+http://144.217.181.197:25461/live/appandroid/app/21.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN (ftv)
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1715.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN ARG (QB)
+http://35.196.195.222/hls/live/channel1.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN (BOX)
+http://186.103.216.85:85/m/p3.php?id=110&type=m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN (TS)
+http://main.nrdtv.gq:2095/live/eduram/12345/123.ts 
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN (RTV)
+http://144.217.181.197:25461/live/appandroid/app/16.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN (RTV)
+http://144.217.181.197:25461/live/appandroid/app/179.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 2 ARG(QB)
+http://35.196.195.222/hls/live/channel3.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 2(ftv)
+http://195.181.162.207:25461/live/deportesfans/fanstvapp/1690.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 2(RTV)
+http://144.217.181.197:25461/live/appandroid/app/15.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 2(RTV)
+http://144.217.181.197:25461/live/appandroid/app/99.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 2(RTV)
+http://144.217.181.197:25461/live/appandroid/app/178.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 3 ARG (QB)
+http://35.196.195.222/hls/live/channel7.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="DEPORTES - SPORTS",ESPN 3 (RTV)
+http://144.217.181.197:25461/live/appandroid/app/20.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports (BOX)
+http://186.103.216.85:85/m/p3.php?id=101&type=m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports CHILE (*)
+http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2Fb%2BuLDVMo4RzoXdZVKEESOo5cuiZ%2F9iYo0%2B5pl7AnFBCEvXYZfNnErMIu8MuMEUEpx%2BNJ7WcCL4A%3D%3D
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",FOX SPORTS SUR-CHILE (PL)
+http://live.tvplayerlatino.com/streaming/src5/gj84S?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",FOX SPORTS SUR-CHILE (TU)
+http://m3u.iptvla.xyz/usuarios/src5/FoxSportsSur/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",FOX DEPORTES SUR 2 (TU)
+http://m3u.iptvla.xyz/usuarios/src5/FoxSportsSur2/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",FOX SPORTS VENEZUELA (V)
+http://144.217.79.223:8000/live/vidal/vidal/2313.ts
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports ARG (LW)
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2BGZnPeRQ6kyxmbWBi8XUMP%2BWB1uLRN886mH3a8TgIIEk25T7TuFmLF1y4om7HwfTXdXSyiYTKzqg%3D%3D
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports-ARG. (QB)
+http://35.196.195.222/hls/live/channel4.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports-ARG. (G)
+http://149.56.46.135/live/web/GMdrt5qOwLa/14.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports-ARG. (G)
+http://149.56.46.135/live/web/GMdrt5qOwLa/29.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports-ARG 2(C)
+http://iptv.cserver.nu:9922/live/juansl/ZtewErkVka/622.ts
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 2 ARG(QB)
+http://35.196.195.222/hls/live/channel6.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 2(*)
+https://futargentinasp-lh.akamaihd.net/i/foxsports2SD_1@528891/master.m3u8?
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",FOX SPORTS 2 (PL)
+http://live.tvplayerlatino.com/streaming/src5/gj842?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",FOX SPORTS 2 (TU)
+http://m3u.iptvla.xyz/usuarios/src1/FoxSports2/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 2(RTV)
+http://144.217.181.197:25461/live/appandroid/app/18.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 2 CHILE(*)
+http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2FhF1CYp1twJIJNWh9CktSohPtLTBr7Fa1MNv6ISAwwg6xC9LJNIBfnnnrM2xADucXLsp%2BVRi6uXg%3D%3D
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",Fox Sports 2(V)
+http://144.217.79.223:8000/live/vidal/vidal/694.ts
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",FOX SPORTS 3 ARG (TS)
+http://iptv.cserver.nu:9922/live/juansl/ZtewErkVka/95.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",FOX SPORTS 3 (V)
+http://144.217.79.223:8000/live/vidal/vidal/601.ts
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",FOX SPORTS 3 (V)
+http://144.217.79.223:8000/live/vidal/vidal/1714.ts
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES - SPORTS",FOX SPORTS SUR 3(TU)
+http://m3u.iptvla.xyz/usuarios/src5/FoxSportsSur3/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="https://www.verizon.com/cs/groups/public/documents/adacct/img-fsp-logo-sm.png" group-title="DEPORTES - SPORTS",FOX SOCCER PLUS (V)
+http://main.nrdtv.gq:2095/live/eduram/12345/195.ts
+
+#EXTINF:-1 tvg-id="F1" tvg-name="F1" tvg-logo="http://canalf1latinamerica.com/wp-content/uploads/2015/10/logo-canal-f1-latin-america250-opac.png" group-title="DEPORTES - SPORTS",F1 (RTV)
+http://144.217.181.197:25461/live/appandroid/app/22.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="F1" tvg-name="F1" tvg-logo="http://canalf1latinamerica.com/wp-content/uploads/2015/10/logo-canal-f1-latin-america250-opac.png" group-title="DEPORTES - SPORTS",F1 (RTV)
+http://144.217.181.197:25461/live/appandroid/app/175.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="F1" tvg-name="F1" tvg-logo="http://canalf1latinamerica.com/wp-content/uploads/2015/10/logo-canal-f1-latin-america250-opac.png" group-title="DEPORTES - SPORTS",F1 (TS)
+http://main.nrdtv.gq:2095/live/eduram/12345/55.ts
+
+#EXTINF:-1 tvg-id="F1" tvg-name="F1" tvg-logo="http://canalf1latinamerica.com/wp-content/uploads/2015/10/logo-canal-f1-latin-america250-opac.png" group-title="DEPORTES - SPORTS",F1 (TS)
+http://main.nrdtv.gq:2095/live/eduram/12345/280.ts
+
+#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="http://img.mixedmartialarts.com/method=get&s=ufc-logo-new.jpg" group-title="DEPORTES - SPORTS",UFC (TU)
+http://m3u.iptvla.xyz/usuarios/src5/UFCNetwork/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="http://img.mixedmartialarts.com/method=get&s=ufc-logo-new.jpg" group-title="DEPORTES - SPORTS",UFC (*)
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.ts
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TdloX7UFIKM/hqdefault.jpg",***MUSICALES***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-id="HTV" tvg-name="HTV" tvg-logo="https://pbs.twimg.com/profile_images/738838081122541568/Xly8mKUw.jpg" group-title="MÚSICA - MUSIC",HTV(PM)
+http://158.69.52.43:8000/live/mario/2345/375.m3u8
+
+#EXTINF:-1 tvg-id="NIUMEDIA" tvg-name="NIUMEDIA" tvg-logo="http://niu.cl/wp-content/uploads/2017/07/og_default_fb.png" group-title="MÚSICA - MUSIC",NIUMEDIA(*)
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w2050214220_b1500000_slesp.ts
+
+#EXTINF:-1 tvg-id="PORTAL FOX MIX" tvg-name="PORTAL FOX MIX" tvg-logo="https://lh3.googleusercontent.com/ES7tYGu8aOdAwmOs7XhXIOhv3J_4XBXnLAIFKA3eLKNbI03Y5EmXlAk0lMiozOODGw=w300" group-title="MÚSICA - MUSIC",PORTAL FOX MIX(*)
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.ts?iptvgratis?chile.ts
+
+#EXTINF:-1 tvg-id="TIGOMUSIC" tvg-name="TIGOMUSIC" tvg-logo="https://www.tigomusic.gt/sites/all/themes/mobile/images/logo%20TM.png" group-title="MÚSICA - MUSIC",TIGO MUSIC(*)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.ts?iptvgratis?chile.ts
+
+#EXTINF:-1 tvg-id="BANDAMAX" tvg-name="BANDAMAX" tvg-logo="https://s6.postimg.org/5ggjluvkh/bandamax-logo-1.png" group-title="MÚSICA - MUSIC",BANDAMAX(TU)
+http://app.iptvultimate.com/stream/get/8?token=ZGtkYwVmZQR1ZQxlZt|user-agent=Lavf/57.71.100|token=ZGtkYwVmZQR1ZQt2A
+
+#EXTINF:-1 tvg-id="BANDAMAX" tvg-name="BANDAMAX" tvg-logo="https://s6.postimg.org/5ggjluvkh/bandamax-logo-1.png" group-title="MÚSICA - MUSIC",BANDAMAX(RTV)
+http://144.217.181.197:25461/live/appandroid/app/02.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="BANDAMAX" tvg-name="BANDAMAX" tvg-logo="https://s6.postimg.org/5ggjluvkh/bandamax-logo-1.png" group-title="MÚSICA - MUSIC",BANDAMAX(RTV)
+http://144.217.181.197:25461/live/appandroid/app/203.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="BANDAMAX" tvg-name="BANDAMAX" tvg-logo="https://s6.postimg.org/5ggjluvkh/bandamax-logo-1.png" group-title="MÚSICA - MUSIC",BANDAMAX(E)
+http://vaders.tv/live/robinyew/99819981/56612.ts
+
+#EXTINF:-1 tvg-id="RMS" tvg-name="RMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RMS.png" group-title="MÚSICA - MUSIC",RMS(RTV)
+http://144.217.181.197:25461/live/appandroid/app/03.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="RMS" tvg-name="RMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RMS.png" group-title="MÚSICA - MUSIC",RMS(RTV)
+http://158.69.52.43:25461/live/mario/2345/108.ts
+
+#EXTINF:-1 tvg-id="1CLASSIC" tvg-name="1CLASSIC" tvg-logo="http://www.livas.lv/media/vh1_classic.jpg" group-title="MÚSICA - MUSIC",1CLASSIC (RTV)
+http://144.217.181.197:25461/live/appandroid/app/04.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58fcb508ca676_MTVLiveHDlogo2017.png.01159720f1a475e19ec3347f728b11e4.png" group-title="MÚSICA - MUSIC",MTV  LIVE (E)
+http://vaders.tv/live/robinyew/99819981/56685.ts
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV Hits (RTV)
+http://144.217.181.197:25461/live/appandroid/app/05.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV Hits (PM)
+http://158.69.52.43:8000/live/mario/2345/106.m3u8
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV (TU)
+http://gratis.iptvcanales.com/~ifkpxwth/J02/69.m3u8|user-agent=Lavf/57.71.100
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV (RTV)
+http://144.217.181.197:25461/live/appandroid/app/06.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="azclik" tvg-name="azclik" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2016/11/AZ-Clic-300x200.jpg" group-title="MÚSICA - MUSIC",AZCLIC (RTV)
+http://144.217.181.197:25461/live/appandroid/app/07.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="telehits" tvg-name="telehits" tvg-logo="https://i1.wp.com/www.elarsenal.net/wp-content/uploads/2017/06/telehit_2.jpg?resize=640%2C336" group-title="MÚSICA - MUSIC",TELEHITS (RTV)
+http://144.217.181.197:25461/live/appandroid/app/08.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="telehits" tvg-name="telehits" tvg-logo="https://i1.wp.com/www.elarsenal.net/wp-content/uploads/2017/06/telehit_2.jpg?resize=640%2C336" group-title="MÚSICA - MUSIC",TELEHITS (TU)
+http://m3u.iptvla.xyz/usuarios/src1/Telehit/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV LIVE HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/07.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV LIVE HD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/10.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="MÚSICA - MUSIC",MTV LIVE HD (PM)
+http://158.69.52.43:8000/live/gonzalez/2345/102.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TdloX7UFIKM/hqdefault.jpg",***CULTURALES***
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="MUNDO Y CULTURA",ANIMAL PLANET (TU)
+http://m3u.iptvla.xyz/usuarios/src1/AnimalPlanet/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="MUNDO Y CULTURA",ANIMAL PLANET (V)
+http://144.217.79.223:8000/live/vidal/vidal/253.ts
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="MUNDO Y CULTURA",Animal Planet (PL)
+http://live.tvplayerlatino.com/streaming/src1/bEKOK?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Discovery world" tvg-name="Discovery world" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5610_7_11022.png" group-title="MUNDO Y CULTURA",DISCOVERY WORLD (E)
+http://tv.nousiptv.com:25462/live/Educhillan/12345/3081.ts
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL (ftv) 
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1708.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL (TS) 
+http://iptv.cserver.nu:9922/live/juansl/ZtewErkVka/186.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD (TS) 
+http://main.nrdtv.gq:2095/live/eduram/12345/292.ts
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL (V) 
+http://144.217.79.223:8000/live/vidal/vidal/824.ts
+
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif" group-title="MUNDO Y CULTURA",DISCOVERY CIVILIZATION (TU)
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryCivilization/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif" group-title="MUNDO Y CULTURA",DISCOVERY CIVILIZATION (ftv)
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1709.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="https://cf.press.discovery.com/ugc/logos/2016/08/16/162435/ID_Logo.jpg" group-title="ENTRETENIMIENTO",INVESTIGATION DISCOVERY (V)
+http://144.217.79.223:8000/live/vidal/vidal/2037.m3u8
+
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="https://cf.press.discovery.com/ugc/logos/2016/08/16/162435/ID_Logo.jpg" group-title="ENTRETENIMIENTO",INVESTIGATION DISCOVERY (ftv)
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1640.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="https://cf.press.discovery.com/ugc/logos/2016/08/16/162435/ID_Logo.jpg" group-title="ENTRETENIMIENTO",INVESTIGATION DISCOVERY (ftv)
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1710.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="https://cf.press.discovery.com/ugc/logos/2016/08/16/162435/ID_Logo.jpg" group-title="ENTRETENIMIENTO",INVESTIGATION DISCOVERY HD (TU)
+http://m3u.iptvla.xyz/usuarios/src1/InvestigationDiscovery/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="https://cf.press.discovery.com/ugc/logos/2016/08/16/162435/ID_Logo.jpg" group-title="ENTRETENIMIENTO",INVESTIGATION DISCOVERY (TS)
+http://main.nrdtv.gq:2095/live/eduram/12345/178.ts
+
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="https://cf.press.discovery.com/ugc/logos/2016/08/16/162435/ID_Logo.jpg" group-title="ENTRETENIMIENTO",INVESTIGATION DISCOVERY (RTV)
+http://144.217.181.197:25461/live/appandroid/app/80.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="MUNDO Y CULTURA",Discovery Theater HD (TU)
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryTheaterHD/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="MUNDO Y CULTURA",Discovery Theater HD (PL)
+http://live.tvplayerlatino.com/streaming/src1/BCSvX?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="MUNDO Y CULTURA",Discovery Turbo (TU)
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryTurbo/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="MUNDO Y CULTURA",DISCOVERY TURBO (V)
+http://144.217.79.223:8000/live/vidal/vidal/1387.ts
+
+#EXTINF:-1 tvg-id="Discovery WORLD" tvg-name="Discovery WORLD" tvg-logo="https://3.bp.blogspot.com/-CRIQIU_klEI/V0HUe4rviPI/AAAAAAAABHo/dIr2Dp49-PM22R7yz6UjAtGmJuHBS9wIwCLcB/s1600/discovery%2Bworld%2Ben%2Bvivo.png" group-title="MUNDO Y CULTURA",DISCOVERY WORLD (TU)
+http://m3u.iptvla.xyz/usuarios/src1/DiscoveryWorld/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="MUNDO Y CULTURA",DISCOVERY TURBO (ftv)
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1714.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="Discovery SCIENCE" tvg-name="Discovery SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="MUNDO Y CULTURA", DISCOVERY SCIENCE (TS)
+http://main.nrdtv.gq:2095/live/eduram/12345/50.ts
+
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="MUNDO Y CULTURA", DISCOVERY SCIENCE (TU)
+http://m3u.iptvla.xyz/usuarios/src1/DiscoverySCI/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="MUNDO Y CULTURA", DISCOVERY SCIENCE (ftv)
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1612.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="MUNDO Y CULTURA",HISTORY CHANNEL (V)
+http://144.217.79.223:8000/live/vidal/vidal/385.ts
+
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="MUNDO Y CULTURA",HISTORY CHANNEL (RTV)
+http://144.217.181.197:25461/live/appandroid/app/56.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="MUNDO Y CULTURA",HISTORY CHANNEL (TU)
+http://m3u.iptvla.xyz/usuarios/src1/HistoryChannel/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="MUNDO Y CULTURA",History Channel (PL)
+http://live.tvplayerlatino.com/streaming/src1/wQqis?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="MUNDO Y CULTURA",History Channel (ftv)
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1678.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="MUNDO Y CULTURA",History 2 (ftv)
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1644.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="MUNDO Y CULTURA",History 2 (V)
+http://144.217.79.223:8000/live/vidal/vidal/2257.ts
+
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="MUNDO Y CULTURA",History 2 (TU)
+http://m3u.iptvla.xyz/usuarios/src5/H2/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://www.gmkfreelogos.com/logos/N/img/national_geographic_channel.gif" group-title="MUNDO Y CULTURA",NATIONAL GEOGRAPHIC (RTV)
+http://144.217.181.197:25461/live/appandroid/app/50.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://www.gmkfreelogos.com/logos/N/img/national_geographic_channel.gif" group-title="MUNDO Y CULTURA",NATIONAL GEOGRAPHIC (RTV)
+http://144.217.181.197:25461/live/appandroid/app/183.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://www.gmkfreelogos.com/logos/N/img/national_geographic_channel.gif" group-title="MUNDO Y CULTURA",NATIONAL GEOGRAPHIC (E)
+http://tv.nousiptv.com:25462/live/Educhillan/12345/3188.ts
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://www.gmkfreelogos.com/logos/N/img/national_geographic_channel.gif" group-title="MUNDO Y CULTURA",NATIONAL GEOGRAPHIC (V)
+http://144.217.79.223:8000/live/vidal/vidal/2246.ts
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="MUNDO Y CULTURA",NAT GEO (TU)
+http://m3u.iptvla.xyz/usuarios/src1/NatGeo/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="MUNDO Y CULTURA",NATGEO (PL)
+http://live.tvplayerlatino.com/streaming/src1/BiEi0?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="MUNDO Y CULTURA",NATGEO (V)
+http://144.217.79.223:8000/live/vidal/vidal/2021.ts
+
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="MUNDO Y CULTURA",NAT GEO WILD (TU)
+http://m3u.iptvla.xyz/usuarios/src1/NatGeoWild/iptvclub/free.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="MUNDO Y CULTURA",NAT GEO WILD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/55.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="MUNDO Y CULTURA",NAT GEO WILD (RTV)
+http://144.217.181.197:25461/live/appandroid/app/182.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="MUNDO Y CULTURA",Nat Geo Wild (PL)
+http://live.tvplayerlatino.com/streaming/src1/i80zc?ZGtkYwVmZQR1ZQH4ZwVm|User-Agent: Lavf/57.71.100|Token:ZGtkYwVmZQR1ZQH4ZwVm
+
+#EXTINF:-1 tvg-id="NatGeo MUNDO" tvg-name="NatGeo MUNDO" tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="MUNDO Y CULTURA",NATGEO MUNDO (TS)
+http://main.nrdtv.gq:2095/live/eduram/12345/248.ts
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_8417.png" group-title="MUNDO Y CULTURA",TLC (V)
+http://144.217.79.223:8000/live/vidal/vidal/814.ts
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_8417.png" group-title="MUNDO Y CULTURA",TLC (RTV)
+http://144.217.181.197:25461/live/appandroid/app/45.ts|User-Agent: Lavf/56.15.102
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_8417.png" group-title="MUNDO Y CULTURA",TLC (test)
+http://tenip.x10host.com/tp.php?idcanal=TLC&clave=solo-10-usuarios&f=.m3u8|user-agent=Alcatel_4060A-SVN/03; stagefright/1.2 (Linux;Android 5.1.1)
+
+#EXTINF:-1 tvg-id="WOBI" tvg-name="WOBI" tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAT6AAAAJGRkZDI1MDg3LTY2MzUtNDQwMS04YTNiLTcxMDBhZDVlNmY2YQ.png" group-title="MUNDO Y CULTURA", WOBI (mx)
+http://tests.jl.serv.net.mx/singe0.php/Channel(WOBI)/index.m3u8
