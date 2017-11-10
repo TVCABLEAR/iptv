@@ -44,55 +44,33 @@ http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
  
 #EXTINF:-1 group-title="IPTV-ARGENTINA",ARGENTINA:51 TelpinTV Canal 2
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:0,TV Pastebin iHNrXc26
-https://pastebin.com/iHNrXc26
 
-#EXTINF:-1 group-title="IPTV-ARGENTINA" tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png",PAKA PAKA
-http://us.watcha.live/ch15/hi.m3u8
-#EXTINF:-1 group-title="IPTV-ARGENTINA",TATETI
-http://us.watcha.live/ch16/hi.m3u8
-#EXTINF:-1 group-title="IPTV-ARGENTINA",EL NUEVE
-http://ar.watcha.live/ch5/hi.m3u8
-#EXTINF:-1 group-title="IPTV-ARGENTINA",EL TRECE
-http://ar.watcha.live/ch7/hi.m3u8
-#EXTINF:-1 group-title="IPTV-ARGENTINA",AMERICA TV
-http://ar.watcha.live/ch3/hi.m3u8
-#EXTINF:-1 group-title="IPTV-ARGENTINA",TELEFE
-http://ar.watcha.live/ch6/hi.m3u8
-#EXTINF:-1 group-title="IPTV-ARGENTINA", MAGAZINE
-http://prepublish.f.qaotic.net/f01/ngrp:magazine_live01-1 group-title="IPTV-ARGENTINA"00083_all/chunklist_b1692000.m3u8
-#EXTINF:-1 group-title="IPTV-ARGENTINA",TV PUBLICA
-http://ar.watcha.live/ch4/hi.m3u8
-#EXTINF:-1 group-title="IPTV-ARGENTINA",A24
-http://ar.watcha.live/ch2/hi.m3u8
-#EXTINF:-1 group-title="IPTV-ARGENTINA",C5N
-http://ar.watcha.live/ch1/hi.m3u8
-#EXTINF:-1 group-title="IPTV-ARGENTINA",CN23
-http://us.watcha.live/ch11/mid.m3u8
-#EXTINF:-1 group-title="IPTV-ARGENTINA",360 TV
-http://us.watcha.live/ch12/hi.m3u8
-#EXTINF:-1 group-title="IPTV-ARGENTINA",CINE AR
-http://us.watcha.live/ch17/hi.m3u8
 #EXTINF:-1 group-title="IPTV-ARGENTINA",EL 1 WEB TV
 http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
+
 #EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 2 CORDOBA
 http://arcast.tv:1935/envivo/marcos/playlist.m3u8
+
 #EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 3 PINAMAR
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-ARGENTINA", chaco tv
+#EXTINF:-1 group-title="IPTV-ARGENTINA", CHACO TV
 rtmp://debred5.ecomchaco.com.ar/oflaDemo/j8gz-9fr9-vtwr-4a7t
+
 #EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 4
 http://192.99.46.56:1935/envivo/canal4esquel/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 4
 http://panel.dattalive.com:1935/8002/8002/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 4 EL DORADO
 http://arcast.tv:1935/canal4eldorado/canal4eldorado/playlist.m3u8
+
 #EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 4 MISIONES
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-ARGENTINA", tvg-logo="http://cemlmontecarlo.com.ar/images/canal12.jpg" group-title="Argentina", Canal 12 - Posadas/Misiones
 http://new.livestream.com/accounts/16177873/events/5340927/player?autoPlay=true
+
 #EXTINF:-1 group-title="IPTV-ARGENTINA",CANAL 4 SAN JUAN
 http://streammax.alsolnet.com:332/canal4sanjuansd/live/playlist.m3u8
+
 #EXTINF:-1 group-title="IPTV-ARGENTINA",5TV
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 #EXTINF:-1 group-title="IPTV-ARGENTINA",5TV ENTRE RIOS
