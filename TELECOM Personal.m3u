@@ -1,0 +1,767 @@
+﻿#EXTM3U
+
+#EXTINF:0,CANAL 13
+#EXTGRP:Argentina
+http://ar.watcha.live/ch7/hi.m3u8
+#EXTINF:0,TELEFE
+#EXTGRP:Argentina
+http://ar.watcha.live/ch6/hi.m3u8
+#EXTINF:0,EL NUEVE
+#EXTGRP:Argentina
+http://ar.watcha.live/ch5/hi.m3u8
+#EXTINF:0,AMERICA2
+#EXTGRP:Argentina
+http://ar.watcha.live/ch3/hi.m3u8
+#EXTINF:0,TV PUBLICA
+#EXTGRP:Argentina
+http://ar.watcha.live/ch4/hi.m3u8
+#EXTINF:0,Tec TV
+#EXTGRP:Argentina
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:0,Encuentro
+#EXTGRP:Argentina
+http://us.watcha.live/ch14/hi.m3u8
+#EXTINF:0,DEPORTV
+#EXTGRP:Argentina
+http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
+#EXTINF:0,Directv Sports
+#EXTGRP:Argentina
+https://live5.userapi.com/637610/live/0xhZ4rlAf6XPbDYj/playlist.m3u8
+#EXTINF:0,TN Todo Noticias
+#EXTGRP:Argentina
+https://www.youtube.com/embed/0tek2aa8hAQ
+#EXTINF:0,Canal 26 HD
+#EXTGRP:Argentina
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1888852998_b2628000_sleng.m3u8
+#EXTINF:0,A24
+#EXTGRP:Argentina
+http://ar.watcha.live/ch2/hi.m3u8
+#EXTINF:0,CN23
+#EXTGRP:Argentina
+http://us.watcha.live/ch11/mid.m3u8
+#EXTINF:0,C5N
+#EXTGRP:Argentina
+http://ar.watcha.live/ch1/hi.m3u8
+#EXTINF:0,360 tv
+#EXTGRP:Argentina
+http://us.watcha.live/ch12/mid.m3u8
+#EXTINF:0,Incaa Tv
+#EXTGRP:Argentina
+http://us.watcha.live/ch17/hi.m3u8
+#EXTINF:0,13 MAX DIGITAL TV Argentina
+#EXTGRP:Argentina
+http://www.coninfo.net:1935/13max/live/playlist.m3u8
+#EXTINF:0,TDC
+#EXTGRP:Argentina
+http://painel.serveron.com.br:1935/8166/8166/chunklist_w266638799.m3u8
+#EXTINF:0,Canal 8 San Juan
+#EXTGRP:Argentina
+https://www.youtube.com/embed/0w8qRa5FPw8
+#EXTINF:0,Canal 9 Salta
+#EXTGRP:Argentina
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0,C7 ARG
+#EXTGRP:Argentina
+http://01.solumedia.com.ar:1935/c7/myStream/playlist.m3u8
+#EXTINF:0,9 TV COMODORO RIVADAVIA ARGENTINA LATAM
+#EXTGRP:Argentina
+rtmp://www.canal9comodoro.com/live/c9/mp4:canal
+#EXTINF:0,DTV Argentina
+#EXTGRP:Argentina
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
+#EXTINF:0,Garage Tv
+#EXTGRP:Argentina
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w82911078_b498000_slspa.m3u8
+#EXTINF:0,Paka Paka
+#EXTGRP:Argentina
+http://us.watcha.live/ch15/lo.m3u8
+#EXTINF:0,UNIVERSIDAD DE LA PLATA
+#EXTGRP:Argentina
+rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
+#EXTINF:0,Canal 4 Argentina
+#EXTGRP:Argentina
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:0,Canal 4 Rosario
+#EXTGRP:Argentina
+http://media203.services.digitar.net:1935/cablehogar/cablehogar/playlist.m3u8
+#EXTINF:0,ARGENTINA: Telecentro
+#EXTGRP:Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,Orbe 21 Argentina
+#EXTGRP:Argentina
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:0,Señal Provincial
+#EXTGRP:Argentina
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:0,Clima + Servicios
+#EXTGRP:Argentina
+http://painel.serveron.com.br:1935/8168/8168/playlist.m3u8
+#EXTINF:0,Q MUSICA BUENOS AIRES ARGENTINA LATAM
+#EXTGRP:Argentina
+mms://streamqm.uigc.net/qmusica
+#EXTINF:0,Telpin HD
+#EXTGRP:Argentina
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:0,CANAL PAKA PAKA AR
+#EXTGRP:Argentina 2
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:0,Quiero Musica AR
+#EXTGRP:Argentina 2
+mms://200.42.92.6:1755/qmusica
+#EXTINF:0,ARGENTINISIMA AR
+#EXTGRP:Argentina 2
+http://stream-07.dc3.dailymotion.com/35/dm/1/x5es9x0/live.isml/events(live-1496663520)/live-audio=64000-video=420000.m3u8
+#EXTINF:0,AR TN BsAs
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist_b2142000.m3u8
+#EXTINF:0,AR Ciudad MAGAZINE BsAs
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/f01/ngrp:magazine_live01-100083_all/chunklist_b1692000.m3u8
+#EXTINF:0,AR TLX Telemax BsAs
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,AR RURAL BsAs
+#EXTGRP:Argentina 2
+http://streamrural.cmd.com.ar/liverural/crural/rural1/playlist.m3u8
+
+#EXTINF:0,CANAL GARAGE AR
+#EXTGRP:Argentina 2
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:0,CANAL TELESUR AR
+#EXTGRP:Argentina 2
+http://radiosargentina.com.ar/arlttv.html?var1=http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:0,CANAL ENCUENTRO AR
+#EXTGRP:Argentina 2
+http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/index_500_a-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,CANAL DW AR
+#EXTGRP:Argentina 2
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:0,CANAL 9 PAKA PAKA AR
+#EXTGRP:Argentina 2
+http://d1hgdosjnpxc13.cloudfront.net/player_canal9.html
+#EXTINF:0,CANAL RURAL AR
+#EXTGRP:Argentina 2
+http://streamrural.cmd.com.ar/liverural/crural/rural1/playlist.m3u8
+#EXTINF:0,CANAL 26 AR
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:0,CANAL TECTV AR
+#EXTGRP:Argentina 2
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:0,CANAL MUSICTOP AR
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:0,CANAL TELEMAX AR
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:0,CANAL 26 HD AR
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0,AR Canal 12 Cordoba
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/a14/ngrp:el12_live01-100083_all/Playlist.m3u8
+#EXTINF:0,AR Ciudad BsAs
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/b10/ngrp:gcba_video3-100042_all/chunklist_b2142000.m3u8
+#EXTINF:0,AR AMERICA HD BsAs
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b1596000.m3u8
+#EXTINF:0,AR TELEFE BsAs
+#EXTGRP:Argentina 2
+http://evento5hls-lh.akamaihd.net/i/evento5hls_1@48394/index_1_av-p.m3u8?sd=10&amp;rebase=on&amp;hdntl=exp=1497663353~acl=%2fi%2fevento5hls_1%4048394%2f*~data=hdntl~hmac=c93534e6adbe8be0e5dce1b7c1f9b27e1f4785b226149c34e00f0eb0666c16db
+#EXTINF:0,AR EL NUEVE BsAs
+#EXTGRP:Argentina 2
+http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_b978000.m3u8
+#EXTINF:0,AR LA NACION BsAs
+#EXTGRP:Argentina 2
+https://www.youtube.com/watch?v=1Xow568J0BA&amp;feature=youtu.be
+#EXTINF:0,AR Canal Encuentro BsAs
+#EXTGRP:Argentina 2
+http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/segment149757845_500_av-p.ts?sd=10&amp;rebase=on
+#EXTINF:0,AR QNoticias BsAs
+#EXTGRP:Argentina 2
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/segment149757902_1_av-p.ts?sd=10&amp;rebase=on
+#EXTINF:0,ok CANAL 26 Argentina
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w2064513026_b1864000_sleng.m3u8
+#EXTINF:0,AR 12 Cordoba
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/a14/ngrp:el12_live01-100083_all/chunklist_b1596000.m3u8
+#EXTINF:0,CANAL DXTV AR
+#EXTGRP:Argentina 2
+http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w788509661_b800000_slesp.m3u8
+#EXTINF:0,ORBE TV AR
+#EXTGRP:Argentina 2
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:0,AR TV PUBLICA BsAs
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/chunklist_b1596000.m3u8
+#EXTINF:0,AR CANAL 26 BsAs
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w64003323_b2628000_sleng.m3u8
+#EXTINF:0,Canal 2 Mar del Plata
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/uhls/13284341/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Canal 5 Olavarría Argentina
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/uhls/510556/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Telpin TV Canal 2
+#EXTGRP:Argentina 2
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:0,Telefe
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
+#EXTINF:0,El Trece
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar:1935/live/13hd-360/playlist.m3u8
+#EXTINF:0,TVP Argentina
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8
+#EXTINF:0,Canal Luz
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/ustreamVideo/8901586/streams/live/playlist.m3u8
+#EXTINF:0,TN Argentina
+#EXTGRP:Argentina 2
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:0,C5N
+#EXTGRP:Argentina 2
+http://c5n.stweb.tv:1935/c5n/live/playlist.m3u8
+#EXTINF:0,Canal 28 Mar del Plata
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/ustreamVideo/18752678/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Television RioNegrina
+#EXTGRP:Argentina 2
+rtmp://198.50.154.40/live/live15
+#EXTINF:0,Canal 7Jujuy-Telefe
+#EXTGRP:Argentina 2
+mms://200.43.187.111/canal7
+#EXTINF:0,Canal 4 Jujuy
+#EXTGRP:Argentina 2
+rtmp://streaming.wirenetserver.com.ar/canal4/live_1
+#EXTINF:0,Canal 41 Mar de Plata
+#EXTGRP:Argentina 2
+rtmp://painel.serveron.com.br/8172/8172
+#EXTINF:0,Telejunin
+#EXTGRP:Argentina 2
+rtmp://65.254.42.234/telejunin/telejunin
+#EXTINF:0,América TV Argentina
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8
+#EXTINF:0,TeleSat Corrientes Argentina
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/ustreamVideo/16009593/streams/live/playlist.m3u8
+#EXTINF:0,Canal 9 Salta
+#EXTGRP:Argentina 2
+http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8?
+#EXTINF:0,Canal 13 San Luis Argentina
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/uhls/18347718/streams/live/iphone/playlist.m3u8
+#EXTINF:0,ORBE 21 Argentina
+#EXTGRP:Argentina 2
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:0,Telecreativa Lanús Argentina
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/uhls/18545628/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Cable Hogar TV Rosario Argentina
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/uhls/8053481/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Señal Provincial Argentina
+#EXTGRP:Argentina 2
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:0,CANAL PAKA PAKA AR
+#EXTGRP:Argentina 2
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:0,Quiero Musica AR
+#EXTGRP:Argentina 2
+mms://200.42.92.6:1755/qmusica
+#EXTINF:0,ARGENTINISIMA AR
+#EXTGRP:Argentina 2
+http://stream-07.dc3.dailymotion.com/35/dm/1/x5es9x0/live.isml/events(live-1496663520)/live-audio=64000-video=420000.m3u8
+#EXTINF:0,AR TN BsAs
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/chunklist_b2142000.m3u8
+#EXTINF:0,AR Ciudad MAGAZINE BsAs
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/f01/ngrp:magazine_live01-100083_all/chunklist_b1692000.m3u8
+#EXTINF:0,AR TLX Telemax BsAs
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,AR RURAL BsAs
+#EXTGRP:Argentina 2
+http://streamrural.cmd.com.ar/liverural/crural/rural1/playlist.m3u8
+#EXTINF:0,CANAL GARAGE AR
+#EXTGRP:Argentina 2
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:0,CANAL TELESUR AR
+#EXTGRP:Argentina 2
+http://radiosargentina.com.ar/arlttv.html?var1=http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:0,CANAL ENCUENTRO AR
+#EXTGRP:Argentina 2
+http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/index_500_a-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,CANAL DW AR
+#EXTGRP:Argentina 2
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:0,CANAL 9 PAKA PAKA AR
+#EXTGRP:Argentina 2
+http://d1hgdosjnpxc13.cloudfront.net/player_canal9.html
+#EXTINF:0,CANAL RURAL AR
+#EXTGRP:Argentina 2
+http://streamrural.cmd.com.ar/liverural/crural/rural1/playlist.m3u8
+#EXTINF:0,CANAL 26 AR
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:0,CANAL TECTV AR
+#EXTGRP:Argentina 2
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:0,CANAL MUSICTOP AR
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:0,CANAL TELEMAX AR
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:0,CANAL 26 HD AR
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0,AR Canal 12 Cordoba
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/a14/ngrp:el12_live01-100083_all/Playlist.m3u8
+#EXTINF:0,AR Ciudad BsAs
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/b10/ngrp:gcba_video3-100042_all/chunklist_b2142000.m3u8
+#EXTINF:0,AR AMERICA HD BsAs
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b1596000.m3u8
+#EXTINF:0,AR TELEFE BsAs
+#EXTGRP:Argentina 2
+http://evento5hls-lh.akamaihd.net/i/evento5hls_1@48394/index_1_av-p.m3u8?sd=10&amp;rebase=on&amp;hdntl=exp=1497663353~acl=%2fi%2fevento5hls_1%4048394%2f*~data=hdntl~hmac=c93534e6adbe8be0e5dce1b7c1f9b27e1f4785b226149c34e00f0eb0666c16db
+#EXTINF:0,AR EL NUEVE BsAs
+#EXTGRP:Argentina 2
+http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_b978000.m3u8
+#EXTINF:0,AR LA NACION BsAs
+#EXTGRP:Argentina 2
+https://www.youtube.com/watch?v=1Xow568J0BA&amp;feature=youtu.be
+#EXTINF:0,AR Canal Encuentro BsAs
+#EXTGRP:Argentina 2
+http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/segment149757845_500_av-p.ts?sd=10&amp;rebase=on
+#EXTINF:0,AR QNoticias BsAs
+#EXTGRP:Argentina 2
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/segment149757902_1_av-p.ts?sd=10&amp;rebase=on
+#EXTINF:0,ok CANAL 26 Argentina
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w2064513026_b1864000_sleng.m3u8
+#EXTINF:0,AR 12 Cordoba
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/a14/ngrp:el12_live01-100083_all/chunklist_b1596000.m3u8
+#EXTINF:0,CANAL DXTV AR
+#EXTGRP:Argentina 2
+http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w788509661_b800000_slesp.m3u8
+#EXTINF:0,ORBE TV AR
+#EXTGRP:Argentina 2
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:0,AR TV PUBLICA BsAs
+#EXTGRP:Argentina 2
+http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/chunklist_b1596000.m3u8
+#EXTINF:0,AR CANAL 26 BsAs
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w64003323_b2628000_sleng.m3u8
+#EXTINF:0,Canal 2 Mar del Plata
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/uhls/13284341/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Canal 5 Olavarría Argentina
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/uhls/510556/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Telpin TV Canal 2
+#EXTGRP:Argentina 2
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:0,Telefe
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
+#EXTINF:0,El Trece
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar:1935/live/13hd-360/playlist.m3u8
+#EXTINF:0,TVP Argentina
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8
+#EXTINF:0,Canal Luz
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/ustreamVideo/8901586/streams/live/playlist.m3u8
+#EXTINF:0,TN Argentina
+#EXTGRP:Argentina 2
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:0,C5N
+#EXTGRP:Argentina 2
+http://c5n.stweb.tv:1935/c5n/live/playlist.m3u8
+#EXTINF:0,Canal 28 Mar del Plata
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/ustreamVideo/18752678/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Television RioNegrina
+#EXTGRP:Argentina 2
+rtmp://198.50.154.40/live/live15
+#EXTINF:0,Canal 7Jujuy-Telefe
+#EXTGRP:Argentina 2
+mms://200.43.187.111/canal7
+#EXTINF:0,Canal 4 Jujuy
+#EXTGRP:Argentina 2
+rtmp://streaming.wirenetserver.com.ar/canal4/live_1
+#EXTINF:0,Canal 41 Mar de Plata
+#EXTGRP:Argentina 2
+rtmp://painel.serveron.com.br/8172/8172
+#EXTINF:0,Telejunin
+#EXTGRP:Argentina 2
+rtmp://65.254.42.234/telejunin/telejunin
+#EXTINF:0,América TV Argentina
+#EXTGRP:Argentina 2
+http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8
+#EXTINF:0,TeleSat Corrientes Argentina
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/ustreamVideo/16009593/streams/live/playlist.m3u8
+#EXTINF:0,Canal 9 Salta
+#EXTGRP:Argentina 2
+http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8?
+#EXTINF:0,Canal 13 San Luis Argentina
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/uhls/18347718/streams/live/iphone/playlist.m3u8
+#EXTINF:0,ORBE 21 Argentina
+#EXTGRP:Argentina 2
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:0,Telecreativa Lanús Argentina
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/uhls/18545628/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Cable Hogar TV Rosario Argentina
+#EXTGRP:Argentina 2
+http://iphone-streaming.ustream.tv/uhls/8053481/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Señal Provincial Argentina
+#EXTGRP:Argentina 2
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+
+#EXTINF:0,METRO 95.1 FM BUENOS AIRES ARGENTINA LATAM
+#EXTGRP:Argentina
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
+#EXTINF:0,Radio Jai
+#EXTGRP:Argentina
+http://streamlky.alsolnet.com:443/radiojai
+#EXTINF:0,Pasion 102.7
+#EXTGRP:Argentina
+http://streamlky.alsolnet.com:443/fmpasion?type=.flv&var=1468372921349R48
+#EXTINF:0,CADENA CUMBIA LATINA FM 89.3 ARGENTINA LATAM
+#EXTGRP:Argentina
+http://streamall.alsolnet.com:443/cadenacumbia
+#EXTINF:0,MITRE 790 AM BUENOS AIRES ARGENTINA
+#EXTGRP:Argentina
+http://buecrplb01.cienradios.com.ar/Mitre790.aac
+#EXTINF:0,ESPN RADIO 107.9
+#EXTGRP:Argentina
+http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8
+#EXTINF:0,UNIVERSIDAD NACIONAL DE LA PLATA
+#EXTGRP:Argentina
+http://163.10.36.151:8001/broadwavehigh.mp3?src=1
+#EXTINF:0,VORTERIX TV 92.1 FM BUENOS AIRES ARGENTINA LATAM
+#EXTGRP:Argentina
+http://ffahls-lh.akamaihd.net/i/vorvideo01hls_1@305260/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,La 2x4
+#EXTGRP:Argentina
+http://radios.argentina.fm:9270/stream
+#EXTINF:0,MIS RECUERDOS ARGENTINA LATAM
+#EXTGRP:Argentina
+http://listen.radionomy.com/misrecuerdos
+#EXTINF:0,RADIO TÉLAM ARGENTINA LATAM
+#EXTGRP:Argentina
+http://icecast01.dcarsat.com.ar:8000/telam
+#EXTINF:0,ESPECIALViajar
+#EXTGRP:Argentina
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+
+#EXTINF:0,Canal Cocina
+#EXTGRP:unsorted
+http://cdn2.shurs.xyz/verliga/6/playlist.m3u8
+#EXTINF:0,CANAL DECASA *
+#EXTGRP:unsorted
+http://142.4.218.121:25461/live/Asia_package/12345/5454.ts
+
+#EXTINF:0,URUGUAY - VTV SD
+#EXTGRP:URUGUAY
+http://158.69.226.108:8000/live/lacosta/B0LJpAXdyz/751.ts
+#EXTINF:0,URUGUAY - CANAL 5
+#EXTGRP:URUGUAY
+http://158.69.226.108:8000/live/lacosta/B0LJpAXdyz/947.ts
+#EXTINF:0,URUGUAY - CANAL 12
+#EXTGRP:URUGUAY
+http://158.69.226.108:8000/live/lacosta/B0LJpAXdyz/948.ts
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+#EXTINF:0,URUGUAY - VTV SD
+#EXTGRP:URUGUAY
+http://158.69.226.108:8000/live/lacosta/B0LJpAXdyz/751.ts
+#EXTINF:0,URUGUAY - CANAL 5
+#EXTGRP:URUGUAY
+http://158.69.226.108:8000/live/lacosta/B0LJpAXdyz/947.ts
+#EXTINF:0,URUGUAY - CANAL 12
+#EXTGRP:URUGUAY
+http://158.69.226.108:8000/live/lacosta/B0LJpAXdyz/948.ts
+#EXTINF:0,RPC PARAGUAY
+#EXTGRP:PARAGUAY
+http://70.36.100.38:1935/live/_definst_/canal13_hq.stream/playlist.m3u8
+#EXTINF:0,UNICANAL PARAGUAY
+#EXTGRP:PARAGUAY
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+
+#EXTINF:0,TV Venezuela
+#EXTGRP:VENEZUELA
+https://vivoplay-i.akamaihd.net/hls/live/255338/canal10/master2500k.m3u8
+#EXTINF:0,Ve plus TV
+#EXTGRP:VENEZUELA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:0,Globovision
+#EXTGRP:VENEZUELA
+https://www.youtube.com/embed/RjRaxsrchYc
+#EXTINF:0,CNN en Español
+#EXTGRP:VENEZUELA
+http://twistedishere.xyz:2095/live/Service@fix4u.tech/y7A8iV4zi0/1755.ts
+#EXTINF:0,NOTICIAS
+#EXTGRP:VENEZUELA
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
+
+#EXTINF:0,Life TV
+#EXTGRP:VARIEDADES
+http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8
+#EXTINF:0,SunChannelHD
+#EXTGRP:VARIEDADES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?
+#EXTINF:0,Rock Nacional TV
+#EXTGRP:VARIEDADES
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+#EXTINF:0,TELEMUSICA
+#EXTGRP:VARIEDADES
+http://186.155.200.118:1935/live/telemusica/master.m3u8?
+#EXTINF:0,Banda Ancha TV
+#EXTGRP:VARIEDADES
+https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8
+#EXTINF:0,MILENIO
+#EXTGRP:VARIEDADES
+https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
+
+#EXTINF:0,A&E %
+#EXTGRP:CULTURA
+http://edge1203.livesports.pw/live/veraandeesp7a39fa61ef2f05/index.m3u8
+#EXTINF:0,A&E
+#EXTGRP:CULTURA
+http://edge1202.livesports.pw/live/veraandeesp7a39fa61ef2f05/index.m3u8
+#EXTINF:0,A&E Latinoamerica
+#EXTGRP:CULTURA
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1127.ts
+#EXTINF:0,A&E BR %
+#EXTGRP:CULTURA
+http://178.192.242.14:9000/play/a019
+#EXTINF:0,ANIMAL PLANET L!VE HD
+#EXTGRP:CULTURA
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Animal Planet Latinoamerica
+#EXTGRP:CULTURA
+http://dns1.theplayersklub.host:2095/live/simplycaz/simplycaz/1126.ts
+#EXTINF:0,CaĿavision
+#EXTGRP:CULTURA
+http://178.192.242.14:9000/play/a08l
+#EXTINF:0,Caza y Pesca
+#EXTGRP:CULTURA
+http://edge5.telesport.pw/live/cazaypesca/index.m3u8
+#EXTINF:0,Discovery
+#EXTGRP:CULTURA
+http://cdn2.shurs.xyz/verdirectotv/11/playlist.m3u8
+#EXTINF:0,DW Latinoamérica
+#EXTGRP:CULTURA
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:0,HISTORIA
+#EXTGRP:CULTURA
+http://edge2.telesport.pw/live/historia/index.m3u8
+#EXTINF:0,History Channel A
+#EXTGRP:CULTURA
+http://direciona.sytes.net:25461/live/WPCnwtgDhW/lxAH6bm6uO/162.ts
+#EXTINF:0,History Channel B
+#EXTGRP:CULTURA
+http://149.56.16.58:25461/live/cineiptv3473/f5Pxwfrs8c/1797.ts
+#EXTINF:0,HISTORY LAB C
+#EXTGRP:CULTURA
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w657994700.m3u8
+#EXTINF:0,NatGeo Wild
+#EXTGRP:CULTURA
+http://edge8.telesport.pw/live/nationalwild/index.m3u8
+#EXTINF:0,ODISEA
+#EXTGRP:CULTURA
+http://edge8.telesport.pw/live/odisea/index.m3u8
+#EXTINF:0,ESPECIALViajar
+#EXTGRP:CULTURA
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:0,Canal Cocina
+#EXTGRP:CULTURA
+http://cdn2.shurs.xyz/verliga/6/playlist.m3u8
+#EXTINF:0,CANAL DECASA *
+#EXTGRP:CULTURA
+http://142.4.218.121:25461/live/Asia_package/12345/5454.ts
+#EXTINF:0,natgeo
+#EXTGRP:CULTURA
+http://edge5.telesport.pw/live/nationalgeo/index.m3u8
+
+
+#EXTINF:0,CI
+#EXTGRP:ESPAÑA
+http://edge2.telesport.pw/live/canalcrimen/index.m3u8
+#EXTINF:0,DMAX España
+#EXTGRP:ESPAÑA
+http://149.100.19.147:8000/play/a00z
+#EXTINF:0,TLC
+#EXTGRP:ESPAÑA
+http://178.192.242.14:9000/play/a080
+#EXTINF:0,TLC HD BR
+#EXTGRP:ESPAÑA
+http://149.56.16.58:25461/live/cineiptv3473/f5Pxwfrs8c/1717.ts
+#EXTINF:0,DKISS
+#EXTGRP:ESPAÑA
+http://edge3.telesport.pw/live/dkiss/index.m3u8
+#EXTINF:0,MEGA
+#EXTGRP:ESPAÑA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:0,TV AZTECA
+#EXTGRP:MEXICO
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:0,A+
+#EXTGRP:MEXICO
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+#EXTINF:0,Las Estrellas Latinoamerica
+#EXTGRP:MEXICO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:0,telemundo
+#EXTGRP:MEXICO
+http://edge5.telesport.pw/live/telemundo/index.m3u8
+#EXTINF:0,ADN 40
+#EXTGRP:MEXICO
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+#EXTINF:0,AZTECA NOTICIAS México
+#EXTGRP:MEXICO
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,Gala TV (YU)
+#EXTGRP:MEXICO
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+#EXTINF:0,Canal Once
+#EXTGRP:MEXICO
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+#EXTINF:0,57 FORO TV HD
+#EXTGRP:MEXICO
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0,Efekto Tv SD
+#EXTGRP:MEXICO
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,MEXICO TRECEVISION
+#EXTGRP:MEXICO
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8
+#EXTINF:0,Mexico Travel Channel
+#EXTGRP:MEXICO
+http://live10.cdnmedia.tv/mtchlive/smil:live.smil/playlist.m3u8
+#EXTINF:0,NEX TV
+#EXTGRP:MEXICO
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:0,UNA VOZ CON TODOS
+#EXTGRP:MEXICO
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
+
+#EXTINF:0,RPC Panama
+#EXTGRP:PANAMA
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+#EXTINF:0,Telemetro
+#EXTGRP:PANAMA
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+#EXTINF:0,TV-N Panama
+#EXTGRP:PANAMA 1
+http://aklive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/2540_5.m3u8?oosm=1
+#EXTINF:0,Telemetro 13 Panama
+#EXTGRP:PANAMA 1
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+#EXTINF:0,NEX TV Panama
+#EXTGRP:PANAMA 1
+http://190.102.61.118:1935/live/livestream/playlist.m3u8
+#EXTINF:0,TV-MAX Panama
+#EXTGRP:PANAMA 1
+http://aklive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/JkOGNqYTE65j3KOwuEDptSwC-gD1MT1M/cn/2589_2.m3u8?oosm=1
+#EXTINF:0,RPC Panama
+#EXTGRP:PANAMA 1
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+#EXTINF:0,SER tv
+#EXTGRP:PANAMA 1
+http://216.224.177.136:1935/live/sertv/chunklist_w898528110.m3u8
+#EXTINF:0,TV-N 2
+#EXTGRP:PANAMA 1
+http://aklive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/2540_5.m3u8?oosm=1
+#EXTINF:0,Telemetro 13 2
+#EXTGRP:PANAMA 1
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+#EXTINF:0,NEX TV 2
+#EXTGRP:PANAMA 1
+http://190.102.61.118:1935/live/livestream/playlist.m3u8
+#EXTINF:0,TV-MAX 2 
+#EXTGRP:PANAMA 1
+http://aklive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/JkOGNqYTE65j3KOwuEDptSwC-gD1MT1M/cn/2589_2.m3u8?oosm=1
+#EXTINF:0,RPC  2
+#EXTGRP:PANAMA 1
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+#EXTINF:0,SERTV 2
+#EXTGRP:PANAMA 1
+http://216.224.177.136:1935/live/sertv/chunklist_w898528110.m3u8
+
+#EXTINF:0,FE TV
+#EXTGRP:PANAMA 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVPA0005&amp;mode=12&amp;iconimage=http://www.radiosargentina.com.ar/png/ESPANAMA.png
+#EXTINF:0,TV-N Panama
+#EXTGRP:PANAMA 2
+http://aklive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/2540_5.m3u8?oosm=1
+#EXTINF:0,SER TV
+#EXTGRP:PANAMA 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPA0001&amp;mode=12&amp;iconimage=http://www.radiosargentina.com.ar/png/ESPANAMA.png
+#EXTINF:0,Telemetro 13 Panama
+#EXTGRP:PANAMA 2
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+#EXTINF:0,NEX TV Panama
+#EXTGRP:PANAMA 2
+http://190.102.61.118:1935/live/livestream/playlist.m3u8
+#EXTINF:0,RPC Panama
+#EXTGRP:PANAMA 2
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+#EXTINF:0,FE TV
+#EXTGRP:PANAMA 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVPA0005&amp;mode=12&amp;iconimage=http://www.radiosargentina.com.ar/png/ESPANAMA.png
+#EXTINF:0,TV-N Panama
+#EXTGRP:PANAMA 2
+http://aklive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/2540_5.m3u8?oosm=1
+#EXTINF:0,SER TV
+#EXTGRP:PANAMA 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPA0001&amp;mode=12&amp;iconimage=http://www.radiosargentina.com.ar/png/ESPANAMA.png
+#EXTINF:0,Telemetro 13 Panama
+#EXTGRP:PANAMA 2
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+#EXTINF:0,NEX TV Panama
+#EXTGRP:PANAMA 2
+http://190.102.61.118:1935/live/livestream/playlist.m3u8
+#EXTINF:0,RPC Panama
+#EXTGRP:PANAMA 2
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+
+
+
+
+#EXTINF:0,Latina
+#EXTGRP:PERU
+http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8
+#EXTINF:0,AmericaTv
+#EXTGRP:PERU
+https://live2.userapi.com/637612/live/yDl4-SlAfzXkzWYC/playlist.m3u8
+#EXTINF:0,Ipe Tv
+#EXTGRP:PERU
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:0,Sol TV
+#EXTGRP:PERU
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:0,PERU: El Tiempo Television
+#EXTGRP:PERU
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:0,WILLAX PERU
+#EXTGRP:PERU
