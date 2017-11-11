@@ -9,8 +9,9 @@ https://github.com/TVCABLEAR/
 
 
 
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ENTRETENIMIENTO=
+#EXTINF:-1 group-title="z-omitir",=ENTRETENIMIENTO=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 tvg-logo="https://orig00.deviantart.net/eae5/f/2010/175/a/7/arab_tv_logo_by_amirsakr.jpg" group-title="ENTRETENIMIENTO", Arab Tv 
 http://149.56.17.92:1935/8404/8404/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Asahi_logo.svg/2000px-Asahi_logo.svg.png" group-title="ENTRETENIMIENTO", Asahi
@@ -57,8 +58,10 @@ http://bit.ly/2zSTthY
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.tafimedia.com/tafiimage/70.png" group-title="ENTRETENIMIENTO", World Fashion
 http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =INFANTIL=
+
+#EXTINF:-1 group-title="z-omitir", =INFANTIL=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-sXNN5oNhnAI/VShC8sO_9II/AAAAAAAAAiw/euDCYhFUWtE/s320/AnimeTV.jpg" group-title="INFANTIL", Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg" group-title="INFANTIL", Disney Jr.
@@ -69,8 +72,9 @@ http://bit.ly/2yknkhX
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/88/a7/a8/88a7a88649006d00e51f0d3545752b86.png" group-title="INFANTIL", Retro Cartoon 
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =MUSICA=
+#EXTINF:-1 group-title="z-omitir", =MUSICA=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 tvg-logo="http://d701vexhkz032.cloudfront.net/bundles/front/media/images/submenu/family/mcplaycl.png" group-title="MUSICA", MC Play
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-qfJfjGjelOg/VRyOzuz2Z2I/AAAAAAAABdo/VvVRbP1lDBs/s1600/melody-channel-tv.jpg" group-title="MUSICA", Melody Channel
@@ -93,8 +97,10 @@ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w128232220
 http://46.101.21.42:8081/live/live2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://store.virginmedia.com/content/dam/eSales/corporate/Virgin_TV_Shaded_Red_RGB.png" group-title="MUSICA", Virgin TV
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =NOTICIAS=
+
+#EXTINF:-1 group-title="z-omitir", =NOTICIAS=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 tvg-logo="https://www.smartmicrooptics.com/wp-content/uploads/2016/05/ABC_News.jpg" group-title="NOTICIAS", ABC News
 http://abclive.abcNEWS.com/i/abc_live4@136330/master.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo-English-1024x768.png" group-title="NOTICIAS", Al Jazeera 
@@ -121,8 +127,10 @@ http://secure-streams.akamaized.net/rt-esp/index2500.m3u8
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-usrwIdN_0Zk/T6Yzfm-ARJI/AAAAAAAA4k0/R5Y1RqZSnIM/s1600/Canal-24-Horas-Logo.jpg" group-title="NOTICIAS", TVE 24H
 http://bit.ly/2yN3oHV
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ARGENTINA=
+
+#EXTINF:-1 group-title="z-omitir", =ARGENTINA=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="ARGENTINA", Canal 4 Jujuy
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA", 13 Max Digital
@@ -153,8 +161,10 @@ https://www.youtube.com/c/MIKEDOMOIPTV
 http://fourcast.tv/hls/800.m3u8
 #EXTINF:-1 group-title="BOLIVIA", Red PAT
 http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =BRASIL=
+
+#EXTINF:-1 group-title="z-omitir", =BRASIL=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="BRASIL", Agro Canal
 http://live.sba1.com/hls-live/liveac/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="BRASIL", Canal do Boi
@@ -199,8 +209,10 @@ http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 #EXTINF:-1 group-title="BRASIL", Via Morena
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =CHILE=
+
+#EXTINF:-1 group-title="z-omitir",  =CHILE=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="CHILE", Canal 9 Bío Bío 
 http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8 
 #EXTINF:-1 group-title="CHILE", Canal 22
@@ -223,8 +235,10 @@ http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8 
 #EXTINF:-1 group-title="CHILE", VTV Viña del Mar 
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8 
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =COLOMBIA=
+
+#EXTINF:-1 group-title="z-omitir", =COLOMBIA=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="COLOMBIA", Canal Tro
 http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8
 #EXTINF:-1 group-title="COLOMBIA", 12CTV
@@ -245,8 +259,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0012&mode=12&iconimage=ht
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0024&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
 #EXTINF:-1 group-title="COLOMBIA", Trendy Tv
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =COSTA RICA=
+
+#EXTINF:-1 group-title="z-omitir", =COSTA RICA=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="COSTA RICA", SINART 13 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICR0008&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ES-CRICA.png
 #EXTINF:-1 group-title="COSTA RICA", SMO Tv
@@ -255,12 +271,15 @@ http://199.217.118.90:1935/smotv/stream/playlist.m3u8
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA", TeleUno TV
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =CUBA=
+
+#EXTINF:-1 group-title="z-omitir",  =CUBA=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="CUBA", TV Martí 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICU0001&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ES--CUBA.png
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ECUADOR=
+#EXTINF:-1 group-title="z-omitir", =ECUADOR=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="ECUADOR", Ecuador Tv
 http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
 #EXTINF:-1 group-title="ECUADOR", Orovision
@@ -273,12 +292,15 @@ http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:-1 group-title="ECUADOR", Unsin TV 25
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVEC0007&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESECUADO.png
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =EL SALVADOR=
+
+#EXTINF:-1 group-title="z-omitir",  =EL SALVADOR=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="EL SALVADOR", Canal 10 
 http://198.24.135.42/canal10/canal10/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =ESPAÑA=
+#EXTINF:-1 group-title="z-omitir", =ESPAÑA=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="ESPAÑA", 324
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 group-title="ESPAÑA", Antena 3 
@@ -317,16 +339,20 @@ http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 #EXTINF:-1 group-title="ESPAÑA", TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =GUATEMALA=
+
+#EXTINF:-1 group-title="z-omitir", =GUATEMALA=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="GUATEMALA", RTV Rhema 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIGT0003&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESGUATEM.png
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =HONDURAS=
+#EXTINF:-1 group-title="z-omitir", =HONDURAS=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="HONDURAS", AZ HONDURAS
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =MEXICO=
+#EXTINF:-1 group-title="z-omitir",  =MEXICO=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="MEXICO", Aristegui NOTICIAS
 https://vod.livestream.com/events/00000000006147c6/42a5ebd3-9d01-4ab5-ba7b-f6b01afb7752_1756.m3u8?token=0_595a9bd5_aa2ebcad66b28c4fc4b122ab115e3d6b5bd98b3e&start=106&end=14498
 #EXTINF:-1 group-title="MEXICO", Azteca 13
@@ -365,12 +391,15 @@ http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8
 #EXTINF:-1 group-title="MEXICO", TVP YAQUI TV
 http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =NICARAGUA=
+#EXTINF:-1 group-title="z-omitir", =NICARAGUA=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="NICARAGUA", TVN Nicaragua
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =PANAMA=
+
+#EXTINF:-1 group-title="z-omitir",  =PANAMA=
 https://www.youtube.com/c/MIKEDOMOIPTV
+
 #EXTINF:-1 group-title="PANAMA", RPC 
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 group-title="z-omitir",[COLOR YELLOW] [/COLOR] =PARAGUAY=
