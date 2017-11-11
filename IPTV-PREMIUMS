@@ -1,0 +1,527 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+
+#EXTINF:-1,La : UNIVISION Deportes HD 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5312.ts 
+#EXTINF:-1,LA: UNIVISION TDN 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2933.ts 
+#EXTINF:-1,LA: UNIVISION HD 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2931.ts 
+#EXTINF:-1,La: Univision 34 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5416.ts 
+#EXTINF:-1,La: Univision 23 Miami 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3114.ts 
+#EXTINF:-1,LA: Telemundo Puerto Rico 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2936.ts 
+#EXTINF:-1,La: Telemundo 52 Los Angeles 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5351.ts 
+#EXTINF:-1,LA: Telemundo 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2935.ts 
+#EXTINF:-1,LA: Telemundo 48 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2934.ts 
+#EXTINF:-1,LA: UNIMAS HD 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2932.ts 
+#EXTINF:-1,LA: WAPA 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2937.ts 
+#EXTINF:-1,La: Wapa 2 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3006.ts 
+#EXTINF:-1,La: ESPN 2 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/139.ts 
+#EXTINF:-1,La: ESPN 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2990.ts 
+#EXTINF:-1,La: ESPN 3 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2989.ts 
+#EXTINF:-1,La: Fox Sports 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/141.ts 
+#EXTINF:-1,La: Fox Sports 2 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/142.ts 
+#EXTINF:-1,La: Discovery Science 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3098.ts 
+#EXTINF:-1,La: Film & Arts 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3096.ts 
+#EXTINF:-1,La: GolPeru 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3023.ts 
+#EXTINF:-1,La: AMC 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3.ts 
+#EXTINF:-1,La: Animal Planet 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5.ts 
+#EXTINF:-1,La: AXN 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/10.ts 
+#EXTINF:-1,La: Az Cinema 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3101.ts 
+#EXTINF:-1,La: Azteca Noticias 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3000.ts 
+#EXTINF:-1,La: Azteca 13 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3002.ts 
+#EXTINF:-1,La: Azteca 7 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3001.ts 
+#EXTINF:-1,La: Anime TV 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3090.ts 
+#EXTINF:-1,La: Boomerang 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3097.ts 
+#EXTINF:-1,La: A&E Latino 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2.ts 
+#EXTINF:-1,La: MTV Live 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3092.ts 
+#EXTINF:-1,La: CNN en español 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3072.ts 
+#EXTINF:-1,La: Film Zone 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3095.ts 
+#EXTINF:-1,La: Cartoon Network 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/25.ts 
+#EXTINF:-1,LA: Az Mundo 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3100.ts 
+#EXTINF:-1,La: Discovery Channel 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/39.ts 
+#EXTINF:-1,La: Cinemax 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3073.ts 
+#EXTINF:-1,La: Comedy Central 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2995.ts 
+#EXTINF:-1,La: De Pelicula 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/36.ts 
+#EXTINF:-1,La: Cinecanal (W) 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3074.ts 
+#EXTINF:-1,La: Cinecanal 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2997.ts 
+#EXTINF:-1,La: Cine Latino 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3099.ts 
+#EXTINF:-1,La: E! Entertainment Television 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2991.ts 
+#EXTINF:-1,La: Discovery ID 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2993.ts 
+#E
+ XTINF:-1,La: Discovery Theater 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/42.ts 
+#EXTINF:-1,La: Discovery Turbo 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2992.ts 
+#EXTINF:-1,La: Discovery World 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3050.ts 
+#EXTINF:-1,La: Disney Channel 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/44.ts 
+#EXTINF:-1,La: Disney JR 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/45.ts 
+#EXTINF:-1,La: Discovery Civilization 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2994.ts 
+#EXTINF:-1,La: FX 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/60.ts 
+#EXTINF:-1,La: En Vivo 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3048.ts 
+#EXTINF:-1,La: Fox 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3043.ts 
+#EXTINF:-1,La: Fox 1 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/54.ts 
+#EXTINF:-1,La: Fox Cinema 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2988.ts 
+#EXTINF:-1,La: Fox Classics 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3044.ts 
+#EXTINF:-1,La: Fox Life 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/59.ts 
+#EXTINF:-1,La: Lifetime 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3033.ts 
+#EXTINF:-1,La: TBS 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2979.ts 
+#EXTINF:-1,La: HBO Family 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3040.ts 
+#EXTINF:-1,La: MTV LATINO 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/81.ts 
+#EXTINF:-1,La: Multipremier 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3030.ts 
+#EXTINF:-1,La: NatGeo Wild 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/86.ts 
+#EXTINF:-1,La: NICK Jr 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2976.ts 
+#EXTINF:-1,La: Nick Toons 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3029.ts 
+#EXTINF:-1,La: MTV Hits 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3031.ts 
+#EXTINF:-1,La: Fox Action 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3045.ts 
+#EXTINF:-1,La: Warner 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3005.ts 
+#EXTINF:-1,La: Sony Channel 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3016.ts 
+#EXTINF:-1,La: Space 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/99.ts 
+#EXTINF:-1,La: Studio Universal 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/130.ts 
+#EXTINF:-1,La: Paramount Channel 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3027.ts 
+#EXTINF:-1,La: Discovery Kids 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/43.ts 
+#EXTINF:-1,La: VH1 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3007.ts 
+#EXTINF:-1,La: Nickelodeon 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/88.ts 
+#EXTINF:-1,La: Telehit 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3012.ts 
+#EXTINF:-1,La: Max Prime 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3032.ts 
+#EXTINF:-1,La: Tooncast 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/111.ts 
+#EXTINF:-1,La: Once Ninos 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3028.ts 
+#EXTINF:-1,La: NatGeo 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/85.ts 
+#EXTINF:-1,La: Glitz 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2985.ts 
+#EXTINF:-1,La: Golden 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/63.ts 
+#EXTINF:-1,La: Golden Choice Multiplex 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3042.ts 
+#EXTINF:-1,La: HBO 2 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2981.ts 
+#EXTINF:-1,La: Golden Edge 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2984.ts 
+#EXTINF:-1,La: Musica Si 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2987.ts 
+#EXTINF:-1,La: Golden Premier 2 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3041.ts 
+#EXTINF:-1,La: El Gourmet 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/50.ts 
+#EXTINF:-1,La: H2 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2983.ts
+ #EXTINF:-1,La: HBO 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2982.ts 
+#EXTINF:-1,La: Gala Tv 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2986.ts 
+#EXTINF:-1,La: HBO Signature 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2980.ts 
+#EXTINF:-1,La: History Channel 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/70.ts 
+#EXTINF:-1,La: HBO Plus 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3039.ts 
+#EXTINF:-1,La: ExaTV 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3047.ts 
+#EXTINF:-1,La: Tru Tv 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2974.ts 
+#EXTINF:-1,La: F1 TV 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3046.ts 
+#EXTINF:-1,La: TVE 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2973.ts 
+#EXTINF:-1,La: Unicable 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/129.ts 
+#EXTINF:-1,La: Music Choice Musica Urbana 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5329.ts 
+#EXTINF:-1,La: Music Choice Pop Latino 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5327.ts 
+#EXTINF:-1,La: Ve Plus TV 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5330.ts 
+#EXTINF:-1,La: MI MUSICA TV HD 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5344.ts 
+#EXTINF:-1,La: Universal Channel 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3008.ts 
+#EXTINF:-1,La: Tiin 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3011.ts 
+#EXTINF:-1,La: Tlnovelas 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3009.ts 
+#EXTINF:-1,La: TNT Series 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/107.ts 
+#EXTINF:-1,La: Disney XD 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/46.ts 
+#EXTINF:-1,La: Home and Health 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3038.ts 
+#EXTINF:-1,La: HTV 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3037.ts 
+#EXTINF:-1,La: I.Sat 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3036.ts 
+#EXTINF:-1,La: Canal De Las Estrellas 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2998.ts 
+#EXTINF:-1,La: Tele Musica 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2978.ts 
+#EXTINF:-1,La: TNT 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2975.ts 
+#EXTINF:-1,La: TLC Discovery 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/123.ts 
+#EXTINF:-1,La: TLC 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3010.ts 
+#EXTINF:-1,La: TCM 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3014.ts 
+#EXTINF:-1,La: SyFy 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3015.ts 
+#EXTINF:-1,La: La niñera Español 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3034.ts 
+#EXTINF:-1,La: TV Azteca Honduras 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3115.ts 
+#EXTINF:-1,La: Globo TV Honduras 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5398.ts 
+#EXTINF:-1,La: HCH Honduras 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5430.ts 
+#EXTINF:-1,La: Todo Deportes Honduras 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5414.ts 
+#EXTINF:-1,La: Televicentro Honduras 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5472.ts 
+#EXTINF:-1,La: El Trece 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3107.ts 
+#EXTINF:-1,La: Nex TV Panama 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5465.ts 
+#EXTINF:-1,La: AmericaTV (Argentina) 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3111.ts 
+#EXTINF:-1,La: TYC Sports (Argentina) 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3102.ts 
+RAW Paste Data 
+ 
+#EXTINF:-1,La : UNIVISION Deportes HD 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5312.ts 
+#EXTINF:-1,LA: UNIVISION TDN 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2933.ts 
+#EXTINF:-1,LA: UNIVISION HD 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2931.ts 
+#EXTINF:-1,La: Univision 34 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5416.ts 
+#EXTINF:-1,La: Univision 23 Miami 
+http://ns534109
+ .ip-149-56-240.net:25461/live/EAS12/1111/3114.ts 
+#EXTINF:-1,LA: Telemundo Puerto Rico 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2936.ts 
+#EXTINF:-1,La: Telemundo 52 Los Angeles 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5351.ts 
+#EXTINF:-1,LA: Telemundo 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2935.ts 
+#EXTINF:-1,LA: Telemundo 48 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2934.ts 
+#EXTINF:-1,LA: UNIMAS HD 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2932.ts 
+#EXTINF:-1,LA: WAPA 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2937.ts 
+#EXTINF:-1,La: Wapa 2 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3006.ts 
+#EXTINF:-1,La: ESPN 2 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/139.ts 
+#EXTINF:-1,La: ESPN 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2990.ts 
+#EXTINF:-1,La: ESPN 3 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2989.ts 
+#EXTINF:-1,La: Fox Sports 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/141.ts 
+#EXTINF:-1,La: Fox Sports 2 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/142.ts 
+#EXTINF:-1,La: Discovery Science 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3098.ts 
+#EXTINF:-1,La: Film & Arts 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3096.ts 
+#EXTINF:-1,La: GolPeru 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3023.ts 
+#EXTINF:-1,La: AMC 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3.ts 
+#EXTINF:-1,La: Animal Planet 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5.ts 
+#EXTINF:-1,La: AXN 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/10.ts 
+#EXTINF:-1,La: Az Cinema 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3101.ts 
+#EXTINF:-1,La: Azteca Noticias 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3000.ts 
+#EXTINF:-1,La: Azteca 13 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3002.ts 
+#EXTINF:-1,La: Azteca 7 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3001.ts 
+#EXTINF:-1,La: Anime TV 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3090.ts 
+#EXTINF:-1,La: Boomerang 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3097.ts 
+#EXTINF:-1,La: A&E Latino 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2.ts 
+#EXTINF:-1,La: MTV Live 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3092.ts 
+#EXTINF:-1,La: CNN en español 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3072.ts 
+#EXTINF:-1,La: Film Zone 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3095.ts 
+#EXTINF:-1,La: Cartoon Network 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/25.ts 
+#EXTINF:-1,LA: Az Mundo 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3100.ts 
+#EXTINF:-1,La: Discovery Channel 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/39.ts 
+#EXTINF:-1,La: Cinemax 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3073.ts 
+#EXTINF:-1,La: Comedy Central 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2995.ts 
+#EXTINF:-1,La: De Pelicula 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/36.ts 
+#EXTINF:-1,La: Cinecanal (W) 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3074.ts 
+#EXTINF:-1,La: Cinecanal 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2997.ts 
+#EXTINF:-1,La: Cine Latino 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3099.ts 
+#EXTINF:-1,La: E! Entertainment Television 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2991.ts 
+#EXTINF:-1,La: Discovery ID 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2993.ts 
+#EXTINF:-1,La: Discovery Theater 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/42.ts 
+#EXTINF:-1,La: Discovery Turbo 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2992.ts 
+#EXTINF:-1,La: Discovery World 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3050.ts 
+#EXTINF:-1,La: Disney Channel 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/44.ts 
+#EXTINF:-1,La: Disney JR 
+http://ns534109.ip-149-56-240.net:254
+ 61/live/EAS12/1111/45.ts 
+#EXTINF:-1,La: Discovery Civilization 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2994.ts 
+#EXTINF:-1,La: FX 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/60.ts 
+#EXTINF:-1,La: En Vivo 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3048.ts 
+#EXTINF:-1,La: Fox 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3043.ts 
+#EXTINF:-1,La: Fox 1 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/54.ts 
+#EXTINF:-1,La: Fox Cinema 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2988.ts 
+#EXTINF:-1,La: Fox Classics 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3044.ts 
+#EXTINF:-1,La: Fox Life 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/59.ts 
+#EXTINF:-1,La: Lifetime 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3033.ts 
+#EXTINF:-1,La: TBS 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2979.ts 
+#EXTINF:-1,La: HBO Family 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3040.ts 
+#EXTINF:-1,La: MTV LATINO 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/81.ts 
+#EXTINF:-1,La: Multipremier 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3030.ts 
+#EXTINF:-1,La: NatGeo Wild 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/86.ts 
+#EXTINF:-1,La: NICK Jr 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2976.ts 
+#EXTINF:-1,La: Nick Toons 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3029.ts 
+#EXTINF:-1,La: MTV Hits 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3031.ts 
+#EXTINF:-1,La: Fox Action 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3045.ts 
+#EXTINF:-1,La: Warner 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3005.ts 
+#EXTINF:-1,La: Sony Channel 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3016.ts 
+#EXTINF:-1,La: Space 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/99.ts 
+#EXTINF:-1,La: Studio Universal 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/130.ts 
+#EXTINF:-1,La: Paramount Channel 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3027.ts 
+#EXTINF:-1,La: Discovery Kids 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/43.ts 
+#EXTINF:-1,La: VH1 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3007.ts 
+#EXTINF:-1,La: Nickelodeon 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/88.ts 
+#EXTINF:-1,La: Telehit 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3012.ts 
+#EXTINF:-1,La: Max Prime 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3032.ts 
+#EXTINF:-1,La: Tooncast 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/111.ts 
+#EXTINF:-1,La: Once Ninos 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3028.ts 
+#EXTINF:-1,La: NatGeo 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/85.ts 
+#EXTINF:-1,La: Glitz 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2985.ts 
+#EXTINF:-1,La: Golden 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/63.ts 
+#EXTINF:-1,La: Golden Choice Multiplex 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3042.ts 
+#EXTINF:-1,La: HBO 2 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2981.ts 
+#EXTINF:-1,La: Golden Edge 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2984.ts 
+#EXTINF:-1,La: Musica Si 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2987.ts 
+#EXTINF:-1,La: Golden Premier 2 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3041.ts 
+#EXTINF:-1,La: El Gourmet 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/50.ts 
+#EXTINF:-1,La: H2 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2983.ts 
+#EXTINF:-1,La: HBO 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2982.ts 
+#EXTINF:-1,La: Gala Tv 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2986.ts 
+#EXTINF:-1,La: HBO Signature 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2980.ts 
+#EXTINF:-1,La: History Channel 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/70.ts 
+#EXTINF:-1,La: HBO Plus 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/
+ 3039.ts 
+#EXTINF:-1,La: ExaTV 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3047.ts 
+#EXTINF:-1,La: Tru Tv 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2974.ts 
+#EXTINF:-1,La: F1 TV 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3046.ts 
+#EXTINF:-1,La: TVE 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2973.ts 
+#EXTINF:-1,La: Unicable 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/129.ts 
+#EXTINF:-1,La: Music Choice Musica Urbana 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5329.ts 
+#EXTINF:-1,La: Music Choice Pop Latino 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5327.ts 
+#EXTINF:-1,La: Ve Plus TV 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5330.ts 
+#EXTINF:-1,La: MI MUSICA TV HD 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5344.ts 
+#EXTINF:-1,La: Universal Channel 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3008.ts 
+#EXTINF:-1,La: Tiin 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3011.ts 
+#EXTINF:-1,La: Tlnovelas 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3009.ts 
+#EXTINF:-1,La: TNT Series 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/107.ts 
+#EXTINF:-1,La: Disney XD 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/46.ts 
+#EXTINF:-1,La: Home and Health 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3038.ts 
+#EXTINF:-1,La: HTV 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3037.ts 
+#EXTINF:-1,La: I.Sat 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3036.ts 
+#EXTINF:-1,La: Canal De Las Estrellas 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2998.ts 
+#EXTINF:-1,La: Tele Musica 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2978.ts 
+#EXTINF:-1,La: TNT 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/2975.ts 
+#EXTINF:-1,La: TLC Discovery 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/123.ts 
+#EXTINF:-1,La: TLC 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3010.ts 
+#EXTINF:-1,La: TCM 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3014.ts 
+#EXTINF:-1,La: SyFy 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3015.ts 
+#EXTINF:-1,La: La niñera Español 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3034.ts 
+#EXTINF:-1,La: TV Azteca Honduras 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3115.ts 
+#EXTINF:-1,La: Globo TV Honduras 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5398.ts 
+#EXTINF:-1,La: HCH Honduras 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5430.ts 
+#EXTINF:-1,La: Todo Deportes Honduras 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5414.ts 
+#EXTINF:-1,La: Televicentro Honduras 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5472.ts 
+#EXTINF:-1,La: El Trece 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3107.ts 
+#EXTINF:-1,La: Nex TV Panama 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/5465.ts 
+#EXTINF:-1,La: AmericaTV (Argentina) 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3111.ts 
+#EXTINF:-1,La: TYC Sports (Argentina) 
+http://ns534109.ip-149-56-240.net:25461/live/EAS12/1111/3102.ts
