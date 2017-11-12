@@ -1,4 +1,7 @@
 #EXTM3U
+
+<!--http://192.99.39.218:25461/get.php?username=david1&password=david1&type=m3u_plus-->
+
 #EXTINF:-1 tvg-id="Directv Eventos 1" tvg-name="DirecTV Sports" tvg-logo="http://3.bp.blogspot.com/-Ph7q98UL3m8/U8MfMnCuecI/AAAAAAAAACw/8KSreoq2hbw/s1600/directvsports.png" group-title="DEPORTES LATINOS",DirecTV Sports
 http://192.99.39.218:25461/live/david1/david1/7343.ts
 #EXTINF:-1 tvg-id="Directv Eventos 1" tvg-name="DirecTV Sports 2" tvg-logo="https://2.bp.blogspot.com/-uGIDKfk_fDo/WURN1vihOaI/AAAAAAAAADk/U_h42cXSef0UZocBsYbJGvpOM7OKBapjgCLcBGAs/s1600/directv%2Bsports%2B2.png" group-title="DEPORTES LATINOS",DirecTV Sports 2
