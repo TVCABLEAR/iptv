@@ -1,4 +1,13 @@
 #EXTM3U
+
+<!--http://panel-iptv-t21.com:8000/get.php?username=marylusdhd&password=pack1basico&type=m3u_plus&output=ts-->
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
 #EXTINF:-1 tvg-ID="" tvg-name="DEPORTES EN ESPAÑOL" tvg-logo="" group-title="DEPORTES",DEPORTES EN ESPAÑOL
 http://panel-iptv-t21.com:8000/live/marylusdhd/pack1basico/15716.ts
 #EXTINF:-1 tvg-ID="UFCNetwork.mx" tvg-name="Fighting Sports Network" tvg-logo="http://158.69.126.51:8000/logos/deporteses/UFCHD.png" group-title="DEPORTES",Fighting Sports Network
