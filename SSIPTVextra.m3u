@@ -1,0 +1,118 @@
+#EXTM3U
+
+<!--https://pastebin.com/raw/qD6yjmuc-->
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---------TVCABLEAR---------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",--------globalentv@gmail.com-----
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal-de-las-estrellas-en-vivo.jpg" group-title="MEXICO", LAS ESTRELLAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?CablearTV.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" group-title="MEXICO", AZTEKA 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8?CablearTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://cindytakahashi.com/wp-content/uploads/TV-Mexiquense.png" group-title="MEXICO",TV MEXIQUENSE
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?CablearTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.matrixtvnet.com.ve/img/canales/az_clic.png" group-title="MEXICO", AZ CLICK
+http://bit.ly/2yFTOFY?JoCaRoIPTV.m3u8?CablearTV.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal5.jpg" group-title="MEXICO", CANAL 5
+http://s1.iptvmanagerpro.com/stream_14_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8?CablearTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/LogoGalavision2013.png" group-title="MEXICO", GALATV YUCATAN
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8?CablearTV.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/multimedios.jpg" group-title="MEXICO", MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CablearTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/once.jpg" group-title="MEXICO", CANAL ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8?CablearTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/sky-logo-adn40.jpg" group-title="MEXICO", ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8?CablearTV.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="MEXICO", AZTECA A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?CablearTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-u2yqJpcuQbA/AAAAAAAAAAI/AAAAAAAAAAA/M6fZninIKdk/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO", EFEKTO TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8?CablearTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvonlineapp.com/wp-content/uploads/2012/09/TVMas.jpg" group-title="MEXICO", TV MAS
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?CablearTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.sizq.net/mpm/images/logotipos/milenio-tv.jpg" group-title="MEXICO", MILENIO TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?CablearTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal2-Obregon-Mx-Logo-300x300.jpg" group-title="MEXICO", CANAL 2 OBREGON
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/playlist.m3u8?CablearTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/canal-7-mazatlan.jpg" group-title="MEXICO", CANAL 7 MAZATLAN
+http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/playlist.m3u8?CablearTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Mochis-TV.png" group-title="MEXICO", CANAL 2 LOS MOCHIS
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/playlist.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/mx/TELEMAR.png" group-title="MEXICO", TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Y0oiMPs.jpg" group-title="MEXICO", CANAL JUDICIAL
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8?CablearTV.m3u8
+?JoCaRoIPTV.m3u8?CablearTV.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_2540.png" group-title="PREMIUM",FOX MOVIES
+http://144.217.79.223:8000/live/vidal/vidal/604.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/universalchannel.jpg" group-title="PREMIUM", UNIVERSAL CHANNEL
+http://144.217.79.223:8000/live/vidal/vidal/255.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/discovery.png" group-title="PREMIUM",DISCOVERY CHANNEL
+http://144.217.79.223:8000/live/vidal/vidal/2038.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fx.jpg" group-title="PREMIUM", FX
+http://144.217.79.223:8000/live/vidal/vidal/268.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="https://la.canalsony.com/sites/la.set/files/logos/sony-primary-nav_0.png" group-title="PREMIUM", SONY
+http://144.217.79.223:8000/live/vidal/vidal/269.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/warner.jpg" group-title="PREMIUM", WARNER BROTHER
+http://144.217.79.223:8000/live/vidal/vidal/398.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0010_glitz.png" group-title="PREMIUM", GLITZ
+http://144.217.79.223:8000/live/vidal/vidal/2307.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/filmzone.jpg" group-title="PREMIUM", FILM ZONE
+http://144.217.79.223:8000/live/vidal/vidal/256.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="PREMIUM", SPACE
+http://144.217.79.223:8000/live/vidal/vidal/265.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/cinecanal-en-vivo.png" group-title="PREMIUM", CINECAL
+http://144.217.79.223:8000/live/vidal/vidal/1385.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/1200px-2015_Disney_Channel_logo.svg.png" group-title="INFANTILES",DisneyChannel
+http://144.217.79.223:8000/live/vidal/vidal/820.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.bus-k.me/file/pic/listing/2012/10/1e64bacc2e959a6971b1035a17dada1b.png" group-title="INFANTILES",TOONSCAST
+http://144.217.79.223:8000/live/vidal/vidal/2329.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_discovery-kids-hd_m.png" group-title="INFANTILES",DiscoveryKids
+http://144.217.79.223:8000/live/vidal/vidal/822.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.boomerangla.com/static/base/images/logo.png" group-title="INFANTILES", BOOMERANG
+http://144.217.79.223:8000/live/vidal/vidal/827.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/5a/DisneyXD_2015-01.svg.png/revision/latest?cb=20151002205150&path-prefix=es" group-title="INFANTILES", DISNEY XD
+http://144.217.79.223:8000/live/vidal/vidal/818.m3u8?CablearTV.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/30ttd0g.jpg" group-title="DEPORTES", WIN SPORT
+http://144.217.79.223:8000/live/vidal/vidal/351.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 2" tvg-logo="http://1.bp.blogspot.com/-tt3j4vpuBZ8/Vl-heU6anJI/AAAAAAAAAgc/eeGesHgWV8Y/s1600/Fox-Sports-2.png" group-title="DEPORTES",FOX SPORT 2
+http://144.217.79.223:8000/live/vidal/vidal/602.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-en-vivo-205x205.png" group-title="DEPORTES",ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="DEPORTES",ESPN 2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-deporte.png" group-title="DEPORTES", ESPN 3
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(07)/index.m3u8?CablearTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.imfranetx.com/wp-content/uploads/2015/04/logo_final1.jpg" group-title="LATINOS", LATINA HD
+http://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/telemundon.jpg" group-title="LATINOS", TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8?CablearTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/300px-RCN_Nuestra_Tele_logo.svg.png" group-title="LATINOS", RCN
+http://vivoplay-i.akamaihd.net/hls/live/255327/canal1/master2500k.m3u8?CablearTV.m3u8
