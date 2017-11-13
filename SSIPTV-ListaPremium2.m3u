@@ -14,7 +14,7 @@ http://us.watcha.live/ch2/full.m3u8
 #EXTINF:0, AMERICA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
 http://us.watcha.live/ch3/full.m3u8
-#EXTINF:0, CH4
+#EXTINF:0, CANAL 7 LA TV PUBLICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
 http://us.watcha.live/ch4/full.m3u8
 #EXTINF:0, CANAL 9
