@@ -66,7 +66,8 @@ http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8?CablearTV.m3u8
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8?CablearTV.m3u8
 ?JoCaRoIPTV.m3u8?CablearTV.m3u8
 
-
+#EXTINF:-1 tvg-id="I213.4356.tvguide.com" tvg-name="AXN" tvg-logo="" group-title="PREMIUM",AXN
+http://192.99.39.218:25461/live/david1/david1/3747.ts
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_2540.png" group-title="PREMIUM",FOX MOVIES
 http://144.217.79.223:8000/live/vidal/vidal/604.m3u8?CablearTV.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/universalchannel.jpg" group-title="PREMIUM", UNIVERSAL CHANNEL
