@@ -15,32 +15,42 @@ https://www.youtube.com/watch?v=m294L79sEdA
 
 #EXTINF:-1 tvg-id="CanalEstrellas.ar" tvg-name="Canal De Las Estrellas" tvg-logo="http://www.chileiptv.xyz/logos/20.jpg" group-title="Internacionales",EL CANAL DE LAS ESTRELLAS
 http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/165.ts
+
 #EXTINF:-1 tvg-id="Tlnovelas.ar" tvg-name="TlNovelas" tvg-logo="http://www.chileiptv.xyz/logos/41.jpg" group-title="Internacionales",TLNOVELAS
 http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/96.ts
+
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision" tvg-logo="http://www.chileiptv.xyz/logos/12.jpg" group-title="Internacionales",UNIVISION
 http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/418.ts
+
 #EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="http://www.chileiptv.xyz/logos/13.jpg" group-title="Internacionales",TELEMUNDO
 http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/416.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Imagen." tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAmEAAAAJDM2ZjBkMmVkLTU3YWQtNDMzZi04ZTEyLTdiMmQ3NTkxZTMzNQ.png" group-title="CENTRO AMERICA",IMAGEN
 http://192.99.39.218:25461/live/david1/david1/3901.ts
+
 #EXTINF:-1 tvg-id="I187.41118.tvguide.com" tvg-name="EcuadorTV." tvg-logo="" group-title="ECUADOR",EcuadorTV.
 http://192.99.39.218:25461/live/david1/david1/3868.ts
+
 #EXTINF:-1 tvg-id="Ecuavisa HD" tvg-name="Ecuavisa HD" tvg-logo="http://www.iptvroku.com/logos/Ecuavisa.jpg" group-title="ECUADOR",Ecuavisa HD
 http://192.99.39.218:25461/live/david1/david1/3937.ts
+
 #EXTINF:-1 tvg-id="Ecuavisa" tvg-name="Ecuavisa." tvg-logo="http://www.iptvroku.com/logos/Ecuavisa.jpg" group-title="ECUADOR",Ecuavisa.
 http://192.99.39.218:25461/live/david1/david1/3874.ts
+
 #EXTINF:-1 tvg-id="America TV" tvg-name="America TV ARG" tvg-logo="http://www.iptvroku.com/logos/america.jpg" group-title="ARGENTINA",America TV ARG
 http://192.99.39.218:25461/live/david1/david1/3882.ts
+
 #EXTINF:-1 tvg-id="I104.20404.tvguide.com" tvg-name="America TV (PE)" tvg-logo="http://www.iptvroku.com/logos/americaTVHD.jpg" group-title="PERU / PARAG.",ATV (PERU)
 http://192.99.39.218:25461/live/david1/david1/3741.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-logo="https://s2-ssl.dmcdn.net/WCu9s/200x200-QaX.jpg" group-title="CENTRO AMERICA",Telemundo PR
 http://192.99.39.218:25461/live/david1/david1/6200.ts
-#EXTINF:-1 tvg-id="I145.77455.tvguide.com" tvg-name="Telemundo ." tvg-logo="" group-title="VARIEDADES",TELEMUNDO.
+
+#EXTINF:-1 tvg-id="I145.77455.tvguide.com" tvg-name="Telemundo ." tvg-logo="" group-title="CENTRO AMERICA",TELEMUNDO.
 http://192.99.39.218:25461/live/david1/david1/3833.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-logo="https://s2-ssl.dmcdn.net/WCu9s/200x200-QaX.jpg" group-title="CENTRO AMERICA",IMAGEN TV
-#
+
 #EXTINF:-1 tvg-id="I145.77455.tvguide.com" tvg-name="Telemundo ." tvg-logo="" group-title="HONDURAS", CANAL 5 EL LIDER.
 #
 #EXTINF:-1 tvg-id="I145.77455.tvguide.com" tvg-name="Telemundo ." tvg-logo="" group-title="HONDURAS", TELECADENA
