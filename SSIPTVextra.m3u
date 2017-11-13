@@ -63,7 +63,6 @@ http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/playlist.m3u8?CablearTV.
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8?CablearTV.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Y0oiMPs.jpg" group-title="MEXICO", CANAL JUDICIAL
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8?CablearTV.m3u8
-?JoCaRoIPTV.m3u8?CablearTV.m3u8
 
 #EXTINF:-1 tvg-id="I213.4356.tvguide.com" tvg-name="AXN" tvg-logo="" group-title="PREMIUM",AXN
 http://192.99.39.218:25461/live/david1/david1/3747.ts
