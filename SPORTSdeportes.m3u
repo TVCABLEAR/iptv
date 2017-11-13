@@ -9,10 +9,10 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
 https://github.com/TVCABLEAR/
 
-#EXTINF:-1, BEIN SPORTS Ñ 
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="FUTBOL", BEIN SPORTS Ñ 
 https://freeeucache3.streamlive.to/live/kt5n0c91dtygbwz/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAxNyAxOjA4OjAyIFBNJmhhc2hfdmFsdWU9eGdXOC81OUZaUHVpeTYxQnVNL1N4Zz09JnZhbGlkbWludXRlcz0xMDAwMDAmc3RybV9sZW49MjA=
 
-#EXTINF:-1, BEIN SPORT ESPAÑA 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="FUTBOL", BEIN SPORT ESPAÑA 
 http://peto10.pedromo.online/live/verliga5/index.m3u8?token=GB99kuodjZIsUG-DsE8l6w&expires=1510406299
 http://peto10.pedromo.online/live/verliga5/7285.ts
 http://peto10.pedromo.online/live/verliga5/7286.ts
@@ -22,11 +22,11 @@ http://peto10.pedromo.online/live/verliga5/7289.ts
 http://peto10.pedromo.online/live/verliga5/7290.ts
 http://peto17.pedromo.online/live/goltv/index.m3u8?token=NiTDxYu4hHGQnfj9zI3P7w&expires=1510408271
 
-#EXTINF:-1, BEIN SPORT LA LIGA 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="FUTBOL" , BEIN SPORT LA LIGA 
 http://xx.cast3d.info/live/ligarincon_cyy1j05/chunklist.m3u8?st=p16lbNzCfKmMuSRpaNQgeg&e=1510406552
 http://xx.cast3d.info/live/ligarincon_cyy1j05/playlist.m3u8?st=p16lbNzCfKmMuSRpaNQgeg&e=1510406552
 
-#EXTINF:-1, GOL PERU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="FUTBOL", GOL PERU
 http://121.liveflashplayer.org:8088/zenex/fulltvhd1/playlist.m3u8?id=26853&wowzasessionid=025192644&pk=4cebfe492d003347e4e4607635f3c89a22b6741353f5fd865c8e1b236bacd780
 
 #EXTINF:-1 tvg-id="" tvg-name="CDO Basico" tvg-logo="http://www.chileiptv.xyz/logos/61.jpg" group-title="Deportes",CDO Basico
