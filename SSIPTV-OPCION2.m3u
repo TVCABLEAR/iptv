@@ -8,19 +8,19 @@ https://github.com/TVCABLEAR/
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/med_gallery_1157_2_1147.png" group-title="PREMIUM", ISAT OPC2 NO DISPONIBLE
-http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
+#
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156" group-title="PREMIUM", AMC OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3742.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0003_tcm.png" group-title="PREMIUM", TCM OPC2 NO DISPONIBLE
-http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
+#
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-za1hb9sNrLU/UqLjmOIZikI/AAAAAAAAA6M/1N4oIDZxIng/s1600/_0004_true_tv.png" group-title="PREMIUM", TRUTV OPC2
-http://iptv61w.com:25461/live/daniel/daniel/4673.m3uu8
+#
 
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="PREMIUM", E! OPC2 NO DISPONIBLE
-http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
+#
 
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/11/ae_network_logo-svg.png?w=605" group-title="PREMIUM", A&E OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3740.m3u8
@@ -29,7 +29,7 @@ http://iptv61w.com:25461/live/daniel/daniel/3740.m3u8
 http://iptv61w.com:25461/live/daniel/daniel/3710.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-LiaQDlzHFPU/U7UozRfRUpI/AAAAAAAAEQc/jK_3OyQ7nds/s1600/Lifetime.jpeg" group-title="PREMIUM", LIFETIME OPC2 NO DISPONIBLE
-http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
+#
 
 #EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2292.png" group-title="PREMIUM", CINEMAX OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3684.m3u8
@@ -47,7 +47,7 @@ http://iptv61w.com:25461/live/daniel/daniel/3704.m3u8
 http://iptv61w.com:25461/live/daniel/daniel/3736.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="PREMIUM", GOLDEN OPC2
-http://iptv61w.com:25461/live/daniel/daniel/3734.m3u8
+#
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="PREMIUM", AXN OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3747.m3u8
@@ -59,36 +59,26 @@ http://iptv61w.com:25461/live/daniel/daniel/3825.m3u8
 http://iptv61w.com:25461/live/daniel/daniel/3724.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Sundance_Channel_HD_Logo.png" group-title="PREMIUM", SUNDANCE CHANNEL OPC2
-http://iptv61w.com:25461/live/daniel/daniel/3982.m3u8
+#
 
 #EXTINF:-1 tvg-logo="http://www.identityschoolofacting.com/wp-content/uploads/2017/05/paramount-logo-grid-new.png" group-title="PREMIUM", PARAMOUNT CHANNEL OPC2
-http://iptv61w.com:25461/live/daniel/daniel/3701.m3u8
+#
 
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/11/TBS-logo-2015-new-640x480.png" group-title="PREMIUM",TBS OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3828.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.kidscreen.com/wp/wp-content/uploads/2011/03/DisneyJunior-300x225.jpg?1acae9" group-title="INFANTILES", DISNEY JR
 http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/8.png" group-title="INFANTILES", NICK JR
-http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/8.png" group-title="INFANTILES", NICK JR opc 2
 http://iptv61w.com:25461/live/daniel/daniel/3812.m3u8
-#EXTINF:-1 tvg-logo="http://televisatvdepaga.com/wp-content/uploads/bfi_thumb/Tiin-my69p0bpb2psrtb8re139szah8ai55oai11rs3ghrk.png" group-title="INFANTILES", TIIN
-http://live.izzitv.mx/Content/HLS/Live/Channel(TIIN)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.thesimplemoms.com/wp-content/uploads/2013/11/nick2.png" group-title="INFANTILES",NICK
-http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Nick_2_Logo.svg/1024px-Nick_2_Logo.svg.png" group-title="INFANTILES",NICK 2
-http://live.izzitv.mx/Content/HLS/Live/Channel(NICK2_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://68.media.tumblr.com/ed964b767d801f7de3cb4460321aee62/tumblr_mohtllqmYB1r5j4apo1_500.png" group-title="INFANTILES", LOCOMOTION
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1 tvg-logo="http://www.boomerangla.com/static/base/images/logo.png" group-title="INFANTILES", BOOMERANG
-http://live.izzitv.mx/Content/HLS/Live/Channel(BOOMERANG)/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.canalipe.tv/sites/default/files/web/users/user219/logo_chicos_ipe_1.jpg" group-title="INFANTILES", CHICOS IPE
 http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8?TVcablear.m3u8
 #EXTINF:-1 tvg-logo="http://www.imperioanime.com/wp-content/uploads/2011/06/TVavatar.png" group-title="INFANTILES", ANIME TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?TVcablear.m3u8
-#EXTINF:-1 tvg-logo="http://latelete.tv/img/cartoon.png" group-title="INFANTILES", CARTOON NETWORK
-http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-pkpk1.png?ssl=1&w=450" group-title="INFANTILES", PakaPaka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0001_tooncast.png" group-title="INFANTILES", TOON CAST
@@ -96,8 +86,7 @@ http://iptv61w.com:25461/live/daniel/daniel/3725.m3u8
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Disney-XD.png" group-title="INFANTILES",DISNEY XD
 http://iptv61w.com:25461/live/daniel/daniel/3712.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal-de-las-estrellas-en-vivo.jpg" group-title="MEXICO", LAS ESTRELLAS OPC 2
-http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/Tlnovelas_%28TV_network%29_logo.jpg" group-title="MEXICO", TLNOVELAS OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3834.m3u8
@@ -125,12 +114,6 @@ http://iptv61w.com:25461/live/daniel/daniel/3680.ts
 
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-en-vivo-205x205.png" group-title="DEPORTES",ESPN OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3886.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="DEPORTES",ESPN 2 OPC2
-http://iptv61w.com:25461/live/daniel/daniel/3885.m3u8
-
-#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/http://userlogos.org/files/logos/johnboy41/espn3.png" group-title="DEPORTES", ESPN 3 OPC2
-http://iptv61w.com:25461/live/daniel/daniel/3898.m3u8
 
 #EXTINF:-1,tvg-logo="http://i.imgur.com/PxyIZNW.png" group-title="DEPORTES",DEPORT TV opc1 
 https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8?TVcablear.m3u8
