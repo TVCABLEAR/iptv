@@ -6,6 +6,99 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",--------globalentv@gmail.com-----
 https://github.com/TVCABLEAR/
 
+#EXTINF:0, CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch1/full.m3u8
+#EXTINF:0, CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch2/full.m3u8
+#EXTINF:0, CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch3/full.m3u8
+#EXTINF:0, CH4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch4/full.m3u8
+#EXTINF:0, CH5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch5/full.m3u8
+#EXTINF:0, CH6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch6/full.m3u8
+#EXTINF:0, CH7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch7/full.m3u8
+#EXTINF:0, CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch8/full.m3u8
+#EXTINF:0, CH9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch9/full.m3u8
+#EXTINF:0, CH10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch10/full.m3u8
+#EXTINF:0, CH11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch11/full.m3u8
+#EXTINF:0, CH12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch12/full.m3u8
+#EXTINF:0, CH13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch13/full.m3u8
+#EXTINF:0, CH14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch14/full.m3u8
+#EXTINF:0,I CH15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch15/full.m3u8
+#EXTINF:0, CH16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch16/full.m3u8
+#EXTINF:0, CH17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch17/full.m3u8
+#EXTINF:0,I CH18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch18/full.m3u8
+#EXTINF:0, CH19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch19/full.m3u8
+#EXTINF:0, CH20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch20/full.m3u8
+#EXTINF:0, CH21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch21/full.m3u8
+#EXTINF:0, CH22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch22/full.m3u8
+#EXTINF:0, CH23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch23/full.m3u8
+#EXTINF:0, CH24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch24/full.m3u8
+#EXTINF:0, CH25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch25/full.m3u8
+#EXTINF:0, CH26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch26/full.m3u8
+#EXTINF:0, CH27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch27/full.m3u8
+#EXTINF:0, CH28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch28/full.m3u8
+#EXTINF:0, CH29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch29/full.m3u8
+#EXTINF:0, CH30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch30/full.m3u8
+#EXTINF:0, CH31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+http://us.watcha.live/ch31/full.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/med_gallery_1157_2_1147.png" group-title="PREMIUM", ISAT OPC2 NO DISPONIBLE
 #
