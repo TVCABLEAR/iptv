@@ -12,7 +12,186 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal-de-las-estrellas-en-vivo.jpg" group-title="MEXICO", LAS ESTRELLAS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?CablearTV.m3u8
 
-
+#EXTINF:-1,Las Estrellas HD
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8?CablearTV.m3u8
+#EXTINF:-1,Foro Tv
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?CablearTV.m3u8 
+#EXTINF:-1,ADN 40
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?CablearTV.m3u8 
+#EXTINF:-1,A+ HD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8?CablearTV.m3u8
+#EXTINF:-1,Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8?CablearTV.m3u8
+#EXTINF:-1,Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8?CablearTV.m3u8
+#EXTINF:-1,DEPORTES:F1 LATINOAMERICA
+http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,DEPORTES:TDN
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,INFANTILES:CARTOON NETWORK
+http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,INFANTILES:BOOMERANG
+http://live.izzitv.mx/Content/HLS/Live/Channel(BOOMERANG)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,INFANTILES:TIIN
+http://live.izzitv.mx/Content/HLS/Live/Channel(TIIN)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,INFANTILES:NICK
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,INFANTILES:NICK 2
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK2_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,INFANTILES:NICK JR
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:SONY
+http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:WARNER BROTHER
+http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:GOLDEN
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:AXN
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:SPACE
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:TNT SERIES
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:MTV
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:TELEHIT
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:BANDAMAX
+http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:RITMOSON
+http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:CNN
+http://live.izzitv.mx/Content/HLS/Live/Channel(CNN_ESP)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:UNICABLE
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:EL GOURMET
+http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:NATGEO
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:NATGEO WILD
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:TBS
+http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:ISAT
+http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:AMC
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:TCM
+http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:TRUTV
+http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:E!
+http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:A&E
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:COMEDY CENTAL
+http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:Lifetime
+http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:CINEMAX
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:HISTORY
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:H2
+http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:SONY
+http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:WARNER BROTHER
+http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:GOLDEN
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:AXN
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:SPACE
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:TNT SERIES
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:MTV
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:TELEHIT
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:BANDAMAX
+http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,PREMIUM:RITMOSON
+http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,MEXICO:DISTRITO COMEDIA
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,MEXICO:GALATV
+http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,MEXICO:DE PELICULA
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,MEXICO:CANAL 5
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,MEXICO:Azteca 7
+http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,MEXICO:TLNOVELAS
+http://live.izzitv.mx/Content/HLS/Live/Channel(TLNOVELAS)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Canal Cinco HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Espn
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Espn 2
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,ESPN 3
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Univision TDN
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,TDN
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,GALA TV SD
+http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,GALA TV HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Cinemax
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Space HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,WB HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,A&E HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Mtv live hd
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_LIVE_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Entretenimiento:A&E HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Noticias:ABC News
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Religion:Alcance TV
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/Stream(06)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Religion:Almavision
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Musica:Amazing Music
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/Stream(07)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Entretenimiento:AMC
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/Stream(08)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Entretenimiento:AMC HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/Stream(08)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Entretenimiento:Wobi
+http://live.izzitv.mx/Content/HLS/Live/Channel(WOBI)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Libres:CNN en espanol
+http://live.izzitv.mx/Content/HLS/Live/Channel(CNN_SD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Deportes:ESPN
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Deportes:ESPN 2
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Deportes:ESPN 3
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Entretenimiento:Golden HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Cultura:History HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Cultura:H2
+http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Cultura:NatGeo
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Cultura:NatGeo Wild
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Cultura:Animal Planet
+http://live.izzitv.mx/Content/HLS/Live/Channel(ANIMAL_PLANET)/index.m3u8?CablearTV.m3u8
+#EXTINF:-1,Musica:Telehit
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8?CablearTV.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" group-title="MEXICO", AZTEKA 13
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8?CablearTV.m3u8
 
