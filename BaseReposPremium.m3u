@@ -180,37 +180,127 @@ http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)
  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/15.m3u8
  
  #EXTINF:-1, TCM
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/89.m3u8,  , 90,
- #EXTINF:-1, SPACE,ABREV:Sp,CATEGORIA:3,  
- http://186.103.216.85:85/m/p3.php?id=130&type=m3u8,  , 92,
- #EXTINF:-1, MAX PRIME,ABREV:Ma,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/370.m3u8,  , 97,
- #EXTINF:-1, FX,ABREV:Fx,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/132.m3u8,  , 98,
- #EXTINF:-1, FOX LATINO,ABREV:Fx,CATEGORIA:3,  
- http://186.103.216.85:85/m/p3.php?id=128&type=m3u8,  , 99,
- #EXTINF:-1, FOX LIFE,ABREV:Fx,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/37.m3u8,  , 100,
- #EXTINF:-1, FOX PREMIUM ACTION ,ABREV:Fx,CATEGORIA:3,  
- http://195.181.162.207:25461/live/peliculas/fanstvapp/1694.m3u8,  , 101,
- #EXTINF:-1, FOX PREMIUM CINEMA,ABREV:Fx,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/72.m3u8,  , 102,
- #EXTINF:-1, FOX PREMIUM CLASSIC,ABREV:Fx,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/73.m3u8,  , 103,
- #EXTINF:-1, FOX PREMIUM FAMILY,ABREV:Fx,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/186.m3u8,  , 104,
- #EXTINF:-1, FOX PREMIUM MOVIES,ABREV:Fx,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/71.m3u8,  , 105,
- #EXTINF:-1, HBO,ABREV:Hb,CATEGORIA:3,  
- http://195.181.162.207:25461/live/peliculas/fanstvapp/1643.m3u8,  , 110,
- #EXTINF:-1, CAPITAL,ABREV:Ca,CATEGORIA:4,  
- http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8,  , 111,
- #EXTINF:-1, TOP LATINO,ABREV:To,CATEGORIA:4,  
- http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8,  , 112,
- #EXTINF:-1, MUSIC TOP,ABREV:To,CATEGORIA:4,  http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8,  , 113,#EXTINF:-1, CARINA TV,ABREV:Ca,CATEGORIA:4,  http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8,  , 114,#EXTINF:-1, CITY RADIO TV,ABREV:Ci,CATEGORIA:4,  http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8,  , 115,#EXTINF:-1, COOL HD,ABREV:Co,CATEGORIA:4,  http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8,  , 116,#EXTINF:-1, HEART TV,ABREV:He,CATEGORIA:4,  http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8,  , 117,#EXTINF:-1, RADIO ONE,ABREV:On,CATEGORIA:4,  http://server5.stweb.tv/radioone/live/playlist.m3u8,  , 118,#EXTINF:-1, M2O TV,ABREV:M2,CATEGORIA:4,  http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o,  , 119,#EXTINF:-1, ONE TV,ABREV:On,CATEGORIA:4,  http://server5.stweb.tv/rad
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/89.m3u8 
+ #EXTINF:-1, SPACE
+ http://186.103.216.85:85/m/p3.php?id=130&type=m3u8
+ #EXTINF:-1, MAX PRIME 
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/370.m3u8
+ #EXTINF:-1, FX
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/132.m3u8
+ #EXTINF:-1, FOX LATINO
+ http://186.103.216.85:85/m/p3.php?id=128&type=m3u8
+ #EXTINF:-1, FOX LIFE  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/37.m3u8
+ #EXTINF:-1, FOX PREMIUM ACTION 
+ http://195.181.162.207:25461/live/peliculas/fanstvapp/1694.m3u8
+ #EXTINF:-1, FOX PREMIUM CINEMA 
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/72.m3u8
+ #EXTINF:-1, FOX PREMIUM CLASSIC 
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/73.m3u8
+ #EXTINF:-1, FOX PREMIUM FAMILY
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/186.m3u8
+ #EXTINF:-1, FOX PREMIUM MOVIES 
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/71.m3u8
+ #EXTINF:-1, HBO 
+ http://195.181.162.207:25461/live/peliculas/fanstvapp/1643.m3u8
+ #EXTINF:-1, CAPITAL
+ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+ #EXTINF:-1, TOP LATINO 
+ http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+ #EXTINF:-1, MUSIC TOP,ABREV:To,CATEGORIA:4,  
+ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+ #EXTINF:-1, CARINA TV,ABREV:Ca,CATEGORIA:4,  
+ http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8,  , 114,
+ #EXTINF:-1, CITY RADIO TV,ABREV:Ci,CATEGORIA:4,  
+ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8,  , 115,
+ #EXTINF:-1, COOL HD,ABREV:Co,CATEGORIA:4,  
+ http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8,  , 116,
+ #EXTINF:-1, HEART TV,ABREV:He,CATEGORIA:4,  
+ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8,  , 117,
+ #EXTINF:-1, RADIO ONE,ABREV:On,CATEGORIA:4,  
+ http://server5.stweb.tv/radioone/live/playlist.m3u8,  , 118,
+ #EXTINF:-1, M2O TV,ABREV:M2,CATEGORIA:4,  
+ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o,  , 119,
+ #EXTINF:-1, ONE TV,ABREV:On,CATEGORIA:4,  
+ http://server5.stweb.tv/rad
  ioone/ngrp:live_all/chunklist_w356427825_b2435072.m3u8,  , 120,
- #EXTINF:-1, MELODY CHANNEL,ABREV:Me,CATEGORIA:4,  http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8,  , 121,#EXTINF:-1, MI MUSICA,ABREV:Mu,CATEGORIA:4,  http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8,  , 122,#EXTINF:-1, ROCK TV,ABREV:Ro,CATEGORIA:4,  http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8,  , 123,#EXTINF:-1, RT DOCUMENTARY,ABREV:Rt,CATEGORIA:5,  https://secure-streams.akamaized.net/rt-esp/index2500.m3u8,  , 124,#EXTINF:-1, DW LATINOAMERICA,ABREV:Dw,CATEGORIA:5,  http://dwstre
- am3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8,  , 125,#EXTINF:-1, NATIONAL GEOGRAPHIC,ABREV:Ng,CATEGORIA:5,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/62.m3u8,  , 126,#EXTINF:-1, NAT GEO WILD,ABREV:Nw,CATEGORIA:5,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/57.m3u8,  , 127,#EXTINF:-1, ANIMAL PLANET,ABREV:An,CATEGORIA:5,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/60.m3u8,  , 128,#EXTINF:-1, HISTORY,ABREV:HI,CATEGORIA:5,  http://inber.tvyradio.ml/stream_0.php?id=12&type=m3u8,  , 129,#EXTINF:-1, HISTORY 2,ABREV:H2,CATEGORIA:5,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/183.m3u8,  , 130,#EXTINF:-1, DISCOVERY CIVILIZACION,ABREV:Dc,CATEGORIA:5,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/65.m3u8,  , 131,#EXTINF:-1, DISCOVERY CHANNEL,ABREV:Dc,CATEGORIA:5,  http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1708.m3u8,  , 132,#EXTINF:-1, DISCOVERY THEATER,ABREV:Dt,CATEGORIA:5,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/55.m3u8,  , 133,#EXTINF:-1, INVESTIGATION DISCOVERY ,ABREV:In,CATEGORIA:5,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/32.m3u8,  , 134,#EXTINF:-1, DISCOVERY TURBO,ABREV:Tu,CATEGORIA:5,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/66.m3u8,  , 135,#EXTINF:-1, DISCOVERY SCIENCE,ABREV:Ds,CATEGORIA:5,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/64.m3u8,  , 136,#EXTINF:-1, H&H DISCOVERY,ABREV:Hh,CATEGORIA:5,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/61.m3u8,  , 137,#EXTINF:-1, SUN CHANNEL,ABREV:Su,CATEGORIA:5,  http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8,  , 138,#EXTINF:-1, LIFETIME,ABREV:Li,CATEGORIA:5,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/63.m3u8,  , 139,#EXTINF:-1, TRT WORLD,ABREV:Tr,CATEGORIA:5,  http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8,  , 140,#EXTINF:-1, ADN 40,ABREV:Ad,CATEGORIA:5,  http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8,  , 141,#EXTINF:-1, FRANCE 24,ABREV:Fr,CATEGORIA:5,  http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8,  , 142,#EXTINF:-1, MILENIO,ABREV:Mi,CATEGORIA:5,  http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956,  , 143,#EXTINF:-1, TRAVEL HD,ABREV:Tr,CATEGORIA:5,  http://31.13.223.104:1935/travel/community.stream/playlist.m3u8,  , 144,NOMBRE
- :CANAL ONCE,ABREV:Co,CATEGORIA:5,  http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8,  , 145,#EXTINF:-1, CGTN ESPANOL,ABREV:Cg,CATEGORIA:5,  http://livees.cgtn.com/1000e/prog_index.m3u8,  , 146,#EXTINF:-1, CNN CHILE,ABREV:Cn,CATEGORIA:5,  http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8,  , 147,#EXTINF:-1, CHILE VISION,ABREV:Vi,CATEGORIA:5,  http://chv.movil.hls.ztreaming.com/chvmovil2/chilevision@140569/1.m3u8,  , 148,#EXTINF:-1, DISNEY CHANNEL,ABREV:Di,CATEGORIA:6,  http://195.181.162.207:25461/live/infantiles/fanstvapp/1780.m3u8,  , 149,#EXTINF:-1, DISNEY XD,ABREV:Dx,CATEGORIA:6,  http://195.181.162.207:25461/live/infantiles/fanstvapp/1782.m3u8,  , 150,#EXTINF:-1, DISNEY JUNIOR,ABREV:Dj,CATEGORIA:6,  http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8,  , 151,#EXTINF:-1, NICKELODEON,ABREV:Ni,CATEGORIA:6,  http://195.181.162.207:25461/live/infantiles/fanstvapp/1664.m3u8,  , 152,#EXTINF:-1, NICK TOONS,ABREV:Ni,CATEGORIA:6,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/47.m3u8,  , 153,#EXTINF:-1, NICK Jr.,ABREV:Jr,CATEGORIA:6,  http://195.181.162.207:25461/live/infantiles/fanstvapp/1631.m3u8,  , 154,#EXTINF:-1, CARTOON NETWORK 1,ABREV:Ca,CATEGORIA:6,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/126.m3u8,  , 155,#EXTINF:-1, TIIN,ABREV:Ti,CATEGORIA:6,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/713.m3u8,  , 156,#EXTINF:-1, DISCOVERY KIDS ,ABREV:Di,CATEGORIA:6,  http://195.181.162.207:25461/live/infantiles/fanstvapp/1711.m3u8,  , 157,#EXTINF:-1, BOOMERANG,ABREV:Bo,CATEGORIA:6,  http://inber.tvyradio.ml/stream_0.php?id=10&type=m3u8,  , 158,#EXTINF:-1, TOONCAST,ABREV:To,CATEGORIA:6,  http://195.181.162.207:25461/live/infantiles/fanstvapp/1592.m3u8,  , 159,#EXTINF
+ #EXTINF:-1, MELODY CHANNEL
+ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+ #EXTINF:-1, MI MUSICA 
+ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+ #EXTINF:-1, ROCK TV 
+ http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+ #EXTINF:-1, RT DOCUMENTARY
+ https://secure-streams.akamaized.net/rt-esp/index2500.m3u8
+ 
+ #EXTINF:-1, DW LATINOAMERICA,ABREV:Dw,CATEGORIA:5,  
+ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+ #EXTINF:-1, NATIONAL GEOGRAPHIC
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/62.m3u8
+ #EXTINF:-1, NAT GEO WILD 
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/57.m3u8
+ #EXTINF:-1, ANIMAL PLANET 
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/60.m3u8
+ #EXTINF:-1, HISTORY
+ http://inber.tvyradio.ml/stream_0.php?id=12&type=m3u8
+ #EXTINF:-1, HISTORY 2,ABREV:H2,CATEGORIA:5,  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/183.m3u8,  , 130,
+ #EXTINF:-1, DISCOVERY CIVILIZACION,ABREV:Dc,CATEGORIA:5,  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/65.m3u8,  , 131,
+ #EXTINF:-1, DISCOVERY CHANNEL,ABREV:Dc,CATEGORIA:5,  
+ http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1708.m3u8,  , 132,
+ #EXTINF:-1, DISCOVERY THEATER,ABREV:Dt,CATEGORIA:5,  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/55.m3u8,  , 133,
+ #EXTINF:-1, INVESTIGATION DISCOVERY ,ABREV:In,CATEGORIA:5,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/32.m3u8,  , 134,
+ #EXTINF:-1, DISCOVERY TURBO,ABREV:Tu,CATEGORIA:5,  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/66.m3u8,  , 135,
+ #EXTINF:-1, DISCOVERY SCIENCE,ABREV:Ds,CATEGORIA:5,  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/64.m3u8,  , 136,
+ #EXTINF:-1, H&H DISCOVERY,ABREV:Hh,CATEGORIA:5,  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/61.m3u8,  , 137,
+ #EXTINF:-1, SUN CHANNEL,ABREV:Su,CATEGORIA:5,  
+ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8,  , 138,
+ #EXTINF:-1, LIFETIME,ABREV:Li,CATEGORIA:5,  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/63.m3u8,  , 139,
+ #EXTINF:-1, TRT WORLD,ABREV:Tr,CATEGORIA:5,  
+ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8,  , 140,
+ #EXTINF:-1, ADN 40,ABREV:Ad,CATEGORIA:5,  http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8,  , 141,
+ #EXTINF:-1, FRANCE 24,ABREV:Fr,CATEGORIA:5,  
+ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8,  , 142,
+ #EXTINF:-1, MILENIO,ABREV:Mi,CATEGORIA:5,  
+ http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956,  , 143,
+ #EXTINF:-1, TRAVEL HD,ABREV:Tr,CATEGORIA:5,  
+ http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+ #EXTINF:-1, CANAL ONCE  
+ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+ #EXTINF:-1, CGTN ESPANOL,ABREV:Cg,CATEGORIA:5,  
+ http://livees.cgtn.com/1000e/prog_index.m3u8,  , 146,
+ #EXTINF:-1, CNN CHILE,ABREV:Cn,CATEGORIA:5,  
+ http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8,  , 147,
+ #EXTINF:-1, CHILE VISION,ABREV:Vi,CATEGORIA:5,  
+ http://chv.movil.hls.ztreaming.com/chvmovil2/chilevision@140569/1.m3u8,  , 148,
+ #EXTINF:-1, DISNEY CHANNEL,ABREV:Di,CATEGORIA:6,  
+ http://195.181.162.207:25461/live/infantiles/fanstvapp/1780.m3u8,  , 149,
+ #EXTINF:-1, DISNEY XD,ABREV:Dx,CATEGORIA:6,  
+ http://195.181.162.207:25461/live/infantiles/fanstvapp/1782.m3u8,  , 150,
+ #EXTINF:-1, DISNEY JUNIOR,ABREV:Dj,CATEGORIA:6,  
+ http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8,  , 151,
+ #EXTINF:-1, NICKELODEON,ABREV:Ni,CATEGORIA:6,  
+ http://195.181.162.207:25461/live/infantiles/fanstvapp/1664.m3u8,  , 152,
+ #EXTINF:-1, NICK TOONS,ABREV:Ni,CATEGORIA:6,  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/47.m3u8,  , 153,
+ #EXTINF:-1, NICK Jr.,ABREV:Jr,CATEGORIA:6,  
+ http://195.181.162.207:25461/live/infantiles/fanstvapp/1631.m3u8,  , 154,
+ #EXTINF:-1, CARTOON NETWORK 1,ABREV:Ca,CATEGORIA:6,  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/126.m3u8,  , 155,
+ #EXTINF:-1, TIIN,ABREV:Ti,CATEGORIA:6,  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/713.m3u8,  , 156,
+ #EXTINF:-1, DISCOVERY KIDS ,ABREV:Di,CATEGORIA:6,  
+ http://195.181.162.207:25461/live/infantiles/fanstvapp/1711.m3u8,  , 157,
+ #EXTINF:-1, BOOMERANG,ABREV:Bo,CATEGORIA:6,  
+ http://inber.tvyradio.ml/stream_0.php?id=10&type=m3u8,  , 158,
+ #EXTINF:-1, TOONCAST,ABREV:To,CATEGORIA:6,  
+ http://195.181.162.207:25461/live/infantiles/fanstvapp/1592.m3u8
+ #EXTINF
  :-1, ANIME TV,ABREV:An,CATEGORIA:6,  http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8,  , 160,#EXTINF:-1, LOCOMOTION,ABREV:Lo,CATEGORIA:6,  http://locomotiontv.com/envivo/loco_channel/stream.m3u8,  , 161,#EXTINF:-1, TATETI,ABREV:Ta,CATEGORIA:6,  http://br.watcha.live/ch16/hi.m3u8,  , 162,#EXTINF:-1, YES,ABREV:Ye,CATEGORIA:6,  http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8,  , 163,#EXTINF:-1, IPE TV,ABREV:Ip,CATEGORIA:6,  http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8,  , 164,#EXTINF:-1, PAKA PAKA,ABREV:Pa,CATEGORIA:6,  http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8,  , 165,#EXTINF:-1, TVN KIDS,ABREV:Tv,CATEGORIA:6,  http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/index-v1-a1.m3u8,  , 166,#EXTINF:-1, 3ABN LATINO,ABREV:Ab,CATEGORIA:7,  http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/master.m3u8,  , 167,#EXTINF:-1, CBN ESPA\u00d1OL,ABREV:Cb,CATEGORIA:7,  http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8,  , 168,#EXTINF:-1, CIELO TV,ABREV:Ci,CATEGORIA:7,  http://wan-lbf.net:1935/cielotv/myStream.sdp/playlist.m3u8,  , 169,NOMB
  RE:COMUNION TV,ABREV:Co,CATEGORIA:7,  http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8,  , 170,#EXTINF:-1, CTNI,ABREV:Ct,CATEGORIA:7,  http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8,  , 171,#EXTINF:-1, ENLACE,ABREV:E,CATEGORIA:7,  http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8,  , 172,#EXTINF:-1, RADIO VIDA TV,ABREV:Ra,CATEGORIA:7,  http://178.32.53.254/radiovida/mobile/playlist.m3u8,  , 173,#EXTINF:-1, RED AVENIR,ABREV:Re,CATEGORIA:7,  http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8,  , 174,#EXTINF:-1, TABERNACULO ,ABREV:Ta,CATEGORIA:7,  http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/playlist.m3u8,  , 175,#EXTINF:-1, KIDS,ABREV:Ki,CATEGORIA:6,  http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8,  , 176,#EXTINF:-1, CULTURA 24 TV,ABREV:Cu,CATEGORIA:1,  http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8,  , 177,#EXTINF:-1, MEGA TV,ABREV:Me,CATEGORIA:1,  http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8,  , 178,#EXTINF:-1, VIA TELEVISION ,ABREV:Vi,CATEGORIA:1,  http://wse8.player.tv.br:1935/viatv/viatv/playlist.m3u8,  , 179,#EXTINF:-1, ANTARES TV,ABREV:An,CATEGORIA:1,  http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8,  , 180,#EXTINF:-1, PACIFICO TV,ABREV:Pc,CATEGORIA:1,  http://cdn2.ujjina.com:1935/iptvpacifico/livepacificotv/playlist.m3u8,  , 181,#EXTINF:-1, PAX CATOLICO,ABREV:Px,CATEGORIA:1,  http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b1735000.m3u8,  , 182,#EXTINF:-1, CTC TV,ABREV:Ct,CATEGORIA:1,  http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8,  , 183,#EXTINF:-1, BOX NATION,ABREV:Bo,CATEGORIA:2,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/204.m3u8,  , 184,#EXTINF:-1, TLC DOCUMENTALES,ABREV:Tl,CATEGORIA:5,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/67.m3u8,  , 185,#EXTINF:-1, TWIT,ABREV:Tw,CATEGORIA:5,  http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8,  , 186,#EXTINF:-1, EARTH TV,ABREV:Ea,CATEGORIA:5,  http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8,  , 187,#EXTINF:-1, SILENCE TV,ABREV:Si,CATEGORIA:5,  http://109.236.85.100:8081/sipTV/live/playlist.m3u8,  , 188,#EXTINF:-1, CANAL F1,ABREV:F1,CATEGORIA:2,  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/90.m3u8,  ]
