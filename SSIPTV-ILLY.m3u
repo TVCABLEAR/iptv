@@ -40,9 +40,9 @@ http://192.99.39.218:25461/live/david1/david1/3874.ts
 #EXTINF:-1 tvg-id="America TV" tvg-name="America TV ARG" tvg-logo="http://www.iptvroku.com/logos/america.jpg" group-title="ARGENTINA",America TV ARG
 http://192.99.39.218:25461/live/david1/david1/3882.ts
 
-#EXTINF:-1 tvg-id="ATV.mx" tvg-name="ATV (PE)" tvg-logo="http://www.iptvroku.com/logos/americaTVHD.jpg" group-title="PERU / PARAG."ATV 
+#EXTINF:-1 tvg-id="ATV.mx" tvg-name="ATV (PE)" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/05/ATV-Logo.jpg" group-title="PERU",ATV 
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="I104.20404.tvguide.com" tvg-name="America TV (PE)" tvg-logo="http://www.iptvroku.com/logos/americaTVHD.jpg" group-title="PERU / PARAG.",ATV (PERU)
+#EXTINF:-1 tvg-id="I104.20404.tvguide.com" tvg-name="America TV (PE)" tvg-logo="http://www.iptvroku.com/logos/americaTVHD.jpg" group-title="PERU",America TV (PERU)
 http://192.99.39.218:25461/live/david1/david1/3741.ts
 
 
