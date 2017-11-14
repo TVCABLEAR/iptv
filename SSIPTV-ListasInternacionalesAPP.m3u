@@ -1,12 +1,10 @@
-
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
 
-
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903676455917314048/tnnv-PSZ_400x400.jpg", =Actualizado_Nov_08_2017=
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903676455917314048/tnnv-PSZ_400x400.jpg", =Mexico - Latinos - Noticias - España- Infantiles - Cultura- CINE - Peliculas 24/7 - DEPORTES - Musica - USA - Francia- Italia- Videos Gruperos - Conciertos - Adultos=
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/903676455917314048/tnnv-PSZ_400x400.jpg", =Donaciones: PAYPAL: martinrtnews.com@gmail.com o al: paypal.me/MGomez449
- 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
 
 group,ENTRETENIMIENTO - MÉXICO - ARGENTINA - CHILE - COLOMBIA - REPÚBLICA DOMINICANA - PERÚ-  VENEZUELA-  PANAMA-  HONDURAS 
 #EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="MEXICO", Las Estrellas HD
