@@ -34,6 +34,8 @@ http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-v
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1, RBC PERU
 http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+
+
 #EXTINF:-1, FOX SPORTS 1
 http://35.196.195.222/hls/live/channel4.m3u8
 #EXTINF:-1, FOX SPORTS 2 
@@ -73,90 +75,110 @@ http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)
  #EXTINF:-1, CDF PREMIUM 
  http://tvnet.iptvsur.com:25461/live/solotv-latinos/TCdxlZt4V7/3680.m3u8 
  #EXTINF:-1, TNT SPORTS 
- http://inber.tvyradio.ml/tnt.php?id=0&type=m3u8,  , 44,
- #EXTINF:-1, VTV URUGUAY,ABREV:Vt,CATEGORIA:2,  
- http://antenatv.tk/vdgreqotiytbmxahdfpot-vtv.m3u8,  , 45,
- #EXTINF:-1, WIN SPORTS,ABREV:Wi,CATEGORIA:2,  
- http://186.103.216.85:85/m/p3.php?id=70&type=m3u8,  , 46,
- #EXTINF:-1, ALL SPORTS,ABREV:Al,CATEGORIA:2,  
- http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8,  , 47,
- #EXTINF:-1, PORTO EXTRA BRAZIL,ABREV:Po,CATEGORIA:2,  
- http://173.236.10.10:1935/dgrau/dgrau/live.m3u8,  , 48,
- #EXTINF:-1, MLB,ABREV:Ml,CATEGORIA:2,  
- http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8,  , 49,
- #EXTINF:-1, FIGHTING SPORTS,ABREV:Fi,CATEGORIA:2,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/165.m3u8,  , 50,
- #EXTINF:-1, EL TRECE,ABREV:Tr,CATEGORIA:3,  
- http://ar.watcha.live/ch7/hi.m3u8,  , 51,
- #EXTINF:-1, TELEFE,ABREV:Tl,CATEGORIA:3,  http://ar.watcha.live/ch6/hi.m3u8,  , 52,
- #EXTINF:-1, TELEMUNDO,ABREV:Te,CATEGORIA:3,  
- http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8,  , 53,
- #EXTINF:-1, AZTECA 13,ABREV:Az,CATEGORIA:3,  
- http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8,  , 54,
- #EXTINF:-1, TELEMICRO,ABREV:Te,CATEGORIA:3,  
- http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8,  , 55,
- #EXTINF:-1, CARACOL,ABREV:Ca,CATEGORIA:3,  
- http://195.181.162.207:25461/live/fanstv/fanstvapp/1798.m3u8,  , 56,
+ http://inber.tvyradio.ml/tnt.php?id=0&type=m3u8
+ #EXTINF:-1, VTV URUGUAY
+ http://antenatv.tk/vdgreqotiytbmxahdfpot-vtv.m3u8
+ #EXTINF:-1, WIN SPORTS  
+ http://186.103.216.85:85/m/p3.php?id=70&type=m3u8
+ #EXTINF:-1, ALL SPORTS 
+ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+ #EXTINF:-1, PORTO EXTRA BRAZIl  
+ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+ #EXTINF:-1, MLB
+ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+ #EXTINF:-1, FIGHTING SPORTS  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/165.m3u8
  
- #EXTINF:-1, RCN,ABREV:Rc,CATEGORIA:3,  
- https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8,  , 59,
- #EXTINF:-1, TELEMEDELLIN,ABREV:Te,CATEGORIA:3,  
- http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_manifest.m3u8,  , 60,
- #EXTINF:-1, CANAL DE LAS ESTRELLAS,ABREV:Ce,CATEGORIA:3,  
- http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8,  , 61,
- #EXTINF:-1, GALA TV,ABREV:Ga,CATEGORIA:3,  
- http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8,  , 62,
- #EXTINF:-1, LOS SIMPSONS,ABREV:Si,CATEGORIA:3,  
- http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8,  , 63,
- #EXTINF:-1, TV RED CHILE,ABREV:Re,CATEGORIA:3,  
- http://69.164.193.177:1935/live/myStream/chunklist_w561342168.m3u8,  , 64,
- #EXTINF:-1, MEGA CHILE,ABREV:Me,CATEGORIA:3,  
- http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8,  , 65,
- #EXTINF:-1, LA SEXTA,ABREV:Se,CATEGORIA:3,  
- http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8,  , 66,
- #EXTINF:-1, CANAL 26,ABREV:Ca,CATEGORIA:3,  
- http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8,  , 68,
+ <!--CANALES DE ARGENTINA-->
+ #EXTINF:-1, EL TRECE  
+ http://ar.watcha.live/ch7/hi.m3u8
+ #EXTINF:-1, TELEFE  
+ http://ar.watcha.live/ch6/hi.m3u8
+ #EXTINF:-1, CANAL 26  
+ http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
  
- #EXTINF:-1, UNO TV,ABREV:Un,CATEGORIA:3,  
- http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/index_878_av-p.m3u8,  , 69,
- #EXTINF:-1, TELE UNO,ABREV:Te,CATEGORIA:3,  
+ 
+ <!--CANALES DE AMERICA-->
+ #EXTINF:-1, TELEMUNDO 
+ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+ 
+ <!--CANALES DE MEXICO-->
+ #EXTINF:-1, AZTECA 13  
+ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+ #EXTINF:-1, CANAL DE LAS ESTRELLAS 
+ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+ #EXTINF:-1, GALA TV 
+ http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+ #EXTINF:-1, MIAMI TV  
+ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+ 
+ <!--CANALES DE COLOMBIA-->
+ #EXTINF:-1, TELEMICRO 
+ http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+ #EXTINF:-1, CARACOL  
+ http://195.181.162.207:25461/live/fanstv/fanstvapp/1798.m3u8
+ #EXTINF:-1, RCN
+ https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+ #EXTINF:-1, TELEMEDELLIN 
+ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_manifest.m3u8
+ 
+ <!--CANALES INFANTILES-->
+ #EXTINF:-1, LOS SIMPSONS 
+ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+ 
+ <!--CANALES DE CHILE-->
+ #EXTINF:-1, TV RED CHILE
+ http://69.164.193.177:1935/live/myStream/chunklist_w561342168.m3u8
+ #EXTINF:-1, MEGA CHILE
+ http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
+ 
+ <!--CANALES DE ESPAÑA-->
+ #EXTINF:-1, LA SEXTA
+ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+ #EXTINF:-1, ATRES SERIES 
+ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+ #EXTINF:-1, MEGA ESPANA 
+ http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_1_av-b.m3u8
+ #EXTINF:-1, NEOX 
+ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+ #EXTINF:-1, NOVA  
+ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+ 
+ #EXTINF:-1, UNO TV
+ http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/index_878_av-p.m3u8
+ #EXTINF:-1, TELE UNO 
  http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8,  , 70,
- #EXTINF:-1, MIAMI TV,ABREV:Mi,CATEGORIA:3,  
- http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8,  , 71,
- #EXTINF:-1, EXTREMA TV,ABREV:Ex,CATEGORIA:3,  
- http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8,  , 72,
- #EXTINF:-1, ATRES SERIES,ABREV:At,CATEGORIA:3,  
- http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8,  , 73,
- #EXTINF:-1, MEGA ESPANA,ABREV:Me,CATEGORIA:3,  
- http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_1_av-b.m3u8,  , 74,
- #EXTINF:-1, NEOX,ABREV:Ne,CATEGORIA:3,  
- http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8,  , 75,
- #EXTINF:-1, NOVA,ABREV:No,CATEGORIA:3,  
- http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-p.m3u8?sd=10&rebase=on,  , 76,
- #EXTINF:-1, AXN,ABREV:Ax,CATEGORIA:3,  
- http://195.181.162.207:25461/live/peliculas/fanstvapp/1705.m3u8,  , 77,
- #EXTINF:-1, TNT,ABREV:Tn,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/83.m3u8,  , 78,
- #EXTINF:-1, SyFy,ABREV:Sy,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/872.m3u8,  , 79,
- #EXTINF:-1, COMEDY CENTRAL,ABREV:Co,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/22.m3u8,  , 80,
- #EXTINF:-1, UNIVERSAL CHANNEL,ABREV:Uc,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/30.m3u8,  , 81,
- #EXTINF:-1, WARNER CHANNEL,ABREV:Wa,CATEGORIA:3,  
- http://195.181.162.207:25461/live/peliculas/fanstvapp/1672.m3u8,  , 82,
- #EXTINF:-1, STUDIO UNIVERSAL,ABREV:Su,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/87.m3u8,  , 83,
- #EXTINF:-1, DE PELICULA,ABREV:Pe,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/79.m3u8,  , 84,
- #EXTINF:-1, CINEMAX,ABREV:Ci,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/82.m3u8,  , 85,
- #EXTINF:-1, CINECANAL,ABREV:Cn,CATEGORIA:3,  
- http://186.103.216.85:85/m/p3.php?id=132&type=m3u8,  , 87,
- #EXTINF:-1, GOLDEN,ABREV:Go,CATEGORIA:3,  
- http://195.181.162.207:25461/live/peliculas/fanstvapp/1680.m3u8,  , 88,
- #EXTINF:-1, SONY,ABREV:So,CATEGORIA:3,  
- http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/15.m3u8,  , 89,
+ 
+ #EXTINF:-1, EXTREMA TV,
+ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+ 
+ <!--CANALES PREMIUM-->
+ #EXTINF:-1, AXN,  
+ http://195.181.162.207:25461/live/peliculas/fanstvapp/1705.m3u8
+ #EXTINF:-1, TNT 
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/83.m3u8
+ #EXTINF:-1, SyFy  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/872.m3u8
+ #EXTINF:-1, COMEDY CENTRAL 
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/22.m3u8
+ #EXTINF:-1, UNIVERSAL CHANNEL 
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/30.m3u8
+ #EXTINF:-1, WARNER CHANNEL 
+ http://195.181.162.207:25461/live/peliculas/fanstvapp/1672.m3u8
+ #EXTINF:-1, STUDIO UNIVERSAL  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/87.m3u8
+ #EXTINF:-1, DE PELICULA  
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/79.m3u8
+ #EXTINF:-1, CINEMAX 
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/82.m3u8
+ #EXTINF:-1, CINECANAL 
+ http://186.103.216.85:85/m/p3.php?id=132&type=m3u8
+ #EXTINF:-1, GOLDEN
+ http://195.181.162.207:25461/live/peliculas/fanstvapp/1680.m3u8
+ #EXTINF:-1, SONY 
+ http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/15.m3u8
+ 
  #EXTINF:-1, TCM,ABREV:Tc,CATEGORIA:3,  
  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/89.m3u8,  , 90,
  #EXTINF:-1, SPACE,ABREV:Sp,CATEGORIA:3,  
