@@ -1,79 +1,78 @@
 #EXTM3U
 
-#EXTINF:-1, LATINA,ABREV:La,CATEGORIA:1,  
-https://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8,  , 8,
-#EXTINF:-1, PANAMERICANA,ABREV:Pa,CATEGORIA:1,  
-http://cdnh15.iblups.com/hls/ptv.m3u8,  , 9,
-#EXTINF:-1, ATV,ABREV:At,CATEGORIA:1,  
-http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b981072.m3u8,  , 10,
-#EXTINF:-1, ATV +,ABREV:At,CATEGORIA:1,  
-http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b882768.m3u8,  , 11,
-#EXTINF:-1, NEXT TV,ABREV:Ne,CATEGORIA:1,  
-http://d2ojguqgd62rcn.cloudfront.net/pe/smil:nx.smil/chunklist_w326316579_b1300000.m3u8,  , 12,
-#EXTINF:-1, TV PERU 7.1,ABREV:Tv,CATEGORIA:1,  
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8,  , 13,
-#EXTINF:-1, TV PERU 7.3,ABREV:Tv,CATEGORIA:1,  
-http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8,  , 14,
-#EXTINF:-1, IPE TV 7.4,ABREV:Ip,CATEGORIA:1,  
-http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8,  , 15,#
-EXTINF:-1, RPP TV,ABREV:Rp,CATEGORIA:1,  
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8,  , 16,
-#EXTINF:-1, OVACION,ABREV:Ov,CATEGORIA:1,  
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8,  , 17,
-#EXTINF:-1, WILLAX,ABREV:Wi,CATEGORIA:1,  
-http://m.mediastream.pe/vv_willax/livestream/.m3u8,  , 18,
-#EXTINF:-1, BHTV,ABREV:Bh,CATEGORIA:1,  
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8,  , 19,
-#EXTINF:-1, SOL TV,ABREV:So,CATEGORIA:1,  
-http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8,  , 20,
-#EXTINF:-1, COSMOS TV,ABREV:Co,CATEGORIA:1,  
-http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8,  , 21,
-#EXTINF:-1, CAPITAL,ABREV:Ca,CATEGORIA:1,  
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8,  , 22,
-#EXTINF:-1, CENTRAL TV,ABREV:CN,CATEGORIA:1,  
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8,  , 23,
-#EXTINF:-1, RBC PERU,ABREV:RB,CATEGORIA:1,  
-http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8,  , 24,
-#EXTINF:-1, FOX SPORTS 1,ABREV:Fx,CATEGORIA:2,  
-http://35.196.195.222/hls/live/channel4.m3u8,  , 25,
-#EXTINF:-1, FOX SPORTS 2,ABREV:Fx,CATEGORIA:2,  
-http://186.103.216.85:85/m/p3.php?id=103&type=m3u8,  , 26,
-#EXTINF:-1, FOX SPORTS 3,ABREV:Fx,CATEGORIA:2,  
-http://inber.tvyradio.ml/stream_0.php?id=9&type=m3u8,  , 27,
-#EXTINF:-1, ESPN 1,ABREV:Es,CATEGORIA:2,  
-http://186.103.216.85:85/m/p3.php?id=110&type=m3u8,  , 28,
-#EXTINF:-1, ESPN 2,ABREV:Es,CATEGORIA:2,  
-http://inber.tvyradio.ml/stream_0.php?id=1&type=m3u8,  , 29,
-#EXTINF:-1, ESPN 3,ABREV:Es,CATEGORIA:2,  
-http://35.196.195.222/hls/live/channel7.m3u8,  , 30,
-#EXTINF:-1,  ESPN+,ABREV:Es,CATEGORIA:2,  
-http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/110.m3u8,  , 31,
-#EXTINF:-1, DIRECTV SPORTS,ABREV:Di,CATEGORIA:2,  
-http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/1017.m3u8,  , 32,
-#EXTINF:-1, LA LIGA,ABREV:Li,CATEGORIA:2,  
-ttp://195.181.162.207:25461/live/deportesfans/fanstvapp/1753.m3u8,  , 33,
-#EXTINF:-1, REAL MADRID TV,ABREV:Rm,CATEGORIA:2,  
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?tecnotv.info?iptv.m3u8?sd=10&rebase=on,  , 34,
-#EXTINF:-1, BETIS TV,ABREV:Be,CATEGORIA:2,  
-http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8?iptvgratis?chile.m3u8,  , 35,
-#EXTINF:-1, GOL TV,ABREV:Go,CATEGORIA:2,  
-http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/1066.m3u8,  , 36,
-#EXTINF:-1, DEPOR TV,ABREV:De,CATEGORIA:2,  
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8,  , 37,
-#EXTINF:-1, TODO DEPORTES,ABREV:Td,CATEGORIA:2,  
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8,  , 38,
-#EXTINF:-1, TyC SPORTS,ABREV:Tc,CATEGORIA:2,  
-http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/1790.m3u8,  , 39,
-#EXTINF:-1, UNIVISION TDN,ABREV:Td,CATEGORIA:2,  
-http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8,  , 40,
-#EXTINF:-1, TDN,ABREV:Td,CATEGORIA:2,  
-ttp://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/167.m3u8,  , 41,
-#EXTINF:-1, CLARO SPORTS,ABREV:Cl,CATEGORIA:2,  
-http://jjoo2016ch01-hlsfix.clarovideo
- .com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8,  , 42,
- #EXTINF:-1, CDF PREMIUM,ABREV:Cd,CATEGORIA:2,  
- http://tvnet.iptvsur.com:25461/live/solotv-latinos/TCdxlZt4V7/3680.m3u8,  , 43,
- #EXTINF:-1, TNT SPORTS,ABREV:Tn,CATEGORIA:2,  
+#EXTINF:-1, LATINA 
+https://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+#EXTINF:-1, PANAMERICANA
+http://cdnh15.iblups.com/hls/ptv.m3u8
+#EXTINF:-1, ATV  
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b981072.m3u8
+#EXTINF:-1, ATV + 
+http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b882768.m3u8
+#EXTINF:-1, NEXT TV
+http://d2ojguqgd62rcn.cloudfront.net/pe/smil:nx.smil/chunklist_w326316579_b1300000.m3u8
+#EXTINF:-1, TV PERU 7
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1, TV PERU 7  
+http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1, IPE TV 7.4
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+EXTINF:-1, RPP TV 
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
+#EXTINF:-1, OVACION
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1, WILLAX 
+http://m.mediastream.pe/vv_willax/livestream/.m3u8
+#EXTINF:-1, BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1, SOL TV  
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:-1, COSMOS  
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:-1, CAPITAL
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+#EXTINF:-1, CENTRAL TV 
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1, RBC PERU
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+#EXTINF:-1, FOX SPORTS 1
+http://35.196.195.222/hls/live/channel4.m3u8
+#EXTINF:-1, FOX SPORTS 2 
+http://186.103.216.85:85/m/p3.php?id=103&type=m3u8
+#EXTINF:-1, FOX SPORTS 3 
+http://inber.tvyradio.ml/stream_0.php?id=9&type=m3u8
+#EXTINF:-1, ESPN 1 
+http://186.103.216.85:85/m/p3.php?id=110&type=m3u8
+#EXTINF:-1, ESPN 2
+http://inber.tvyradio.ml/stream_0.php?id=1&type=m3u8
+#EXTINF:-1, ESPN 3
+http://35.196.195.222/hls/live/channel7.m3u8
+#EXTINF:-1,  ESPN+ 
+http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/110.m3u8
+#EXTINF:-1, DIRECTV SPORTS 
+http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/1017.m3u8
+#EXTINF:-1, LA LIGA
+ttp://195.181.162.207:25461/live/deportesfans/fanstvapp/1753.m3u8
+#EXTINF:-1, REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?tecnotv.info?iptv.m3u8?sd=10&rebase=on
+#EXTINF:-1, BETIS TV
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1, GOL TV
+http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/1066.m3u8
+#EXTINF:-1, DEPOR TV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1, TODO DEPORTES 
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1, TyC SPORTS
+http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/1790.m3u8
+#EXTINF:-1, UNIVISION TDN 
+http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
+#EXTINF:-1, TDN
+ttp://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/167.m3u8
+#EXTINF:-1, CLARO SPORTS
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+ #EXTINF:-1, CDF PREMIUM 
+ http://tvnet.iptvsur.com:25461/live/solotv-latinos/TCdxlZt4V7/3680.m3u8 
+ #EXTINF:-1, TNT SPORTS 
  http://inber.tvyradio.ml/tnt.php?id=0&type=m3u8,  , 44,
  #EXTINF:-1, VTV URUGUAY,ABREV:Vt,CATEGORIA:2,  
  http://antenatv.tk/vdgreqotiytbmxahdfpot-vtv.m3u8,  , 45,
