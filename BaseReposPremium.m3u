@@ -179,7 +179,7 @@ http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)
  #EXTINF:-1, SONY 
  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/15.m3u8
  
- #EXTINF:-1, TCM,ABREV:Tc,CATEGORIA:3,  
+ #EXTINF:-1, TCM
  http://158.69.52.43:8000/live/TouQPPIDNj/AEwAqnrVTV/89.m3u8,  , 90,
  #EXTINF:-1, SPACE,ABREV:Sp,CATEGORIA:3,  
  http://186.103.216.85:85/m/p3.php?id=130&type=m3u8,  , 92,
