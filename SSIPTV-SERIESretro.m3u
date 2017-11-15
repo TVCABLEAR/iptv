@@ -437,10 +437,8 @@ https://discontrol@ia801500.us.archive.org/29/items/T9UCO.O.T94TO/T9UCO.O.T94TO.
 https://discontrol@ia801501.us.archive.org/25/items/H0M3F9/H0M3F90N7-ES-720.mp4?disco
  
  
-1058.#EXTINF:0,GENEPELICULAS:quiero matar a mi jefe 2
- 
- 
-1059.https://discontrol@ia801501.us.archive.org/25/items/H0M3F9/H0991813.805535.2-ES-720.mp4?disco
+#EXTINF:0,GENEPELICULAS:quiero matar a mi jefe 2
+https://discontrol@ia801501.us.archive.org/25/items/H0M3F9/H0991813.805535.2-ES-720.mp4?disco
  
  
 1060.#EXTINF:0,GENEPELICULAS:sacrificio
@@ -1141,136 +1139,92 @@ https://discontrol@ia801501.us.archive.org/25/items/H0M3F9/H0M3F90N7-ES-720.mp4?
 1331.http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x07.El%20regalo.mp4
  
  
-1332.#EXTINF:0,group-title=""
+#EXTINF:0,group-title=""
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x08.Casa%20Austera.mp4
  
  
-1333.http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x08.Casa%20Austera.mp4
+#EXTINF:0,group-title=""
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x09.Danza%20de%20dragones.mp4
  
  
-1334.#EXTINF:0,group-title=""
+#EXTINF:0,group-title=""
+http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x10.Misericordia.MP4
  
  
-1335.http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x09.Danza%20de%20dragones.mp4
+#EXTINF:0,group-title=""
+http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x01%20(1).mkv
  
  
-1336.#EXTINF:0,group-title=""
- 
- 
-1337.http://alberto@209.126.108.87/series/game%20of%20thrones/game.of.thrones.tp5x10.Misericordia.MP4
- 
- 
-1338.#EXTINF:0,group-title=""
- 
- 
-1339.http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x01%20(1).mkv
- 
- 
-1340.#EXTINF:0,group-title=""
- 
- 
-1341.http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x02%20(1).mkv
+#EXTINF:0,group-title=""
+http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x02%20(1).mkv
  
  
 1342.#EXTINF:0,group-title=""
- 
- 
-1343.http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x03.MP4
+http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x03.MP4
  
  
 1344.#EXTINF:0,group-title=""
- 
- 
-1345.http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x04.MP4
+http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x04.MP4
  
  
 1346.#EXTINF:0,group-title=""
+http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x05%20(1)%20(1)%20(1).mkv
  
  
-1347.http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x05%20(1)%20(1)%20(1).mkv
+#EXTINF:0,group-title=""
+http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x06.720p%20(1)%20(1).mkv
  
  
-1348.#EXTINF:0,group-title=""
+#EXTINF:0,NACIONALES DE VENEZUELA:(VENEZUELA)
+http://www.lengua.com/anthems/Venezuela.mp3
  
  
-1349.http://alberto@209.126.108.87/series/game%20of%20thrones/Game%20of%20Thrones%206x06.720p%20(1)%20(1).mkv
+#EXTINF:0,NACIONALES DE VENEZUELA:100 PROMAR TV BARQUISIMETO
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
  
  
-1350.#EXTINF:0,NACIONALES DE VENEZUELA:(VENEZUELA)
+#EXTINF:0,NACIONALES DE VENEZUELA:101 VIVOPLAY
+https://vivoplay-i.akamaihd.net/hls/live/261554/canal1/master2500k.m3u8
  
  
-1351.http://www.lengua.com/anthems/Venezuela.mp3
+#EXTINF:0,NACIONALES DE VENEZUELA:102 CANAL 11 DEL ZULIA
+http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
  
  
-1352.#EXTINF:0,NACIONALES DE VENEZUELA:100 PROMAR TV BARQUISIMETO
+#EXTINF:0,NACIONALES DE VENEZUELA:103 CANAL I
+http://edge.wms28.lorini.net/canal-i/canal-i/playlist.m3u8
  
  
-1353.http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:0,NACIONALES DE VENEZUELA:104 PLUS TV
+http://iphone-streaming.ustream.tv/uhls/18110205/streams/live/iphone/playlist.m3u8
  
  
-1354.#EXTINF:0,NACIONALES DE VENEZUELA:101 VIVOPLAY
+#EXTINF:0,NACIONALES DE VENEZUELA:105 SUN CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
  
  
-1355.https://vivoplay-i.akamaihd.net/hls/live/261554/canal1/master2500k.m3u8
+#EXTINF:0,NACIONALES DE VENEZUELA:106 TELESUR
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
  
  
-1356.#EXTINF:0,NACIONALES DE VENEZUELA:102 CANAL 11 DEL ZULIA
+#EXTINF:0,NACIONALES DE VENEZUELA:107 TLT
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
  
  
-1357.http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
+#EXTINF:0,NACIONALES DE VENEZUELA:108 TVO
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
  
  
-1358.#EXTINF:0,NACIONALES DE VENEZUELA:103 CANAL I
+#EXTINF:0,NACIONALES DE VENEZUELA:109 VALE TV
+http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
  
  
-1359.http://edge.wms28.lorini.net/canal-i/canal-i/playlist.m3u8
+#EXTINF:0,NACIONALES DE VENEZUELA:110 VENEVISION PLUS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
  
  
-1360.#EXTINF:0,NACIONALES DE VENEZUELA:104 PLUS TV
- 
- 
-1361.http://iphone-streaming.ustream.tv/uhls/18110205/streams/live/iphone/playlist.m3u8
- 
- 
-1362.#EXTINF:0,NACIONALES DE VENEZUELA:105 SUN CHANNEL
- 
- 
-1363.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
- 
- 
-1364.#EXTINF:0,NACIONALES DE VENEZUELA:106 TELESUR
- 
- 
-1365.http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
- 
- 
-1366.#EXTINF:0,NACIONALES DE VENEZUELA:107 TLT
- 
- 
-1367.http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
- 
- 
-1368.#EXTINF:0,NACIONALES DE VENEZUELA:108 TVO
- 
- 
-1369.http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
- 
- 
-1370.#EXTINF:0,NACIONALES DE VENEZUELA:109 VALE TV
- 
- 
-1371.http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
- 
- 
-1372.#EXTINF:0,NACIONALES DE VENEZUELA:110 VENEVISION PLUS
- 
- 
-1373.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
- 
- 
-1374.#EXTINF:0,NACIONALES DE VENEZUELA:111 VTV
- 
- 
-1375.http://controlstreams.com:1935/vtvweb3/vtvweb3/chunklist.m3u8
+#EXTINF:0,NACIONALES DE VENEZUELA:111 VTV
+http://controlstreams.com:1935/vtvweb3/vtvweb3/chunklist.m3u8
  
  
 1376.#EXTINF:0,NACIONALES DE VENEZUELA:112 TELEARAGUA
@@ -1315,595 +1269,392 @@ https://discontrol@ia801501.us.archive.org/25/items/H0M3F9/H0M3F90N7-ES-720.mp4?
 1389.http://video.crearchile.com:8080/live/canal2.mp4/livestream.m3u8
  
  
-1390.#EXTINF:0,NACIONALES DE CHILE:116 Carolina TV
+#EXTINF:0,NACIONALES DE CHILE:116 Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
  
  
-1391.http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:0,NACIONALES DE CHILE:117 CNN
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
  
  
-1392.#EXTINF:0,NACIONALES DE CHILE:117 CNN
+#EXTINF:0,NACIONALES DE CHILE:118 FM Hot
+http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
  
  
-1393.http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:0,NACIONALES DE CHILE:119 Fox Sports
+http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
  
  
-1394.#EXTINF:0,NACIONALES DE CHILE:118 FM Hot
+#EXTINF:0,NACIONALES DE CHILE:120 ITV
+http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
  
  
-1395.http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
+#EXTINF:0,NACIONALES DE CHILE:121 Maxima TV
+http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
  
  
-1396.#EXTINF:0,NACIONALES DE CHILE:119 Fox Sports
+#EXTINF:0,NACIONALES DE CHILE:122 Niu TV
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
  
  
-1397.http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,NACIONALES DE CHILE:123 TV Red
+http://69.164.193.177:1935/live/myStream/chunklist_w561342168.m3u8
  
  
-1398.#EXTINF:0,NACIONALES DE CHILE:120 ITV
+#EXTINF:0,NACIONALES DE CHILE:124 UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
  
  
-1399.http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
+#EXTINF:0,NACIONALES DE CHILE:125 UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
  
  
-1400.#EXTINF:0,NACIONALES DE CHILE:121 Maxima TV
+#EXTINF:0,NACIONALES DE CHILE:126 VTV
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
  
  
-1401.http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
+#EXTINF:0,NACIONALES DE COLOMBIA:(COLOMBIA)
+http://www.lengua.com/anthems/Colombia.mp3
  
  
-1402.#EXTINF:0,NACIONALES DE CHILE:122 Niu TV
+#EXTINF:0,NACIONALES DE COLOMBIA:127 Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
  
  
-1403.http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:0,NACIONALES DE COLOMBIA:128 Cali TV
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
  
  
-1404.#EXTINF:0,NACIONALES DE CHILE:123 TV Red
+#EXTINF:0,NACIONALES DE COLOMBIA:129 Canal 13
+http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist_w1637072900_b1200000.m3u8?idLive=026
  
  
-1405.http://69.164.193.177:1935/live/myStream/chunklist_w561342168.m3u8
+#EXTINF:0,NACIONALES DE COLOMBIA:130 Canal 14
+http://181.143.238.252/live/livestream/index.m3u8
  
  
-1406.#EXTINF:0,NACIONALES DE CHILE:124 UESTV
+#EXTINF:0,NACIONALES DE COLOMBIA:131 Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
  
  
-1407.http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:0,NACIONALES DE COLOMBIA:132 Canal Tro
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8
  
  
-1408.#EXTINF:0,NACIONALES DE CHILE:125 UMAG TV
+#EXTINF:0,NACIONALES DE COLOMBIA:133 Cantinazo TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
  
  
-1409.http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:0,NACIONALES DE COLOMBIA:134 Caracol TV
+http://wowza2.mysoltv.com:1992/Latino_Caracol/index.m3u8
  
  
-1410.#EXTINF:0,NACIONALES DE CHILE:126 VTV
+#EXTINF:0,NACIONALES DE COLOMBIA:135 Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
  
  
-1411.http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+#EXTINF:0,NACIONALES DE COLOMBIA:136 El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
  
  
-1412.#EXTINF:0,NACIONALES DE COLOMBIA:(COLOMBIA)
+#EXTINF:0,NACIONALES DE COLOMBIA:137 Life Design
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
  
- 
-1413.http://www.lengua.com/anthems/Colombia.mp3
- 
- 
-1414.#EXTINF:0,NACIONALES DE COLOMBIA:127 Cable Noticias
- 
- 
-1415.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
- 
- 
-1416.#EXTINF:0,NACIONALES DE COLOMBIA:128 Cali TV
- 
- 
-1417.http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
- 
- 
-1418.#EXTINF:0,NACIONALES DE COLOMBIA:129 Canal 13
- 
- 
-1419.http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist_w1637072900_b1200000.m3u8?idLive=026
- 
- 
-1420.#EXTINF:0,NACIONALES DE COLOMBIA:130 Canal 14
- 
- 
-1421.http://181.143.238.252/live/livestream/index.m3u8
- 
- 
-1422.#EXTINF:0,NACIONALES DE COLOMBIA:131 Canal Antiestres
- 
- 
-1423.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
- 
- 
-1424.#EXTINF:0,NACIONALES DE COLOMBIA:132 Canal Tro
- 
- 
-1425.http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8
- 
- 
-1426.#EXTINF:0,NACIONALES DE COLOMBIA:133 Cantinazo TV
- 
- 
-1427.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
- 
- 
-1428.#EXTINF:0,NACIONALES DE COLOMBIA:134 Caracol TV
- 
- 
-1429.http://wowza2.mysoltv.com:1992/Latino_Caracol/index.m3u8
- 
- 
-1430.#EXTINF:0,NACIONALES DE COLOMBIA:135 Cosmovision
- 
- 
-1431.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
- 
- 
-1432.#EXTINF:0,NACIONALES DE COLOMBIA:136 El Tiempo
- 
- 
-1433.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
- 
- 
-1434.#EXTINF:0,NACIONALES DE COLOMBIA:137 Life Design
- 
- 
-1435.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
- 
- 
-1436.#EXTINF:0,NACIONALES DE COLOMBIA:138 Mi Gente TV
- 
- 
-1437.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
+#EXTINF:0,NACIONALES DE COLOMBIA:138 Mi Gente TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
  
  
 1438.#EXTINF:0,NACIONALES DE COLOMBIA:139 MiMusica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
  
  
-1439.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0,NACIONALES DE COLOMBIA:140 RCN
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
  
  
-1440.#EXTINF:0,NACIONALES DE COLOMBIA:140 RCN
+#EXTINF:0,NACIONALES DE COLOMBIA:141 Senal Colombia
+http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
  
  
-1441.https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
- 
- 
-1442.#EXTINF:0,NACIONALES DE COLOMBIA:141 Senal Colombia
- 
- 
-1443.http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
- 
- 
-1444.#EXTINF:0,NACIONALES DE COLOMBIA:142 Senal Institucional
- 
- 
-1445.http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
+#EXTINF:0,NACIONALES DE COLOMBIA:142 Senal Institucional
+http://live10.cdnmedia.tv/rtvcsinstitucionallive/smil:live.smil/master.m3u8
  
  
 1446.#EXTINF:0,NACIONALES DE COLOMBIA:143 Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+
+#EXTINF:0,NACIONALES DE COLOMBIA:144 Telecafe
+#
+ 
+#EXTINF:0,NACIONALES DE COLOMBIA:145 Telecaribe
+http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/master.m3u8
  
  
-1447.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:0,NACIONALES DE COLOMBIA:146 Teleislas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
  
  
-1448.#EXTINF:0,NACIONALES DE COLOMBIA:144 Telecafe
- 
- 
-1449.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
- 
- 
-1450.#EXTINF:0,NACIONALES DE COLOMBIA:145 Telecaribe
- 
- 
-1451.http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/master.m3u8
- 
- 
-1452.#EXTINF:0,NACIONALES DE COLOMBIA:146 Teleislas
- 
- 
-1453.http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
- 
- 
-1454.#EXTINF:0,NACIONALES DE COLOMBIA:147 Telemedellin
- 
- 
-1455.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
- 
- 
-1456.#EXTINF:0,NACIONALES DE COLOMBIA:148 Televentas Mio
- 
- 
-1457.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MIOTV/tu1_1.m3u8
+#EXTINF:0,NACIONALES DE COLOMBIA:147 Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+
+#EXTINF:0,NACIONALES DE COLOMBIA:148 Televentas Mio
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MIOTV/tu1_1.m3u8
  
  
 1458.#EXTINF:0,NACIONALES DE COLOMBIA:149 Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
  
  
-1459.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:0,NACIONALES DE COLOMBIA:150 Trendy Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
  
  
-1460.#EXTINF:0,NACIONALES DE COLOMBIA:150 Trendy Channel
+#EXTINF:0,NACIONALES DE COLOMBIA:151 TV Agro
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
  
  
-1461.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:0,NACIONALES DE COLOMBIA:152 Universidad de Antioquia TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
  
  
-1462.#EXTINF:0,NACIONALES DE COLOMBIA:151 TV Agro
+#EXTINF:0,NACIONALES DE COLOMBIA:153 Win Sports
+http://cdn2.shurs.xyz/verliga/5/chunks.m3u8
  
  
-1463.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:0,NACIONALES DE PANAMA:(PANAMA)
+http://www.lengua.com/anthems/Panama.mp3
  
  
-1464.#EXTINF:0,NACIONALES DE COLOMBIA:152 Universidad de Antioquia TV
+#EXTINF:0,NACIONALES DE PANAMA:154 RPC PANAMA
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
  
  
-1465.http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:0,NACIONALES DE PANAMA:155 NEX TV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
  
  
-1466.#EXTINF:0,NACIONALES DE COLOMBIA:153 Win Sports
+EXTINF:0,NACIONALES DE PANAMA:156 TELEMETRO CANAL 13
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
  
  
-1467.http://cdn2.shurs.xyz/verliga/5/chunks.m3u8
+#EXTINF:0,NACIONALES DE ECUADOR:(ECUADOR)
+http://www.lengua.com/anthems/Ecuador.mp3
  
  
-1468.#EXTINF:0,NACIONALES DE PANAMA:(PANAMA)
+#EXTINF:0,NACIONALES DE ECUADOR:CANELA TV
+http://servicioamerica.net:1935/8344/8344/playlist.m3u8
  
  
-1469.http://www.lengua.com/anthems/Panama.mp3
+#EXTINF:0,NACIONALES DE ECUADOR:OROMAR TV
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
  
  
-1470.#EXTINF:0,NACIONALES DE PANAMA:154 RPC PANAMA
+#EXTINF:0,TV PERÚ HD (Lima - Perú)
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
  
  
-1471.http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+#EXTINF:0,TV PERÚ (Lima - Perú)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
  
  
-1472.#EXTINF:0,NACIONALES DE PANAMA:155 NEX TV
+#EXTINF:0,SUR:America TV | Peru
+http://ar.watcha.live/ch3/hi.m3u8
  
  
-1473.http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:0,TV PERÚ 7.3 (Lima - Perú)
+http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
  
  
-1474.#EXTINF:0,NACIONALES DE PANAMA:156 TELEMETRO CANAL 13
+#EXTINF:0,IPE TV (Lima - Perú)
+http://cdnh4.iblups.com/hls/irtp.m3u8
  
  
-1475.http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+#EXTINF:0,PANAMERICANA TV (Lima - Perú)
+http://cdnh15.iblups.com/hls/ptv.m3u8
  
  
-1476.#EXTINF:0,NACIONALES DE ECUADOR:(ECUADOR)
+#EXTINF:0,WILLAX TV (Lima - Perú)
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?wowzasessionid=996342462
  
  
-1477.http://www.lengua.com/anthems/Ecuador.mp3
+#EXTINF:0,CAPITAL TV (Lima - Perú)
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
  
  
-1478.#EXTINF:0,NACIONALES DE ECUADOR:CANELA TV
+#EXTINF:0,RPP NOTICIAS (Lima - Perú)
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
  
  
-1479.http://servicioamerica.net:1935/8344/8344/playlist.m3u8
+#EXTINF:0,TOP LATINO TV (Lima - Perú)
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
  
  
-1480.#EXTINF:0,NACIONALES DE ECUADOR:OROMAR TV
+#EXTINF:0,BHTV Perú (Villa EL Salvador - Lima - Perú)
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
  
  
-1481.http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:0,RBC Perú (La Victoria - Lima - Perú)
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
  
  
-1482.#EXTINF:0,TV PERÚ HD (Lima - Perú)
+#EXTINF:0,CENTRAL TV (Chosica - Lima - Perú)
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
  
  
-1483.http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0,MEGA TV (Arequipa - Perú)
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
  
  
-1484.#EXTINF:0,TV PERÚ (Lima - Perú)
+#EXTINF:0,UNO TV (Tacna - Perú)
+http://216.245.198.126:1935/unotv/myStream/chunklist_w760646820.m3u8
  
  
-1485.http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0,VIA TELEVISIÓN (Tarapoto - Perú)
+http://wse8.player.tv.br:1935/viatv/viatv/playlist.m3u8
  
  
-1486.#EXTINF:0,SUR:America TV | Peru
+#EXTINF:0,ANTARES TV (Tarapoto - Perú)
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
  
  
-1487.http://ar.watcha.live/ch3/hi.m3u8
+#EXTINF:0,SOL TV  (Trujillo - Perú)
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
  
  
-1488.#EXTINF:0,TV PERÚ 7.3 (Lima - Perú)
+#EXTINF:0,TV COSMOS (Trujillo - Perú)
+http://wowzaserver.net:1935/ucvsatelital/ucvsatelital/playlist.m3u8
  
  
-1489.http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:0,PACÍFICO TV Perú
+http://cdn2.ujjina.com:1935/iptvpacifico/livepacificotv/playlist.m3u8
  
  
-1490.#EXTINF:0,IPE TV (Lima - Perú)
+#EXTINF:0,PAX CATÓLICO Perú
+http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b1735000.m3u8
  
  
-1491.http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:0,INFANTILES:(INFANTILES)
+http://www.intermusika.org/___TMP___/media/Dance/Aqua/Aqua%20-%20Barbie%20Girl.mp3?ack=123456
  
  
-1492.#EXTINF:0,PANAMERICANA TV (Lima - Perú)
+#EXTINF:0,INFANTILES:Cartoon Network
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
  
  
-1493.http://cdnh15.iblups.com/hls/ptv.m3u8
+#EXTINF:0,INFANTILES:Tooncast
+http://wowza2.mysoltv.com:1992/Latino_Cinecanal_HD/tracks-v1a1/index.m3u8
  
  
-1494.#EXTINF:0,WILLAX TV (Lima - Perú)
+#EXTINF:0,INFANTILES:Nick
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
  
  
-1495.http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?wowzasessionid=996342462
+#EXTINF:0,INFANTILES:NickJr
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
  
  
-1496.#EXTINF:0,CAPITAL TV (Lima - Perú)
+#EXTINF:0,INFANTILES:Disney Channel
+http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
  
  
-1497.http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+#EXTINF:0,INFANTILES:Disney XD
+http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
  
  
-1498.#EXTINF:0,RPP NOTICIAS (Lima - Perú)
+#EXTINF:0,INFANTILES:Discovery Kids
+http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
  
  
-1499.http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
+#EXTINF:0,INFANTILES:Disney Junior
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
  
  
-1500.#EXTINF:0,TOP LATINO TV (Lima - Perú)
+#EXTINF:0,INFANTILES:Tiin
+http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/325.flv
  
  
-1501.http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:0,INFANTILES:Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
  
  
-1502.#EXTINF:0,BHTV Perú (Villa EL Salvador - Lima - Perú)
+#EXTINF:0,INFANTILES:Tateti
+http://ar.watcha.live/ch16/hi.m3u8
  
  
-1503.http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0,INFANTILES:Los Simpsons 24hs
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
  
  
-1504.#EXTINF:0,RBC Perú (La Victoria - Lima - Perú)
+#EXTINF:0,INFANTILES:Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
  
  
-1505.http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+#EXTINF:0,DEPORTES:(DEPORTES)
+http://www.intermusika.org/___TMP___/media/Metal/Marilyn%20Manson/Marilyn%20Manson%20%20-%20Beautifull%20People.mp3?ack=123456
  
  
-1506.#EXTINF:0,CENTRAL TV (Chosica - Lima - Perú)
+#EXTINF:0,DEPORTES:ESPN
+https://live10.userapi.com/637601/live/1gJD5yNAfz8Y-Icl/playlist.m3u8
  
  
-1507.http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0,DEPORTES:Fox Sports HD
+http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
  
  
-1508.#EXTINF:0,MEGA TV (Arequipa - Perú)
+#EXTINF:0,DEPORTES:FOX SPORT
+http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
  
  
-1509.http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+#EXTINF:0,TV CINE & SERIES:(TV CINE & SERIES)
+http://www.intermusika.org/___TMP___/media/De%20Peliculas/Xmen3/Xmen3%20%20-%20Hans%20Zimmer%20%20%20The%20Battle%20Of%20The%20Cure.mp3?ack=123456
  
  
-1510.#EXTINF:0,UNO TV (Tacna - Perú)
+#EXTINF:0,TV CINE & SERIES:AXN
+ http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
  
  
-1511.http://216.245.198.126:1935/unotv/myStream/chunklist_w760646820.m3u8
+#EXTINF:0,TV CINE & SERIES:Fox_Action
+http://system.fpiptv.com:8080/live/12345/12345/595.ts
  
+#EXTINF:0,TV CINE & SERIES:Fox
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
  
-1512.#EXTINF:0,VIA TELEVISIÓN (Tarapoto - Perú)
  
+#EXTINF:0,TV CINE & SERIES:Fox_Cinema [BRASIL]
+http://system.fpiptv.com:8080/live/12345/12345/594.ts
  
-1513.http://wse8.player.tv.br:1935/viatv/viatv/playlist.m3u8
  
+#EXTINF:0,TV CINE & SERIES:Golden
+http://system.fpiptv.com:8080/live/12345/12345/1352.ts
  
-1514.#EXTINF:0,ANTARES TV (Tarapoto - Perú)
  
+#EXTINF:0,TV CINE & SERIES:Space
+http://wowza2.mysoltv.com:1992/Latino_I_SAT/index.m3u8
  
-1515.http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
  
+#EXTINF:0,TV CINE & SERIES:Universal
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
  
-1516.#EXTINF:0,SOL TV  (Trujillo - Perú)
  
+#EXTINF:0,TV CINE & SERIES:Warner
+http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
  
-1517.http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
  
+#EXTINF:0,TV CINE & SERIES:CINEMAX
+http://wowza2.mysoltv.com:1992/Latino_CINEMAX/index.m3u8
  
-1518.#EXTINF:0,TV COSMOS (Trujillo - Perú)
  
+#EXTINF:0,TV CINE & SERIES:FOX_LIFE
+http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
  
-1519.http://wowzaserver.net:1935/ucvsatelital/ucvsatelital/playlist.m3u8
  
+#EXTINF:0,TV CINE & SERIES:FX
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
  
-1520.#EXTINF:0,PACÍFICO TV Perú
  
+EXTINF:0,TV CINE & SERIES:I_SAT
+http://wowza2.mysoltv.com:1992/Latino_I_SAT/index.m3u8
  
-1521.http://cdn2.ujjina.com:1935/iptvpacifico/livepacificotv/playlist.m3u8
  
- 
-1522.#EXTINF:0,PAX CATÓLICO Perú
- 
- 
-1523.http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b1735000.m3u8
- 
- 
-1524.#EXTINF:0,INFANTILES:(INFANTILES)
- 
- 
-1525.http://www.intermusika.org/___TMP___/media/Dance/Aqua/Aqua%20-%20Barbie%20Girl.mp3?ack=123456
- 
- 
-1526.#EXTINF:0,INFANTILES:Cartoon Network
- 
- 
-1527.http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
- 
-1528.#EXTINF:0,INFANTILES:Tooncast
- 
- 
-1529.http://wowza2.mysoltv.com:1992/Latino_Cinecanal_HD/tracks-v1a1/index.m3u8
- 
- 
-1530.#EXTINF:0,INFANTILES:Nick
- 
- 
-1531.http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
- 
-1532.#EXTINF:0,INFANTILES:NickJr
- 
- 
-1533.http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
- 
-1534.#EXTINF:0,INFANTILES:Disney Channel
- 
- 
-1535.http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
- 
-1536.#EXTINF:0,INFANTILES:Disney XD
- 
- 
-1537.http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
- 
-1538.#EXTINF:0,INFANTILES:Discovery Kids
- 
- 
-1539.http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
- 
-1540.#EXTINF:0,INFANTILES:Disney Junior
- 
- 
-1541.http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
- 
-1542.#EXTINF:0,INFANTILES:Tiin
- 
- 
-1543.http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/325.flv
- 
- 
-1544.#EXTINF:0,INFANTILES:Paka Paka
- 
- 
-1545.http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
- 
- 
-1546.#EXTINF:0,INFANTILES:Tateti
- 
- 
-1547.http://ar.watcha.live/ch16/hi.m3u8
- 
- 
-1548.#EXTINF:0,INFANTILES:Los Simpsons 24hs
- 
- 
-1549.http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8
- 
- 
-1550.#EXTINF:0,INFANTILES:Anime TV
- 
- 
-1551.http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
- 
- 
-1552.#EXTINF:0,DEPORTES:(DEPORTES)
- 
- 
-1553.http://www.intermusika.org/___TMP___/media/Metal/Marilyn%20Manson/Marilyn%20Manson%20%20-%20Beautifull%20People.mp3?ack=123456
- 
- 
-1554.#EXTINF:0,DEPORTES:ESPN
- 
- 
-1555.https://live10.userapi.com/637601/live/1gJD5yNAfz8Y-Icl/playlist.m3u8
- 
- 
-1556.#EXTINF:0,DEPORTES:Fox Sports HD
- 
- 
-1557.http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
- 
- 
-1558.#EXTINF:0,DEPORTES:FOX SPORT
- 
- 
-1559.http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
- 
- 
-1560.#EXTINF:0,TV CINE & SERIES:(TV CINE & SERIES)
- 
- 
-1561.http://www.intermusika.org/___TMP___/media/De%20Peliculas/Xmen3/Xmen3%20%20-%20Hans%20Zimmer%20%20%20The%20Battle%20Of%20The%20Cure.mp3?ack=123456
- 
- 
-1562.#EXTINF:0,TV CINE & SERIES:AXN
- 
- 
-1563.http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
- 
-1564.#EXTINF:0,TV CINE & SERIES:Fox_Action
- 
- 
-1565.http://system.fpiptv.com:8080/live/12345/12345/595.ts
- 
- 
-1566.#EXTINF:0,TV CINE & SERIES:Fox
- 
- 
-1567.http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
- 
-1568.#EXTINF:0,TV CINE & SERIES:Fox_Cinema [BRASIL]
- 
- 
-1569.http://system.fpiptv.com:8080/live/12345/12345/594.ts
- 
- 
-1570.#EXTINF:0,TV CINE & SERIES:Golden
- 
- 
-1571.http://system.fpiptv.com:8080/live/12345/12345/1352.ts
- 
- 
-1572.#EXTINF:0,TV CINE & SERIES:Space
- 
- 
-1573.http://wowza2.mysoltv.com:1992/Latino_I_SAT/index.m3u8
- 
- 
-1574.#EXTINF:0,TV CINE & SERIES:Universal
- 
- 
-1575.http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
- 
-1576.#EXTINF:0,TV CINE & SERIES:Warner
- 
- 
-1577.http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
- 
-1578.#EXTINF:0,TV CINE & SERIES:CINEMAX
- 
- 
-1579.http://wowza2.mysoltv.com:1992/Latino_CINEMAX/index.m3u8
- 
- 
-1580.#EXTINF:0,TV CINE & SERIES:FOX_LIFE
- 
- 
-1581.http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
- 
-1582.#EXTINF:0,TV CINE & SERIES:FX
- 
- 
-1583.http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
- 
- 
-1584.#EXTINF:0,TV CINE & SERIES:I_SAT
- 
- 
-1585.http://wowza2.mysoltv.com:1992/Latino_I_SAT/index.m3u8
- 
- 
-1586.#EXTINF:0,TV CINE & SERIES:SONY
- 
- 
-1587.http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:0,TV CINE & SERIES:SONY
+http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
