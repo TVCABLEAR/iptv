@@ -6,9 +6,302 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
 https://github.com/TVCABLEAR/
 
-
-#EXTINF:0, LISTA ACTUALIZADA AL 14 NOV 2017
+#EXTINF:-1, LISTA ACTUALIZADA AL 14 NOV 2017
 http://www.android-latino.com/2017/11/lista-iptv-remota-canales-premium.html
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/big/ae.gif" group-title="CULTURA",A&E
+http://104.245.96.214:8000/live/cesar/cesar/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://z.cdn.entutele.com/media/channels/big/amc.gif" group-title="CINE-Y-SERIES",AMC
+http://104.245.96.214:8000/live/cesar/cesar/75.m3u8
+#EXTINF:-1 tvg-id="Exabyte TVAMC" tvg-name="AMC SD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/amc.gif" group-title="CINE-Y-SERIES",AMC SD
+http://104.245.96.214:8000/live/cesar/cesar/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://z.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="CULTURA",Animal Planet
+http://104.245.96.214:8000/live/cesar/cesar/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: America TV" tvg-logo="http://images.mi.tv/channels/ar_america-2-capital_m.png" group-title="ARGENTINA",AR: America TV
+http://104.245.96.214:8000/live/cesar/cesar/136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: C5N" tvg-logo="" group-title="ARGENTINA",AR: C5N
+http://104.245.96.214:8000/live/cesar/cesar/254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 26" tvg-logo="" group-title="ARGENTINA",AR: Canal 26
+http://104.245.96.214:8000/live/cesar/cesar/255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 9" tvg-logo="" group-title="ARGENTINA",AR: Canal 9
+http://104.245.96.214:8000/live/cesar/cesar/273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Trece" tvg-logo="" group-title="ARGENTINA",AR: El Trece
+http://104.245.96.214:8000/live/cesar/cesar/252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: TELEFE" tvg-logo="https://i0.wp.com/static.america-retail.com/2016/11/telefe-america-retail.jpg" group-title="ARGENTINA",AR: TELEFE
+http://104.245.96.214:8000/live/cesar/cesar/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: TN" tvg-logo="" group-title="ARGENTINA",AR: TN
+http://104.245.96.214:8000/live/cesar/cesar/253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: TV Publica" tvg-logo="http://eltaladro.com/wp-content/uploads/2017/03/TvPublicaLogo.jpg" group-title="ARGENTINA",AR: TV Publica
+http://104.245.96.214:8000/live/cesar/cesar/134.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="CINE-Y-SERIES",AXN
+http://104.245.96.214:8000/live/cesar/cesar/152.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AZCinema" tvg-logo="" group-title="MEXICO",AZCinema
+http://104.245.96.214:8000/live/cesar/cesar/192.m3u8
+#EXTINF:-1 tvg-id="Az Corazón" tvg-name="AzCorazon" tvg-logo="http://www.supercable.com.pe/uploads/5/3/5/0/53505143/_5362891.jpg" group-title="MEXICO",AzCorazon
+http://104.245.96.214:8000/live/cesar/cesar/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Siete" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/thumb.58b11a55bbf52_Azteca72017.png.554dd67f3c046f5af9940bfee64c8362.png" group-title="MEXICO",Azteca Siete
+http://104.245.96.214:8000/live/cesar/cesar/5.m3u8
+#EXTINF:-1 tvg-id="El trece HD" tvg-name="Azteca Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logotipo-Azteca-Trece.png" group-title="MEXICO",Azteca Trece
+http://104.245.96.214:8000/live/cesar/cesar/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax" tvg-logo="http://z.cdn.entutele.com/media/channels/big/bandamax.gif" group-title="MUSICA",Bandamax
+http://104.245.96.214:8000/live/cesar/cesar/100.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://z.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="INFANTILES",Boomerang
+http://104.245.96.214:8000/live/cesar/cesar/49.m3u8
+#EXTINF:-1 tvg-id="XHGC HDTV 5 Nacional DF" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO",Canal 5
+http://104.245.96.214:8000/live/cesar/cesar/8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal El Gourmet" tvg-logo="http://z.cdn.entutele.com/media/channels/big/el-gourmet.gif" group-title="CULTURA",Canal El Gourmet
+http://104.245.96.214:8000/live/cesar/cesar/33.m3u8
+#EXTINF:-1 tvg-id="Canal Once XEIPN" tvg-name="Canal Once" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1178_2_8285.png" group-title="MEXICO",Canal Once
+http://104.245.96.214:8000/live/cesar/cesar/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="INFANTILES",Cartoon Network
+http://104.245.96.214:8000/live/cesar/cesar/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://lh3.ggpht.com/-rED54J198Eg/URCSU0ZfCrI/AAAAAAAAucs/0i8praXfrxE/zrclip_018p7b365fd5.png" group-title="INFANTILES",Baby TV
+http://104.245.96.214:8000/live/cesar/cesar/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cinecanal-w.gif" group-title="CINE-Y-SERIES",Cinecanal
+http://104.245.96.214:8000/live/cesar/cesar/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal 2" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="CINE-Y-SERIES",Cinecanal 2
+http://104.245.96.214:8000/live/cesar/cesar/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://z.cdn.entutele.com/media/channels/big/cinemax-o.gif" group-title="CINE-Y-SERIES",Cinemax
+http://104.245.96.214:8000/live/cesar/cesar/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: 13 CABLE" tvg-logo="http://i64.tinypic.com/hskk28.png" group-title="CHILE",CL: 13 CABLE
+http://104.245.96.214:8000/live/cesar/cesar/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: CANAL13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/180px-Canal13Chile_Vectorial.svg.png" group-title="CHILE",CL: CANAL13
+http://104.245.96.214:8000/live/cesar/cesar/103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: CANAL13 HD" tvg-logo="http://2.bp.blogspot.com/-2zj4Ey0x7zk/VP87C4FtLpI/AAAAAAAAEHw/9CjzippWGR4/s1600/Canal%2B13%2BHD%2B2.png" group-title="CHILE",CL: CANAL13 HD
+http://104.245.96.214:8000/live/cesar/cesar/110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: CHV HD" tvg-logo="http://4.bp.blogspot.com/-I0ZGpsDySjE/VP87Bw6JdUI/AAAAAAAAEHY/gN1869LDdPE/s1600/CHV%2BHD%2B3.png" group-title="CHILE",CL: CHV HD
+http://104.245.96.214:8000/live/cesar/cesar/106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: CHV op2" tvg-logo="http://4.bp.blogspot.com/-I0ZGpsDySjE/VP87Bw6JdUI/AAAAAAAAEHY/gN1869LDdPE/s1600/CHV%2BHD%2B3.png" group-title="CHILE",CL: CHV op2
+http://104.245.96.214:8000/live/cesar/cesar/3999.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CL: ETC TV" tvg-logo="" group-title="CHILE",CL: ETC TV
+http://104.245.96.214:8000/live/cesar/cesar/971.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CL: LA RED" tvg-logo="http://i63.tinypic.com/2cfsgue.jpg" group-title="CHILE",CL: LA RED
+http://104.245.96.214:8000/live/cesar/cesar/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: MEGA" tvg-logo="http://i63.tinypic.com/2vtcgts.png" group-title="CHILE",CL: MEGA
+http://104.245.96.214:8000/live/cesar/cesar/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2015megaoficial.png/200px-2015megaoficial.png" group-title="CHILE",CL: MEGA HD
+http://104.245.96.214:8000/live/cesar/cesar/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: Teletrak" tvg-logo="" group-title="CHILE",CL: Teletrak
+http://104.245.96.214:8000/live/cesar/cesar/279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: TVN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tvn2004oficial.png/220px-Tvn2004oficial.png" group-title="CHILE",CL: TVN HD
+http://104.245.96.214:8000/live/cesar/cesar/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: TVN" tvg-logo="" group-title="CHILE",CL: TVN
+http://104.245.96.214:8000/live/cesar/cesar/2770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="CHILE",CL: TV Chile
+http://104.245.96.214:8000/live/cesar/cesar/2760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: TVN 24 Horas" tvg-logo="" group-title="CHILE",CL: TVN 24 Horas
+http://104.245.96.214:8000/live/cesar/cesar/970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL: UCV" tvg-logo="" group-title="CHILE",CL: UCV
+http://104.245.96.214:8000/live/cesar/cesar/241.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE" tvg-logo="http://www.ruvix.com/wp-content/uploads/2015/07/cnn-chile-logo.png" group-title="CHILE",CNN CHILE
+http://104.245.96.214:8000/live/cesar/cesar/118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol" tvg-logo="" group-title="COLOMBIA",CO: Caracol
+http://104.245.96.214:8000/live/cesar/cesar/236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol Internacional HD" tvg-logo="" group-title="COLOMBIA",CO: Caracol Internacional HD
+http://104.245.96.214:8000/live/cesar/cesar/257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telemedellin" tvg-logo="" group-title="COLOMBIA",CO: Telemedellin
+http://104.245.96.214:8000/live/cesar/cesar/262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN" tvg-logo="http://i63.tinypic.com/2vnp84w.gif" group-title="COLOMBIA",CO: RCN
+http://104.245.96.214:8000/live/cesar/cesar/141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Novelas" tvg-logo="" group-title="COLOMBIA",CO: RCN Novelas
+http://104.245.96.214:8000/live/cesar/cesar/256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: TRECE COLOMBIA" tvg-logo="http://tv-online.im/wp-content/uploads/2013/05/Canal-13-Colombia-TV.jpg" group-title="COLOMBIA",CO: TRECE COLOMBIA
+http://104.245.96.214:8000/live/cesar/cesar/142.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Cable Noticias" tvg-logo="" group-title="COLOMBIA",CO: Cable Noticias
+http://104.245.96.214:8000/live/cesar/cesar/3160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: CANAL ANTIESTRES" tvg-logo="" group-title="COLOMBIA",CO: CANAL ANTIESTRES
+http://104.245.96.214:8000/live/cesar/cesar/3157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: CANAL U" tvg-logo="" group-title="COLOMBIA",CO: CANAL U
+http://104.245.96.214:8000/live/cesar/cesar/3162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: CANTINAZO" tvg-logo="" group-title="COLOMBIA",CO: CANTINAZO
+http://104.245.96.214:8000/live/cesar/cesar/3156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: CosmoVision" tvg-logo="" group-title="COLOMBIA",CO: CosmoVision
+http://104.245.96.214:8000/live/cesar/cesar/3163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: El Tiempo" tvg-logo="" group-title="COLOMBIA",CO: El Tiempo
+http://104.245.96.214:8000/live/cesar/cesar/3159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: LIFEDESING" tvg-logo="" group-title="COLOMBIA",CO: LIFEDESING
+http://104.245.96.214:8000/live/cesar/cesar/3155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: MIMUSICA HD" tvg-logo="" group-title="COLOMBIA",CO: MIMUSICA HD
+http://104.245.96.214:8000/live/cesar/cesar/3154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: TELE VIDA" tvg-logo="" group-title="COLOMBIA",CO: TELE VIDA
+http://104.245.96.214:8000/live/cesar/cesar/3158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: TELEANTIOQUIA HD" tvg-logo="" group-title="COLOMBIA",CO: TELEANTIOQUIA HD
+http://104.245.96.214:8000/live/cesar/cesar/3164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telecafe" tvg-logo="" group-title="COLOMBIA",CO: Telecafe
+http://104.245.96.214:8000/live/cesar/cesar/3165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: TIGO MUSIC" tvg-logo="" group-title="COLOMBIA",CO: TIGO MUSIC
+http://104.245.96.214:8000/live/cesar/cesar/3153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: TV AGRO" tvg-logo="" group-title="COLOMBIA",CO: TV AGRO
+http://104.245.96.214:8000/live/cesar/cesar/3161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="http://z.cdn.entutele.com/media/channels/big/comedy-central.gif" group-title="COMEDIA",Comedy Central
+http://104.245.96.214:8000/live/cesar/cesar/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CR: Canal 7" tvg-logo="" group-title="COSTA-RICA",CR: Canal 7
+http://104.245.96.214:8000/live/cesar/cesar/3560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CR: Repretel11" tvg-logo="" group-title="COSTA-RICA",CR: Repretel11
+http://104.245.96.214:8000/live/cesar/cesar/288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CR: Repretel4" tvg-logo="" group-title="COSTA-RICA",CR: Repretel4
+http://104.245.96.214:8000/live/cesar/cesar/289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CR: Repretel6" tvg-logo="" group-title="COSTA-RICA",CR: Repretel6
+http://104.245.96.214:8000/live/cesar/cesar/290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="http://z.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif" group-title="CINE-Y-SERIES",De Pelicula
+http://104.245.96.214:8000/live/cesar/cesar/74.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="CULTURA",Discovery Channel
+http://104.245.96.214:8000/live/cesar/cesar/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-civilization.gif" group-title="CULTURA",Discovery Civilization
+http://104.245.96.214:8000/live/cesar/cesar/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="http://z.cdn.entutele.com/media/channels/big/home-and-health.gif" group-title="CULTURA",Discovery Home & Health
+http://104.245.96.214:8000/live/cesar/cesar/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="INFANTILES",Discovery Kids
+http://104.245.96.214:8000/live/cesar/cesar/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-science.gif" group-title="CULTURA",Discovery Science
+http://104.245.96.214:8000/live/cesar/cesar/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="CULTURA",Discovery Theater
+http://104.245.96.214:8000/live/cesar/cesar/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="CULTURA",Discovery Turbo
+http://104.245.96.214:8000/live/cesar/cesar/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="http://z.cdn.entutele.com/media/channels/big/discovery-world-hd.gif" group-title="CULTURA",Discovery World
+http://104.245.96.214:8000/live/cesar/cesar/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://z.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="INFANTILES",Disney Channel
+http://104.245.96.214:8000/live/cesar/cesar/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://z.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="INFANTILES",Disney Junior
+http://104.245.96.214:8000/live/cesar/cesar/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://z.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="INFANTILES",Disney XD
+http://104.245.96.214:8000/live/cesar/cesar/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="http://z.cdn.entutele.com/media/channels/big/distrito-comedia.gif" group-title="COMEDIA",Distrito Comedia
+http://104.245.96.214:8000/live/cesar/cesar/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW Latinoamerica" tvg-logo="" group-title="CULTURA",DW Latinoamerica
+http://104.245.96.214:8000/live/cesar/cesar/251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://z.cdn.entutele.com/media/channels/big/e-entertainment-television.gif" group-title="CULTURA",E!
+http://104.245.96.214:8000/live/cesar/cesar/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: CNT Sports FULL HD" tvg-logo="http://oi65.tinypic.com/vwq45x.jpg" group-title="ECUADOR",EC: CNT Sports FULL HD
+http://104.245.96.214:8000/live/cesar/cesar/4018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: CNT Sports HD" tvg-logo="http://oi65.tinypic.com/vwq45x.jpg" group-title="ECUADOR",EC: CNT Sports HD
+http://104.245.96.214:8000/live/cesar/cesar/3113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: CNT Sports op2" tvg-logo="" group-title="ECUADOR",EC: CNT Sports op2
+http://104.245.96.214:8000/live/cesar/cesar/350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: Planeta Once FULL  HD (solo eventos)" tvg-logo="http://oi68.tinypic.com/v58wnq.jpg" group-title="ECUADOR",EC: Planeta Once FULL  HD (solo eventos)
+http://104.245.96.214:8000/live/cesar/cesar/3152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: Planeta Once (solo eventos de serie B)" tvg-logo="http://oi68.tinypic.com/v58wnq.jpg" group-title="ECUADOR",EC: Planeta Once (solo eventos de serie B)
+http://104.245.96.214:8000/live/cesar/cesar/3556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: Ecuavisa FULL HD" tvg-logo="http://oi67.tinypic.com/2u45zqd.jpg" group-title="ECUADOR",EC: Ecuavisa FULL HD
+http://104.245.96.214:8000/live/cesar/cesar/4020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: Ecuavisa HD" tvg-logo="http://oi67.tinypic.com/2u45zqd.jpg" group-title="ECUADOR",EC: Ecuavisa HD
+http://104.245.96.214:8000/live/cesar/cesar/3148.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa (Nacional-centro sur)" tvg-name="EC: Ecuavisa op2" tvg-logo="http://www.cre.com.ec/wp-content/uploads/2015/06/logo-ecuavisa.jpg" group-title="ECUADOR",EC: Ecuavisa op2
+http://104.245.96.214:8000/live/cesar/cesar/128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR",EC: RTS HD
+http://104.245.96.214:8000/live/cesar/cesar/4017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: RTS Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",EC: RTS Ecuador
+http://104.245.96.214:8000/live/cesar/cesar/138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: Teleamazonas FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR",EC: Teleamazonas FULL HD
+http://104.245.96.214:8000/live/cesar/cesar/4021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: Teleamazonas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/150px-Teleamazonas_Logo.png" group-title="ECUADOR",EC: Teleamazonas HD
+http://104.245.96.214:8000/live/cesar/cesar/3150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: Teleamazonas op2" tvg-logo="" group-title="ECUADOR",EC: Teleamazonas op2
+http://104.245.96.214:8000/live/cesar/cesar/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: Ecuador TV" tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/ecuador_tv7_ec.png" group-title="ECUADOR",EC: Ecuador TV
+http://104.245.96.214:8000/live/cesar/cesar/131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: GAMA HD" tvg-logo="http://oi64.tinypic.com/jpua1v.jpg" group-title="ECUADOR",EC: GAMA HD
+http://104.245.96.214:8000/live/cesar/cesar/4016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: GAMA" tvg-logo="http://oi64.tinypic.com/jpua1v.jpg" group-title="ECUADOR",EC: GAMA
+http://104.245.96.214:8000/live/cesar/cesar/3149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: GamaTV op2" tvg-logo="http://www.centrotv.org/images/stories/videos/historia/gama-tv.jpg" group-title="ECUADOR",EC: GamaTV op2
+http://104.245.96.214:8000/live/cesar/cesar/132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: TC Television FULL HD" tvg-logo="http://analytica.ec/fileadmin/_processed_/csm_TC-Television-logo-vector_5a66bd8533.png" group-title="ECUADOR",EC: TC Television FULL HD
+http://104.245.96.214:8000/live/cesar/cesar/4019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: TC Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",EC: TC Television HD
+http://104.245.96.214:8000/live/cesar/cesar/976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: TC Television op2" tvg-logo="" group-title="ECUADOR",EC: TC Television op2
+http://104.245.96.214:8000/live/cesar/cesar/130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: Canal UNO" tvg-logo="http://i68.tinypic.com/ic8ok6.png" group-title="ECUADOR",EC: Canal UNO
+http://104.245.96.214:8000/live/cesar/cesar/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EC: OromarTV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="ECUADOR",EC: OromarTV
+http://104.245.96.214:8000/live/cesar/cesar/137.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PA: Cable Onda Sport" tvg-logo="" group-title="PANAMA",PA: Cable Onda Sport
+http://104.245.96.214:8000/live/cesar/cesar/4002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PA: Cable Onda Sport FC" tvg-logo="" group-title="PANAMA",PA: Cable Onda Sport FC
+http://104.245.96.214:8000/live/cesar/cesar/4000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PA: ECO TV" tvg-logo="" group-title="PANAMA",PA: ECO TV
+http://104.245.96.214:8000/live/cesar/cesar/4006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PA: OYE TV" tvg-logo="" group-title="PANAMA",PA: OYE TV
+http://104.245.96.214:8000/live/cesar/cesar/4004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PA: RPC PANAMA HD" tvg-logo="" group-title="PANAMA",PA: RPC PANAMA HD
+http://104.245.96.214:8000/live/cesar/cesar/4009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PA: RPC PANAMA" tvg-logo="" group-title="PANAMA",PA: RPC PANAMA
+http://104.245.96.214:8000/live/cesar/cesar/4008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PA: SER TV PANAMA" tvg-logo="" group-title="PANAMA",PA: SER TV PANAMA
+http://104.245.96.214:8000/live/cesar/cesar/4011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PA: TELEMETRO PANAMA HD" tvg-logo="" group-title="PANAMA",PA: TELEMETRO PANAMA HD
+http://104.245.96.214:8000/live/cesar/cesar/4013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PA: TV MAX PANAMA" tvg-logo="" group-title="PANAMA",PA: TV MAX PANAMA
+http://104.245.96.214:8000/live/cesar/cesar/4010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PA: TVN PANAMA" tvg-logo="" group-title="PANAMA",PA: TVN PANAMA
+http://104.245.96.214:8000/live/cesar/cesar/4014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PE: AMERICA TELEVISION" tvg-logo="" group-title="PERU",PE: AMERICA TELEVISION
+http://104.245.96.214:8000/live/cesar/cesar/101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PE: ATV" tvg-logo="http://www.atvenvivo.pe/wp-content/uploads/2016/10/logoatv.png" group-title="PERU",PE: ATV
+http://104.245.96.214:8000/live/cesar/cesar/139.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PE: Panamericana" tvg-logo="" group-title="PERU",PE: Panamericana
+http://104.245.96.214:8000/live/cesar/cesar/238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PE: Peru Magico" tvg-logo="" group-title="PERU",PE: Peru Magico
+http://104.245.96.214:8000/live/cesar/cesar/233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV Peru" tvg-logo="" group-title="PERU",PE: TV Peru
+http://104.245.96.214:8000/live/cesar/cesar/237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD: Digital 15" tvg-logo="" group-title="REPUBLICA-DOMINICANA",RD: Digital 15
+http://104.245.96.214:8000/live/cesar/cesar/250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD: Teleantillas" tvg-logo="" group-title="REPUBLICA-DOMINICANA",RD: Teleantillas
+http://104.245.96.214:8000/live/cesar/cesar/249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD: Telecentro" tvg-logo="" group-title="REPUBLICA-DOMINICANA",RD: Telecentro
+http://104.245.96.214:8000/live/cesar/cesar/248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD: Telenord 10" tvg-logo="" group-title="REPUBLICA-DOMINICANA",RD: Telenord 10
+http://104.245.96.214:8000/live/cesar/cesar/247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD: Telenord 12" tvg-logo="" group-title="REPUBLICA-DOMINICANA",RD: Telenord 12
+http://104.245.96.214:8000/live/cesar/cesar/246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD: Telesistema" tvg-logo="" group-title="REPUBLICA-DOMINICANA",RD: Telesistema
+http://104.245.96.214:8000/live/cesar/cesar/245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD: Teletica" tvg-logo="" group-title="REPUBLICA-DOMINICANA",RD: Teletica
+http://104.245.96.214:8000/live/cesar/cesar/242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD: Teleunion" tvg-logo="" group-title="REPUBLICA-DOMINICANA",RD: Teleunion
+http://104.245.96.214:8000/live/cesar/cesar/244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD: Teleuniverso" tvg-logo="" group-title="REPUBLICA-DOMINICANA",RD: Teleuniverso
+http://104.245.96.214:8000/live/cesar/cesar/243.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UR: VTV HD" tvg-logo="" group-title="URUGUAY",UR: VTV HD
+http://104.245.96.214:8000/live/cesar/cesar/293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UR: Canal 10" tvg-logo="" group-title="URUGUAY",UR: Canal 10
+http://104.245.96.214:8000/live/cesar/cesar/3435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UR: La Tele" tvg-logo="" group-title="URUGUAY",UR: La Tele
+http://104.245.96.214:8000/live/cesar/cesar/3436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UR: Monte Carlo TV HD" tvg-logo="" group-title="URUGUAY",UR: Monte Carlo TV HD
+http://104.245.96.214:8000/live/cesar/cesar/3434.m3u8
+
+
+
+<!--FIN DE LA ACTUALIZACION-->
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="Series", A&E HD
 http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
