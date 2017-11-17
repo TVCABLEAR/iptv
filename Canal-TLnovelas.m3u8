@@ -1,15 +1,23 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:7
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:4402
-#EXTINF:6.006,
+#EXT-X-MEDIA-SEQUENCE:552
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.010333,
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/index.m3u8?CablearTV.m3u8
-#Adresa: univision-deportes
-#U_IP_Now: 181.92.189.51
-#U_IP_Saved: 181.92.189.51
-#U_Country_now: AR
-#U_Country_saved: AR
-#size_ip_request: 13
-#U_cached: 0
+#EXTINF:10.010333,
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/index.m3u8?CablearTV.m3u8
+#EXTINF:10.010333,
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/index.m3u8?CablearTV.m3u8
+#EXTINF:10.010333,
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/index.m3u8?CablearTV.m3u8
+#EXTINF:10.010333,
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/index.m3u8?CablearTV.m3u8
+#EXTINF:10.010333,
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/index.m3u8?CablearTV.m3u8
+#EXTINF:10.010333,
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/index.m3u8?CablearTV.m3u8
+#EXTINF:10.010333,
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/index.m3u8?CablearTV.m3u8
 
 
