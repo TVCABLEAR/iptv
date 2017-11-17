@@ -6,1064 +6,1012 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
 https://github.com/TVCABLEAR/
 
-#EXTINF:-1 type="stream" channelId="1971" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_Azteca_13_HD_2007-2011.svg/150px-Logo_Azteca_13_HD_2007-2011.svg.png" group-title="ESTABLES BY GAME SNAKE LAND l.S" , Azteca 13 mx
+#EXTINF:-1 type="stream" channelId="1971" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_Azteca_13_HD_2007-2011.svg/150px-Logo_Azteca_13_HD_2007-2011.svg.png" group-title="CablearTV" , Azteca 13 mx
 http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
 
-#EXTINF:0 tvg-logo="http://www.amastv.com/img/logo_amas_slogan.png" group-title="ESTABLES BY GAME SNAKE LAND l.S", A+
+#EXTINF:0 tvg-logo="http://www.amastv.com/img/logo_amas_slogan.png" group-title="CablearTV", A+
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="ESTABLES BY GAME SNAKE LAND l.S", Adn 40
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="CablearTV", Adn 40
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/25hpt92.jpg"group-title="ESTABLES BY GAME SNAKE LAND l.S",Azteca 7
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/25hpt92.jpg"group-title="CablearTV",Azteca 7
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=AZMX0068
 
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/25hpt92.jpg"group-title="ESTABLES BY GAME SNAKE LAND l.S",Azteca 7 (op2)
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/25hpt92.jpg"group-title="CablearTV",Azteca 7 (op2)
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8
 
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://farm2.staticflickr.com/1704/25634859013_42315466b0_o.png", Azteca Cinema 
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://farm2.staticflickr.com/1704/25634859013_42315466b0_o.png", Azteca Cinema 
 http://vivoplay-i.akamaihd.net/hls/live/255328/canal1/master2500k.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/az-corazon.jpg", Azteca Corazón
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/az-corazon.jpg", Azteca Corazón
 http://vivoplay-i.akamaihd.net/hls/live/255340/canal1/master2500k.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://www.matrixtvnet.com.ve/img/canales/az_clic.png", Azteca Click
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://www.matrixtvnet.com.ve/img/canales/az_clic.png", Azteca Click
 http://vivoplay-i.akamaihd.net/hls/live/255339/canal1/master2500k.m3u8
 
-#EXTINF:-1 tvg-id="Exabyte TV Canal 2" tvg-name="Canal 2" tvg-logo="http://televisa-networks.com/wp-content/uploads/2016/03/lasestrellas.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",Canal De Las Estrellas (México)
+#EXTINF:-1 tvg-id="Exabyte TV Canal 2" tvg-name="Canal 2" tvg-logo="http://televisa-networks.com/wp-content/uploads/2016/03/lasestrellas.png" group-title="CablearTV",Canal De Las Estrellas (México)
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.ontvtonight.com/static/2/Open/400x300_1845/Source/46261/canal5hd.png"group-title="ESTABLES BY GAME SNAKE LAND l.S",Canal 5 HD
+#EXTINF:-1 tvg-logo="http://static.ontvtonight.com/static/2/Open/400x300_1845/Source/46261/canal5hd.png"group-title="CablearTV",Canal 5 HD
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S", tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png"group-title="ESTABLES BY GAME SNAKE LAND l.S",Multimedios Monterrey
+#EXTINF:-1 group-title="CablearTV", tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png"group-title="CablearTV",Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="ESTABLES BY GAME SNAKE LAND l.S",FOX SPORTS
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="CablearTV",FOX SPORTS
 http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FbXZLmiJEevMFrWMc24VCRt9EOx9LOtsy2TdHuWXVxuxd8VESGOAEn19LDAX5Rjsz%2Bev0AVQON7g%3D%3D
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="ESTABLES BY GAME SNAKE LAND l.S",FOX SPORTS (op2)
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="CablearTV",FOX SPORTS (op2)
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="ESTABLES BY GAME SNAKE LAND l.S",FOX SPORTS 2
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="CablearTV",FOX SPORTS 2
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="ESTABLES BY GAME SNAKE LAND l.S",FOXSPORTS 3
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="CablearTV",FOXSPORTS 3
 
 
-#EXTINF:0 channelId="2489" tvg-logo="http://blogvecindad.com/imagenes/2013/11/Canal-Once-Mexico-Logo-nuevo.png" group-title="ESTABLES BY GAME SNAKE LAND l.S", Canal ONCE
+#EXTINF:0 channelId="2489" tvg-logo="http://blogvecindad.com/imagenes/2013/11/Canal-Once-Mexico-Logo-nuevo.png" group-title="CablearTV", Canal ONCE
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-logo="https://i3.radionomy.com/radios/400/48a8df4c-f063-4b46-8e1b-b5a1e65ed446.jpg" group-title="ESTABLES BY GAME SNAKE LAND l.S",Virgin TV music
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-logo="https://i3.radionomy.com/radios/400/48a8df4c-f063-4b46-8e1b-b5a1e65ed446.jpg" group-title="CablearTV",Virgin TV music
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-#EXTINF:0 type="stream" channelId="2920" tvg-logo="http://www.djing.com/img/facebook.png" group-title="ESTABLES BY GAME SNAKE LAND l.S", DJING CLASSIC HD
+#EXTINF:0 type="stream" channelId="2920" tvg-logo="http://www.djing.com/img/facebook.png" group-title="CablearTV", DJING CLASSIC HD
 http://www.djing.com/tv/i-05.m3u8
 #EXTINF:0 type="stream" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" , MI MUSICA HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/ibiza-on-tv-channel-images-logo-large.png" group-title="ESTABLES BY GAME SNAKE LAND l.S", IBIZA
+#EXTINF:0 type="stream" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/ibiza-on-tv-channel-images-logo-large.png" group-title="CablearTV", IBIZA
 http://www.djing.com/tv/a-04.m3u8
-#EXTINF:0 type="stream" channelId="2526" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png" group-title="ESTABLES BY GAME SNAKE LAND l.S" , Hit Tv
+#EXTINF:0 type="stream" channelId="2526" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png" group-title="CablearTV" , Hit Tv
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",Dance/EDM
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="CablearTV",Dance/EDM
 
-#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="ESTABLES BY GAME SNAKE LAND l.S", MC Play
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="CablearTV", MC Play
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAdIAAAAJGUzNGY2YmI4LTgyNWQtNGE2NS1hMmZmLTJmYmQyNDdiZDI2ZQ.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",Banda Ancha TV (JA)
+#EXTINF:-1 tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAdIAAAAJGUzNGY2YmI4LTgyNWQtNGE2NS1hMmZmLTJmYmQyNDdiZDI2ZQ.png" group-title="CablearTV",Banda Ancha TV (JA)
 https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-j1PmbDXjv3o/UFX0zyYbdLI/AAAAAAAAAG8/rcbe1zel6KE/s320/teleritmo_logo.png" group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Teleritmo (Game Snake Land s. y L.)
-http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-j1PmbDXjv3o/UFX0zyYbdLI/AAAAAAAAAG8/rcbe1zel6KE/s320/teleritmo_logo.png" group-title="CablearTV" ,Teleritmo   http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 
-#EXTINF:-1 tvg-logo="http://www.stweb.tv/indalo/radioone/one.jpg" group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Radio One HD
+#EXTINF:-1 tvg-logo="http://www.stweb.tv/indalo/radioone/one.jpg" group-title="CablearTV" ,Radio One HD
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
 
-#EXTINF:-1 type="stream" channelId="407" tvg-logo="https://lh4.googleusercontent.com/-qcqUmE_igSs/AAAAAAAAAAI/AAAAAAAAaic/YpE2J55-zaU/photo.jpg" group-title="ESTABLES BY GAME SNAKE LAND l.S", UNIVISION
+#EXTINF:-1 type="stream" channelId="407" tvg-logo="https://lh4.googleusercontent.com/-qcqUmE_igSs/AAAAAAAAAAI/AAAAAAAAaic/YpE2J55-zaU/photo.jpg" group-title="CablearTV", UNIVISION
 http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_1600_androidtab.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo_medium.png"group-title="ESTABLES BY GAME SNAKE LAND l.S",TELEMUNDO LATINO
+#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo_medium.png"group-title="CablearTV",TELEMUNDO LATINO 
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
-#EXTINF:0 type="stream" tvg-logo="http://www.aztecanoticias.com.mx/includes/alianza/images/an_logo_horizontal-u552.png" group-title="ESTABLES BY GAME SNAKE LAND l.S", Azteca Noticias
+#EXTINF:0 type="stream" tvg-logo="http://www.aztecanoticias.com.mx/includes/alianza/images/an_logo_horizontal-u552.png" group-title="CablearTV", Azteca Noticias
 http://aztecalive-lh.akamaihd.net:80/i/0qeij0bji_1@26639/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://imgur.com/SVFUP73.jpeg" group-title="ESTABLES BY GAME SNAKE LAND l.S", AZ HONDURAS
+#EXTINF:-1 tvg-logo="http://imgur.com/SVFUP73.jpeg" group-title="CablearTV", AZ HONDURAS
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
-#EXTINF:0 type="stream" channelId="1965" tvg-logo="http://www.ipuntotv.com/IMAGES/TDN-logo.png" group-title="ESTABLES BY GAME SNAKE LAND l.S", tdn
+#EXTINF:0 type="stream" channelId="1965" tvg-logo="http://www.ipuntotv.com/IMAGES/TDN-logo.png" group-title="CablearTV", tdn
 
-#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/F2cAs.png?1" group-title="ESTABLES BY GAME SNAKE LAND l.S", univision tdn
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/F2cAs.png?1" group-title="CablearTV", univision tdn
 
 
-#EXTINF:0 type="stream" tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="ESTABLES BY GAME SNAKE LAND l.S", univision deportes
+#EXTINF:0 type="stream" tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="CablearTV", univision deportes
  http://sced.cdnak.neulion.net:80/250/nlds/univision/as/live/udnoo_hd_1600_ipad.m3u8
-#EXTINF:0  tvg-logo="http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png" group-title="ESTABLES BY GAME SNAKE LAND l.S" , ESTADIO CDF
+#EXTINF:0  tvg-logo="http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png" group-title="CablearTV" , ESTADIO CDF
 http://cdn2.shurs.xyz/verliga/2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="ESTABLES BY GAME SNAKE LAND l.S" ,CDF Premium (Game Snake Land S.y Land.)
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="CablearTV" ,CDF Premium (Game Snake Land S.y Land.)
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/cumbianinja/images/e/e9/FOX_Tv_Logo_Musica_Album_Canal_Recortado_Svg.png/revision/latest?cb=20140816160641&path-prefix=es"group-title="ESTABLES BY GAME SNAKE LAND l.S", Fox
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/cumbianinja/images/e/e9/FOX_Tv_Logo_Musica_Album_Canal_Recortado_Svg.png/revision/latest?cb=20140816160641&path-prefix=es"group-title="CablearTV", Fox
 http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FAQxncWY4dmjtsrNk1ZyxpapRxMrfWFLUHZSkwMVvG2%2BmvMf75QIS4i%2Fq%2B3NU3bUsQH3CsqwFknA%3D%3D
 
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png"group-title="ESTABLES BY GAME SNAKE LAND l.S",Nick 2
+#EXTINF:-1 group-title="CablearTV", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png"group-title="CablearTV",Nick 2
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S", tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2004-1024x768.png"group-title="ESTABLES BY GAME SNAKE LAND l.S",Cartoon Network
+#EXTINF:-1 group-title="CablearTV", tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2004-1024x768.png"group-title="CablearTV",Cartoon Network
 http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FQ8IQjYRoB3bhkKccrUBzVEO%2FGFq03SR0kiQBiOTJg3bnhb2gI2d6lB8n9sZbUMud91SpKS%2FGBow%3D%3D
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S", tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-w.gif"group-title="ESTABLES BY GAME SNAKE LAND l.S", HBO
+#EXTINF:-1 group-title="CablearTV", tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-w.gif"group-title="CablearTV", HBO
 http://187.49.86.238:10000/bysid/69?ListaVIP
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S", tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-family-e.gif"group-title="ESTABLES BY GAME SNAKE LAND l.S", HBO Family
+#EXTINF:-1 group-title="CablearTV", tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-family-e.gif"group-title="CablearTV", HBO Family
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.liveonlinetv247.info/images/miamitv.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",Miami Tv Mexico
+#EXTINF:0 tvg-logo="http://www.liveonlinetv247.info/images/miamitv.png" group-title="CablearTV",Miami Tv Mexico
 http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/_GI1mUAUV6jo/RxWx0q2TJmI/AAAAAAAAAAM/FLkHGZoxqXU/s1600/Logo+Miami+TV.gif" group-title="ESTABLES BY GAME SNAKE LAND l.S",MIAMI TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/_GI1mUAUV6jo/RxWx0q2TJmI/AAAAAAAAAAM/FLkHGZoxqXU/s1600/Logo+Miami+TV.gif" group-title="CablearTV",MIAMI TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://i67.tinypic.com/291f0pg.jpg"group-title="ESTABLES BY GAME SNAKE LAND l.S", UFC (Game Snake Land S. y L. )
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/291f0pg.jpg"group-title="CablearTV", UFC    
 
+#EXTINF:0 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="CablearTV",Fox    
 
-#EXTINF:0 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",Fox (Game Snake Land S. y L. )
+#EXTINF:0 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo-150x150.png"group-title="CablearTV",CARACOL HD    http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
+#EXTINF:0 tvg-logo="http://puu.sh/mbLOY/25fd3c0724.png"group-title="CablearTV", HBO    http://wowza2.mysoltv.com:1992/Latino_HBO/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo-150x150.png"group-title="ESTABLES BY GAME SNAKE LAND l.S",CARACOL HD (Game Snake Land S. y L. )
-http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:0 tvg-logo="http://puu.sh/pKMB6/6e941ffc46.png"group-title="CablearTV", HBO 2    http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-logo="http://puu.sh/mbLOY/25fd3c0724.png"group-title="ESTABLES BY GAME SNAKE LAND l.S", HBO (Game Snake Land S. y L. )
-http://wowza2.mysoltv.com:1992/Latino_HBO/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="http://puu.sh/mbLPA/58fceaae81.png" group-title="CablearTV", HBO PLUS    
 
-#EXTINF:0 tvg-logo="http://puu.sh/pKMB6/6e941ffc46.png"group-title="ESTABLES BY GAME SNAKE LAND l.S", HBO 2 (Game Snake Land S. y L. )
-http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="http://puu.sh/mbLYD/9b9363b223.png"group-title="CablearTV", HBO Family    
 
-#EXTINF:0 tvg-logo="http://puu.sh/mbLPA/58fceaae81.png" group-title="ESTABLES BY GAME SNAKE LAND l.S", HBO PLUS (Game Snake Land S. y L. )
+#EXTINF:0 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="CablearTV", CINEMAX    http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18aWRumsZGZYol26zTlSS03uIWufZkIWvXQ%2FZP%2BSXlaJfo%2BEdCAGFC7vAZpad0howNE7MHvSnNvuA%3D%3D
 
+#EXTINF:0 tvg-logo="http://www.todocanales.net/wp-content/uploads/2013/10/Space-hd.png"group-title="CablearTV", SPACE    http://185.180.13.70:25461/live/appandroid/app/31.m3u8?token=TxFcUhELRAsRUw5WUABWAgtTUFZRVAMCAABTAFIHVQ0NAldRA1BUVVBHGkYVEkBXU1xqDwUSDg8HG0NHRVZCal1XFglAUlYEEUkUEA8LVxAIARlEEVlQFAkVUAcEAAQXGBFRSxYGFF9SCWkAAxBbUVcTDwgUXFgaEVgPbVJWXVRaVxYJQFNEHREMRRREXBBkW1VQCRVCW1gTexVXUxEcF1ZaQEEDFwMTCUcHVlNTEB4QUloTD0RGTxENQ3F3ERwXUUtAVgwQD15dRwxGC1VHChAdFw8Sb0ZTQEMTV1deVUcWCRYDQE9EXFIdaQcJCFxXUUVcCQ9DFgwRAlECFB8SWFtdXUcNETlBWgEUXkRXBgAFBBcb
 
-#EXTINF:0 tvg-logo="http://puu.sh/mbLYD/9b9363b223.png"group-title="ESTABLES BY GAME SNAKE LAND l.S", HBO Family (Game Snake Land S. y L. )
-
-
-#EXTINF:0 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="ESTABLES BY GAME SNAKE LAND l.S", CINEMAX (Game Snake Land S. y L. )
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18aWRumsZGZYol26zTlSS03uIWufZkIWvXQ%2FZP%2BSXlaJfo%2BEdCAGFC7vAZpad0howNE7MHvSnNvuA%3D%3D
-
-#EXTINF:0 tvg-logo="http://www.todocanales.net/wp-content/uploads/2013/10/Space-hd.png"group-title="ESTABLES BY GAME SNAKE LAND l.S", SPACE (Game Snake Land S. y L. )
-http://185.180.13.70:25461/live/appandroid/app/31.m3u8?token=TxFcUhELRAsRUw5WUABWAgtTUFZRVAMCAABTAFIHVQ0NAldRA1BUVVBHGkYVEkBXU1xqDwUSDg8HG0NHRVZCal1XFglAUlYEEUkUEA8LVxAIARlEEVlQFAkVUAcEAAQXGBFRSxYGFF9SCWkAAxBbUVcTDwgUXFgaEVgPbVJWXVRaVxYJQFNEHREMRRREXBBkW1VQCRVCW1gTexVXUxEcF1ZaQEEDFwMTCUcHVlNTEB4QUloTD0RGTxENQ3F3ERwXUUtAVgwQD15dRwxGC1VHChAdFw8Sb0ZTQEMTV1deVUcWCRYDQE9EXFIdaQcJCFxXUUVcCQ9DFgwRAlECFB8SWFtdXUcNETlBWgEUXkRXBgAFBBcb
-
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png", TNT
+#EXTINF:0  group-title="CablearTV"  tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_grey.png", TNT
 http://144.217.85.216/streams/src3/lk.m3u8?mxg=U2FsdGVkX1%2BMV2vWTZHhO2IJ%2BYcSI%2F3m0VgLXi4yS4RZhWvfvOoGVBJX23tfdtnxq0%2FsAxNUu8SN2XSPseNTbg%3D%3D
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5610_2_9848.png", H2
+#EXTINF:-1 group-title="CablearTV" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5610_2_9848.png", H2
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
 
 
-#EXTINF:0 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/dicovery-kids.png"group-title="ESTABLES BY GAME SNAKE LAND l.S", Dyscovery Kids (Game Snake Land S. y L. )
+#EXTINF:0 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/dicovery-kids.png"group-title="CablearTV", Dyscovery Kids    
 
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-dnoADpGQHtk/WQ9NVzskrmI/AAAAAAAAAig/cDLXo3tvieAf4QDNOz2tuDvNGCLoTx0CwCLcB/s1600/gol%2Bperu.jpg"group-title="CablearTV", GOL Peru    
 
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-dnoADpGQHtk/WQ9NVzskrmI/AAAAAAAAAig/cDLXo3tvieAf4QDNOz2tuDvNGCLoTx0CwCLcB/s1600/gol%2Bperu.jpg"group-title="ESTABLES BY GAME SNAKE LAND l.S", GOL Peru (Game Snake Land S. y L. )
-
-
-#EXTINF:0 tvg-logo="https://www.brandeps.com/logo-download/U/Univision-01.png"group-title="ESTABLES BY GAME SNAKE LAND l.S", UNIVISION(nokodi) (Game Snake Land S. y L. )
-
-#EXTINF:0 tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/telenovelas.png"group-title="ESTABLES BY GAME SNAKE LAND l.S", Tlnovelas (Game Snake Land S. y L. ) *SUSCRIBETE*
+#EXTINF:0 tvg-logo="https://www.brandeps.com/logo-download/U/Univision-01.png"group-title="CablearTV", UNIVISION(nokodi)    
+#EXTINF:0 tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/telenovelas.png"group-title="CablearTV", Tlnovelas  
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://img00.deviantart.net/71bb/i/2011/127/e/a/homer_simpson_by_enzotoshiba-d3ftw9u.png"group-title="ESTABLES BY GAME SNAKE LAND l.S", 24/7 Los Simpson (Game Snake Land S. y L. )
-http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img00.deviantart.net/71bb/i/2011/127/e/a/homer_simpson_by_enzotoshiba-d3ftw9u.png"group-title="CablearTV", 24/7 Los Simpson    http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/467476864370360320/0wBmZOkg.png"group-title="ESTABLES BY GAME SNAKE LAND l.S", Anime TV (Game Snake Land S. y L. )
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/467476864370360320/0wBmZOkg.png"group-title="CablearTV", Anime TV    http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/teniaqueserlawikidelchavo/images/c/c9/Logo.png/revision/latest?cb=20150706011310&path-prefix=es"group-title="ESTABLES BY GAME SNAKE LAND l.S", Chespiritomania (Game Snake Land S. y L. )
-https://hls-ord-1a.vaughnsoft.net/ams/live/live_chespirito_mania/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/teniaqueserlawikidelchavo/images/c/c9/Logo.png/revision/latest?cb=20150706011310&path-prefix=es"group-title="CablearTV", Chespiritomania    https://hls-ord-1a.vaughnsoft.net/ams/live/live_chespirito_mania/chunklist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" , CINE + (Game Snake Land S. y L. )
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="CablearTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" , CINE +    http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 	
-#EXTINF:-1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/devimage/192252966945/medium/100/1447773483bea42a56b032fde73bd5e01ce163a524.jpg" group-title="ESTABLES BY GAME SNAKE LAND l.S",La Ley
+#EXTINF:-1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/devimage/192252966945/medium/100/1447773483bea42a56b032fde73bd5e01ce163a524.jpg" group-title="CablearTV",La Ley
 https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_la_ley_031215_500k.m3u8
 
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.vplus.png.81987028a10901e3a7f4eb19a185dc18.png" group-title="ESTABLES BY GAME SNAKE LAND l.S", Ve Plus
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.vplus.png.81987028a10901e3a7f4eb19a185dc18.png" group-title="CablearTV", Ve Plus
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png" group-title="ESTABLES BY GAME SNAKE LAND l.S", Melody Channel
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png" group-title="CablearTV", Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.-MJZ3A3u6E78
-#EXTINF:-1 tvg-logo="http://www.tycsports.com/sites/default/files/nota_periodistica/imagen_tyc.jpg" group-title="ESTABLES BY GAME SNAKE LAND l.S", TyCSports
+#EXTINF:-1 tvg-logo="http://www.tycsports.com/sites/default/files/nota_periodistica/imagen_tyc.jpg" group-title="CablearTV", TyCSports
 https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Canal Claro (Game Snake Land s. y L.)
-http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,La Mega Mundial (Game Snake Land s. y L.)
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Canal Claro   http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
+#EXTINF:-1 group-title="CablearTV" ,La Mega Mundial   http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 
 
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,MEGA-Geo
+#EXTINF:-1 group-title="CablearTV" ,MEGA-Geo
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S",TELETRAK HDn
+#EXTINF:-1 group-title="CablearTV",TELETRAK HDn
 http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b750000_slesp.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S",Casa do Líder  http://91.121.67.14:10000/live/jose/jose/4.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,GREENSPORTS  http://91.121.67.14:10000/live/jose/jose/2.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,MUZIKA TV  http://91.121.67.14:10000/live/jose/jose/1.ts
+#EXTINF:-1 group-title="CablearTV",Casa do Líder  http://91.121.67.14:10000/live/jose/jose/4.ts
+#EXTINF:-1 group-title="CablearTV" ,GREENSPORTS  http://91.121.67.14:10000/live/jose/jose/2.ts
+#EXTINF:-1 group-title="CablearTV" ,MUZIKA TV  http://91.121.67.14:10000/live/jose/jose/1.ts
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Agro_Brasil_tv  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8497.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Agro_Canal  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8496.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , ALFA TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8495.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , ALL_Sports_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8494.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Antena 3  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8493.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Aragon tv  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8448.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Atreseries HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8492.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Azteca 13  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8491.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Azteca 13 En Vivo  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8490.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Azteca Noticias  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8489.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , AZTECA TRECE HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8488.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , BBC_World_News  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8487.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Canal 10  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8486.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Canal 10 Argentina  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8485.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Canal 17 Mexico  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8484.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Canal 4 Posadas  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8483.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Canal 5 Mexico  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8482.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , CANAL DE LAS ESTRELLAS  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8481.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Canal Orbe 21  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8480.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , cerritos-tv3  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8479.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , CNN_Inernational  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8478.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , danbira125  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8477.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Diocesano TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8476.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , DW Latino  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8475.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , DXTV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8474.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Efekto TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8473.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , EITB TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8472.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Enlace Juvenil TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8471.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , ES â€“ DXTV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8470.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , ES â€“ EL PINGUINO TV HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8469.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , ES â€“ MEGA  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8468.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , FishTV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8467.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , FUTURA_TV_UP_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8466.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , GLOBO SP  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8465.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , GLOBO_SP  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8464.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , HCH TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8463.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , La Sexta  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8462.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , MazatlÃ¡n  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8461.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Mcm_Top  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8460.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Mexiquense TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8459.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Miami TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8458.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Neox TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8457.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , ObregÃ³n TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8456.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Ondaluz TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8424.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Proyecto 40  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8455.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Proyecto 40 En Vivo  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8423.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , RECORD 05  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8454.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , RECORD 06  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8422.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Record_ES_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8453.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Record_News  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8421.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Record_PB  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8452.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Rede_Brasil  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8420.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Rede_FamÃ­lia  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8451.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , REDE_GOSPEL  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8419.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Rede_TV_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8450.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , RMC_TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8418.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , RT  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8449.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , RTP7 ASTURIAS  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8441.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , SBT_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8440.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Sevilla FC TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8447.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Tele Antillas  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8439.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Telefe  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8417.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Telesistema TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8446.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Telesur TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8445.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Televisa HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8416.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Telpin Teve  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8444.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , TLX Telemax  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8443.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Trace_Sports  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8442.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , TV Azteca  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8415.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , TV Azteca En Vivo  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8438.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , TV BRASIL 09  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8437.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , TV CANÃ‡ÃƒO NOVA SP  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8436.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Tv Diario  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8435.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , TV Mas  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8434.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , TV_BRASIL  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8433.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , TV_CÃMARA  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8432.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , TV_Cultura_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8431.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , TV_JustiÃ§a_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8430.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , TV_Record_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8429.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , TV5 MONDE  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8428.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Una Voz con Todos  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8427.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , VH1_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8426.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" , Virgin_TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8425.ts
+#EXTINF:-1 group-title="CablearTV" , Agro_Brasil_tv  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8497.ts
+#EXTINF:-1 group-title="CablearTV" , Agro_Canal  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8496.ts
+#EXTINF:-1 group-title="CablearTV" , ALFA TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8495.ts
+#EXTINF:-1 group-title="CablearTV" , ALL_Sports_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8494.ts
+#EXTINF:-1 group-title="CablearTV" , Antena 3  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8493.ts
+#EXTINF:-1 group-title="CablearTV" , Aragon tv  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8448.ts
+#EXTINF:-1 group-title="CablearTV" , Atreseries HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8492.ts
+#EXTINF:-1 group-title="CablearTV" , Azteca 13  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8491.ts
+#EXTINF:-1 group-title="CablearTV" , Azteca 13 En Vivo  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8490.ts
+#EXTINF:-1 group-title="CablearTV" , Azteca Noticias  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8489.ts
+#EXTINF:-1 group-title="CablearTV" , AZTECA TRECE HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8488.ts
+#EXTINF:-1 group-title="CablearTV" , BBC_World_News  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8487.ts
+#EXTINF:-1 group-title="CablearTV" , Canal 10  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8486.ts
+#EXTINF:-1 group-title="CablearTV" , Canal 10 Argentina  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8485.ts
+#EXTINF:-1 group-title="CablearTV" , Canal 17 Mexico  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8484.ts
+#EXTINF:-1 group-title="CablearTV" , Canal 4 Posadas  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8483.ts
+#EXTINF:-1 group-title="CablearTV" , Canal 5 Mexico  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8482.ts
+#EXTINF:-1 group-title="CablearTV" , CANAL DE LAS ESTRELLAS  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8481.ts
+#EXTINF:-1 group-title="CablearTV" , Canal Orbe 21  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8480.ts
+#EXTINF:-1 group-title="CablearTV" , cerritos-tv3  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8479.ts
+#EXTINF:-1 group-title="CablearTV" , CNN_Inernational  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8478.ts
+#EXTINF:-1 group-title="CablearTV" , danbira125  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8477.ts
+#EXTINF:-1 group-title="CablearTV" , Diocesano TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8476.ts
+#EXTINF:-1 group-title="CablearTV" , DW Latino  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8475.ts
+#EXTINF:-1 group-title="CablearTV" , DXTV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8474.ts
+#EXTINF:-1 group-title="CablearTV" , Efekto TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8473.ts
+#EXTINF:-1 group-title="CablearTV" , EITB TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8472.ts
+#EXTINF:-1 group-title="CablearTV" , Enlace Juvenil TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8471.ts
+#EXTINF:-1 group-title="CablearTV" , ES â€“ DXTV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8470.ts
+#EXTINF:-1 group-title="CablearTV" , ES â€“ EL PINGUINO TV HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8469.ts
+#EXTINF:-1 group-title="CablearTV" , ES â€“ MEGA  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8468.ts
+#EXTINF:-1 group-title="CablearTV" , FishTV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8467.ts
+#EXTINF:-1 group-title="CablearTV" , FUTURA_TV_UP_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8466.ts
+#EXTINF:-1 group-title="CablearTV" , GLOBO SP  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8465.ts
+#EXTINF:-1 group-title="CablearTV" , GLOBO_SP  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8464.ts
+#EXTINF:-1 group-title="CablearTV" , HCH TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8463.ts
+#EXTINF:-1 group-title="CablearTV" , La Sexta  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8462.ts
+#EXTINF:-1 group-title="CablearTV" , MazatlÃ¡n  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8461.ts
+#EXTINF:-1 group-title="CablearTV" , Mcm_Top  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8460.ts
+#EXTINF:-1 group-title="CablearTV" , Mexiquense TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8459.ts
+#EXTINF:-1 group-title="CablearTV" , Miami TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8458.ts
+#EXTINF:-1 group-title="CablearTV" , Neox TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8457.ts
+#EXTINF:-1 group-title="CablearTV" , ObregÃ³n TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8456.ts
+#EXTINF:-1 group-title="CablearTV" , Ondaluz TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8424.ts
+#EXTINF:-1 group-title="CablearTV" , Proyecto 40  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8455.ts
+#EXTINF:-1 group-title="CablearTV" , Proyecto 40 En Vivo  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8423.ts
+#EXTINF:-1 group-title="CablearTV" , RECORD 05  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8454.ts
+#EXTINF:-1 group-title="CablearTV" , RECORD 06  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8422.ts
+#EXTINF:-1 group-title="CablearTV" , Record_ES_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8453.ts
+#EXTINF:-1 group-title="CablearTV" , Record_News  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8421.ts
+#EXTINF:-1 group-title="CablearTV" , Record_PB  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8452.ts
+#EXTINF:-1 group-title="CablearTV" , Rede_Brasil  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8420.ts
+#EXTINF:-1 group-title="CablearTV" , Rede_FamÃ­lia  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8451.ts
+#EXTINF:-1 group-title="CablearTV" , REDE_GOSPEL  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8419.ts
+#EXTINF:-1 group-title="CablearTV" , Rede_TV_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8450.ts
+#EXTINF:-1 group-title="CablearTV" , RMC_TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8418.ts
+#EXTINF:-1 group-title="CablearTV" , RT  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8449.ts
+#EXTINF:-1 group-title="CablearTV" , RTP7 ASTURIAS  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8441.ts
+#EXTINF:-1 group-title="CablearTV" , SBT_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8440.ts
+#EXTINF:-1 group-title="CablearTV" , Sevilla FC TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8447.ts
+#EXTINF:-1 group-title="CablearTV" , Tele Antillas  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8439.ts
+#EXTINF:-1 group-title="CablearTV" , Telefe  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8417.ts
+#EXTINF:-1 group-title="CablearTV" , Telesistema TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8446.ts
+#EXTINF:-1 group-title="CablearTV" , Telesur TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8445.ts
+#EXTINF:-1 group-title="CablearTV" , Televisa HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8416.ts
+#EXTINF:-1 group-title="CablearTV" , Telpin Teve  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8444.ts
+#EXTINF:-1 group-title="CablearTV" , TLX Telemax  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8443.ts
+#EXTINF:-1 group-title="CablearTV" , Trace_Sports  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8442.ts
+#EXTINF:-1 group-title="CablearTV" , TV Azteca  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8415.ts
+#EXTINF:-1 group-title="CablearTV" , TV Azteca En Vivo  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8438.ts
+#EXTINF:-1 group-title="CablearTV" , TV BRASIL 09  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8437.ts
+#EXTINF:-1 group-title="CablearTV" , TV CANÃ‡ÃƒO NOVA SP  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8436.ts
+#EXTINF:-1 group-title="CablearTV" , Tv Diario  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8435.ts
+#EXTINF:-1 group-title="CablearTV" , TV Mas  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8434.ts
+#EXTINF:-1 group-title="CablearTV" , TV_BRASIL  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8433.ts
+#EXTINF:-1 group-title="CablearTV" , TV_CÃMARA  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8432.ts
+#EXTINF:-1 group-title="CablearTV" , TV_Cultura_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8431.ts
+#EXTINF:-1 group-title="CablearTV" , TV_JustiÃ§a_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8430.ts
+#EXTINF:-1 group-title="CablearTV" , TV_Record_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8429.ts
+#EXTINF:-1 group-title="CablearTV" , TV5 MONDE  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8428.ts
+#EXTINF:-1 group-title="CablearTV" , Una Voz con Todos  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8427.ts
+#EXTINF:-1 group-title="CablearTV" , VH1_HD  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8426.ts
+#EXTINF:-1 group-title="CablearTV" , Virgin_TV  http://78.142.29.72:2500/live/VE5DWv4Ait/7KHLqRRZ9E/8425.ts
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: AMC  http://4k.electrodahri.com:8000/live/jose/jose1/54324.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: ANIMAL PLANET  http://4k.electrodahri.com:8000/live/jose/jose1/54323.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: AXN  http://4k.electrodahri.com:8000/live/jose/jose1/54322.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: AYM SPORT  http://4k.electrodahri.com:8000/live/jose/jose1/54321.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: AZ CORAZON  http://4k.electrodahri.com:8000/live/jose/jose1/54320.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: AZTECA 7  http://4k.electrodahri.com:8000/live/jose/jose1/54319.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: AZTECA CINEMA  http://4k.electrodahri.com:8000/live/jose/jose1/54318.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: AZTECA MUNDO  http://4k.electrodahri.com:8000/live/jose/jose1/54317.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: BANDAMAX  http://4k.electrodahri.com:8000/live/jose/jose1/54315.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: BOOMERANG  http://4k.electrodahri.com:8000/live/jose/jose1/54314.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: CANAL 5  http://4k.electrodahri.com:8000/live/jose/jose1/54312.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: CANAL DE LAS ESTRELLAS  http://4k.electrodahri.com:8000/live/jose/jose1/54311.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: CARTOON NETWORK  http://4k.electrodahri.com:8000/live/jose/jose1/54310.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: CINECANAL  http://4k.electrodahri.com:8000/live/jose/jose1/54309.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: CINEMAX  http://4k.electrodahri.com:8000/live/jose/jose1/54308.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: COMEDY CENTRAL  http://4k.electrodahri.com:8000/live/jose/jose1/54306.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: DE PELICULA  http://4k.electrodahri.com:8000/live/jose/jose1/54305.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: DISCOVERY  HOME & HEALTH  http://4k.electrodahri.com:8000/live/jose/jose1/54304.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: DISCOVERY CHANNEL  http://4k.electrodahri.com:8000/live/jose/jose1/54303.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: DISCOVERY CIVILIZATION  http://4k.electrodahri.com:8000/live/jose/jose1/54302.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: DISCOVERY KIDS  http://4k.electrodahri.com:8000/live/jose/jose1/54301.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: DISCOVERY SCIENCE  http://4k.electrodahri.com:8000/live/jose/jose1/54300.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: DISCOVERY TLC  http://4k.electrodahri.com:8000/live/jose/jose1/54299.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: DISCOVERY TURBO  http://4k.electrodahri.com:8000/live/jose/jose1/54298.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: DISCOVERY WORLD  http://4k.electrodahri.com:8000/live/jose/jose1/54297.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: DISNEY CHANNEL  http://4k.electrodahri.com:8000/live/jose/jose1/54296.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: DISNEY JR  http://4k.electrodahri.com:8000/live/jose/jose1/54295.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: DISNEY XD  http://4k.electrodahri.com:8000/live/jose/jose1/54294.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: DISTRITO COMEDIA  http://4k.electrodahri.com:8000/live/jose/jose1/54293.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: E! ENTERTAINMENT  http://4k.electrodahri.com:8000/live/jose/jose1/54292.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: EL FINANCIERO BLOOMBERGS  http://4k.electrodahri.com:8000/live/jose/jose1/54291.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: ELGOURMETH  http://4k.electrodahri.com:8000/live/jose/jose1/54290.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: ESPN  http://4k.electrodahri.com:8000/live/jose/jose1/54289.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: ESPN 2  http://4k.electrodahri.com:8000/live/jose/jose1/54288.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: FILM ZONE  http://4k.electrodahri.com:8000/live/jose/jose1/54285.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: FORO TV  http://4k.electrodahri.com:8000/live/jose/jose1/54284.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: FOX ACTION  http://4k.electrodahri.com:8000/live/jose/jose1/54283.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: FOX CLASSIC  http://4k.electrodahri.com:8000/live/jose/jose1/54281.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: FOX LIFE  http://4k.electrodahri.com:8000/live/jose/jose1/54280.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: FOX MOVIES  http://4k.electrodahri.com:8000/live/jose/jose1/54279.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: FOX SPORT  http://4k.electrodahri.com:8000/live/jose/jose1/54278.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: FOX  http://4k.electrodahri.com:8000/live/jose/jose1/54277.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: FX  http://4k.electrodahri.com:8000/live/jose/jose1/54276.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: GALA TV  http://4k.electrodahri.com:8000/live/jose/jose1/54275.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: GOLDEN  http://4k.electrodahri.com:8000/live/jose/jose1/54274.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: GOLDEN EDGE  http://4k.electrodahri.com:8000/live/jose/jose1/54273.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: HISTORY  http://4k.electrodahri.com:8000/live/jose/jose1/54272.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: HOLA TV  http://4k.electrodahri.com:8000/live/jose/jose1/54271.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: I-SAT  http://4k.electrodahri.com:8000/live/jose/jose1/54270.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: INVESTIGATION DISCOVERY  http://4k.electrodahri.com:8000/live/jose/jose1/54269.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: LIFETIME  http://4k.electrodahri.com:8000/live/jose/jose1/54268.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: MILENIO TV  http://4k.electrodahri.com:8000/live/jose/jose1/54267.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: MTV HITS  http://4k.electrodahri.com:8000/live/jose/jose1/54266.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: MTV LIVE  http://4k.electrodahri.com:8000/live/jose/jose1/54265.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: NATGEO WILD  http://4k.electrodahri.com:8000/live/jose/jose1/54263.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: NATIONAL GEOGRAPHIC  http://4k.electrodahri.com:8000/live/jose/jose1/54262.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: NICK JR  http://4k.electrodahri.com:8000/live/jose/jose1/54261.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: NICK TOONS  http://4k.electrodahri.com:8000/live/jose/jose1/54260.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: NICKELODEON  http://4k.electrodahri.com:8000/live/jose/jose1/54259.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: PROYECTO 40  http://4k.electrodahri.com:8000/live/jose/jose1/54258.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: SONY  http://4k.electrodahri.com:8000/live/jose/jose1/54257.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: SPACE  http://4k.electrodahri.com:8000/live/jose/jose1/54256.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: STUDIO UNIVERSAL  http://4k.electrodahri.com:8000/live/jose/jose1/54255.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: TCM  http://4k.electrodahri.com:8000/live/jose/jose1/54253.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: TELEMUNDO  http://4k.electrodahri.com:8000/live/jose/jose1/54251.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: TIIN  http://4k.electrodahri.com:8000/live/jose/jose1/54250.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: TNT  http://4k.electrodahri.com:8000/live/jose/jose1/54249.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: TOONCAST  http://4k.electrodahri.com:8000/live/jose/jose1/54248.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: TRENDY CHANNEL  http://4k.electrodahri.com:8000/live/jose/jose1/54247.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: UNIVERSAL CHANNEL  http://4k.electrodahri.com:8000/live/jose/jose1/54246.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: VH1  http://4k.electrodahri.com:8000/live/jose/jose1/54243.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,ES: ES: NICK JR  http://4k.electrodahri.com:8000/live/jose/jose1/54241.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,LA: WARNER CHANNEL  http://4k.electrodahri.com:8000/live/jose/jose1/54242.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: AMC  http://4k.electrodahri.com:8000/live/jose/jose1/54324.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: ANIMAL PLANET  http://4k.electrodahri.com:8000/live/jose/jose1/54323.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: AXN  http://4k.electrodahri.com:8000/live/jose/jose1/54322.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: AYM SPORT  http://4k.electrodahri.com:8000/live/jose/jose1/54321.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: AZ CORAZON  http://4k.electrodahri.com:8000/live/jose/jose1/54320.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: AZTECA 7  http://4k.electrodahri.com:8000/live/jose/jose1/54319.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: AZTECA CINEMA  http://4k.electrodahri.com:8000/live/jose/jose1/54318.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: AZTECA MUNDO  http://4k.electrodahri.com:8000/live/jose/jose1/54317.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: BANDAMAX  http://4k.electrodahri.com:8000/live/jose/jose1/54315.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: BOOMERANG  http://4k.electrodahri.com:8000/live/jose/jose1/54314.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: CANAL 5  http://4k.electrodahri.com:8000/live/jose/jose1/54312.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: CANAL DE LAS ESTRELLAS  http://4k.electrodahri.com:8000/live/jose/jose1/54311.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: CARTOON NETWORK  http://4k.electrodahri.com:8000/live/jose/jose1/54310.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: CINECANAL  http://4k.electrodahri.com:8000/live/jose/jose1/54309.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: CINEMAX  http://4k.electrodahri.com:8000/live/jose/jose1/54308.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: COMEDY CENTRAL  http://4k.electrodahri.com:8000/live/jose/jose1/54306.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: DE PELICULA  http://4k.electrodahri.com:8000/live/jose/jose1/54305.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: DISCOVERY  HOME & HEALTH  http://4k.electrodahri.com:8000/live/jose/jose1/54304.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: DISCOVERY CHANNEL  http://4k.electrodahri.com:8000/live/jose/jose1/54303.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: DISCOVERY CIVILIZATION  http://4k.electrodahri.com:8000/live/jose/jose1/54302.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: DISCOVERY KIDS  http://4k.electrodahri.com:8000/live/jose/jose1/54301.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: DISCOVERY SCIENCE  http://4k.electrodahri.com:8000/live/jose/jose1/54300.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: DISCOVERY TLC  http://4k.electrodahri.com:8000/live/jose/jose1/54299.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: DISCOVERY TURBO  http://4k.electrodahri.com:8000/live/jose/jose1/54298.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: DISCOVERY WORLD  http://4k.electrodahri.com:8000/live/jose/jose1/54297.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: DISNEY CHANNEL  http://4k.electrodahri.com:8000/live/jose/jose1/54296.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: DISNEY JR  http://4k.electrodahri.com:8000/live/jose/jose1/54295.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: DISNEY XD  http://4k.electrodahri.com:8000/live/jose/jose1/54294.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: DISTRITO COMEDIA  http://4k.electrodahri.com:8000/live/jose/jose1/54293.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: E! ENTERTAINMENT  http://4k.electrodahri.com:8000/live/jose/jose1/54292.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: EL FINANCIERO BLOOMBERGS  http://4k.electrodahri.com:8000/live/jose/jose1/54291.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: ELGOURMETH  http://4k.electrodahri.com:8000/live/jose/jose1/54290.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: ESPN  http://4k.electrodahri.com:8000/live/jose/jose1/54289.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: ESPN 2  http://4k.electrodahri.com:8000/live/jose/jose1/54288.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: FILM ZONE  http://4k.electrodahri.com:8000/live/jose/jose1/54285.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: FORO TV  http://4k.electrodahri.com:8000/live/jose/jose1/54284.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: FOX ACTION  http://4k.electrodahri.com:8000/live/jose/jose1/54283.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: FOX CLASSIC  http://4k.electrodahri.com:8000/live/jose/jose1/54281.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: FOX LIFE  http://4k.electrodahri.com:8000/live/jose/jose1/54280.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: FOX MOVIES  http://4k.electrodahri.com:8000/live/jose/jose1/54279.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: FOX SPORT  http://4k.electrodahri.com:8000/live/jose/jose1/54278.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: FOX  http://4k.electrodahri.com:8000/live/jose/jose1/54277.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: FX  http://4k.electrodahri.com:8000/live/jose/jose1/54276.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: GALA TV  http://4k.electrodahri.com:8000/live/jose/jose1/54275.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: GOLDEN  http://4k.electrodahri.com:8000/live/jose/jose1/54274.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: GOLDEN EDGE  http://4k.electrodahri.com:8000/live/jose/jose1/54273.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: HISTORY  http://4k.electrodahri.com:8000/live/jose/jose1/54272.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: HOLA TV  http://4k.electrodahri.com:8000/live/jose/jose1/54271.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: I-SAT  http://4k.electrodahri.com:8000/live/jose/jose1/54270.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: INVESTIGATION DISCOVERY  http://4k.electrodahri.com:8000/live/jose/jose1/54269.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: LIFETIME  http://4k.electrodahri.com:8000/live/jose/jose1/54268.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: MILENIO TV  http://4k.electrodahri.com:8000/live/jose/jose1/54267.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: MTV HITS  http://4k.electrodahri.com:8000/live/jose/jose1/54266.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: MTV LIVE  http://4k.electrodahri.com:8000/live/jose/jose1/54265.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: NATGEO WILD  http://4k.electrodahri.com:8000/live/jose/jose1/54263.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: NATIONAL GEOGRAPHIC  http://4k.electrodahri.com:8000/live/jose/jose1/54262.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: NICK JR  http://4k.electrodahri.com:8000/live/jose/jose1/54261.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: NICK TOONS  http://4k.electrodahri.com:8000/live/jose/jose1/54260.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: NICKELODEON  http://4k.electrodahri.com:8000/live/jose/jose1/54259.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: PROYECTO 40  http://4k.electrodahri.com:8000/live/jose/jose1/54258.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: SONY  http://4k.electrodahri.com:8000/live/jose/jose1/54257.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: SPACE  http://4k.electrodahri.com:8000/live/jose/jose1/54256.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: STUDIO UNIVERSAL  http://4k.electrodahri.com:8000/live/jose/jose1/54255.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: TCM  http://4k.electrodahri.com:8000/live/jose/jose1/54253.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: TELEMUNDO  http://4k.electrodahri.com:8000/live/jose/jose1/54251.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: TIIN  http://4k.electrodahri.com:8000/live/jose/jose1/54250.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: TNT  http://4k.electrodahri.com:8000/live/jose/jose1/54249.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: TOONCAST  http://4k.electrodahri.com:8000/live/jose/jose1/54248.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: TRENDY CHANNEL  http://4k.electrodahri.com:8000/live/jose/jose1/54247.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: UNIVERSAL CHANNEL  http://4k.electrodahri.com:8000/live/jose/jose1/54246.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: VH1  http://4k.electrodahri.com:8000/live/jose/jose1/54243.ts
+#EXTINF:-1 group-title="CablearTV" ,ES: ES: NICK JR  http://4k.electrodahri.com:8000/live/jose/jose1/54241.ts
+#EXTINF:-1 group-title="CablearTV" ,LA: WARNER CHANNEL  http://4k.electrodahri.com:8000/live/jose/jose1/54242.ts
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: Cablenoticias HD  http://4k.electrodahri.com:8000/live/jose/jose1/66588.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: Canal Capital HD  http://4k.electrodahri.com:8000/live/jose/jose1/66587.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: Canal U TV  http://4k.electrodahri.com:8000/live/jose/jose1/66586.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: Canal Wow TV  http://4k.electrodahri.com:8000/live/jose/jose1/66585.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: Cosmovision HD  http://4k.electrodahri.com:8000/live/jose/jose1/66584.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: Efekto TV HD  http://4k.electrodahri.com:8000/live/jose/jose1/66582.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: El Tiempo HD  http://4k.electrodahri.com:8000/live/jose/jose1/66580.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: Las Estrellas HD  http://4k.electrodahri.com:8000/live/jose/jose1/66579.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: Melody TV HD  http://4k.electrodahri.com:8000/live/jose/jose1/66577.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: Migente TV HD  http://4k.electrodahri.com:8000/live/jose/jose1/66576.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: NeoxTV HD  http://4k.electrodahri.com:8000/live/jose/jose1/66575.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: Teleantioquia HD  http://4k.electrodahri.com:8000/live/jose/jose1/66573.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: Telemax HD  http://4k.electrodahri.com:8000/live/jose/jose1/66572.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: Telemedellin HD  http://4k.electrodahri.com:8000/live/jose/jose1/66571.ts
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,COL: Telesistema Canal 11 HD  http://4k.electrodahri.com:8000/live/jose/jose1/66570.ts
-
-
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Musica Urbana  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Pop Latino  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Tropicales  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Alternative  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Dance  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Play  http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Brits + Hits  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Hip-Hop And R&amp;B  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Hit  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Indie  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Metal  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Pop &amp; Country  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Pop Hits  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice R&amp;B Soul  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Rap  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Rap 2K  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Rock  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Today  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice 90  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Throwback Jamz  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Y2K  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Music Choice  http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Mexicana  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Teen Beats  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Music Choice Kidz Only  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
-
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,Azteca 7 HD (Game Snake Land S. y L. )
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=AZMX0068
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , CANAL 4 NICARAGUA (Game Snake Land S. y L. )
-http://dcunilive1-lh.akamaihd.net/i/dclive_1@311302/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1 group-title="CablearTV" ,COL: Cablenoticias HD  http://4k.electrodahri.com:8000/live/jose/jose1/66588.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: Canal Capital HD  http://4k.electrodahri.com:8000/live/jose/jose1/66587.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: Canal U TV  http://4k.electrodahri.com:8000/live/jose/jose1/66586.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: Canal Wow TV  http://4k.electrodahri.com:8000/live/jose/jose1/66585.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: Cosmovision HD  http://4k.electrodahri.com:8000/live/jose/jose1/66584.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: Efekto TV HD  http://4k.electrodahri.com:8000/live/jose/jose1/66582.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: El Tiempo HD  http://4k.electrodahri.com:8000/live/jose/jose1/66580.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: Las Estrellas HD  http://4k.electrodahri.com:8000/live/jose/jose1/66579.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: Melody TV HD  http://4k.electrodahri.com:8000/live/jose/jose1/66577.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: Migente TV HD  http://4k.electrodahri.com:8000/live/jose/jose1/66576.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: NeoxTV HD  http://4k.electrodahri.com:8000/live/jose/jose1/66575.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: Teleantioquia HD  http://4k.electrodahri.com:8000/live/jose/jose1/66573.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: Telemax HD  http://4k.electrodahri.com:8000/live/jose/jose1/66572.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: Telemedellin HD  http://4k.electrodahri.com:8000/live/jose/jose1/66571.ts
+#EXTINF:-1 group-title="CablearTV" ,COL: Telesistema Canal 11 HD  http://4k.electrodahri.com:8000/live/jose/jose1/66570.ts
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , COLOR VISIÓN R. DOMINICANA (Game Snake Land S. y L. )
-http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , ONDA TV R. DOMINICANA (Game Snake Land S. y L. )
-http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , TELESISTEMA R. DOMINICANA (Game Snake Land S. y L. )
-http://mek6.mekstream.com/telesistema/live/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , TELEFUTURO R. DOMINICANA (Game Snake Land S. y L. )
-http://qs1.distream.net:2112/tf_str/futu/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,Vivo Play (Game Snake Land S. y L. )
-https://vivoplay-i.akamaihd.net/hls/live/261554/canal1/master2500k.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,TVV Venezuela (Game Snake Land S. y L. )
-https://vivoplay-i.akamaihd.net/hls/live/255338/canal10/master2500k.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,TLT Venezuela (Game Snake Land S. y L. )
-http://enc-fwt.lorini.net/telet/telet/index.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,101 españa (Game Snake Land s. y L.)
-http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,TOP LATINO TV (Game Snake Land s. y L.)
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Cantinazo Colombia (Game Snake Land s. y L.)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Musica Urbana  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Pop Latino  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Tropicales  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Alternative  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Dance  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Play  http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Brits + Hits  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Hip-Hop And R&amp;B  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Hit  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Indie  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Metal  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Pop &amp; Country  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Pop Hits  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice R&amp;B Soul  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Rap  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Rap 2K  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Rock  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Today  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice 90  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Throwback Jamz  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Y2K  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Music Choice  http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Mexicana  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Teen Beats  http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Music Choice Kidz Only  http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,RT HD (Game Snake Land s. y L.)
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8
+#EXTINF:-1 group-title="CablearTV"  ,Azteca 7 HD    http://www.radiosargentina.com.ar/php/tvm3u.php?id=AZMX0068
+#EXTINF:-1 group-title="CablearTV"  , CANAL 4 NICARAGUA    http://dcunilive1-lh.akamaihd.net/i/dclive_1@311302/index_150_av-p.m3u8?sd=6&rebase=on
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,abc news dc (Game Snake Land s. y L.)
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,USA: WGN News (Game Snake Land s. y L.)
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 group-title="CablearTV"  , COLOR VISIÓN R. DOMINICANA    http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
+#EXTINF:-1 group-title="CablearTV"  , ONDA TV R. DOMINICANA    http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
+#EXTINF:-1 group-title="CablearTV"  , TELESISTEMA R. DOMINICANA    http://mek6.mekstream.com/telesistema/live/playlist.m3u8
+#EXTINF:-1 group-title="CablearTV"  , TELEFUTURO R. DOMINICANA    http://qs1.distream.net:2112/tf_str/futu/playlist.m3u8
+#EXTINF:-1 group-title="CablearTV"  ,Vivo Play    https://vivoplay-i.akamaihd.net/hls/live/261554/canal1/master2500k.m3u8
+#EXTINF:-1 group-title="CablearTV"  ,TVV Venezuela    https://vivoplay-i.akamaihd.net/hls/live/255338/canal10/master2500k.m3u8
+#EXTINF:-1 group-title="CablearTV"  ,TLT Venezuela    http://enc-fwt.lorini.net/telet/telet/index.m3u8
+#EXTINF:-1 group-title="CablearTV" ,101 españa   http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,TOP LATINO TV   http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Cantinazo Colombia   http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Oye Tv HD (Game Snake Land s. y L.)
-http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-720p/chunks.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,Oye Tv SD (Game Snake Land s. y L.)
-http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-360p/chunks.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,TVN HD (Game Snake Land s. y L.)
-http://us-b2-p-e-da2.cdn.mdstrm.com/live-stream/57a498c4d7b86d600e5461cb/publish/media_1500.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,TVN SD (Game Snake Land s. y L.)
-http://us-b2-p-e-da2.cdn.mdstrm.com/live-stream/57a498c4d7b86d600e5461cb/publish/media_950.m3u8
+#EXTINF:-1 group-title="CablearTV" ,RT HD   http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,Animal Planet
+
+#EXTINF:-1 group-title="CablearTV" ,abc news dc   http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 group-title="CablearTV" ,USA: WGN News   http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1 group-title="CablearTV" ,Oye Tv HD   http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-720p/chunks.m3u8
+#EXTINF:-1 group-title="CablearTV" ,Oye Tv SD   http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-360p/chunks.m3u8
+#EXTINF:-1 group-title="CablearTV" ,TVN HD   http://us-b2-p-e-da2.cdn.mdstrm.com/live-stream/57a498c4d7b86d600e5461cb/publish/media_1500.m3u8
+#EXTINF:-1 group-title="CablearTV" ,TVN SD   http://us-b2-p-e-da2.cdn.mdstrm.com/live-stream/57a498c4d7b86d600e5461cb/publish/media_950.m3u8
+
+#EXTINF:-1 group-title="CablearTV"  ,Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S", MLB Network
+#EXTINF:-1 group-title="CablearTV", MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,CPETV La Pampa Argentina (Game Snake Land S. y L.)
-http://live-19.viewer.dacast.com:80/i/dclive_1@336785/index_150_av-p.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,CPETV La Pampa Argentina (Game Snake Land S. y L.)
-http://live-19.viewer.dacast.com:80/i/dclive_1@336785/index_151_av-p.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,AZTECA TRECE México (Game Snake Land S. y L.)
-http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,TV PERU HD (Lima – Peru) (Game Snake Land S. y L.)
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,TV PERu (Lima – Peru) (Game Snake Land S. y L.)
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,TV PERu (Lima – Peru) (Game Snake Land S. y L.)
-https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,TV PERu 7.3 (Lima – Peru) (Game Snake Land S. y L.)
-http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,CNN (Noticias Chile) (Game Snake Land S. y L.)
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,CNN (Noticias Chile) (Game Snake Land S. y L.)
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,CANAL CNC ESTRELLA TV (Quibdó Colombia) (Game Snake Land S. y L.)
-http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,CANAL CNC (Pasto Colombia) (Game Snake Land S. y L.)
-http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,TELEENVIGADO (Envigado Colombia) (Game Snake Land S. y L.)
-http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,SON POPULAR (Música Colombia) (Game Snake Land S. y L.)
-http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" ,RCN HD (Bogotá Colombia) (Game Snake Land S. y L.)
-http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1 group-title="CablearTV" ,CPETV La Pampa Argentina   http://live-19.viewer.dacast.com:80/i/dclive_1@336785/index_150_av-p.m3u8
+#EXTINF:-1 group-title="CablearTV" ,CPETV La Pampa Argentina   http://live-19.viewer.dacast.com:80/i/dclive_1@336785/index_151_av-p.m3u8
+#EXTINF:-1 group-title="CablearTV" ,AZTECA TRECE México   http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
+#EXTINF:-1 group-title="CablearTV" ,TV PERU HD (Lima – Peru)   http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 group-title="CablearTV" ,TV PERu (Lima – Peru)   http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 group-title="CablearTV" ,TV PERu (Lima – Peru)   https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 group-title="CablearTV" ,TV PERu 7.3 (Lima – Peru)   http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 group-title="CablearTV" ,CNN (Noticias Chile)   http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="CablearTV" ,CNN (Noticias Chile)   http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
+#EXTINF:-1 group-title="CablearTV" ,CANAL CNC ESTRELLA TV (Quibdó Colombia)   http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
+#EXTINF:-1 group-title="CablearTV" ,CANAL CNC (Pasto Colombia)   http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="CablearTV" ,TELEENVIGADO (Envigado Colombia)   http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:-1 group-title="CablearTV" ,SON POPULAR (Música Colombia)   http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+#EXTINF:-1 group-title="CablearTV" ,RCN HD (Bogotá Colombia)   http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="H3cPpIc.png" , CHV [SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="H3cPpIc.png" , CHV [SD]
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="HqKYZvm.png" , Canal 13 [SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="HqKYZvm.png" , Canal 13 [SD]
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="6RSsii5.png" , T13 Movil [SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="6RSsii5.png" , T13 Movil [SD]
 http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="Dd9PMar.png" , CNN Chile [HD] (Mirror USA)
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="Dd9PMar.png" , CNN Chile [HD] (Mirror USA)
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="D3m8gI2.png" , 24 Horas [SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="D3m8gI2.png" , 24 Horas [SD]
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="bsrVp3u.png" , NIU TV [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="bsrVp3u.png" , NIU TV [HD]
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="tZ3gJiP.png" , Canal 9 [SD] (Concepcion)
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="tZ3gJiP.png" , Canal 9 [SD] (Concepcion)
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="XHChUjI.png" , TVU [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="XHChUjI.png" , TVU [HD]
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="Xlela3f.jpg" , Poder Judicial TV [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="Xlela3f.jpg" , Poder Judicial TV [HD]
 http://unlimited2-cl.digitalproserver.com/judicial2/judicial2.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="KO9XhLU.png" , Sporting [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="KO9XhLU.png" , Sporting [HD]
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="ANeUy23.png" , Kino (miercoles y domingo) [SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="ANeUy23.png" , Kino (miercoles y domingo) [SD]
 http://unlimited2-cl.digitalproserver.com/loteria/loteria.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="fKByJrs.png" , -[COLOR red]Canales Chilenos Regionales y Comunales[/COLOR]-
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="fKByJrs.png" , - Canales Chilenos Regionales y Comunales  -
 http://127.0.0.1
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="PtLIrrx.png" , Holvoet TV (Atacama)
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="PtLIrrx.png" , Holvoet TV (Atacama)
 http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Atacama TV (Copiapo)
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Atacama TV (Copiapo)
 http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="tZ3gJiP.png" , Canal 9 [HD] (Concepcion)
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="tZ3gJiP.png" , Canal 9 [HD] (Concepcion)
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8#1
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="Od3BtZD.png" , Campus TV [HD] (U. de Talca)
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="Od3BtZD.png" , Campus TV [HD] (U. de Talca)
 http://unlimited1-cl.dps.live/campustv/campustv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="VhOolgs.png" , El Pinguino [SD] (Punta Arenas)
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="VhOolgs.png" , El Pinguino [SD] (Punta Arenas)
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="VhOolgs.png" , El Pinguino [HD] (Punta Arenas)
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="VhOolgs.png" , El Pinguino [HD] (Punta Arenas)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="p7FPIgv.png" , Umag TV [SD] (Punta Arenas)
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="p7FPIgv.png" , Umag TV [SD] (Punta Arenas)
 http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="ezYteTW.png" , VTV Aconcagua [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="ezYteTW.png" , VTV Aconcagua [HD]
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="ezYteTW.png" , VTV Viña del Mar [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="ezYteTW.png" , VTV Viña del Mar [HD]
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="heY1Ppv.png" , Canales de Deportes
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="heY1Ppv.png" , - Canales de Deportes  -
 http://127.0.0.1
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="gHplGT7.png" , DeporTV
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="gHplGT7.png" , DeporTV
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="bNXH4cj.png" , Real Madrid TV
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="bNXH4cj.png" , Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="FTLjroU.png" , Sevilla FC
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="FTLjroU.png" , Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="u6UOgvd.png" , Canales Argentinos
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="u6UOgvd.png" , - Canales Argentinos  -
 http://127.0.0.1
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="qzpwloD.png" , El Trece [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="qzpwloD.png" , El Trece [HD]
 http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="m504ZL8.png" , Canal 26 [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="m504ZL8.png" , Canal 26 [HD]
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="1gwf0xO.png" , Canal 4 Jujuy [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="1gwf0xO.png" , Canal 4 Jujuy [HD]
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="MXJPXNd.png" , Canal 9 Salta[SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="MXJPXNd.png" , Canal 9 Salta[SD]
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="3jOBKOp.png" , TEC TV [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="3jOBKOp.png" , TEC TV [HD]
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="xu8lnw9.png" , Telemax [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="xu8lnw9.png" , Telemax [HD]
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="8nCB06w.png" , Telpin Canal 2 [SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="8nCB06w.png" , Telpin Canal 2 [SD]
 rtmp://201.219.100.30:1935/telpintv/ttv.stream_360p
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="wvj1Qog.png" , Canales Colombianos
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="wvj1Qog.png" , - Canales Colombianos  -
 http://127.0.0.1
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , VMAS TV
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , VMAS TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , CANAL ANTIESTRES
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , CANAL ANTIESTRES
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , CANTINAZO
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , CANTINAZO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , LIFEDESING
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , LIFEDESING
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , MIMUSICA HD
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , MIMUSICA HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , TIGO MUSIC
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , TIGO MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , CANAL U
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , CANAL U
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Cable Noticias
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Cable Noticias
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , TELE VIDA
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , TELE VIDA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , TRENDY MUSICA
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , TRENDY MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Canal U
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Canal U
 http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Telecafe
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Telecafe
 http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Canal TRO
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Canal TRO
 http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="8N2lW9C.png" , Canales Españoles
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="8N2lW9C.png" , - Canales Españoles  -
 http://127.0.0.1
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Antena 3 [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Antena 3 [HD]
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Antena 3 Series [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Antena 3 Series [HD]
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Antena 3 Internacional
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Antena 3 Internacional
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , La Sexta  [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , La Sexta  [HD]
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Mega España [HD] 
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Mega España [HD] 
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Neox [HD] 
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Neox [HD] 
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Canal 13 TV
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Canal 13 TV
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="bNXH4cj.png" , Real Madrid TV
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="bNXH4cj.png" , Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="FTLjroU.png" , Sevilla FC
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="FTLjroU.png" , Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Nova [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Nova [HD]
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Telemadrid [SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Telemadrid [SD]
 http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Lancelot TV [SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Lancelot TV [SD]
 rtmp://62.210.141.18:1935/directo/lancelot.television
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , IB3 [SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , IB3 [SD]
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Andorra [SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Andorra [SD]
 rtmp://194.158.80.31/live/web
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Rioja TV [SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Rioja TV [SD]
 mms://87.106.208.121/stv
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="RLmLtpl.png" , Canales Mexicanos
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="RLmLtpl.png" , - Canales Mexicanos  -
 http://127.0.0.1
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Canal 10 Chetumal [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Canal 10 Chetumal [HD]
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Ocho TV [FHD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Ocho TV [FHD]
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , TVMas [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , TVMas [HD]
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Multimedios Monterrey [SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Multimedios Monterrey [SD]
 http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Canal de las Estrellas [SD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Canal de las Estrellas [SD]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Foro TV
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Milenio
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Milenio
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Canales Misc/Estilo de Vida
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , - Canales Misc/Estilo de Vida  -
 http://127.0.0.1
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , TWiT
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , TWiT
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Sun Channel
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Sun Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Tec Tv
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Tec Tv
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Life Desing 
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Life Desing 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Trendy Channel 
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Trendy Channel 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , VMas+ TV 
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , VMas+ TV 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Canal U
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Canal U
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , NASA Space Station 1
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , NASA Space Station 1
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , NASA Space Station 2
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , NASA Space Station 2
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , -[COLOR red]Canales de Noticias[/COLOR]-
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , - Canales de Noticias  -
 http://127.0.0.1
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,  NOTV 41 New Orleans - Louisiana [HD]
+#EXTINF:-1 group-title="CablearTV"  ,  NOTV 41 New Orleans - Louisiana [HD]
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="PLpyQsV.png" , TRT World [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="PLpyQsV.png" , TRT World [HD]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , BBC World News
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , TV5 Monde Latino
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , TV5 Monde Latino
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , NHK World [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , NHK World [HD]
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Deutsche Welle Latino
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Deutsche Welle Latino
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Aljazeera
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Aljazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , ABC News
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , Efekto TV [HD]
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , Efekto TV [HD]
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="" , France 24
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="" , France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="fyOjHZ8.png" , Arirang (Korea)
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="fyOjHZ8.png" , Arirang (Korea)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="UMylP7X.png" , Bloomberg TV Europe
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="UMylP7X.png" , Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  , tvg-logo="PCU1h8M.png" , Channel NewsAsia
+#EXTINF:-1 group-title="CablearTV"  , tvg-logo="PCU1h8M.png" , Channel NewsAsia
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,  MUSICA INTERNACIONAL
+#EXTINF:-1 group-title="CablearTV"  ,   - MUSICA INTERNACIONAL  -
 http://127.0.0.1
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,   Vibee [SD]
+#EXTINF:-1 group-title="CablearTV"  ,   Vibee [SD]
 http://46.101.21.42:8081/live/live2/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,   M2O TV [SD]
+#EXTINF:-1 group-title="CablearTV"  ,   M2O TV [SD]
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,   Heart TV [HD]
+#EXTINF:-1 group-title="CablearTV"  ,   Heart TV [HD]
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,   Hard Life [SD]
+#EXTINF:-1 group-title="CablearTV"  ,   Hard Life [SD]
 http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,   City Radio TV [SD]
+#EXTINF:-1 group-title="CablearTV"  ,   City Radio TV [SD]
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,   Carina TV [SD]
+#EXTINF:-1 group-title="CablearTV"  ,   Carina TV [SD]
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,   Capital TV [HD]
+#EXTINF:-1 group-title="CablearTV"  ,   Capital TV [HD]
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://willmckinley.files.wordpress.com/2014/05/logo.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",RETRO TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://willmckinley.files.wordpress.com/2014/05/logo.png" group-title="CablearTV",RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,   Capital TV [HD]
+#EXTINF:-1 group-title="CablearTV"  ,   Capital TV [HD]
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,   KISS TV
+#EXTINF:-1 group-title="CablearTV"  ,   KISS TV
 http://kissfm.en-directo.com/iphone/index_multirate.m3u8
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,   Tigo Musica
+#EXTINF:-1 group-title="CablearTV"  ,   Tigo Musica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  ,   Ibiza
+#EXTINF:-1 group-title="CablearTV"  ,   Ibiza
 http://www.djing.com/tv/ibiza.m3u8
 
 
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”13 TV LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13_TV.svg/langfr-150px-13_TV.svg.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,13 TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”13 TV LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13_TV.svg/langfr-150px-13_TV.svg.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,13 TV LATINO
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w986866555.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”360 TV LATINO” tvg-logo=”http://www.thelogodb.com/images/media/logo/tnbbwh1490584829.png/medium” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,360 TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”360 TV LATINO” tvg-logo=”http://www.thelogodb.com/images/media/logo/tnbbwh1490584829.png/medium” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,360 TV LATINO
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”8 TV LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/824665949315989508/oJoLPdaB.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,8 TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”8 TV LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/824665949315989508/oJoLPdaB.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,8 TV LATINO
 rtmp://178.33.113.212/8TV/8aldia-directe
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Aragon TV LATINO” tvg-logo=”https://lh4.googleusercontent.com/-NXtC_iHraDI/Ugz1eHVH56I/AAAAAAAABXw/Yvh2K6P1Dik/aragon_tv.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Aragon TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Aragon TV LATINO” tvg-logo=”https://lh4.googleusercontent.com/-NXtC_iHraDI/Ugz1eHVH56I/AAAAAAAABXw/Yvh2K6P1Dik/aragon_tv.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Aragon TV LATINO
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Cali TV LATINO” tvg-logo=”http://www.canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Cali TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Cali TV LATINO” tvg-logo=”http://www.canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Cali TV LATINO
 rtmp://video.cehis.net/live-calitv/calitv1
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Canal 2 Nicaragua LATINO” tvg-logo=”http://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500×500.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal 2 Nicaragua LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Canal 2 Nicaragua LATINO” tvg-logo=”http://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500×500.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal 2 Nicaragua LATINO
 http://162.244.81.181:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Canal 3 Culiacan LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/466633239092678656/h0KPceiT_400x400.jpeg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal 3 Culiacan LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Canal 3 Culiacan LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/466633239092678656/h0KPceiT_400x400.jpeg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal 3 Culiacan LATINO
 http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Canal 3/24 LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_3-24_de_TVC.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal 3/24 LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Canal 3/24 LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_3-24_de_TVC.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal 3/24 LATINO
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Canal Antiestrés LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/297359498/logoantiestres.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal Antiestrés LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Canal Antiestrés LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/297359498/logoantiestres.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal Antiestrés LATINO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Canal Extremadura LATINO” tvg-logo=”http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal Extremadura LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Canal Extremadura LATINO” tvg-logo=”http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal Extremadura LATINO
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Canal Once LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/1/16/Antiguo_logo_de_Canal_Once_%28once_TV%29.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal Once LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Canal Once LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/1/16/Antiguo_logo_de_Canal_Once_%28once_TV%29.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal Once LATINO
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/manifest.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Canal Orbe 21 LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/534655763533135874/znmzr-0D.jpeg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal Orbe 21 LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Canal Orbe 21 LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/534655763533135874/znmzr-0D.jpeg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal Orbe 21 LATINO
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Canal Sur Andalucía LATINO” tvg-logo=”http://www.flumotion.com/wp-content/uploads/2014/11/canal_sur.gif” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal Sur Andalucía LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Canal Sur Andalucía LATINO” tvg-logo=”http://www.flumotion.com/wp-content/uploads/2014/11/canal_sur.gif” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal Sur Andalucía LATINO
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Canal U LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_Canal_U_%28Uruguay%29.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal U LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Canal U LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_Canal_U_%28Uruguay%29.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal U LATINO
 http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Canal Uno LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Canal_Uno_%28Colombia_-_2014%29.svg/1200px-Canal_Uno_%28Colombia_-_2014%29.svg.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal Uno LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Canal Uno LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Canal_Uno_%28Colombia_-_2014%29.svg/1200px-Canal_Uno_%28Colombia_-_2014%29.svg.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canal Uno LATINO
 http://live10.cdnmedia.tv/rtvcCanalUNOlive/smil:live.smil/manifest.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Canela TV LATINO” tvg-logo=”https://ulango.tv/uploads/channels/16459/logo_canela%20tv5.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canela TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Canela TV LATINO” tvg-logo=”https://ulango.tv/uploads/channels/16459/logo_canela%20tv5.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Canela TV LATINO
 http://servicioamerica.com:1935/8154/8154/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Capital 21 CDMX LATINO” tvg-logo=”https://cieloalatierra.files.wordpress.com/2014/04/capital-212.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Capital 21 CDMX LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Capital 21 CDMX LATINO” tvg-logo=”https://cieloalatierra.files.wordpress.com/2014/04/capital-212.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Capital 21 CDMX LATINO
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Capital TV LATINO” tvg-logo=”https://s-media-cache-ak0.pinimg.com/originals/33/2f/f6/332ff6b05d42dc4bf710d77771033436.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Capital TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Capital TV LATINO” tvg-logo=”https://s-media-cache-ak0.pinimg.com/originals/33/2f/f6/332ff6b05d42dc4bf710d77771033436.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Capital TV LATINO
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Carolina TV LATINO” tvg-logo=”http://www.carolina.cl/tv/img/logo.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Carolina TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Carolina TV LATINO” tvg-logo=”http://www.carolina.cl/tv/img/logo.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Carolina TV LATINO
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Castilla la Mancha TV LATINO” tvg-logo=”http://vignette4.wikia.nocookie.net/logopedia/images/a/aa/0000060236.jpg/revision/latest?cb=20131217133840″ group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Castilla la Mancha TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Castilla la Mancha TV LATINO” tvg-logo=”http://vignette4.wikia.nocookie.net/logopedia/images/a/aa/0000060236.jpg/revision/latest?cb=20131217133840″ group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Castilla la Mancha TV LATINO
 http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Color Visión LATINO” tvg-logo=”http://tv-online.in/wp-content/uploads/2013/02/Color-Vision-live.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Color Visión LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Color Visión LATINO” tvg-logo=”http://tv-online.in/wp-content/uploads/2013/02/Color-Vision-live.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Color Visión LATINO
 http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Colosal TV LATINO” tvg-logo=”https://yt3.ggpht.com/-a00jxl6l5_I/AAAAAAAAAAI/AAAAAAAAAAA/ciVxJflhGkk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Colosal TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Colosal TV LATINO” tvg-logo=”https://yt3.ggpht.com/-a00jxl6l5_I/AAAAAAAAAAI/AAAAAAAAAAA/ciVxJflhGkk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Colosal TV LATINO
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Cosmovision LATINO” tvg-logo=”http://st-listas.20minutos.es/images/2013-12/373312/4264106_640px.jpg?1386378961″ group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Cosmovision LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Cosmovision LATINO” tvg-logo=”http://st-listas.20minutos.es/images/2013-12/373312/4264106_640px.jpg?1386378961″ group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Cosmovision LATINO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”El Pinguino TV LATINO” tvg-logo=”http://canales33.mex.tl/imagesnew2/0/1/0/0/0/2/9/6/7/0/El%20Pinguino.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,El Pinguino TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”El Pinguino TV LATINO” tvg-logo=”http://canales33.mex.tl/imagesnew2/0/1/0/0/0/2/9/6/7/0/El%20Pinguino.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,El Pinguino TV LATINO
 rtmp://streaming.elpinguino.com:1935/live/pinguinotv_360p
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Enlace Juvenil LATINO” tvg-logo=”http://www.devocionalescristianos.org/wp-content/uploads/2008/10/enlace-juvenil1.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Enlace Juvenil LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Enlace Juvenil LATINO” tvg-logo=”http://www.devocionalescristianos.org/wp-content/uploads/2008/10/enlace-juvenil1.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Enlace Juvenil LATINO
 http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”ETB Sat LATINO” tvg-logo=”http://oklivetv.com/wp-content/uploads/media/08e7076d5fc3c9e6eed8c746408de958.jpeg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,ETB Sat LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”ETB Sat LATINO” tvg-logo=”http://oklivetv.com/wp-content/uploads/media/08e7076d5fc3c9e6eed8c746408de958.jpeg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,ETB Sat LATINO
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Galicia TV Europa LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/250px-Television_de_Galicia.svg.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Galicia TV Europa LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Galicia TV Europa LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/250px-Television_de_Galicia.svg.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Galicia TV Europa LATINO
 http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Galicia LATINO” tvg-logo=”http://www.grupocomunica.com/wp-content/uploads/2016/05/Galicia-TV_.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Galicia LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Galicia LATINO” tvg-logo=”http://www.grupocomunica.com/wp-content/uploads/2016/05/Galicia-TV_.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Galicia LATINO
 http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”InterEconomia TV LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,InterEconomia TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”InterEconomia TV LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,InterEconomia TV LATINO
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”KKRtv LATINO” tvg-logo=”https://ulango.tv/uploads/channels/3781467/logo_kkr%20tv.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,KKRtv LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”KKRtv LATINO” tvg-logo=”https://ulango.tv/uploads/channels/3781467/logo_kkr%20tv.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,KKRtv LATINO
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Lancelot TV LATINO” tvg-logo=”http://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Lancelot TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Lancelot TV LATINO” tvg-logo=”http://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Lancelot TV LATINO
 rtmp://62.210.141.18:1935/directo/lancelot.television
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Logos TV LATINO” tvg-logo=”https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-1/p200x200/18301863_1646686105383003_1956957564037587180_n.jpg?oh=6675861f9189a8b4190bc597170d74d9&oe=59A70BB4″ group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Logos TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Logos TV LATINO” tvg-logo=”https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-1/p200x200/18301863_1646686105383003_1956957564037587180_n.jpg?oh=6675861f9189a8b4190bc597170d74d9&oe=59A70BB4″ group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Logos TV LATINO
 http://streamer1.streamhost.org:1935/salive/GMIalfah/chunklist.m3u8?
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Milenio Televisión LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/en/archive/6/62/20170530043948%21Milenio_Television_Logo.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Milenio Televisión LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Milenio Televisión LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/en/archive/6/62/20170530043948%21Milenio_Television_Logo.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Milenio Televisión LATINO
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Murcia TV 7 LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Murcia TV 7 LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Murcia TV 7 LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Murcia TV 7 LATINO
 rtmp://flash0.80670-live0.dna.qbrick.com:80/80670-live0/murciatv
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Navarra TV LATINO” tvg-logo=”http://clubdeamigosdelaciencia.org/wp-content/uploads/2013/02/Logo.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Navarra TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Navarra TV LATINO” tvg-logo=”http://clubdeamigosdelaciencia.org/wp-content/uploads/2013/02/Logo.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Navarra TV LATINO
 rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Ocho TV LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/419157299932844032/wc2gX4dA_400x400.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Ocho TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Ocho TV LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/419157299932844032/wc2gX4dA_400x400.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Ocho TV LATINO
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”PAT LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/812290157407825921/boLcvgsF.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,PAT LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”PAT LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/812290157407825921/boLcvgsF.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,PAT LATINO
 http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”PDVSA TV LATINO” tvg-logo=”http://www.pdvsa.com/templates/pdvsa/img/sitios/pdvsa_tv.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,PDVSA TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”PDVSA TV LATINO” tvg-logo=”http://www.pdvsa.com/templates/pdvsa/img/sitios/pdvsa_tv.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,PDVSA TV LATINO
 rtmp://controlstreams.com:1935/pdvsatvweb/pdvsatvweb
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”RBC Online LATINO” tvg-logo=”http://4.bp.blogspot.com/-WFxUDde3icA/UlGY7W31sAI/AAAAAAAABAM/h-pAT5mUwl8/s300/logo_rbc.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,RBC Online LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”RBC Online LATINO” tvg-logo=”http://4.bp.blogspot.com/-WFxUDde3icA/UlGY7W31sAI/AAAAAAAABAM/h-pAT5mUwl8/s300/logo_rbc.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,RBC Online LATINO
 rtmp://184.154.28.210:1935/rbc-tv/rbc-tv
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”RCG Televisión LATINO” tvg-logo=”http://seeklogo.com/images/R/rcg-radio-logo-1147ACD939-seeklogo.com.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,RCG Televisión LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”RCG Televisión LATINO” tvg-logo=”http://seeklogo.com/images/R/rcg-radio-logo-1147ACD939-seeklogo.com.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,RCG Televisión LATINO
 http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Red Advenir LATINO” tvg-logo=”http://2.bp.blogspot.com/-OKmqiUDmncI/Tv920TTnlaI/AAAAAAAAAOc/w0O0cFWCanA/s1600/ADvenir.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Red Advenir LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Red Advenir LATINO” tvg-logo=”http://2.bp.blogspot.com/-OKmqiUDmncI/Tv920TTnlaI/AAAAAAAAAOc/w0O0cFWCanA/s1600/ADvenir.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Red Advenir LATINO
 rtmp://streamer1.streamhost.org/salive/GMIredadvenirl
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Señal Provincial LATINO” tvg-logo=”http://www.streamytv.net/wp-content/uploads/2015/07/Canal-Provincial-TV.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Señal Provincial LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Señal Provincial LATINO” tvg-logo=”http://www.streamytv.net/wp-content/uploads/2015/07/Canal-Provincial-TV.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Señal Provincial LATINO
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”SMOTV Positive Channel LATINO” tvg-logo=”http://4.bp.blogspot.com/-PFAmZi2vh_U/U4JrZw2IjfI/AAAAAAAACnE/Gv0XX7B6NEk/s1600/SMOTV+Positive+Channel+Icon.JPG” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,SMOTV Positive Channel LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”SMOTV Positive Channel LATINO” tvg-logo=”http://4.bp.blogspot.com/-PFAmZi2vh_U/U4JrZw2IjfI/AAAAAAAACnE/Gv0XX7B6NEk/s1600/SMOTV+Positive+Channel+Icon.JPG” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,SMOTV Positive Channel LATINO
 rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Sol TV Perú LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/250px-Sol_tv_pe.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Sol TV Perú LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Sol TV Perú LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/250px-Sol_tv_pe.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Sol TV Perú LATINO
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Tele Amiga LATINO” tvg-logo=”http://www.freeetv.com/images/02_logo/tele_amiga_colombia.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Tele Amiga LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Tele Amiga LATINO” tvg-logo=”http://www.freeetv.com/images/02_logo/tele_amiga_colombia.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Tele Amiga LATINO
 rtmp://184.107.180.130:1935/teleamiga/live
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Teleantioquia LATINO” tvg-logo=”https://vignette3.wikia.nocookie.net/cybernations/images/c/c1/Teleantioquia.gif/revision/latest?cb=20120705022029″ group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Teleantioquia LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Teleantioquia LATINO” tvg-logo=”https://vignette3.wikia.nocookie.net/cybernations/images/c/c1/Teleantioquia.gif/revision/latest?cb=20120705022029″ group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Teleantioquia LATINO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Telecafé LATINO” tvg-logo=”http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Telecafe11.png/260px-Telecafe11.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Telecafé LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Telecafé LATINO” tvg-logo=”http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Telecafe11.png/260px-Telecafe11.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Telecafé LATINO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Telemedellin LATINO” tvg-logo=”https://cdn.telemedellin.tv/wp-content/themes/telemedellin/img/telemedellin-logo.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Telemedellin LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Telemedellin LATINO” tvg-logo=”https://cdn.telemedellin.tv/wp-content/themes/telemedellin/img/telemedellin-logo.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Telemedellin LATINO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Telemetro Radio LATINO” tvg-logo=”http://www.telemetro.com/radio/profileFBtmradio_MEDFIL20160126_0020.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Telemetro Radio LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Telemetro Radio LATINO” tvg-logo=”http://www.telemetro.com/radio/profileFBtmradio_MEDFIL20160126_0020.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Telemetro Radio LATINO
 http://live.medcom.com.pa/live/tmradio.stream_live/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Telesur LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/a/a8/TeleSur.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Telesur LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Telesur LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/a/a8/TeleSur.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Telesur LATINO
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Teleuno LATINO” tvg-logo=”http://directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Teleuno LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Teleuno LATINO” tvg-logo=”http://directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Teleuno LATINO
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Telpin TV Canal 2 HD LATINO” tvg-logo=”http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Telpin TV Canal 2 HD LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Telpin TV Canal 2 HD LATINO” tvg-logo=”http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Telpin TV Canal 2 HD LATINO
 rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”TEN Canal 10 LATINO” tvg-logo=”https://yt3.ggpht.com/-8p8rCwRAD6M/AAAAAAAAAAI/AAAAAAAAAAA/U-oPV9dI9mc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TEN Canal 10 LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”TEN Canal 10 LATINO” tvg-logo=”https://yt3.ggpht.com/-8p8rCwRAD6M/AAAAAAAAAAI/AAAAAAAAAAA/U-oPV9dI9mc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TEN Canal 10 LATINO
 rtmp://stream.grupoabchn.com:1935/TENHD/TENLIVEHD_2
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Tirol TV LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Tirol TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Tirol TV LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Tirol TV LATINO
 http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”TLX Telemax LATINO” tvg-logo=”http://1.bp.blogspot.com/-o9pPhGXrzMU/UDQYqcGik4I/AAAAAAAAVVg/V01-iTq7J0g/s1600/TLX.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TLX Telemax LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”TLX Telemax LATINO” tvg-logo=”http://1.bp.blogspot.com/-o9pPhGXrzMU/UDQYqcGik4I/AAAAAAAAVVg/V01-iTq7J0g/s1600/TLX.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TLX Telemax LATINO
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”TV 3 LATINO” tvg-logo=”https://www.thelogodb.com/images/media/logo/xqrvrx1470051155.png/medium” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TV 3 LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”TV 3 LATINO” tvg-logo=”https://www.thelogodb.com/images/media/logo/xqrvrx1470051155.png/medium” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TV 3 LATINO
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”TV Agro LATINO” tvg-logo=”http://www.freeetv.com/images/02_logo/tv_agro_colombia.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TV Agro LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”TV Agro LATINO” tvg-logo=”http://www.freeetv.com/images/02_logo/tv_agro_colombia.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TV Agro LATINO
 http://190.248.81.11:1938/live/myStream22/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”TV Marti LATINO” tvg-logo=”https://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TV Marti LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”TV Marti LATINO” tvg-logo=”https://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TV Marti LATINO
 rtmp://cp90613.live.edgefcs.net/live//ocb_mpls_tvmc1@383655
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”TV Más LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/2439299658/4vhd8qzbyxb0j0ityr32_400x400.jpeg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TV Más LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”TV Más LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/2439299658/4vhd8qzbyxb0j0ityr32_400x400.jpeg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TV Más LATINO
 rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”TV Sur Canal 14 LATINO” tvg-logo=”http://static-cdn1.ustream.tv/i/channel/picture/6/5/5/9/6559178/6559178_logo-canal-14_1292456255,192×192,r:1.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TV Sur Canal 14 LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”TV Sur Canal 14 LATINO” tvg-logo=”http://static-cdn1.ustream.tv/i/channel/picture/6/5/5/9/6559178/6559178_logo-canal-14_1292456255,192×192,r:1.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TV Sur Canal 14 LATINO
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”TVES Canal 10 LATINO” tvg-logo=”http://directostv.teleame.com/wp-content/uploads/2016/06/tves-Canal-10.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TVES Canal 10 LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”TVES Canal 10 LATINO” tvg-logo=”http://directostv.teleame.com/wp-content/uploads/2016/06/tves-Canal-10.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TVES Canal 10 LATINO
 http://198.24.135.42/canal10/canal10/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”TVes LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TVes LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”TVes LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TVes LATINO
 rtmp://controlstreams.com:1935/tves2/tves2
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”TVO Canal 23 LATINO” tvg-logo=”http://www.freeetv.com/images/reydddd/tvo23.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TVO Canal 23 LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”TVO Canal 23 LATINO” tvg-logo=”http://www.freeetv.com/images/reydddd/tvo23.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TVO Canal 23 LATINO
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”TVS Satelital LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/378800000431128547/f5ab81dec8d00d85870e355cd83f4e6e_400x400.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TVS Satelital LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”TVS Satelital LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/378800000431128547/f5ab81dec8d00d85870e355cd83f4e6e_400x400.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TVS Satelital LATINO
 http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”TVX El Salvador LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/461656314578350080/Mo1Ydo0Q.jpeg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TVX El Salvador LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”TVX El Salvador LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/461656314578350080/Mo1Ydo0Q.jpeg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,TVX El Salvador LATINO
 rtmp://cdn.elsalvadordigital.com/canal23/canal23
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Unicanal LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/850317472611917824/HS0vnACn.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Unicanal LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Unicanal LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/850317472611917824/HS0vnACn.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Unicanal LATINO
 http://strm.unicanal.com.py/live/unicanal.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Ve Plus TV LATINO” tvg-logo=”https://vignette1.wikia.nocookie.net/logopedia/images/7/74/Ve_Plus_TV.png/revision/latest/scale-to-width-down/220?cb=20160602134219″ group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Ve Plus TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Ve Plus TV LATINO” tvg-logo=”https://vignette1.wikia.nocookie.net/logopedia/images/7/74/Ve_Plus_TV.png/revision/latest/scale-to-width-down/220?cb=20160602134219″ group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Ve Plus TV LATINO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Venezolana de Television LATINO” tvg-logo=”https://seeklogo.com/images/V/VENEZOLANA_DE_TELEVISION-logo-02E35AB2EA-seeklogo.com.gif” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Venezolana de Television LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Venezolana de Television LATINO” tvg-logo=”https://seeklogo.com/images/V/VENEZOLANA_DE_TELEVISION-logo-02E35AB2EA-seeklogo.com.gif” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Venezolana de Television LATINO
 rtmp://cast.streamingconnect.com:1935/vtvweb3/vtvweb3
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”VTV Valle LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/950560839/1_400x400.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,VTV Valle LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”VTV Valle LATINO” tvg-logo=”https://pbs.twimg.com/profile_images/950560839/1_400x400.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,VTV Valle LATINO
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”W24 LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/W24_logo_2012.tif/lossless-page1-200px-W24_logo_2012.tif.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,W24 LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”W24 LATINO” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/W24_logo_2012.tif/lossless-page1-200px-W24_logo_2012.tif.png” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,W24 LATINO
 http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-name=”Willax TV LATINO” tvg-logo=”http://willax.tv/static/images/facebook-logo.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Willax TV LATINO
+#EXTINF:-1 group-title="CablearTV"  tvg-name=”Willax TV LATINO” tvg-logo=”http://willax.tv/static/images/facebook-logo.jpg” group-title=”LOCAL SPANISH-LATINO -MEXICAN”,Willax TV LATINO
 rtmp://willax.mediastream.pe/vv_willax/livestream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/IPSPuc9.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",PAKA PAKA (ARGENTINA)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/IPSPuc9.png" group-title="CablearTV",PAKA PAKA (ARGENTINA)
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",CAPITAL TV (UK)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png" group-title="CablearTV",CAPITAL TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.carinatv.it/images/ctv_radiocarina.jpg" group-title="ESTABLES BY GAME SNAKE LAND l.S",CARINA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.carinatv.it/images/ctv_radiocarina.jpg" group-title="CablearTV",CARINA TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d85wutc1n854v.cloudfront.net/live/products/600x375/WB0PGGM81.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",COOL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d85wutc1n854v.cloudfront.net/live/products/600x375/WB0PGGM81.png" group-title="CablearTV",COOL HD
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESTABLES BY GAME SNAKE LAND l.S",POWER HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CablearTV",POWER HD
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/93ed53a6156df1ecbd6e64f667cce561.jpeg" group-title="ESTABLES BY GAME SNAKE LAND l.S",TELEMUSICA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/93ed53a6156df1ecbd6e64f667cce561.jpeg" group-title="CablearTV",TELEMUSICA
 http://186.155.200.118:1935/live/telemusica/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/QS0zgK2.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",EARTH TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/QS0zgK2.png" group-title="CablearTV",EARTH TV
 http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/60.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",AL JAZEERA UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/60.png" group-title="CablearTV",AL JAZEERA UK
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",FRANCE 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png" group-title="CablearTV",FRANCE 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.noticiasmvs.com/img/noticiasMvs1024.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",MVS NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.noticiasmvs.com/img/noticiasMvs1024.png" group-title="CablearTV",MVS NOTICIAS
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is4.mzstatic.com/image/thumb/Purple122/v4/f0/da/85/f0da8533-115a-43ad-a1ec-730c1c018f91/source/175x175bb.jpg" group-title="ESTABLES BY GAME SNAKE LAND l.S", UNO TV MEXICO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is4.mzstatic.com/image/thumb/Purple122/v4/f0/da/85/f0da8533-115a-43ad-a1ec-730c1c018f91/source/175x175bb.jpg" group-title="CablearTV", UNO TV MEXICO
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-eJaMxMIusUo/AAAAAAAAAAI/AAAAAAAAAAA/plEpk2FbWHA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ESTABLES BY GAME SNAKE LAND l.S",CORACYT TLAXCALA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-eJaMxMIusUo/AAAAAAAAAAI/AAAAAAAAAAA/plEpk2FbWHA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CablearTV",CORACYT TLAXCALA
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rtvgro.net/inicio/wp-content/uploads/2015/02/Logo-Website.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",RTG GUERRERO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rtvgro.net/inicio/wp-content/uploads/2015/02/Logo-Website.png" group-title="CablearTV",RTG GUERRERO
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/O3Kywgw.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",TELEMAR CAMPECHE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/O3Kywgw.png" group-title="CablearTV",TELEMAR CAMPECHE
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",TRECEVISION YUCATáN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title="CablearTV",TRECEVISION YUCATáN
 http://streamingcws10.com:1935/trecevision/videotrecevision/playlist.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESTABLES BY GAME SNAKE LAND l.S",TVT TABASCO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CablearTV",TVT TABASCO
 http://tvttabasco-lh.akamaihd.net/i/ch_1@325634/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal4jujuy.com.ar/img/logo.jpg" group-title="ESTABLES BY GAME SNAKE LAND l.S",CANAL 4 JUJUY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal4jujuy.com.ar/img/logo.jpg" group-title="CablearTV",CANAL 4 JUJUY
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",CANAL 13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png" group-title="CablearTV",CANAL 13
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/51/LogoMega2015.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",MEGAVISION
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/51/LogoMega2015.png" group-title="CablearTV",MEGAVISION
 http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://niu.cl/wp-content/uploads/2016/07/logo.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",NIU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://niu.cl/wp-content/uploads/2016/07/logo.png" group-title="CablearTV",NIU
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",UESTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png" group-title="CablearTV",UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tele-envivo.com/wp-content/uploads/2015/12/cablenoticias-en-vivo.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",CABLE NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tele-envivo.com/wp-content/uploads/2015/12/cablenoticias-en-vivo.png" group-title="CablearTV",CABLE NOTICIAS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/297359498/logoantiestres.jpg" group-title="ESTABLES BY GAME SNAKE LAND l.S",CANAL ANTIESTRES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/297359498/logoantiestres.jpg" group-title="CablearTV",CANAL ANTIESTRES
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 
 
@@ -1073,114 +1021,114 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 
 
 
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png", OroMar Tv
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png", OroMar Tv
 http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
  
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://2.bp.blogspot.com/-f7WYgLyTPZo/VZQWilXAw9I/AAAAAAAALv0/zKc8sNAkREw/s1600/telemicro%2Bviva.png",TELEMICRO CANAL 5
+#EXTINF:-1 group-title="CablearTV" tvg-logo="http://2.bp.blogspot.com/-f7WYgLyTPZo/VZQWilXAw9I/AAAAAAAALv0/zKc8sNAkREw/s1600/telemicro%2Bviva.png",TELEMICRO CANAL 5
 http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2017/05/cropped-cropped-cropped-Color_vision_2014-192x192.png",VISION CANAL 9
+#EXTINF:-1 group-title="CablearTV" tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2017/05/cropped-cropped-cropped-Color_vision_2014-192x192.png",VISION CANAL 9
 http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",tc tv
+#EXTINF:-1 group-title="CablearTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",tc tv
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Ecuador_TV.png",ecuador tv nacional
+#EXTINF:-1 group-title="CablearTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Ecuador_TV.png",ecuador tv nacional
 http://api.new.livestream.com/accounts/21848311/events/6465523/live.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://www.revistamilmesetas.com/wp-content/uploads/2012/12/tv-unam.png", TVUNAM
+#EXTINF:-1 group-title="CablearTV" tvg-logo="http://www.revistamilmesetas.com/wp-content/uploads/2012/12/tv-unam.png", TVUNAM
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
  
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://mitvstatic.com/channels/gt_canal-7-nacional_m.png",TELEVISIETE
+#EXTINF:-1 group-title="CablearTV" tvg-logo="https://mitvstatic.com/channels/gt_canal-7-nacional_m.png",TELEVISIETE
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png", T 11
+#EXTINF:-1 group-title="CablearTV" tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png", T 11
 http://mek6.mekstream.com/telesistema/live/chunklist_w743063287.m3u8
  
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://wowtvcaribbean.com/wp-content/uploads/2015/03/MYpIDZE_400x400.png", WOW
+#EXTINF:-1 group-title="CablearTV" tvg-logo="http://wowtvcaribbean.com/wp-content/uploads/2015/03/MYpIDZE_400x400.png", WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://www.digitaltveurope.net/wp-content/uploads/2014/10/1+1_Inter.png", 1+1
+#EXTINF:-1 group-title="CablearTV" tvg-logo="http://www.digitaltveurope.net/wp-content/uploads/2014/10/1+1_Inter.png", 1+1
 http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
  
  
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/tv.png",TABER TV
+#EXTINF:-1 group-title="CablearTV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/tv.png",TABER TV
 http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/live.m3u8
 
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://2.bp.blogspot.com/-UpBYoW6ADcs/U97C2BWoceI/AAAAAAAAnG4/-jDiJh10lJE/s1600/canal10-tucuman.png", CANAL 10 G67
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://2.bp.blogspot.com/-UpBYoW6ADcs/U97C2BWoceI/AAAAAAAAnG4/-jDiJh10lJE/s1600/canal10-tucuman.png", CANAL 10 G67
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
  
  
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/1200px-CGTN-America_Logo.png",CGTN
+#EXTINF:-1 group-title="CablearTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/1200px-CGTN-America_Logo.png",CGTN
 http://live.cgtn.com/cctv-e.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://2.bp.blogspot.com/-FjFP2_QnC8o/VE1-sPSvRlI/AAAAAAAAB6A/iyUs48zNbRM/s320/lancelot-tv.png ",LANCELOT
+#EXTINF:-1 group-title="CablearTV" tvg-logo="http://2.bp.blogspot.com/-FjFP2_QnC8o/VE1-sPSvRlI/AAAAAAAAB6A/iyUs48zNbRM/s320/lancelot-tv.png ",LANCELOT
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/megatv.png", MEGA G67
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/megatv.png", MEGA G67
 http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_1_av-b.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://www.formulatv.com/images/noticias/27700/27743/1.jpg", NOVA G67
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://www.formulatv.com/images/noticias/27700/27743/1.jpg", NOVA G67
 http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/index_1_av-b.m3u8
  
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-logo="https://lh6.googleusercontent.com/-9xw4Qr5M1RA/AAAAAAAAAAI/AAAAAAAAADM/233Pgqp4EU8/photo.jpg", Locomotion
+#EXTINF:0  group-title="CablearTV"  tvg-logo="https://lh6.googleusercontent.com/-9xw4Qr5M1RA/AAAAAAAAAAI/AAAAAAAAADM/233Pgqp4EU8/photo.jpg", Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
  
  
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-logo="http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg", Trailer Tv
+#EXTINF:0  group-title="CablearTV"  tvg-logo="http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg", Trailer Tv
 http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-logo="http://i.imgur.com/8JlopAB.png", Tv Pop
+#EXTINF:0  group-title="CablearTV"  tvg-logo="http://i.imgur.com/8JlopAB.png", Tv Pop
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
  
  
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-logo="http://topsoundfm.com.ve/wp-content/uploads/2016/04/hispantv.png", Hispan Tv
+#EXTINF:0  group-title="CablearTV"  tvg-logo="http://topsoundfm.com.ve/wp-content/uploads/2016/04/hispantv.png", Hispan Tv
 http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://www.tiquicia.tv/images/telered.jpg", TeleRed
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://www.tiquicia.tv/images/telered.jpg", TeleRed
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png", Nex Tv
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png", Nex Tv
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png", TV Chile
+#EXTINF:-1 group-title="CablearTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png", TV Chile
 http://iptvcanales.ml/hls/channel/tvn_sd.m3u8
 
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://www.rcg.com.mx/wp-content/uploads/2015/05/LOGO-RCG-TV-7-1.png",RCG TV-1
+#EXTINF:-1 group-title="CablearTV" tvg-logo="https://www.rcg.com.mx/wp-content/uploads/2015/05/LOGO-RCG-TV-7-1.png",RCG TV-1
 http://wowzacontrol.com:1936/stream23/stream23/chunklist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png",RCG TV-3
+#EXTINF:-1 group-title="CablearTV" tvg-logo="https://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png",RCG TV-3
 http://wowzacontrol.com:1936/stream56/stream56/chunklist.m3u8 
  
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-group="Mundo" tvg-logo="http://i.imgur.com/VvDJqwZ.png", Sun Channel
+#EXTINF:0  group-title="CablearTV"  tvg-group="Mundo" tvg-logo="http://i.imgur.com/VvDJqwZ.png", Sun Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S"  tvg-logo="https://k60.kn3.net/8/9/8/3/B/8/DA9.png", Tateti
+#EXTINF:0  group-title="CablearTV"  tvg-logo="https://k60.kn3.net/8/9/8/3/B/8/DA9.png", Tateti
 http://ar.watcha.live/ch16/hi.m3u8
 
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://i.imgur.com/37a0g.jpg",MUSIC JAPAN TV
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://i.imgur.com/37a0g.jpg",MUSIC JAPAN TV
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://www.diario26.com/images/musictop_poster.png" , MUSICTOP
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://www.diario26.com/images/musictop_poster.png" , MUSICTOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S"tvg-logo="http://portalfoxmix.club/wp-content/uploads/2016/07/logoPFM.png", PortalFoxMix
+#EXTINF:0  group-title="CablearTV"tvg-logo="http://portalfoxmix.club/wp-content/uploads/2016/07/logoPFM.png", PortalFoxMix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://d85wutc1n854v.cloudfront.net/live/products/600x375/WB0PGGM81.png", Cool HD
+#EXTINF:0  group-title="CablearTV" tvg-logo="https://d85wutc1n854v.cloudfront.net/live/products/600x375/WB0PGGM81.png", Cool HD
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://ottofm.com/wp-content/uploads/2017/06/01fmtv.png", Otto Fm Tv
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://ottofm.com/wp-content/uploads/2017/06/01fmtv.png", Otto Fm Tv
 http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://cmc-tv.com/images/camuslogo.gif", California Music Channel
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://cmc-tv.com/images/camuslogo.gif", California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://mywebtv.info/img/tvicons/560870.png", Atomic
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://mywebtv.info/img/tvicons/560870.png", Atomic
 http://5.154.185.153/hls/live.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Ticavision
+#EXTINF:0  group-title="CablearTV" tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png", POWER HD G67
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png", POWER HD G67
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://www.nrjlebanon.com/events/images/events/logo_NRJ_Hits_web.jpg", NRJ HITS TV Live
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://www.nrjlebanon.com/events/images/events/logo_NRJ_Hits_web.jpg", NRJ HITS TV Live
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png", PortalFoxMix Tv
+#EXTINF:0  group-title="CablearTV" tvg-logo="http://www.portalfoxmix.cl/web/wp-content/uploads/2016/03/logoPFM.png", PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0  group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://i.vimeocdn.com/portrait/9173547_300x300", La Mega Mundial
+#EXTINF:0  group-title="CablearTV" tvg-logo="https://i.vimeocdn.com/portrait/9173547_300x300", La Mega Mundial
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w1614152194.m3u8
  
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://on-line-televize.cz/wp-content/uploads/2014/01/retromusic.png",RETRO TV
+#EXTINF:-1 group-title="CablearTV" tvg-logo="http://on-line-televize.cz/wp-content/uploads/2014/01/retromusic.png",RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
- #EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="https://latinosnc.com/wp-content/uploads/layerslider/Carousel-demo/LNC-TV-New-Logo.png",LATINO NCTV RANCHERA
+ #EXTINF:-1 group-title="CablearTV" tvg-logo="https://latinosnc.com/wp-content/uploads/layerslider/Carousel-demo/LNC-TV-New-Logo.png",LATINO NCTV RANCHERA
 http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES BY GAME SNAKE LAND l.S" tvg-logo="http://www.streamgaroo.com/images/streams/600/600x400/14646168069024.png",ALB MUSIC
+#EXTINF:-1 group-title="CablearTV" tvg-logo="http://www.streamgaroo.com/images/streams/600/600x400/14646168069024.png",ALB MUSIC
 http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
 
 
@@ -1189,337 +1137,337 @@ http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  ,   *[COLOR red]RADIO LATINOS[/COLOR]*
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  ,   * RADIO LATINOS  *
 http://127.0.0.1
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Imagina (88.1 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Imagina (88.1 FM)
 http://14003.live.streamtheworld.com/IMAGINA_SC
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Maxima FM (88.1 FM Antofagasta)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Maxima FM (88.1 FM Antofagasta)
 http://cast3.serverhost.cl:8764/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Canal 95 (88.1 FM Antofagasta)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Canal 95 (88.1 FM Antofagasta)
 http://sonando.us.digitalproserver.com/canal95_aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Nostalgica (88.1 FM Copiapo)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Nostalgica (88.1 FM Copiapo)
 http://comunicacionespuntocreativo.cl:8000/nostalgica
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Bio Bio Temuco (88.1 FM Temuco)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Bio Bio Temuco (88.1 FM Temuco)
 http://ice.dallas.digitalproserver.com/biotemu
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Concierto (88.5 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Concierto (88.5 FM)
 http://17833.live.streamtheworld.com/CONCIERTO_SC
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , FM OK (89.3 FM Antofagasta)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , FM OK (89.3 FM Antofagasta)
 http://streaming.fmokey.cl:8000/FmOkAT.mp3
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Nuevo Mundo (88.9 FM Ovalle)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Nuevo Mundo (88.9 FM Ovalle)
 http://s3.medionline.cl:7960/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , FM Mas (89.1 Arica)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , FM Mas (89.1 Arica)
 http://cast.radioservicios.cl:8026/fmmas
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Diferencia (FM 89.3 Salamanca)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Diferencia (FM 89.3 Salamanca)
 http://epsilon.clickhost.cl:9607/diferencia.aac.m3u
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Duna (89.7 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Duna (89.7 FM)
 http://tunein.digitalproserver.com/dunabb.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Nuble (89.7 FM Chillan)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Nuble (89.7 FM Chillan)
 http://198.50.154.235:7684
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Carnaval (89.9 FM Viña del Mar)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Carnaval (89.9 FM Viña del Mar)
 http://radio.cl.digitalproserver.com:443/carnaval/carnaval_ovalle/carnaval_ovalle.stream/elpi.co.m3u8
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Colo-colo (90.1 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Colo-colo (90.1 FM)
 http://186.103.213.249:9988
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Alegria del Transporte (90.9 FM Calama)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Alegria del Transporte (90.9 FM Calama)
 http://s6.medionline.cl:9364/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Mirador (90.9 FM Lautaro)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Mirador (90.9 FM Lautaro)
 http://demo.dyndns.biz:8016/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Digital FM (91.1 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Digital FM (91.1 FM)
 http://mimix.mercurio.cl:8000/digitalfm
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Cariñosa (92.1 FM)(1)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Cariñosa (92.1 FM)(1)
 http://stream5.eltelon.com/carinosa-chillan.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Sur (92.1 FM Los Angeles)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Sur (92.1 FM Los Angeles)
 http://ww3.radiosur.cl:5074/rsur
 
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Romina (92.5 FM Antofagasta)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Romina (92.5 FM Antofagasta)
 http://198.50.154.235:10246/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio ? (? FM ?)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio ? (? FM ?)
 http://167.114.208.100:9844/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Entretenida FM (92.5 FM Vilcun)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Entretenida FM (92.5 FM Vilcun)
 http://atanua.broadcastchile.cl:7000/;
 
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Primavera FM (93.5 FM Arica)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Primavera FM (93.5 FM Arica)
 http://cast.radioservicios.cl:9350/web
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Universo (93.7 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Universo (93.7 FM)
 http://tunein.digitalproserver.com/universobb.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Amanecer (93.7 FM Caldera)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Amanecer (93.7 FM Caldera)
 http://107.155.120.114:9954/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Comunicativa (93.7 FM Ovalle)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Comunicativa (93.7 FM Ovalle)
 http://ip.audiostreaming.cl:9996/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Centinela (93.9 FM Yumbel)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Centinela (93.9 FM Yumbel)
 http://s3.medionline.cl:9964
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Fenomenal (93.9 FM Coyhaique)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Fenomenal (93.9 FM Coyhaique)
 http://stream5.eltelon.com/fenomenal.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Magistral (93.9 FM Galvarino)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Magistral (93.9 FM Galvarino)
 http://www.magistralfm.cl:9110/galvarino
 
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Genesis (94.1 FM Andacollo)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Genesis (94.1 FM Andacollo)
 http://stream5.eltelon.com/genesis-andacollo.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Rinconada (94.3 FM Mejillones)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Rinconada (94.3 FM Mejillones)
 http://server4.radiostreaming.cl:8062/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Almeyda (94.3 FM Diego de Almagro)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Almeyda (94.3 FM Diego de Almagro)
 http://192.99.18.164:9974/stream
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Universitaria de la Serena (94.5 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Universitaria de la Serena (94.5 FM)
 http://radio.cic.userena.cl:8000/radio-uls
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio La Discusion (94.7 FM Chillan)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio La Discusion (94.7 FM Chillan)
 http://stream5.eltelon.com/radio-la-discusion.aac
 
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Amanda (94.9 FM Buin)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Amanda (94.9 FM Buin)
 http://amanda.cmtelcom.com/amanda128
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Udec (95.1 FM Concepcion)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Udec (95.1 FM Concepcion)
 http://radio.udec.cl:8000/radioudec
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Coyhaique (95.3 FM Coyhaique)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Coyhaique (95.3 FM Coyhaique)
 http://stream5.eltelon.com/radio-coyhaique.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Atractiva (FM 95.3 Concepcion)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Atractiva (FM 95.3 Concepcion)
 http://5.9.65.9:8062/atractiva
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , FM Tiempo (95.9 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , FM Tiempo (95.9 FM)
 http://tunein.digitalproserver.com/fmtiempobb.mp3
 
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Araucana (95.9 FM Temuco)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Araucana (95.9 FM Temuco)
 http://s6.medionline.cl:9180/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Beethoven (96.5 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Beethoven (96.5 FM)
 http://tunein.digitalproserver.com/beethovenbb.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Illapel (96.5 FM Illapel)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Illapel (96.5 FM Illapel)
 http://200.111.113.18:8500/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Genesis (96.5 FM Curacautin)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Genesis (96.5 FM Curacautin)
 http://stream5.eltelon.com/genesis.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Loactual (96.7 FM Calama)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Loactual (96.7 FM Calama)
 http://rs.comtic.net:8000/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Bio Bio Radio Los Angeles (96.7 FM Los Angeles)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Bio Bio Radio Los Angeles (96.7 FM Los Angeles)
 http://ice.dallas.digitalproserver.com/biola
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio San Bartolome (96.7 FM La Serena)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio San Bartolome (96.7 FM La Serena)
 http://stream5.eltelon.com/san-bartolome.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Uno (97.1 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Uno (97.1 FM)
 http://14073.live.streamtheworld.com/RADIO_UNO_SC
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Zero (97.7 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Zero (97.7 FM)
 http://tunein.digitalproserver.com/zerobb.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Sol (97.7 FM Antofagasta)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Sol (97.7 FM Antofagasta)
 http://online.radiosol.cl:8000/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Sol (97.7 FM Antofagasta)(Alt)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Sol (97.7 FM Antofagasta)(Alt)
 http://stream5.eltelon.com/sol-radio.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Ventisqueros (97.7 FM Coyhaique)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Ventisqueros (97.7 FM Coyhaique)
 http://stream5.eltelon.com:8000/ventisqueros.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Positiva (98.5 FM Temuco)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Positiva (98.5 FM Temuco)
 http://mimix.mercurio.cl:8000/temuco2
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio El Conquistador (98.9 FM Concepcion)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio El Conquistador (98.9 FM Concepcion)
 http://stream5.eltelon.com/el-conquistador-concepcion.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Digital FM (99.1 FM Punta Arenas)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Digital FM (99.1 FM Punta Arenas)
 http://mimix.mercurio.cl:8000/digitalfm
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Marcela (99.1 FM Huasco)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Marcela (99.1 FM Huasco)
 http://stream5.eltelon.com/archi-marcela.aac?type=.flv
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Arcoiris (99.3 FM Coyhaique)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Arcoiris (99.3 FM Coyhaique)
 http://s6.jcwebnew.com:8120/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Positiva (FM 99.5 Valdivia)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Positiva (FM 99.5 Valdivia)
 http://mimix.mercurio.cl:8000/valdivia2
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Caramelo (99.5 FM Los Angeles)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Caramelo (99.5 FM Los Angeles)
 http://sc6.digitalproserver.com:8120/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Bio-Bio La Radio Santiago (99.7 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Bio-Bio La Radio Santiago (99.7 FM)
 http://unlimited1-cl.dps.live/biobiosantiago/aac/icecast.audio
 
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Nueva Genial (100.5 FM Coyhaique)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Nueva Genial (100.5 FM Coyhaique)
 http://s6.jcwebnew.com:7555/stream
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Dinamica (100.7 FM Coronel)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Dinamica (100.7 FM Coronel)
 http://stream5.eltelon.com/dinamica.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Futura FM (100.7 Talca)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Futura FM (100.7 Talca)
 http://stream5.eltelon.com/futura.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Mejillones FM (100.9 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Mejillones FM (100.9 FM)
 http://s6.medionline.cl:8006/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Festiva (100.9 FM Copiapo)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Festiva (100.9 FM Copiapo)
 http://s6.jcwebnew.com:8070/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Corazon (101.3 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Corazon (101.3 FM)
 http://19263.live.streamtheworld.com/CORAZON_SC
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Revelacion (101.5 FM Canete)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Revelacion (101.5 FM Canete)
 http://stream5.eltelon.com/doble-r.aac
 
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Oasis (102.1 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Oasis (102.1 FM)
 http://mp3.oasisfm.cl/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , U. de Chile (102.5 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , U. de Chile (102.5 FM)
 http://stream3.rbm.cl:8010/playerweb.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Madero (102.5 FM Antofagasta)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Madero (102.5 FM Antofagasta)
 http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
 
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Las Nieves (102.9 FM Puerto Aysen)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Las Nieves (102.9 FM Puerto Aysen)
 http://s6.jcwebnew.com:7060/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Okey (103.1 FM Copiapo)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Okey (103.1 FM Copiapo)
 http://streaming.fmokey.cl:8000/FmOkCP.mp3
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Centro FM (103.3 FM Antofagasta)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Centro FM (103.3 FM Antofagasta)
 http://stream5.eltelon.com/centro.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio 1049 (FM 104.9 Pucon)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio 1049 (FM 104.9 Pucon)
 http://audio.streaminghd.cl:8034/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Sonar (105.3)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Sonar (105.3)
 http://mp3.sonarfm.cl/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Positiva (FM 105.5 FM Concepcion)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Positiva (FM 105.5 FM Concepcion)
 http://mimix.mercurio.cl:8000/concepcion2
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Extrema (106.1 FM Puerto Saavedra)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Extrema (106.1 FM Puerto Saavedra)
 http://stream5.eltelon.com/radio-extrema.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Nativa (106.5 FM Lumaco)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Nativa (106.5 FM Lumaco)
 http://stream5.eltelon.com/nativa.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Cooperativa (106.7 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Cooperativa (106.7 FM)
 http://unlimited1-us.digitalproserver.com/cooperativafm/mp3/icecast.audio
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Paula (106.9 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Paula (106.9 FM)
 http://tunein.digitalproserver.com/paulafm.mp3
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Plus FM (106.9 FM Antofagasta)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Plus FM (106.9 FM Antofagasta)
 http://sonando.us.digitalproserver.com/fmplus_aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Dixi (106.9 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Dixi (106.9 FM)
 http://192.99.150.234:9940
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Candelaria (106.9 FM Tierra Amarilla)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Candelaria (106.9 FM Tierra Amarilla)
 http://stream5.eltelon.com/candelaria.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Esperanza (106.9 FM Temuco)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Esperanza (106.9 FM Temuco)
 http://s6.jcwebnew.com:7800/;
 
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Popular (107.3 FM Coihueco :lib)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Popular (107.3 FM Coihueco :lib)
 http://192.99.150.234:9920/;
 
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , El Bosque (107.9 FM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , El Bosque (107.9 FM)
 http://104.236.248.181:8766
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , radio="true" tvg-logo="IdDLahq.png" , NIU Radio
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , radio="true" tvg-logo="IdDLahq.png" , NIU Radio
 http://live-origin.us.niu.cl/niu_radio.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , radio="true" tvg-logo="F2NETjA.png" , NIU POP
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , radio="true" tvg-logo="F2NETjA.png" , NIU POP
 http://live-origin.us.niu.cl/niu_pop.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , radio="true" tvg-logo="bJo50Wn.png" , NIU Indie
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , radio="true" tvg-logo="bJo50Wn.png" , NIU Indie
 http://live-origin.us.niu.cl/niu_indie.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , radio="true" tvg-logo="s7OJiQm.png" , NIU Rock
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , radio="true" tvg-logo="s7OJiQm.png" , NIU Rock
 http://live-origin.us.niu.cl/niu_rock.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , radio="true" tvg-logo="MirXwU7.png" , NIU CL
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , radio="true" tvg-logo="MirXwU7.png" , NIU CL
 http://live-origin.us.niu.cl/niu_cl.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , radio="true" tvg-logo="j1IuV62.png" , NIU 80s
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , radio="true" tvg-logo="j1IuV62.png" , NIU 80s
 http://live-origin.us.niu.cl/niu_80s.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , radio="true" tvg-logo="0LJAWqq.png" , NIU 90s
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , radio="true" tvg-logo="0LJAWqq.png" , NIU 90s
 http://live-origin.us.niu.cl/niu_90s.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , radio="true" tvg-logo="EP5tAqv.png" , Niu LIVE
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , radio="true" tvg-logo="EP5tAqv.png" , Niu LIVE
 http://live-origin.us.niu.cl/niu_live.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Candela FM (Online)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Candela FM (Online)
 http://tunein.digitalproserver.com/candelabb.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Rockaxis (Online)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Rockaxis (Online)
 http://radio.cl.mediastre.am/rockaxis.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Galaxia (Online)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Galaxia (Online)
 http://sscl.denialstream.com:8830/;stream/1.mp3
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Anglo Latina (Online)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Anglo Latina (Online)
 http://streaming.radioanglolatina.com:8012/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Siente (Online - Arica)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Siente (Online - Arica)
 http://radio1.us.mediastre.am/siente.aac
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Aternativa FM (Online - Huasco)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Aternativa FM (Online - Huasco)
 http://107.155.120.114:9944/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , UCT Radio Temuco (Online)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , UCT Radio Temuco (Online)
 http://audio.uctradio.cl/radio
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Santiago (Orquestada) (690 AM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Santiago (Orquestada) (690 AM)
 http://167.114.119.122:9982/;stream/1
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Santiago (Romantica) (690 AM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Santiago (Romantica) (690 AM)
 http://167.114.119.122:9978/;stream/1
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Chilena Concepcion (1030 AM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Chilena Concepcion (1030 AM)
 http://unlimited1-cl.digitalproserver.com/chilena/aac/icecast.audio
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio UBB (1360 AM Concepcion)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio UBB (1360 AM Concepcion)
 http://radioubb.cl:8000/online
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Radio Llacolen (1600 AM Concepcion)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Llacolen (1600 AM Concepcion)
 http://sc.digitalproserver.com:9532/;
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  , Portales (1180 AM)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Portales (1180 AM)
 http://s6.jcwebnew.com:8060/stream
 
-#EXTINF:-1 group-title="RADIO ESTABLES GAME SNAKE LAND S.L"  ,   Radio Caracol (590 AM Concepcion)
+#EXTINF:-1 group-title="RADIO ESTABLES CablearTV"  , Radio Caracol (590 AM Concepcion)
 http://208.80.54.40/CARACOL_RADIOAAC_SC
 
