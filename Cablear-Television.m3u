@@ -16,15 +16,15 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/index.m3
 #EXTINF:-1 tvg-id="Tlnovelas.ar" tvg-name="TlNovelas" tvg-logo="http://www.chileiptv.xyz/logos/41.jpg" group-title="Internacionales",TLNOVELAS
 http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/96.ts
 
-#EXTINF:-1 tvg-id="01" tvg-name="01" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NotiFutbol",ATV (PE)
+#EXTINF:-1 tvg-id="01" tvg-name="01" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TV-CABLEAR",ATV (PE)
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b981072.m3u8
-#EXTINF:-1 tvg-id="02" tvg-name="02" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NotiFutbol",ATV 2 (PE)
+#EXTINF:-1 tvg-id="02" tvg-name="02" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TV-CABLEAR",ATV 2 (PE)
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b981072.m3u8
-#EXTINF:-1 tvg-id="03" tvg-name="03" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NotiFutbol",ATV 3 (PE
+#EXTINF:-1 tvg-id="03" tvg-name="03" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="V-CABLEAR",ATV 3 (PE
 http://inber.tvyradio.ml/stream_0.php?id=1&type=m3u8
-#EXTINF:-1 tvg-id="04" tvg-name="04" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NotiFutbol",ATV 4 (PE
+#EXTINF:-1 tvg-id="04" tvg-name="04" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TV-CABLEAR",ATV 4 (PE
 http://165.227.32.177/stream/s3KsKNCC93oiw7a74EGcNPl1gIyglhFN.m3u8
-#EXTINF:-1 tvg-id="05" tvg-name="05" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NotiFutbol",ESPN 2 
+#EXTINF:-1 tvg-id="05" tvg-name="05" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TV-CABLEAR",ESPN 2 
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(01)/index.m3u8
 
 #EXTM3U
