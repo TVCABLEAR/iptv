@@ -62,7 +62,7 @@ http://www.djing.com/tv/a-04.m3u8
 #EXTINF:0 type="stream" channelId="2526" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png" group-title="CablearTV" , Hit Tv
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="CablearTV",Dance/EDM
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="CablearTV",Dance/EDM (*)
 
 #EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="CablearTV", MC Play
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
@@ -74,9 +74,6 @@ https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
 
-#EXTINF:-1 type="stream" channelId="407" tvg-logo="https://lh4.googleusercontent.com/-qcqUmE_igSs/AAAAAAAAAAI/AAAAAAAAaic/YpE2J55-zaU/photo.jpg" group-title="CablearTV", UNIVISION
-http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_1600_androidtab.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo_medium.png"group-title="CablearTV",TELEMUNDO LATINO 
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
@@ -84,9 +81,9 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 http://aztecalive-lh.akamaihd.net:80/i/0qeij0bji_1@26639/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://imgur.com/SVFUP73.jpeg" group-title="CablearTV", AZ HONDURAS
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
-#EXTINF:0 type="stream" channelId="1965" tvg-logo="http://www.ipuntotv.com/IMAGES/TDN-logo.png" group-title="CablearTV", tdn
+#EXTINF:0 type="stream" channelId="1965" tvg-logo="http://www.ipuntotv.com/IMAGES/TDN-logo.png" group-title="CablearTV", TDN (*)
 
-#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/F2cAs.png?1" group-title="CablearTV", univision tdn
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/F2cAs.png?1" group-title="CablearTV", UNIVISION TDN (*)
 
 
 #EXTINF:0 type="stream" tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="CablearTV", univision deportes
@@ -94,7 +91,7 @@ http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
 #EXTINF:0  tvg-logo="http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png" group-title="CablearTV" , ESTADIO CDF
 http://cdn2.shurs.xyz/verliga/2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="CablearTV" ,CDF Premium (Game Snake Land S.y Land.)
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="CablearTV" ,CDF Premium (*)
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/cumbianinja/images/e/e9/FOX_Tv_Logo_Musica_Album_Canal_Recortado_Svg.png/revision/latest?cb=20140816160641&path-prefix=es"group-title="CablearTV", Fox
 http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FAQxncWY4dmjtsrNk1ZyxpapRxMrfWFLUHZSkwMVvG2%2BmvMf75QIS4i%2Fq%2B3NU3bUsQH3CsqwFknA%3D%3D
