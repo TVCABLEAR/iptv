@@ -27,7 +27,8 @@ http://165.227.32.177/stream/s3KsKNCC93oiw7a74EGcNPl1gIyglhFN.m3u8
 #EXTINF:-1 tvg-id="05" tvg-name="05" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NotiFutbol",ESPN 2 
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(01)/index.m3u8
 
-group:CABLETV
+#EXTM3U
+
 #EXTINF:0, TLNOVELAS
 http://live.izzitv.mx/Content/HLS/Live/Channel(TLNOVELAS)/index.m3u8?CablearTV.m3u8
 #EXTINF:0, CANAL 5
@@ -764,7 +765,7 @@ https://www.youtube.com/watch?v=c0KVAO9y13g
 #EXTINF:0,Movies 24/7
 https://www.youtube.com/watch?v=RdPTu-pbKYc
 
-group: MAS TV
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0011/9889/brand.gif?itok=iWmC4ed4", DISCOVERY CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
