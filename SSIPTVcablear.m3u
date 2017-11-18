@@ -2800,6 +2800,6 @@ http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-4
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",CRIMEN E INVESTIGACION
 http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",ATAR CHANEL
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",SATAR CHANEL
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
 
