@@ -6,6 +6,25 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",--------globalentv@gmail.com-----
 https://github.com/TVCABLEAR/
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM-HD",HBO_SIGNATURE_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM-HD",HBO_2_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM-HD",HBO_PLUS_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM-HD",HBO_FAMILY_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(02)/index.m3u8
+#EXTINF:--1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM-HD",HBO_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM-HD",MAX
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM-HD",MAX_PRIME_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME_HD)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM-HD",MAX_UP_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/Stream(02)/index.m3u8https://pastebin.com/WDyed92x
+
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/tbs.png" group-title="PREMIUM", TBS
 http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/med_gallery_1157_2_1147.png" group-title="PREMIUM", ISAT
