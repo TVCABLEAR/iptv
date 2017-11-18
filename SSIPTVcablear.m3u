@@ -7,7 +7,7 @@ https://github.com/TVCABLEAR/
 https://github.com/TVCABLEAR/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Experimental Channells",TEST 1
-<!--CANALES DE STREAM LOCAL-->
+https://raw.githubusercontent.com/TVCABLEAR/iptv/master/ExperimentalChannell.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM HD", A&E Channell
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/index.m3u8
