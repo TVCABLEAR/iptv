@@ -2277,3 +2277,208 @@ https://hls-ord-1a.vaughnsoft.net/nyc/live/live_vitatochespirito/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="5cmmkbK.png" group-title="Peliculas y Series", Chespirito 2 | SD
 https://hls-ord-1a.vaughnsoft.net/nyc/live/live_chespirito_mania/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",comedy central
+http://live.izzitv.mx/Content/HLS/Live/Channel(Comedy_Central)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",unicable
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",canal 5
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",E!
+http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",iISAT
+http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",Distrito Comedia
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",Paramount
+http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",tnt
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",axn
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",space
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",warner
+http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",sony
+http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",tbs
+http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",depelicula
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",golden
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",tcm
+http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",cinemax
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",tnt series
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",sudance
+http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",espn
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",espn 2
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",espn 3
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",f1
+http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",univision tdn
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",tdn
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",mtv
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",bandamax
+http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",ritmoson
+http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",telehit
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",vh1
+http://live.izzitv.mx/Content/HLS/Live/Channel(VH1)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",nick jr
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",el gourmet
+http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",natgeo
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",natgeo wild
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",ae
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",history
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",h2
+http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Canales-IZZITV.MX",lifetime
+http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",NFL
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?CablearTV.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",AZ HONDURAS
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",NIU TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",UNICANAL
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",TELECAFE
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",TE LE FE
+http://ar.watcha.live/ch6/hi.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",BOOMERANG
+https://live.tutvplay.com/CH/b2tNK0JiV3N1SjZBMEhENlBZZ2lmdz09/Boomerang.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",el 13
+http://ar.watcha.live/ch7/hi.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",tele t
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",efekto tv
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",milenio tv
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",mvs noticias
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",cnn chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",tele sur
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",8tv
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",rtv
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1,mega españa
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",a tes series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",virgin
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?www.tecnotv.info
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",portal mx
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?www.tecnotv.info
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",planeta mx
+http://84.43.207.130/planetahd/planetahd.m3u8?www.tecnotv.info
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",colosal tv
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8?www.tecnotv.info
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?www.tecnotv.info
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",pop hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",r&b
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",rap 2k
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",TODAY
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",y2k
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",mexicanas
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",yes
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?www.tecnotv.info
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",canal once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",tv nicaragua
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",ticavision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",nex tv
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",tvp culiacan
+http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",tv mochis
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/chunklist_w1854582142_b1428000_sleng.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",yanqui tv
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",tv veracruz
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",sun channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",garage
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",travel
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",univision
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",unimas
+http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",fdf
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",canal de las estrellas
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",canal de las estrellas 2 opcion
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",gala tv
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",pakapaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES",locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
