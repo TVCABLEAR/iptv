@@ -32,7 +32,7 @@ http://144.217.79.223:8000/live/vidal/vidal/255.m3u8
 http://144.217.79.223:8000/live/vidal/vidal/2038.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fx.jpg" group-title="PREMIUM tecnowillblog", FX
 http://144.217.79.223:8000/live/vidal/vidal/268.m3u8
-#EXTINF:-1 tvg-logo="https://la.canalsony.com/sites/la.set/files/logos/sony-primary-nav_0.png" group-title="PREMIUM Extra", SONY
+#EXTINF:-1 tvg-logo="https://la.canalsony.com/sites/la.set/files/logos/sony-primary-nav_0.png" group-title="PREMIUM tecnowillblog", SONY
 http://144.217.79.223:8000/live/vidal/vidal/269.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/warner.jpg" group-title="PREMIUM tecnowillblog", WARNER BROTHER
 http://144.217.79.223:8000/live/vidal/vidal/398.m3u8
@@ -97,35 +97,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)
 #EXTINF:-1 tvg-logo="https://imgur.com/zn2C9xA.png" group-title="24/7",Los Simpson Random
 http://tecnotv.xyz/tv3/simpsontv
 
-#EXTINF:-1 group-title="TV",CINEMAX
-http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
 
-#EXTINF:-1 group-title="TV",E!
-http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
-
-#EXTINF:-1 group-title="TV",FOX  HD
-http://bit.ly/2jie6Ag?JoCaRoIPTV.m3u8
-
-#EXTINF:-1 group-title="CULTURALES",History HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
-
-#EXTINF:-1 group-title="MÚSICA",MTV
-http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
-
-#EXTINF:-1 group-title="CULTURALES",NATGEO WILD
-http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
-
-#EXTINF:-1 group-title="INFANTILES",NICK
-http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
-
-#EXTINF:-1 group-title="CULTURALES",NatGeo
-http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
-
-#EXTINF:-1 group-title="CULTURALES",TRUTV
-http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
-
-#EXTINF:-1 group-title="TV",UNICABLE
-http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
@@ -191,65 +163,95 @@ http://iptv61w.com:25461/live/daniel/daniel/3710.m3u8
 http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-LiaQDlzHFPU/U7UozRfRUpI/AAAAAAAAEQc/jK_3OyQ7nds/s1600/Lifetime.jpeg" group-title="PREMIUM", LIFETIME OPC2 NO DISPONIBLE
 
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2292.png" group-title="PREMIUM", CINEMAX
+#EXTINF:-1 group-title="PREMIUM izzitv.mx",CINEMAX
 http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2292.png" group-title="PREMIUM", CINEMAX OPC2
-http://iptv61w.com:25461/live/daniel/daniel/3684.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/180px-History_Logo.svg.png" group-title="PREMIUM", HISTORY
+
+#EXTINF:-1 group-title="PREMIUM izzitv.mx",E!
+http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM izzitv.mx",FOX  HD
+http://bit.ly/2jie6Ag
+
+#EXTINF:-1 group-title="PREMIUM izzitv.mx",History HD
 http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/180px-History_Logo.svg.png" group-title="PREMIUM", HISTORY OPC2
+
+#EXTINF:-1 group-title="PREMIUM izzitv.mx",MTV
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM izzitv.mx",NATGEO WILD
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM izzitv.mx",NICK
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM izzitv.mx",NatGeo
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM izzitv.mx",TRUTV
+http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM izzitv.mx",UNICABLE
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2292.png" group-title="PREMIUM live.izzitv", CINEMAX
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2292.png" group-title="PREMIUM live.izzitv", CINEMAX OPC2
+http://iptv61w.com:25461/live/daniel/daniel/3684.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/180px-History_Logo.svg.png" group-title="PREMIUM live.izzitv", HISTORY
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/180px-History_Logo.svg.png" group-title="PREMIUM iptv61w.com", HISTORY OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3792.m3u8
-#EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/h_2.png" group-title="PREMIUM", H2
+#EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/h_2.png" group-title="PREMIUM live.izzitv", H2
 http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
-#EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/h_2.png" group-title="PREMIUM", H2 OPC2
+#EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/h_2.png" group-title="PREMIUM iptv61w.com", H2 OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3790.m3u8
-#EXTINF:-1 tvg-logo="https://la.canalsony.com/sites/la.set/files/logos/sony-primary-nav_0.png" group-title="PREMIUM", SONY
+#EXTINF:-1 tvg-logo="https://la.canalsony.com/sites/la.set/files/logos/sony-primary-nav_0.png" group-title="PREMIUM live.izzitv", SONY
 http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
-#EXTINF:-1 tvg-logo="https://la.canalsony.com/sites/la.set/files/logos/sony-primary-nav_0.png" group-title="PREMIUM", SONY OPC2
+#EXTINF:-1 tvg-logo="https://la.canalsony.com/sites/la.set/files/logos/sony-primary-nav_0.png" group-title="PREMIUM iptv61w.com", SONY OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3704.m3u8
-#EXTINF:-1 tvg-logo="http://ignupload.s3.amazonaws.com/1435182836-WB.png" group-title="PREMIUM", WARNER BROTHER
+#EXTINF:-1 tvg-logo="http://ignupload.s3.amazonaws.com/1435182836-WB.png" group-title="PREMIUM live.izzitv", WARNER BROTHER
 http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
-#EXTINF:-1 tvg-logo="http://ignupload.s3.amazonaws.com/1435182836-WB.png" group-title="PREMIUM", WARNER BROTHER OPC2
+#EXTINF:-1 tvg-logo="http://ignupload.s3.amazonaws.com/1435182836-WB.png" group-title="PREMIUM iptv61w.com", WARNER BROTHER OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3736.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="PREMIUM", GOLDEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="PREMIUM live.izzitv", GOLDEN
 http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="PREMIUM", GOLDEN OPC2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="PREMIUM iptv61w.com", GOLDEN OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3734.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="PREMIUM", AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="PREMIUM live.izzitv", AXN
 http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="PREMIUM", AXN OPC2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="PREMIUM iptv61w.com", AXN OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3747.m3u8
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="PREMIUM", SPACE
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="PREMIUM live.izzitv", SPACE
 http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="PREMIUM", SPACE OPC2
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png" group-title="PREMIUM iptv61w.com", SPACE OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3825.m3u8
-#EXTINF:-1 tvg-logo="http://i61.tinypic.com/r2tjx2.jpg" group-title="PREMIUM", TNT SERIES
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/r2tjx2.jpg" group-title="PREMIUM live.izzitv", TNT SERIES
 http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2999.png" group-title="PREMIUM",TNT SERIES OPC2
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2999.png" group-title="PREMIUM iptv61w.com",TNT SERIES OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3724.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Sundance_Channel_HD_Logo.png" group-title="PREMIUM", SUNDANCE CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Sundance_Channel_HD_Logo.png" group-title="PREMIUM live.izzitv", SUNDANCE CHANNEL
 http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Sundance_Channel_HD_Logo.png" group-title="PREMIUM", SUNDANCE CHANNEL OPC2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Sundance_Channel_HD_Logo.png" group-title="PREMIUM iptv61w.com", SUNDANCE CHANNEL OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3982.m3u8
-#EXTINF:-1 tvg-logo="http://www.identityschoolofacting.com/wp-content/uploads/2017/05/paramount-logo-grid-new.png" group-title="PREMIUM", PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="http://www.identityschoolofacting.com/wp-content/uploads/2017/05/paramount-logo-grid-new.png" group-title="PREMIUM live.izzitv", PARAMOUNT CHANNEL
 http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.identityschoolofacting.com/wp-content/uploads/2017/05/paramount-logo-grid-new.png" group-title="PREMIUM", PARAMOUNT CHANNEL OPC2
+#EXTINF:-1 tvg-logo="http://www.identityschoolofacting.com/wp-content/uploads/2017/05/paramount-logo-grid-new.png" group-title="PREMIUM iptv61w.com", PARAMOUNT CHANNEL OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3701.m3u8
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/11/TBS-logo-2015-new-640x480.png" group-title="PREMIUM",TBS
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/11/TBS-logo-2015-new-640x480.png" group-title="PREMIUM live.izzitv",TBS
 http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2015/11/TBS-logo-2015-new-640x480.png" group-title="PREMIUM",TBS OPC2
 http://iptv61w.com:25461/live/daniel/daniel/3828.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fusion_TV_2013_logo.png" group-title="PREMIUM",FUSION
 http://live.izzitv.mx/Content/HLS/Live/Channel(FUSION)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/MTV_Live_HD_2011.svg" group-title="PREMIUM", MTV LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/MTV_Live_HD_2011.svg" group-title="PREMIUM live.izzitv", MTV LIVE
 http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/mtv.png" group-title="PREMIUM", MTV 
+#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/mtv.png" group-title="PREMIUM live.izzitv", MTV 
 http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-QU_BXcH1T1o/UJhSqN_BhfI/AAAAAAAAXFM/dRO6Sl5DKqM/s1600/TELEHIt-2012.png" group-title="PREMIUM", TELEHIT
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-QU_BXcH1T1o/UJhSqN_BhfI/AAAAAAAAXFM/dRO6Sl5DKqM/s1600/TELEHIt-2012.png" group-title="PREMIUM live.izzitv", TELEHIT
 http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/bdmax.png" group-title="PREMIUM", BANDAMAX
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/bdmax.png" group-title="PREMIUM live.izzitv", BANDAMAX
 http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2016_12/large_rm.png.c22dac6c6fdbe5e13f8b38a2a25af322.png" group-title="PREMIUM",RITMOSON
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2016_12/large_rm.png.c22dac6c6fdbe5e13f8b38a2a25af322.png" group-title="PREMIUM live.izzitv",RITMOSON
 http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2013/02/new-univision-logo__130221235240.png?w=605" group-title="PREMIUM", UNIVISION
 http://iptv61w.com:25461/live/daniel/daniel/5767.m3u8
