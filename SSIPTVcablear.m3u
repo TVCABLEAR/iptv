@@ -3164,106 +3164,105 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", CARTOON NETWORT
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
 
-#EXTINF:0,NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", NAT GEO WILD
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(04)/index.m3u8
-#EXTINF:0,NATIONAL GEOGRAPHIT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", NATIONAL GEOGRAPHIT
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO)/Stream(01)/index.m3u8
-#EXTINF:0,ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", ANIMAL PLANET HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
-#EXTINF:0,DISCOVERY HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", DISCOVERY HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
-#EXTINF:0,H2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", H2
  http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/Stream(01)/index.m3u8
-#EXTINF:0,DISCOVERY MAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", DISCOVERY MAX
 http://tepo6.telesport.pw/live/dmax/index.m3u8?token=-4UR3IyECa6qiQG7d5-u3Q&expires=1510533151
-#EXTINF:0,REAL MADRIL TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", REAL MADRIL TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,UNIVICION TDN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", UNIVICION TDN
 http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
-#EXTINF:0,FOX-SPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", FOX-SPORT
 http://35.196.195.222/hls/live/channel4.m3u8
-#EXTINF:0,FOX-SPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", FOX-SPORT 2
 http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2B22UIrXWlIvXwZ%2FLSFYjG3EXh2rVebJC3p7wzfdxnDSDq1rWbh%2F8hVpSvHJy0EjIYyGiVAV6DpSQ%3D%3D
-#EXTINF:0,DIRECTO TV
-#EXTINF:0,FOX SPORT 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", DIRECTO TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", FOX SPORT 3
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
-#EXTINF:0,ESPN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", ESPN
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
-#EXTINF:0,ESPN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", ESPN 2
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
-#EXTINF:0,ESPN 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", ESPN 3
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(05)/index.m3u8
-#EXTINF:0,NATGEO KIDS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", NATGEO KIDS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
-#EXTINF:0,BOOMERANG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", BOOMERANG
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG)/Stream(01)/index.m3u8
-#EXTINF:0,CARTON NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", CARTON NETWORK
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
-#EXTINF:0,disney channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", disney channel
 http://s2.iptvmanagerpro.com/stream_20_4cbd341adb6edb0a8bc8697491b4b11d_1510520419.m3u8
-#EXTINF:0,disney junior
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", disney junior
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
-#EXTINF:0,DISNEY XD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", DISNEY XD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
-#EXTINF:0,NICKELODEO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", NICKELODEO
 http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/Stream(07)/index.m3u8
-#EXTINF:0,TOONCAST
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", TOONCAST
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
-#EXTINF:0,FOX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", FOX
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/Stream(01)/index.m3u8
-#EXTINF:0,FOX MOVIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", FOX MOVIES
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/Stream(01)/index.m3u8
-#EXTINF:0,FOX ACTION
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", FOX ACTION
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/Stream(01)/index.m3u8
-#EXTINF:0,FOX CINEMA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", FOX CINEMA
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/Stream(01)/index.m3u8
-#EXTINF:0,GOLDEN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", GOLDEN HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8
-#EXTINF:0,CINEMAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", CINEMAX
 http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/Stream(01)/index.m3u8
-#EXTINF:0,HBO 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", HBO 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
-#EXTINF:0,HBO PLUS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", HBO PLUS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
-#EXTINF:0,HBO FAMILY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", HBO FAMILY
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8
-#EXTINF:0,SPACE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", SPACE HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
-#EXTINF:0,TNT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", TNT
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
-#EXTINF:0,THE FILMZONE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", THE FILMZONE
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/Stream(01)/index.m3u8
-#EXTINF:0,A&E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", A&E
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8
-#EXTINF:0,AXN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", AXN HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/Stream(01)/index.m3u8
-#EXTINF:0,AZ CORAZON HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", AZ CORAZON HD
 http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/Stream(01)/index.m3u8
-#EXTINF:0,SONY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", SONY
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8  
-#EXTINF:0,GLITZ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", GLITZ
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GLITZ)/Stream(01)/index.m3u8
-#EXTINF:0,TNT SERIES HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", TNT SERIES HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/Stream(01)/index.m3u8
-#EXTINF:0,TRUTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", TRUTV HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TRUTV)/Stream(01)/index.m3u8
-#EXTINF:0,UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", UNIVERSAL CHANNEL HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(01)/index.m3u8
-#EXTINF:0,WARNER CHANNEL HD
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(01)/index.m3u8  
-#EXTINF:0,Lifetime
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", Lifetime
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/Stream(01)/index.m3u8
-#EXTINF:0,TLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", TLC
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/Stream(01)/index.m3u8
-#EXTINF:0,canal hd estrenos
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", canal hd estrenos
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/Stream(01)/index.m3u8
-#EXTINF:0,DE PELICULA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", DE PELICULA
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/Stream(01)/index.m3u8
-#EXTINF:0,CINE LATINO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", CINE LATINO
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/Stream(01)/index.m3u8
-#EXTINF:0,TELEMUNDO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", TELEMUNDO
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,TLNOVELAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", TLNOVELAS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", LAS ESTRELLAS
@@ -3287,9 +3286,6 @@ http://tecnotv.xyz/tv3/forotv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", EL TRECE
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", AZTECA 7
-http://live.izzitv.mx/Content/HLS/Live/Channel(AZTECA7)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", ADN 40
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 
@@ -3302,38 +3298,11 @@ http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", HISPAN TV
 http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", UNIVISION DEPORTES
-http://tecnotv.xyz/tv3/utdn
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", UNIVISION DEPORTES
-http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", TDN
-http://tecnotv.xyz/tvmex/tdn
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", TDN
-http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", UNIVISION TDN
-http://tecnotv.xyz/tvmex/univisiontdn
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", UNIVISION TDN
-http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", CLARO VIDEO
 http://bit.ly/ClaroPelixmax
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", ESPN
-http://tecnotv.xyz/tvmex/espn
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", ESPN
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", ESPN 2
-http://tecnotv.xyz/tvmex/espn2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", ESPN 2
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", DISCOVERY CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
@@ -3344,29 +3313,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEAL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", ID
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", NATGEO
-http://tecnotv.xyz/tvmex/natgeo
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", NATGEO WILD
-http://tecnotv.xyz/tvmex/natgeowild
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", ANIMAL PLANET
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", HISTORY
-http://tecnotv.xyz/tvmex/history
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", HISTORY
-http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", HISTORY 2
-http://tecnotv.xyz/tvmex/h2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", HISTORY 2
-http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", EL GOURMET
-http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", UMTV
 http://streaminglivehd.com:1935/8022/8022/playlist.m3u8
@@ -3380,29 +3329,8 @@ http://aos01.3abn.adaptive.level3.net/hls-live/mediaoppremux-lat_multi/_definst_
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", E!
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(E)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", SONY
-http://tecnotv.xyz/tvmex/sony
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", A&E
-http://tecnotv.xyz/tvmex/ae
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", A&E
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", COMEDY CENTRAL
-http://tecnotv.xyz/tvmex/comediacentral
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", COMEDY CENTRAL
-http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", DISTRITO COMEDIA
-http://tecnotv.xyz/tvmex/distritocomedia
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", DISTRITO COMEDIA
-http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", FOX
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2Bx7iKASkSTcdFFJAoJ%2FNGNcWryy4gPMpDMZIWwuMkvCQlk7fK1tNjVQJQpJ7EqZm1cQW92Phy88A%3D%3D
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", FOX LIFE
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
