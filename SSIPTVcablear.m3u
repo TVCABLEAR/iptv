@@ -3431,24 +3431,6 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TBS)/Stream(01)/ind
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", TNT SERIES
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", TRUE TV
-http://tecnotv.xyz/tvmex/trutv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", UNICABLE
-http://tecnotv.xyz/tvmex/unicablehd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", UNIMAS
-http://tecnotv.xyz/tv3/unimas
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", UNIVISION
-http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", UNIVISION
-http://tecnotv.xyz/tv3/univision
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", WARNER CHANNEL
-http://tecnotv.xyz/tvmex/warner
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PASTEBIN-JmG6Q6yw", WARNER CHANNEL
 http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
 
