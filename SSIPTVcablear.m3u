@@ -11,6 +11,73 @@ https://raw.githubusercontent.com/TVCABLEAR/iptv/master/ExperimentalChannell.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Experimental Channells",Lista M3u8
 https://raw.githubusercontent.com/TVCABLEAR/iptv/master/ExperimentalLista.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO", CANALES DE CLARO
+#EXTINF:-1,HBO PLUS HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,HBO 2 HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,HBO FAMILY HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,DEPELICULA 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/Stream(01)/index.m3u8 
+#EXTINF:-1,GOLDEN HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,CINE LATINO 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/Stream(01)/index.m3u8 
+#EXTINF:-1,CINEMAX 
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/Stream(01)/index.m3u8 
+#EXTINF:-1,TNT HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,FOX1 HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,FOX MOVIES HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,FOX ACTION 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/Stream(01)/index.m3u8 
+#EXTINF:-1,FOX CINEMA HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,FOX CLASSICS HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,SPACE HD http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,THE FILM ZONE HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,ISAT 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/Stream(01)/index.m3u8 
+#EXTINF:-1,DISCOVERY 
+CHANNEL http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,ANIMAL PLANET HD http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,H2 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/Stream(01)/index.m3u8 
+#EXTINF:-1,NATGEO 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO)/Stream(01)/index.m3u8 
+#EXTINF:-1,NATGEO WILD 
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(06)/index.m3u8 
+#EXTINF:-1,TLC 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/Stream(01)/index.m3u8 
+#EXTINF:-1,AE 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8 
+#EXTINF:-1,AXN HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,AZCORAZON HD 
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,SONY HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,FOX HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,FX HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,UNIVERSAL CHANNEL HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,WARNER HD http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,BOOMERANG http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG)/Stream(01)/index.m3u8 
+#EXTINF:-1,NATGEO KIDS HD http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,CARTOON NETWORK HD http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,DISNEY JR http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8 
+#EXTINF:-1,TOONCAST http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8 
+#EXTINF:-1,NICK HD http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/Stream(01)/index.m3u8 
+#EXTINF:-1,DISNEY HD http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO", CANALES DE CLARO
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM HD",TBS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TBS)/Stream(01)/index.m3u8
