@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 group-title="IPTV61-MOISES123", =IPTV61=
+https://www.youtube.com/watch?v=50GTjROY1es
+<!--https://pastebin.com/raw/914X9Wrs-->
+
+#EXTINF:-1 tvg-id="I187.41118.tvguide.com" tvg-name="" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="IPTV61-MOISES123",=IPTV61=
+#EXTGRP: =IPTV61= User Moises123
+
 #EXTINF:-1,DTV Sports
 http://iptv61w.com:25461/live/moises123/moises123/7343.ts
 #EXTINF:-1,DTV Sports 2
@@ -888,3 +901,7 @@ http://iptv61w.com:25461/live/moises123/moises123/3996.ts
 http://iptv61w.com:25461/live/moises123/moises123/3997.ts
 #EXTINF:-1,SPACE HD.
 http://iptv61w.com:25461/live/moises123/moises123/3958.ts
+
+#EXTINF:-1 tvg-id="I187.41118.tvguide.com" tvg-name="" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="IPTV61-MOISES123",=IPTV61=
+
+
