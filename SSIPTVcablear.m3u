@@ -211,7 +211,8 @@ http://tv.latintvweb.com:8000/live/Manuel/Manuel/3311.ts
 #EXTINF:-1,ARG - TNT SPORTS HD 
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/15222.ts 
 #EXTINF:-1,LAT [DEP] - 
-FOX SPORT PREMIUM http://tv.latintvweb.com:8000/live/Manuel/Manuel/15223.ts
+FOX SPORT PREMIUM 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15223.ts
 #EXTINF:-1,USA:FOX DEPORTES HD 
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/11605.ts 
 #EXTINF:-1,Latino ||Fox Sports Argentina HD 
@@ -350,7 +351,8 @@ http://tv.latintvweb.com:8000/live/Manuel/Manuel/14972.ts
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/14849.ts 
 #EXTINF:-1,Comedy Central(1080). 
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/14858.ts 
-#EXTINF:-1,DHE(1080). http://tv.latintvweb.com:8000/live/Manuel/Manuel/14851.ts 
+#EXTINF:-1,DHE(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14851.ts 
 #EXTINF:-1,Distrito Comedia(1080). 
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/14857.ts 
 #EXTINF:-1,Golden HD(1080). 
