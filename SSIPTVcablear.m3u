@@ -922,903 +922,900 @@ http://tv.latintvweb.com:8000/live/Manuel/Manuel/17015.ts
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/17013.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", NEXT ==>>
 
-#EXTINF:-1 group-title="IPTV61-MOISES123", =IPTV61=
-https://www.youtube.com/watch?v=50GTjROY1es
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61",PREMIUM IPTV61
+https://www.youtube.com/watch?v=50GTjROY1es 
 
-
-#EXTINF:-1 tvg-id="I187.41118.tvguide.com" tvg-name="" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61",=IPTV61-MOISES123=
-#EXTGRP: =IPTV61 - User Moises123
-
-#EXTINF:-1,DTV Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DTV Sports
 http://iptv61w.com:25461/live/moises123/moises123/7343.ts
-#EXTINF:-1,DTV Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DTV Sports 2
 http://iptv61w.com:25461/live/moises123/moises123/7344.ts
-#EXTINF:-1,CNT Sports HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CNT Sports HD
 http://iptv61w.com:25461/live/moises123/moises123/4739.ts
-#EXTINF:-1,PLANETA 11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,PLANETA 11
 http://iptv61w.com:25461/live/moises123/moises123/5764.ts
-#EXTINF:-1,Movistar Deportes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Movistar Deportes
 http://iptv61w.com:25461/live/moises123/moises123/3805.ts
-#EXTINF:-1,Fox Series Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Series Premium
 http://iptv61w.com:25461/live/moises123/moises123/7444.ts
-#EXTINF:-1,DISCOVERY CHANNEL HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DISCOVERY CHANNEL HD.
 http://iptv61w.com:25461/live/moises123/moises123/4499.ts
-#EXTINF:-1,DISCOVERY ID HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DISCOVERY ID HD
 http://iptv61w.com:25461/live/moises123/moises123/4546.ts
-#EXTINF:-1,DISCOVERY KIDS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DISCOVERY KIDS HD
 http://iptv61w.com:25461/live/moises123/moises123/4545.ts
-#EXTINF:-1,DISCOVERY WORLD HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DISCOVERY WORLD HD.
 http://iptv61w.com:25461/live/moises123/moises123/4542.ts
-#EXTINF:-1,ESPN DEPORTES HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ESPN DEPORTES HD.
 http://iptv61w.com:25461/live/moises123/moises123/4482.ts
-#EXTINF:-1,FOX DEPORTES HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FOX DEPORTES HD.
 http://iptv61w.com:25461/live/moises123/moises123/4484.ts
-#EXTINF:-1,GOL TV LATIN HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,GOL TV LATIN HD.
 http://iptv61w.com:25461/live/moises123/moises123/4481.ts
-#EXTINF:-1,PARAMOUNT HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,PARAMOUNT HD.
 http://iptv61w.com:25461/live/moises123/moises123/4543.ts
-#EXTINF:-1,PASIONES HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,PASIONES HD.
 http://iptv61w.com:25461/live/moises123/moises123/4691.ts
-#EXTINF:-1,TELEMUNDO HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TELEMUNDO HD
 http://iptv61w.com:25461/live/moises123/moises123/4483.ts
-#EXTINF:-1,HBO HD (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO HD (2)
 http://iptv61w.com:25461/live/moises123/moises123/4822.ts
-#EXTINF:-1,13C (CH)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,13C (CH)
 http://iptv61w.com:25461/live/moises123/moises123/3738.ts
-#EXTINF:-1,24 Horas TVN .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24 Horas TVN .
 http://iptv61w.com:25461/live/moises123/moises123/3739.ts
-#EXTINF:-1,A 24 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,A 24 HD
 http://iptv61w.com:25461/live/moises123/moises123/6464.ts
-#EXTINF:-1,A&E .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,A&E .
 http://iptv61w.com:25461/live/moises123/moises123/3740.ts
-#EXTINF:-1,AMC .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,AMC .
 http://iptv61w.com:25461/live/moises123/moises123/3742.ts
-#EXTINF:-1,America TV ARG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,America TV ARG
 http://iptv61w.com:25461/live/moises123/moises123/3882.ts
-#EXTINF:-1,America TV (PE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,America TV (PE)
 http://iptv61w.com:25461/live/moises123/moises123/3741.ts
-#EXTINF:-1,Animal Planet .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Animal Planet .
 http://iptv61w.com:25461/live/moises123/moises123/3743.ts
-#EXTINF:-1,Antena 3 .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Antena 3 .
 http://iptv61w.com:25461/live/moises123/moises123/3744.ts
-#EXTINF:-1,ANTV (VE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ANTV (VE)
 http://iptv61w.com:25461/live/moises123/moises123/3745.ts
-#EXTINF:-1,Atreseries
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Atreseries
 http://iptv61w.com:25461/live/moises123/moises123/3902.ts
-#EXTINF:-1,ATV (PE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ATV (PE)
 http://iptv61w.com:25461/live/moises123/moises123/3746.ts
-#EXTINF:-1,AXN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,AXN
 http://iptv61w.com:25461/live/moises123/moises123/3747.ts
-#EXTINF:-1,AzClick
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,AzClick
 http://iptv61w.com:25461/live/moises123/moises123/5301.ts
-#EXTINF:-1,Azteca Siete
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Azteca Siete
 http://iptv61w.com:25461/live/moises123/moises123/3893.ts
-#EXTINF:-1,Azteca Trece
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Azteca Trece
 http://iptv61w.com:25461/live/moises123/moises123/3892.ts
-#EXTINF:-1,Baby TV.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Baby TV.
 http://iptv61w.com:25461/live/moises123/moises123/3748.ts
-#EXTINF:-1,BBC WORLD ..
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,BBC WORLD ..
 http://iptv61w.com:25461/live/moises123/moises123/3708.ts
-#EXTINF:-1,Bein Sports Ñ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Bein Sports Ñ
 http://iptv61w.com:25461/live/moises123/moises123/5768.ts
-#EXTINF:-1,Bein Liga
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Bein Liga
 http://iptv61w.com:25461/live/moises123/moises123/3863.ts
-#EXTINF:-1,Bein Liga HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Bein Liga HD
 http://iptv61w.com:25461/live/moises123/moises123/5738.ts
-#EXTINF:-1,Boomerang
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Boomerang
 http://iptv61w.com:25461/live/moises123/moises123/3709.ts
-#EXTINF:-1,C5N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,C5N
 http://iptv61w.com:25461/live/moises123/moises123/6466.ts
-#EXTINF:-1,CableNoticias .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CableNoticias .
 http://iptv61w.com:25461/live/moises123/moises123/3749.ts
-#EXTINF:-1,Cine Argentino
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Cine Argentino
 http://iptv61w.com:25461/live/moises123/moises123/6468.ts
-#EXTINF:-1,Cronica TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Cronica TV HD
 http://iptv61w.com:25461/live/moises123/moises123/6470.ts
-#EXTINF:-1,Canal 4  (Arg)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 4  (Arg)
 http://iptv61w.com:25461/live/moises123/moises123/5736.ts
-#EXTINF:-1,Canal 13 HD (Arg)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 13 HD (Arg)
 http://iptv61w.com:25461/live/moises123/moises123/6472.ts
-#EXTINF:-1,Canal 26 (ARG)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 26 (ARG)
 http://iptv61w.com:25461/live/moises123/moises123/6214.ts
-#EXTINF:-1,Canal 5 (URU)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 5 (URU)
 http://iptv61w.com:25461/live/moises123/moises123/4655.ts
-#EXTINF:-1,Canal 10 (URU)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 10 (URU)
 http://iptv61w.com:25461/live/moises123/moises123/4653.ts
-#EXTINF:-1,Canal 12 (URU)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 12 (URU)
 http://iptv61w.com:25461/live/moises123/moises123/4654.ts
-#EXTINF:-1,Canal 13 (CH)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 13 (CH)
 http://iptv61w.com:25461/live/moises123/moises123/3945.ts
-#EXTINF:-1,Canal 13 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 13 HD
 http://iptv61w.com:25461/live/moises123/moises123/3944.ts
-#EXTINF:-1,Canal Capital
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal Capital
 http://iptv61w.com:25461/live/moises123/moises123/3750.ts
-#EXTINF:-1,Canal Fox Norte.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal Fox Norte.
 http://iptv61w.com:25461/live/moises123/moises123/3752.ts
-#EXTINF:-1,Canal N (PE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal N (PE)
 http://iptv61w.com:25461/live/moises123/moises123/3755.ts
-#EXTINF:-1,Canal TRO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal TRO
 http://iptv61w.com:25461/live/moises123/moises123/3756.ts
-#EXTINF:-1,Canal Uno HD (EC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal Uno HD (EC)
 http://iptv61w.com:25461/live/moises123/moises123/4352.ts
-#EXTINF:-1,Canal Uno (EC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal Uno (EC)
 http://iptv61w.com:25461/live/moises123/moises123/5316.ts
-#EXTINF:-1,Canal Uno (CO)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal Uno (CO)
 http://iptv61w.com:25461/live/moises123/moises123/3757.ts
-#EXTINF:-1,Canal 4 (CR)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 4 (CR)
 http://iptv61w.com:25461/live/moises123/moises123/8260.ts
-#EXTINF:-1,Canal 6 (CR)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 6 (CR)
 http://iptv61w.com:25461/live/moises123/moises123/8259.ts
-#EXTINF:-1,Canal 7 (CR)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 7 (CR)
 http://iptv61w.com:25461/live/moises123/moises123/8258.ts
-#EXTINF:-1,Canal 9 (CR)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 9 (CR)
 http://iptv61w.com:25461/live/moises123/moises123/8257.ts
-#EXTINF:-1,Canal 11 (CR)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 11 (CR)
 http://iptv61w.com:25461/live/moises123/moises123/8256.ts
-#EXTINF:-1,Canal 13 (CR)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 13 (CR)
 http://iptv61w.com:25461/live/moises123/moises123/8255.ts
-#EXTINF:-1,Canal 2 TVN (PAN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 2 TVN (PAN)
 http://iptv61w.com:25461/live/moises123/moises123/8263.ts
-#EXTINF:-1,Canal 22 (MX)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 22 (MX)
 http://iptv61w.com:25461/live/moises123/moises123/3891.ts
-#EXTINF:-1,Canal 5 (MX)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 5 (MX)
 http://iptv61w.com:25461/live/moises123/moises123/3890.ts
-#EXTINF:-1,Canal 2 (ESA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 2 (ESA)
 http://iptv61w.com:25461/live/moises123/moises123/8324.ts
-#EXTINF:-1,Canal 6 (ESA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 6 (ESA)
 http://iptv61w.com:25461/live/moises123/moises123/8323.ts
-#EXTINF:-1,Canal 19 (ESA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 19 (ESA)
 http://iptv61w.com:25461/live/moises123/moises123/8325.ts
-#EXTINF:-1,Canal 21 (ESA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 21 (ESA)
 http://iptv61w.com:25461/live/moises123/moises123/8327.ts
-#EXTINF:-1,Canal 35 (ESA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 35 (ESA)
 http://iptv61w.com:25461/live/moises123/moises123/8322.ts
-#EXTINF:-1,Canal Claro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal Claro
 http://iptv61w.com:25461/live/moises123/moises123/8355.ts
-#EXTINF:-1,Claro Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Claro Sports
 http://iptv61w.com:25461/live/moises123/moises123/3888.ts
-#EXTINF:-1,CineLatino
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CineLatino
 http://iptv61w.com:25461/live/moises123/moises123/3889.ts
-#EXTINF:-1,Caracol HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Caracol HD
 http://iptv61w.com:25461/live/moises123/moises123/4325.ts
-#EXTINF:-1,Caracol.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Caracol.
 http://iptv61w.com:25461/live/moises123/moises123/3677.ts
-#EXTINF:-1,Cartoon Network .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Cartoon Network .
 http://iptv61w.com:25461/live/moises123/moises123/3678.ts
-#EXTINF:-1,Caza Y Pesca
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Caza Y Pesca
 http://iptv61w.com:25461/live/moises123/moises123/7234.ts
-#EXTINF:-1,CDF Basico .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CDF Basico .
 http://iptv61w.com:25461/live/moises123/moises123/3679.ts
-#EXTINF:-1,CDF HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CDF HD.
 http://iptv61w.com:25461/live/moises123/moises123/8228.ts
-#EXTINF:-1,CDF Full HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CDF Full HD.
 http://iptv61w.com:25461/live/moises123/moises123/3934.ts
-#EXTINF:-1,CDF Premium.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CDF Premium.
 http://iptv61w.com:25461/live/moises123/moises123/3680.ts
-#EXTINF:-1,CDF Estadio HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CDF Estadio HD
 http://iptv61w.com:25461/live/moises123/moises123/6164.ts
-#EXTINF:-1,CDO Basico .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CDO Basico .
 http://iptv61w.com:25461/live/moises123/moises123/3681.ts
-#EXTINF:-1,CDO Premium .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CDO Premium .
 http://iptv61w.com:25461/live/moises123/moises123/3682.ts
-#EXTINF:-1,CDN2 (RD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CDN2 (RD)
 http://iptv61w.com:25461/live/moises123/moises123/8340.ts
-#EXTINF:-1,Chilevision HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Chilevision HD
 http://iptv61w.com:25461/live/moises123/moises123/3943.ts
-#EXTINF:-1,Chilevision HD (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Chilevision HD (2)
 http://iptv61w.com:25461/live/moises123/moises123/6183.ts
-#EXTINF:-1,Chilevision (CH)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Chilevision (CH)
 http://iptv61w.com:25461/live/moises123/moises123/3683.ts
-#EXTINF:-1,Cine Dinamita
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Cine Dinamita
 http://iptv61w.com:25461/live/moises123/moises123/8358.ts
-#EXTINF:-1,Cinecanal .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Cinecanal .
 http://iptv61w.com:25461/live/moises123/moises123/3729.ts
-#EXTINF:-1,Cinemax .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Cinemax .
 http://iptv61w.com:25461/live/moises123/moises123/3684.ts
-#EXTINF:-1,City TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,City TV
 http://iptv61w.com:25461/live/moises123/moises123/3760.ts
-#EXTINF:-1,CMD (PE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CMD (PE)
 http://iptv61w.com:25461/live/moises123/moises123/3674.ts
-#EXTINF:-1,CNN Chile
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CNN Chile
 http://iptv61w.com:25461/live/moises123/moises123/3862.ts
-#EXTINF:-1,Cnn Espanol .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Cnn Espanol .
 http://iptv61w.com:25461/live/moises123/moises123/3686.ts
-#EXTINF:-1,CNN International .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CNN International .
 http://iptv61w.com:25461/live/moises123/moises123/3761.ts
-#EXTINF:-1,CNT Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CNT Sports
 http://iptv61w.com:25461/live/moises123/moises123/3866.ts
-#EXTINF:-1,Cnt Sports 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Cnt Sports 2 HD
 http://iptv61w.com:25461/live/moises123/moises123/3762.ts
-#EXTINF:-1,Color Vision 9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Color Vision 9
 http://iptv61w.com:25461/live/moises123/moises123/8339.ts
-#EXTINF:-1,Concert Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Concert Channel
 http://iptv61w.com:25461/live/moises123/moises123/7457.ts
-#EXTINF:-1,Comedy Central .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Comedy Central .
 http://iptv61w.com:25461/live/moises123/moises123/3710.ts
-#EXTINF:-1,Concert Channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Concert Channel HD
 http://iptv61w.com:25461/live/moises123/moises123/7473.ts
-#EXTINF:-1,De Pelicula .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,De Pelicula .
 http://iptv61w.com:25461/live/moises123/moises123/3763.ts
-#EXTINF:-1,DHE Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DHE Movies
 http://iptv61w.com:25461/live/moises123/moises123/8486.ts
-#EXTINF:-1,DeporTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DeporTV
 http://iptv61w.com:25461/live/moises123/moises123/6471.ts
-#EXTINF:-1,Digital 15 (RD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Digital 15 (RD)
 http://iptv61w.com:25461/live/moises123/moises123/8338.ts
-#EXTINF:-1,Discovery Channel ..
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Discovery Channel ..
 http://iptv61w.com:25461/live/moises123/moises123/3764.ts
-#EXTINF:-1,Discovery Civilization .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Discovery Civilization .
 http://iptv61w.com:25461/live/moises123/moises123/3711.ts
-#EXTINF:-1,Discovery Home & Health HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Discovery Home & Health HD
 http://iptv61w.com:25461/live/moises123/moises123/7470.ts
-#EXTINF:-1,Discovery H&H
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Discovery H&H
 http://iptv61w.com:25461/live/moises123/moises123/3765.ts
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Discovery Kids
 http://iptv61w.com:25461/live/moises123/moises123/3766.ts
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Discovery Science
 http://iptv61w.com:25461/live/moises123/moises123/3767.ts
-#EXTINF:-1,Discovery Teather HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Discovery Teather HD
 http://iptv61w.com:25461/live/moises123/moises123/8321.ts
-#EXTINF:-1,Discovery TLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Discovery TLC
 http://iptv61w.com:25461/live/moises123/moises123/3841.ts
-#EXTINF:-1,Discovery Turbo .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Discovery Turbo .
 http://iptv61w.com:25461/live/moises123/moises123/3768.ts
-#EXTINF:-1,Disney Channel ..
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Disney Channel ..
 http://iptv61w.com:25461/live/moises123/moises123/3769.ts
-#EXTINF:-1,Disney JR.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Disney JR.
 http://iptv61w.com:25461/live/moises123/moises123/3731.ts
-#EXTINF:-1,Disney XD .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Disney XD .
 http://iptv61w.com:25461/live/moises123/moises123/3712.ts
-#EXTINF:-1,DXTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DXTV
 http://iptv61w.com:25461/live/moises123/moises123/4480.ts
-#EXTINF:-1,Antena Latina (RD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Antena Latina (RD)
 http://iptv61w.com:25461/live/moises123/moises123/8341.ts
-#EXTINF:-1,EcuadorTV.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,EcuadorTV.
 http://iptv61w.com:25461/live/moises123/moises123/3868.ts
-#EXTINF:-1,Ecuavisa HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Ecuavisa HD
 http://iptv61w.com:25461/live/moises123/moises123/3937.ts
-#EXTINF:-1,Ecuavisa.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Ecuavisa.
 http://iptv61w.com:25461/live/moises123/moises123/3874.ts
-#EXTINF:-1,Efekto TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Efekto TV
 http://iptv61w.com:25461/live/moises123/moises123/4479.ts
-#EXTINF:-1,El Gourmet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,El Gourmet
 http://iptv61w.com:25461/live/moises123/moises123/3770.ts
-#EXTINF:-1,El Nueve HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,El Nueve HD
 http://iptv61w.com:25461/live/moises123/moises123/6473.ts
-#EXTINF:-1,El Trece .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,El Trece .
 http://iptv61w.com:25461/live/moises123/moises123/3687.ts
-#EXTINF:-1,Epoca (CO)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Epoca (CO)
 http://iptv61w.com:25461/live/moises123/moises123/3771.ts
-#EXTINF:-1,Espn HD (Sur)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Espn HD (Sur)
 http://iptv61w.com:25461/live/moises123/moises123/4700.ts
-#EXTINF:-1,Espn 2 HD (Sur)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Espn 2 HD (Sur)
 http://iptv61w.com:25461/live/moises123/moises123/4701.ts
-#EXTINF:-1,Espn 3 HD (Sur)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Espn 3 HD (Sur)
 http://iptv61w.com:25461/live/moises123/moises123/4702.ts
-#EXTINF:-1,ESPN (Sur)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ESPN (Sur)
 http://iptv61w.com:25461/live/moises123/moises123/3690.ts
-#EXTINF:-1,ESPN 2 (Sur)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ESPN 2 (Sur)
 http://iptv61w.com:25461/live/moises123/moises123/3730.ts
-#EXTINF:-1,ESPN 3 (Sur)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ESPN 3 (Sur)
 http://iptv61w.com:25461/live/moises123/moises123/3689.ts
-#EXTINF:-1,ESPN MX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ESPN MX
 http://iptv61w.com:25461/live/moises123/moises123/3886.ts
-#EXTINF:-1,Espn 2 MX.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Espn 2 MX.
 http://iptv61w.com:25461/live/moises123/moises123/3885.ts
-#EXTINF:-1,Espn 3 MX.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Espn 3 MX.
 http://iptv61w.com:25461/live/moises123/moises123/3898.ts
-#EXTINF:-1,ESPN Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ESPN Radio
 http://iptv61w.com:25461/live/moises123/moises123/6474.ts
-#EXTINF:-1,ET Canal El Tiempo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ET Canal El Tiempo
 http://iptv61w.com:25461/live/moises123/moises123/3772.ts
-#EXTINF:-1,ETC TV .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ETC TV .
 http://iptv61w.com:25461/live/moises123/moises123/3773.ts
-#EXTINF:-1,Eurochannel .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Eurochannel .
 http://iptv61w.com:25461/live/moises123/moises123/3774.ts
-#EXTINF:-1,Europa Europa .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Europa Europa .
 http://iptv61w.com:25461/live/moises123/moises123/3775.ts
-#EXTINF:-1,FANB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FANB
 http://iptv61w.com:25461/live/moises123/moises123/3776.ts
-#EXTINF:-1,Film&Arts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Film&Arts
 http://iptv61w.com:25461/live/moises123/moises123/3777.ts
-#EXTINF:-1,Formula1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Formula1
 http://iptv61w.com:25461/live/moises123/moises123/3865.ts
-#EXTINF:-1,Fox Action .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Action .
 http://iptv61w.com:25461/live/moises123/moises123/3778.ts
-#EXTINF:-1,FOX Channel .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FOX Channel .
 http://iptv61w.com:25461/live/moises123/moises123/3714.ts
-#EXTINF:-1,Fox Cinema .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Cinema .
 http://iptv61w.com:25461/live/moises123/moises123/3715.ts
-#EXTINF:-1,Fox Classics .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Classics .
 http://iptv61w.com:25461/live/moises123/moises123/3716.ts
-#EXTINF:-1,Fox Comedia .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Comedia .
 http://iptv61w.com:25461/live/moises123/moises123/3691.ts
-#EXTINF:-1,Fox Family .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Family .
 http://iptv61w.com:25461/live/moises123/moises123/3717.ts
-#EXTINF:-1,Fox Life
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Life
 http://iptv61w.com:25461/live/moises123/moises123/3779.ts
-#EXTINF:-1,Fox Movies.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Movies.
 http://iptv61w.com:25461/live/moises123/moises123/3718.ts
-#EXTINF:-1,Fox News .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox News .
 http://iptv61w.com:25461/live/moises123/moises123/3780.ts
-#EXTINF:-1,Fox Series E .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Series E .
 http://iptv61w.com:25461/live/moises123/moises123/3781.ts
-#EXTINF:-1,Fox Sports Premium HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sports Premium HD
 http://iptv61w.com:25461/live/moises123/moises123/6475.ts
-#EXTINF:-1,Fox Sports Premium HD (Opc2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sports Premium HD (Opc2)
 http://iptv61w.com:25461/live/moises123/moises123/8354.ts
-#EXTINF:-1,Fox Sports HD (Sur)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sports HD (Sur)
 http://iptv61w.com:25461/live/moises123/moises123/4697.ts
-#EXTINF:-1,Fox Sports 1 HD (CH)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sports 1 HD (CH)
 http://iptv61w.com:25461/live/moises123/moises123/6527.ts
-#EXTINF:-1,Fox Sports 2 HD (Sur)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sports 2 HD (Sur)
 http://iptv61w.com:25461/live/moises123/moises123/4698.ts
-#EXTINF:-1,Fox Sports 3 HD (Sur)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sports 3 HD (Sur)
 http://iptv61w.com:25461/live/moises123/moises123/4699.ts
-#EXTINF:-1,Fox Sports (Arg)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sports (Arg)
 http://iptv61w.com:25461/live/moises123/moises123/3783.ts
-#EXTINF:-1,Fox Sport 2 (Sur)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sport 2 (Sur)
 http://iptv61w.com:25461/live/moises123/moises123/3861.ts
-#EXTINF:-1,Fox Sports 3 (Sur)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sports 3 (Sur)
 http://iptv61w.com:25461/live/moises123/moises123/3692.ts
-#EXTINF:-1,Fox Sports Chile
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sports Chile
 http://iptv61w.com:25461/live/moises123/moises123/3733.ts
-#EXTINF:-1,Fox Sports Ven
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sports Ven
 http://iptv61w.com:25461/live/moises123/moises123/3737.ts
-#EXTINF:-1,Fox Sports MX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sports MX
 http://iptv61w.com:25461/live/moises123/moises123/3887.ts
-#EXTINF:-1,Fox Sports 2 MX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sports 2 MX
 http://iptv61w.com:25461/live/moises123/moises123/3884.ts
-#EXTINF:-1,Fox Sports 3 MX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Sports 3 MX
 http://iptv61w.com:25461/live/moises123/moises123/3897.ts
-#EXTINF:-1,Fox Series O
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Fox Series O
 http://iptv61w.com:25461/live/moises123/moises123/3782.ts
-#EXTINF:-1,FX .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FX .
 http://iptv61w.com:25461/live/moises123/moises123/3785.ts
-#EXTINF:-1,FX Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FX Movies
 http://iptv61w.com:25461/live/moises123/moises123/8264.ts
-#EXTINF:-1,Glitz .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Glitz .
 http://iptv61w.com:25461/live/moises123/moises123/3786.ts
-#EXTINF:-1,GamaTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,GamaTV
 http://iptv61w.com:25461/live/moises123/moises123/3860.ts
-#EXTINF:-1,Globovision (VE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Globovision (VE)
 http://iptv61w.com:25461/live/moises123/moises123/3787.ts
-#EXTINF:-1,Gol TV HD (Norte)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Gol TV HD (Norte)
 http://iptv61w.com:25461/live/moises123/moises123/3867.ts
-#EXTINF:-1,Gol Tv Sur.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Gol Tv Sur.
 http://iptv61w.com:25461/live/moises123/moises123/3693.ts
-#EXTINF:-1,Golden .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Golden .
 http://iptv61w.com:25461/live/moises123/moises123/3734.ts
-#EXTINF:-1,Golden Edge .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Golden Edge .
 http://iptv61w.com:25461/live/moises123/moises123/3788.ts
-#EXTINF:-1,Golf Channel .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Golf Channel .
 http://iptv61w.com:25461/live/moises123/moises123/3719.ts
-#EXTINF:-1,Gol Peru
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Gol Peru
 http://iptv61w.com:25461/live/moises123/moises123/3789.ts
-#EXTINF:-1,H2 .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,H2 .
 http://iptv61w.com:25461/live/moises123/moises123/3790.ts
-#EXTINF:-1,HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO
 http://iptv61w.com:25461/live/moises123/moises123/3694.ts
-#EXTINF:-1,HBO 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO 2
 http://iptv61w.com:25461/live/moises123/moises123/3695.ts
-#EXTINF:-1,HBO Family.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO Family.
 http://iptv61w.com:25461/live/moises123/moises123/3696.ts
-#EXTINF:-1,HBO Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO Plus
 http://iptv61w.com:25461/live/moises123/moises123/3697.ts
-#EXTINF:-1,HBO Plus Oeste .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO Plus Oeste .
 http://iptv61w.com:25461/live/moises123/moises123/3698.ts
-#EXTINF:-1,HBO SD ..
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO SD ..
 http://iptv61w.com:25461/live/moises123/moises123/3791.ts
-#EXTINF:-1,HBO Signature .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO Signature .
 http://iptv61w.com:25461/live/moises123/moises123/3699.ts
-#EXTINF:-1,HBO HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO HD
 http://iptv61w.com:25461/live/moises123/moises123/6203.ts
-#EXTINF:-1,HBO 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO 2 HD
 http://iptv61w.com:25461/live/moises123/moises123/6204.ts
-#EXTINF:-1,HBO 2 HD (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO 2 HD (2)
 http://iptv61w.com:25461/live/moises123/moises123/8347.ts
-#EXTINF:-1,HBO Family HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO Family HD
 http://iptv61w.com:25461/live/moises123/moises123/6202.ts
-#EXTINF:-1,HBO Family (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO Family (2)
 http://iptv61w.com:25461/live/moises123/moises123/5294.ts
-#EXTINF:-1,HBO Signature HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HBO Signature HD
 http://iptv61w.com:25461/live/moises123/moises123/6201.ts
-#EXTINF:-1,History HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,History HD
 http://iptv61w.com:25461/live/moises123/moises123/7472.ts
-#EXTINF:-1,History Channel .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,History Channel .
 http://iptv61w.com:25461/live/moises123/moises123/3792.ts
-#EXTINF:-1,Hola TV .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Hola TV .
 http://iptv61w.com:25461/live/moises123/moises123/3793.ts
-#EXTINF:-1,HTV .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HTV .
 http://iptv61w.com:25461/live/moises123/moises123/3794.ts
-#EXTINF:-1,ID - Investigation Discovery
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ID - Investigation Discovery
 http://iptv61w.com:25461/live/moises123/moises123/3796.ts
-#EXTINF:-1,Imagen.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Imagen.
 http://iptv61w.com:25461/live/moises123/moises123/3901.ts
-#EXTINF:-1,Ingenio TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Ingenio TV
 http://iptv61w.com:25461/live/moises123/moises123/3896.ts
-#EXTINF:-1,iSat
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,iSat
 http://iptv61w.com:25461/live/moises123/moises123/8230.ts
-#EXTINF:-1,Las Estrellas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Las Estrellas
 http://iptv61w.com:25461/live/moises123/moises123/3797.ts
-#EXTINF:-1,Latina (PE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Latina (PE)
 http://iptv61w.com:25461/live/moises123/moises123/3798.ts
-#EXTINF:-1,MasChic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,MasChic
 http://iptv61w.com:25461/live/moises123/moises123/3801.ts
-#EXTINF:-1,MasTV +23 (PAN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,MasTV +23 (PAN)
 http://iptv61w.com:25461/live/moises123/moises123/8261.ts
-#EXTINF:-1,MAX .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,MAX .
 http://iptv61w.com:25461/live/moises123/moises123/3720.ts
-#EXTINF:-1,Max Prime (E)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Max Prime (E)
 http://iptv61w.com:25461/live/moises123/moises123/3800.ts
-#EXTINF:-1,Max Prime (O) .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Max Prime (O) .
 http://iptv61w.com:25461/live/moises123/moises123/3721.ts
-#EXTINF:-1,MC Play TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,MC Play TV
 http://iptv61w.com:25461/live/moises123/moises123/4114.ts
-#EXTINF:-1,Miami TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Miami TV
 http://iptv61w.com:25461/live/moises123/moises123/4111.ts
-#EXTINF:-1,Mega HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Mega HD.
 http://iptv61w.com:25461/live/moises123/moises123/8229.ts
-#EXTINF:-1,Mega (CH) .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Mega (CH) .
 http://iptv61w.com:25461/live/moises123/moises123/3700.ts
-#EXTINF:-1,Mega ES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Mega ES
 http://iptv61w.com:25461/live/moises123/moises123/5769.ts
-#EXTINF:-1,Meridiano (VE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Meridiano (VE)
 http://iptv61w.com:25461/live/moises123/moises123/3803.ts
-#EXTINF:-1,Mi Musica HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Mi Musica HD
 http://iptv61w.com:25461/live/moises123/moises123/3903.ts
-#EXTINF:-1,Movistar Futbol SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Movistar Futbol SD
 http://iptv61w.com:25461/live/moises123/moises123/6453.ts
-#EXTINF:-1,Movistar Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Movistar Plus
 http://iptv61w.com:25461/live/moises123/moises123/3806.ts
-#EXTINF:-1,Movistar TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Movistar TV
 http://iptv61w.com:25461/live/moises123/moises123/3807.ts
-#EXTINF:-1,MP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,MP
 http://iptv61w.com:25461/live/moises123/moises123/3895.ts
-#EXTINF:-1,MTV .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,MTV .
 http://iptv61w.com:25461/live/moises123/moises123/3722.ts
-#EXTINF:-1,MTV Hits
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,MTV Hits
 http://iptv61w.com:25461/live/moises123/moises123/8484.ts
-#EXTINF:-1,Nat Geo Wild .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Nat Geo Wild .
 http://iptv61w.com:25461/live/moises123/moises123/3809.ts
-#EXTINF:-1,NatGeo HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,NatGeo HD
 http://iptv61w.com:25461/live/moises123/moises123/7468.ts
-#EXTINF:-1,National Geographic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,National Geographic
 http://iptv61w.com:25461/live/moises123/moises123/3810.ts
-#EXTINF:-1,NexTV (PE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,NexTV (PE)
 http://iptv61w.com:25461/live/moises123/moises123/3811.ts
-#EXTINF:-1,Nex TV (PAN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Nex TV (PAN)
 http://iptv61w.com:25461/live/moises123/moises123/5949.ts
-#EXTINF:-1,Nick HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Nick HD
 http://iptv61w.com:25461/live/moises123/moises123/7466.ts
-#EXTINF:-1,Nick 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Nick 2 HD
 http://iptv61w.com:25461/live/moises123/moises123/7467.ts
-#EXTINF:-1,Nick Jr ..
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Nick Jr ..
 http://iptv61w.com:25461/live/moises123/moises123/3812.ts
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Nickelodeon
 http://iptv61w.com:25461/live/moises123/moises123/3813.ts
-#EXTINF:-1,NTN 24 Horas ..
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,NTN 24 Horas ..
 http://iptv61w.com:25461/live/moises123/moises123/3814.ts
-#EXTINF:-1,NU Music.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,NU Music.
 http://iptv61w.com:25461/live/moises123/moises123/3900.ts
-#EXTINF:-1,RCN Nuestra Tele
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,RCN Nuestra Tele
 http://iptv61w.com:25461/live/moises123/moises123/3815.ts
-#EXTINF:-1,Once Ninos.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Once Ninos.
 http://iptv61w.com:25461/live/moises123/moises123/3883.ts
-#EXTINF:-1,OromarTV. (EC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,OromarTV. (EC)
 http://iptv61w.com:25461/live/moises123/moises123/3872.ts
-#EXTINF:-1,Panamericana (PE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Panamericana (PE)
 http://iptv61w.com:25461/live/moises123/moises123/3817.ts
-#EXTINF:-1,Paramount .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Paramount .
 http://iptv61w.com:25461/live/moises123/moises123/3701.ts
-#EXTINF:-1,PERU MAGICO ..
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,PERU MAGICO ..
 http://iptv61w.com:25461/live/moises123/moises123/3818.ts
-#EXTINF:-1,Plus TV (PE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Plus TV (PE)
 http://iptv61w.com:25461/live/moises123/moises123/3819.ts
-#EXTINF:-1,RCN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,RCN
 http://iptv61w.com:25461/live/moises123/moises123/3702.ts
-#EXTINF:-1,RCN 2.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,RCN 2.
 http://iptv61w.com:25461/live/moises123/moises123/3876.ts
-#EXTINF:-1,RCN Novelas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,RCN Novelas
 http://iptv61w.com:25461/live/moises123/moises123/3820.ts
-#EXTINF:-1,Real Madrid 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Real Madrid 1
 http://iptv61w.com:25461/live/moises123/moises123/4187.ts
-#EXTINF:-1,REAL MADRID TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,REAL MADRID TV
 http://iptv61w.com:25461/live/moises123/moises123/3985.ts
-#EXTINF:-1,REC TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,REC TV
 http://iptv61w.com:25461/live/moises123/moises123/3821.ts
-#EXTINF:-1,La Red (CH)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,La Red (CH)
 http://iptv61w.com:25461/live/moises123/moises123/3822.ts
-#EXTINF:-1,La Red HD (CH)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,La Red HD (CH)
 http://iptv61w.com:25461/live/moises123/moises123/6207.ts
-#EXTINF:-1,RPP (PE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,RPP (PE)
 http://iptv61w.com:25461/live/moises123/moises123/3823.ts
-#EXTINF:-1,RPC (PAN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,RPC (PAN)
 http://iptv61w.com:25461/live/moises123/moises123/6206.ts
-#EXTINF:-1,RTS HD (Ec)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,RTS HD (Ec)
 http://iptv61w.com:25461/live/moises123/moises123/8267.ts
-#EXTINF:-1,RTS (EC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,RTS (EC)
 http://iptv61w.com:25461/live/moises123/moises123/3871.ts
-#EXTINF:-1,San Vito TV (CR)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,San Vito TV (CR)
 http://iptv61w.com:25461/live/moises123/moises123/8350.ts
-#EXTINF:-1,Senal Colombia .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Senal Colombia .
 http://iptv61w.com:25461/live/moises123/moises123/3703.ts
-#EXTINF:-1,Ser TV (PAN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Ser TV (PAN)
 http://iptv61w.com:25461/live/moises123/moises123/5947.ts
-#EXTINF:-1,SNT (PY)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,SNT (PY)
 http://iptv61w.com:25461/live/moises123/moises123/6617.ts
-#EXTINF:-1,Sony HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Sony HD
 http://iptv61w.com:25461/live/moises123/moises123/7469.ts
-#EXTINF:-1,Sony .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Sony .
 http://iptv61w.com:25461/live/moises123/moises123/3704.ts
-#EXTINF:-1,Space .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Space .
 http://iptv61w.com:25461/live/moises123/moises123/3825.ts
-#EXTINF:-1,Studio Universal .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Studio Universal .
 http://iptv61w.com:25461/live/moises123/moises123/3826.ts
-#EXTINF:-1,Sun Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Sun Channel
 http://iptv61w.com:25461/live/moises123/moises123/8485.ts
-#EXTINF:-1,SyFy .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,SyFy .
 http://iptv61w.com:25461/live/moises123/moises123/3827.ts
-#EXTINF:-1,TBS Very Funny .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TBS Very Funny .
 http://iptv61w.com:25461/live/moises123/moises123/3828.ts
-#EXTINF:-1,TC Television HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TC Television HD
 http://iptv61w.com:25461/live/moises123/moises123/3938.ts
-#EXTINF:-1,TC Television.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TC Television.
 http://iptv61w.com:25461/live/moises123/moises123/3870.ts
-#EXTINF:-1,TCM .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TCM .
 http://iptv61w.com:25461/live/moises123/moises123/3705.ts
-#EXTINF:-1,T13 (CH)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,T13 (CH)
 http://iptv61w.com:25461/live/moises123/moises123/4657.ts
-#EXTINF:-1,Teleamazonas HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Teleamazonas HD.
 http://iptv61w.com:25461/live/moises123/moises123/3936.ts
-#EXTINF:-1,Teleamazonas.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Teleamazonas.
 http://iptv61w.com:25461/live/moises123/moises123/3869.ts
-#EXTINF:-1,Teleantioquia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Teleantioquia
 http://iptv61w.com:25461/live/moises123/moises123/3829.ts
-#EXTINF:-1,Telecafe
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telecafe
 http://iptv61w.com:25461/live/moises123/moises123/3830.ts
-#EXTINF:-1,Telecanal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telecanal
 http://iptv61w.com:25461/live/moises123/moises123/3831.ts
-#EXTINF:-1,Telecaribe (CO)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telecaribe (CO)
 http://iptv61w.com:25461/live/moises123/moises123/3832.ts
-#EXTINF:-1,Teleciudadana (EC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Teleciudadana (EC)
 http://iptv61w.com:25461/live/moises123/moises123/4737.ts
-#EXTINF:-1,TELEFE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TELEFE
 http://iptv61w.com:25461/live/moises123/moises123/3706.ts
-#EXTINF:-1,Telefe HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telefe HD
 http://iptv61w.com:25461/live/moises123/moises123/3880.ts
-#EXTINF:-1,Telemetro (PAN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telemetro (PAN)
 http://iptv61w.com:25461/live/moises123/moises123/5946.ts
-#EXTINF:-1,Telemundo PR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telemundo PR
 http://iptv61w.com:25461/live/moises123/moises123/6200.ts
-#EXTINF:-1,Telemundo .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telemundo .
 http://iptv61w.com:25461/live/moises123/moises123/3833.ts
-#EXTINF:-1,Punto 2 (PR)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Punto 2 (PR)
 http://iptv61w.com:25461/live/moises123/moises123/3929.ts
-#EXTINF:-1,Telenovelas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telenovelas
 http://iptv61w.com:25461/live/moises123/moises123/3834.ts
-#EXTINF:-1,Telepacifico (CO)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telepacifico (CO)
 http://iptv61w.com:25461/live/moises123/moises123/3835.ts
-#EXTINF:-1,Tele Antillas (RD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Tele Antillas (RD)
 http://iptv61w.com:25461/live/moises123/moises123/8337.ts
-#EXTINF:-1,Telecentro (RD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telecentro (RD)
 http://iptv61w.com:25461/live/moises123/moises123/8336.ts
-#EXTINF:-1,Telemicro (RD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telemicro (RD)
 http://iptv61w.com:25461/live/moises123/moises123/8335.ts
-#EXTINF:-1,Telesistema (RD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telesistema (RD)
 http://iptv61w.com:25461/live/moises123/moises123/8333.ts
-#EXTINF:-1,Teleunion (RD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Teleunion (RD)
 http://iptv61w.com:25461/live/moises123/moises123/8331.ts
-#EXTINF:-1,Telesur
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telesur
 http://iptv61w.com:25461/live/moises123/moises123/3836.ts
-#EXTINF:-1,Teletrak ..
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Teletrak ..
 http://iptv61w.com:25461/live/moises123/moises123/3837.ts
-#EXTINF:-1,Televen
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Televen
 http://iptv61w.com:25461/live/moises123/moises123/3838.ts
-#EXTINF:-1,Tigo Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Tigo Music
 http://iptv61w.com:25461/live/moises123/moises123/3904.ts
-#EXTINF:-1,TLX HD (Arg)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TLX HD (Arg)
 http://iptv61w.com:25461/live/moises123/moises123/8351.ts
-#EXTINF:-1,TyC Sports HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TyC Sports HD
 http://iptv61w.com:25461/live/moises123/moises123/4174.ts
-#EXTINF:-1,TodoNoticias HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TodoNoticias HD
 http://iptv61w.com:25461/live/moises123/moises123/6481.ts
-#EXTINF:-1,TNP (PE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TNP (PE)
 http://iptv61w.com:25461/live/moises123/moises123/3839.ts
-#EXTINF:-1,TNT .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TNT .
 http://iptv61w.com:25461/live/moises123/moises123/3840.ts
-#EXTINF:-1,TNT ARG+ Futbol
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TNT ARG+ Futbol
 http://iptv61w.com:25461/live/moises123/moises123/6482.ts
-#EXTINF:-1,TNT Series .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TNT Series .
 http://iptv61w.com:25461/live/moises123/moises123/3724.ts
-#EXTINF:-1,TNT Sport HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TNT Sport HD
 http://iptv61w.com:25461/live/moises123/moises123/6483.ts
-#EXTINF:-1,TNT Sports HD (Opc 2).
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TNT Sports HD (Opc 2).
 http://iptv61w.com:25461/live/moises123/moises123/8353.ts
-#EXTINF:-1,Tooncast.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Tooncast.
 http://iptv61w.com:25461/live/moises123/moises123/3725.ts
-#EXTINF:-1,Toros
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Toros
 http://iptv61w.com:25461/live/moises123/moises123/3859.ts
-#EXTINF:-1,Tru TV .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Tru TV .
 http://iptv61w.com:25461/live/moises123/moises123/3842.ts
-#EXTINF:-1,Tv Ciudad (URU)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Tv Ciudad (URU)
 http://iptv61w.com:25461/live/moises123/moises123/4656.ts
-#EXTINF:-1,TV FAMILIA ..
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TV FAMILIA ..
 http://iptv61w.com:25461/live/moises123/moises123/3843.ts
-#EXTINF:-1,TVE .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TVE .
 http://iptv61w.com:25461/live/moises123/moises123/3844.ts
-#EXTINF:-1,TVC Deportes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TVC Deportes
 http://iptv61w.com:25461/live/moises123/moises123/3894.ts
-#EXTINF:-1,TVN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TVN HD
 http://iptv61w.com:25461/live/moises123/moises123/5944.ts
-#EXTINF:-1,Tvn (CH)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Tvn (CH)
 http://iptv61w.com:25461/live/moises123/moises123/3707.ts
-#EXTINF:-1,Tv Max (PAN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Tv Max (PAN)
 http://iptv61w.com:25461/live/moises123/moises123/5948.ts
-#EXTINF:-1,TVN (Pan)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TVN (Pan)
 http://iptv61w.com:25461/live/moises123/moises123/5945.ts
-#EXTINF:-1,TyC Sports .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TyC Sports .
 http://iptv61w.com:25461/live/moises123/moises123/3847.ts
-#EXTINF:-1,TyC Sports HD (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TyC Sports HD (2)
 http://iptv61w.com:25461/live/moises123/moises123/6488.ts
-#EXTINF:-1,TV Publica HD (Arg)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TV Publica HD (Arg)
 http://iptv61w.com:25461/live/moises123/moises123/6485.ts
-#EXTINF:-1,UCV ..
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,UCV ..
 http://iptv61w.com:25461/live/moises123/moises123/3726.ts
-#EXTINF:-1,UFC Networks
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,UFC Networks
 http://iptv61w.com:25461/live/moises123/moises123/3954.ts
-#EXTINF:-1,Unicanal (PY)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Unicanal (PY)
 http://iptv61w.com:25461/live/moises123/moises123/6616.ts
-#EXTINF:-1,Unimas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Unimas
 http://iptv61w.com:25461/live/moises123/moises123/6205.ts
-#EXTINF:-1,Universal Channel .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Universal Channel .
 http://iptv61w.com:25461/live/moises123/moises123/3727.ts
-#EXTINF:-1,Univision LA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Univision LA
 http://iptv61w.com:25461/live/moises123/moises123/5767.ts
-#EXTINF:-1,Univision PR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Univision PR
 http://iptv61w.com:25461/live/moises123/moises123/3930.ts
-#EXTINF:-1,Univision TDN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Univision TDN
 http://iptv61w.com:25461/live/moises123/moises123/4175.ts
-#EXTINF:-1,VALE TV (VE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,VALE TV (VE)
 http://iptv61w.com:25461/live/moises123/moises123/3849.ts
-#EXTINF:-1,VE Plus TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,VE Plus TV
 http://iptv61w.com:25461/live/moises123/moises123/4113.ts
-#EXTINF:-1,Venevision .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Venevision .
 http://iptv61w.com:25461/live/moises123/moises123/3850.ts
-#EXTINF:-1,Venevision PLUS.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Venevision PLUS.
 http://iptv61w.com:25461/live/moises123/moises123/3675.ts
-#EXTINF:-1,Venezolana de TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Venezolana de TV
 http://iptv61w.com:25461/live/moises123/moises123/3851.ts
-#EXTINF:-1,Video Rola.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Video Rola.
 http://iptv61w.com:25461/live/moises123/moises123/3899.ts
-#EXTINF:-1,VH1 Classics
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,VH1 Classics
 http://iptv61w.com:25461/live/moises123/moises123/8356.ts
-#EXTINF:-1,VH1 Megahits .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,VH1 Megahits .
 http://iptv61w.com:25461/live/moises123/moises123/3852.ts
-#EXTINF:-1,Via X
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Via X
 http://iptv61w.com:25461/live/moises123/moises123/3853.ts
-#EXTINF:-1,Canal 21 (Chillan)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Canal 21 (Chillan)
 http://iptv61w.com:25461/live/moises123/moises123/3940.ts
-#EXTINF:-1,Visual Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Visual Radio
 http://iptv61w.com:25461/live/moises123/moises123/4110.ts
-#EXTINF:-1,Vive (VE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Vive (VE)
 http://iptv61w.com:25461/live/moises123/moises123/3854.ts
-#EXTINF:-1,VTV SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,VTV SD
 http://iptv61w.com:25461/live/moises123/moises123/3955.ts
-#EXTINF:-1,VTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,VTV HD
 http://iptv61w.com:25461/live/moises123/moises123/3877.ts
-#EXTINF:-1,VTV PLUS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,VTV PLUS
 http://iptv61w.com:25461/live/moises123/moises123/3878.ts
-#EXTINF:-1,Warner Channel .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Warner Channel .
 http://iptv61w.com:25461/live/moises123/moises123/3736.ts
-#EXTINF:-1,Wapa 2 PR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Wapa 2 PR
 http://iptv61w.com:25461/live/moises123/moises123/3932.ts
-#EXTINF:-1,Wapa PR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Wapa PR
 http://iptv61w.com:25461/live/moises123/moises123/3931.ts
-#EXTINF:-1,Win Sports ..
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Win Sports ..
 http://iptv61w.com:25461/live/moises123/moises123/3855.ts
-#EXTINF:-1,Zona Latina
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Zona Latina
 http://iptv61w.com:25461/live/moises123/moises123/3856.ts
-#EXTINF:-1,ABN Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ABN Kids
 http://iptv61w.com:25461/live/moises123/moises123/4475.ts
-#EXTINF:-1,ABN Latino
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ABN Latino
 http://iptv61w.com:25461/live/moises123/moises123/4471.ts
-#EXTINF:-1,CBN Español
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CBN Español
 http://iptv61w.com:25461/live/moises123/moises123/4476.ts
-#EXTINF:-1,CTNi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CTNi
 http://iptv61w.com:25461/live/moises123/moises123/4474.ts
-#EXTINF:-1,Cielo TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Cielo TV
 http://iptv61w.com:25461/live/moises123/moises123/4477.ts
-#EXTINF:-1,Comunion TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Comunion TV
 http://iptv61w.com:25461/live/moises123/moises123/4478.ts
-#EXTINF:-1,Enlace
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Enlace
 http://iptv61w.com:25461/live/moises123/moises123/4324.ts
-#EXTINF:-1,Enlace Juvenil
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Enlace Juvenil
 http://iptv61w.com:25461/live/moises123/moises123/4323.ts
-#EXTINF:-1,Gracia TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Gracia TV
 http://iptv61w.com:25461/live/moises123/moises123/4473.ts
-#EXTINF:-1,Nuevo Tiempo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Nuevo Tiempo
 http://iptv61w.com:25461/live/moises123/moises123/4472.ts
-#EXTINF:-1,24H: Masha y el Oso
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: Masha y el Oso
 http://iptv61w.com:25461/live/moises123/moises123/6507.ts
-#EXTINF:-1,24H: DRAGON BALL Z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: DRAGON BALL Z
 http://iptv61w.com:25461/live/moises123/moises123/6458.ts
-#EXTINF:-1,NARCOTRAFICO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,NARCOTRAFICO
 http://iptv61w.com:25461/movie/moises123/moises123/6719.avi
-#EXTINF:-1,FRANCO ESE HOMBRE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FRANCO ESE HOMBRE
 http://iptv61w.com:25461/movie/moises123/moises123/6718.avi
-#EXTINF:-1,RESTREPO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,RESTREPO
 http://iptv61w.com:25461/movie/moises123/moises123/6717.avi
-#EXTINF:-1,EL OCEANO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,EL OCEANO
 http://iptv61w.com:25461/movie/moises123/moises123/6711.avi
-#EXTINF:-1,### FULL HD - NECESITA 6MB ###
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,### FULL HD - NECESITA 6MB ###
 http://iptv61w.com:25461/live/moises123/moises123/4690.ts
-#EXTINF:-1,A&E HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,A&E HD
 http://iptv61w.com:25461/live/moises123/moises123/4682.ts
-#EXTINF:-1,AMC  HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,AMC  HD
 http://iptv61w.com:25461/live/moises123/moises123/4667.ts
-#EXTINF:-1,AXN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,AXN HD
 http://iptv61w.com:25461/live/moises123/moises123/4681.ts
-#EXTINF:-1,CARTOON NETWORK HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CARTOON NETWORK HD
 http://iptv61w.com:25461/live/moises123/moises123/4680.ts
-#EXTINF:-1,CINECANAL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CINECANAL HD
 http://iptv61w.com:25461/live/moises123/moises123/4692.ts
-#EXTINF:-1,CINEMAX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CINEMAX HD
 http://iptv61w.com:25461/live/moises123/moises123/4660.ts
-#EXTINF:-1,DE PELICULA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DE PELICULA HD
 http://iptv61w.com:25461/live/moises123/moises123/4659.ts
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ESPN HD
 http://iptv61w.com:25461/live/moises123/moises123/4694.ts
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ESPN 2 HD
 http://iptv61w.com:25461/live/moises123/moises123/4695.ts
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ESPN 3 HD
 http://iptv61w.com:25461/live/moises123/moises123/4696.ts
-#EXTINF:-1,F1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,F1 HD
 http://iptv61w.com:25461/live/moises123/moises123/4668.ts
-#EXTINF:-1,FOX 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FOX 1 HD
 http://iptv61w.com:25461/live/moises123/moises123/4686.ts
-#EXTINF:-1,FOX ACTION HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FOX ACTION HD
 http://iptv61w.com:25461/live/moises123/moises123/4688.ts
-#EXTINF:-1,FOX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FOX HD
 http://iptv61w.com:25461/live/moises123/moises123/4683.ts
-#EXTINF:-1,FOX MOVIES HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FOX MOVIES HD
 http://iptv61w.com:25461/live/moises123/moises123/4689.ts
-#EXTINF:-1,FOX SPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FOX SPORTS 2 HD
 http://iptv61w.com:25461/live/moises123/moises123/4669.ts
-#EXTINF:-1,FOX SPORTS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FOX SPORTS HD
 http://iptv61w.com:25461/live/moises123/moises123/4687.ts
-#EXTINF:-1,FX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FX HD
 http://iptv61w.com:25461/live/moises123/moises123/4674.ts
-#EXTINF:-1,GALAVISION HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,GALAVISION HD
 http://iptv61w.com:25461/live/moises123/moises123/4672.ts
-#EXTINF:-1,GOLDEN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,GOLDEN HD
 http://iptv61w.com:25461/live/moises123/moises123/4684.ts
-#EXTINF:-1,HISTORY HD (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HISTORY HD (2)
 http://iptv61w.com:25461/live/moises123/moises123/4679.ts
-#EXTINF:-1,HOLA TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HOLA TV HD
 http://iptv61w.com:25461/live/moises123/moises123/4665.ts
-#EXTINF:-1,MTV LIVE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,MTV LIVE HD
 http://iptv61w.com:25461/live/moises123/moises123/4685.ts
-#EXTINF:-1,NAT GEO  HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,NAT GEO  HD
 http://iptv61w.com:25461/live/moises123/moises123/4664.ts
-#EXTINF:-1,NATGEO WILD HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,NATGEO WILD HD
 http://iptv61w.com:25461/live/moises123/moises123/4671.ts
-#EXTINF:-1,NICK JR HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,NICK JR HD
 http://iptv61w.com:25461/live/moises123/moises123/4662.ts
-#EXTINF:-1,NICKELODEON HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,NICKELODEON HD
 http://iptv61w.com:25461/live/moises123/moises123/4663.ts
-#EXTINF:-1,SPACE HD. (3)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,SPACE HD. (3)
 http://iptv61w.com:25461/live/moises123/moises123/4693.ts
-#EXTINF:-1,STUDIO UNIVERSAL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,STUDIO UNIVERSAL HD
 http://iptv61w.com:25461/live/moises123/moises123/4658.ts
-#EXTINF:-1,TELEHITS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TELEHITS HD
 http://iptv61w.com:25461/live/moises123/moises123/4661.ts
-#EXTINF:-1,TNT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TNT HD
 http://iptv61w.com:25461/live/moises123/moises123/4677.ts
-#EXTINF:-1,TNT SERIES HD (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TNT SERIES HD (2)
 http://iptv61w.com:25461/live/moises123/moises123/4678.ts
-#EXTINF:-1,TRUTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TRUTV HD
 http://iptv61w.com:25461/live/moises123/moises123/4673.ts
-#EXTINF:-1,UNICABLE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,UNICABLE HD
 http://iptv61w.com:25461/live/moises123/moises123/4666.ts
-#EXTINF:-1,UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,UNIVERSAL CHANNEL HD
 http://iptv61w.com:25461/live/moises123/moises123/4675.ts
-#EXTINF:-1,WARNER BROS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,WARNER BROS HD
 http://iptv61w.com:25461/live/moises123/moises123/4676.ts
-#EXTINF:-1,DISCOVERY CIVILIZATION HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DISCOVERY CIVILIZATION HD
 http://iptv61w.com:25461/live/moises123/moises123/5303.ts
-#EXTINF:-1,DISCOVERY H&H HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DISCOVERY H&H HD
 http://iptv61w.com:25461/live/moises123/moises123/5304.ts
-#EXTINF:-1,DISCOVERY THEATHER HD (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DISCOVERY THEATHER HD (2)
 http://iptv61w.com:25461/live/moises123/moises123/5305.ts
-#EXTINF:-1,DISCOVERY TURBO HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DISCOVERY TURBO HD
 http://iptv61w.com:25461/live/moises123/moises123/5306.ts
-#EXTINF:-1,COMEDY CENTRAL HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,COMEDY CENTRAL HD.
 http://iptv61w.com:25461/live/moises123/moises123/5302.ts
-#EXTINF:-1,24H: BOB ESPONJA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: BOB ESPONJA
 http://iptv61w.com:25461/live/moises123/moises123/4826.ts
-#EXTINF:-1,24H: CANTINFLAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: CANTINFLAS
 http://iptv61w.com:25461/live/moises123/moises123/6193.ts
-#EXTINF:-1,24H: CHAVO DEL 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: CHAVO DEL 8
 http://iptv61w.com:25461/live/moises123/moises123/4106.ts
-#EXTINF:-1,24H: CHAPULIN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: CHAPULIN
 http://iptv61w.com:25461/live/moises123/moises123/4749.ts
-#EXTINF:-1,24H: FUTURAMA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: FUTURAMA HD
 http://iptv61w.com:25461/live/moises123/moises123/5756.ts
-#EXTINF:-1,24H: iCARLY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: iCARLY
 http://iptv61w.com:25461/live/moises123/moises123/6303.ts
-#EXTINF:-1,24H: LOS SIMPSONS SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: LOS SIMPSONS SD
 http://iptv61w.com:25461/live/moises123/moises123/4266.ts
-#EXTINF:-1,24H: LOONEY TUNES HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: LOONEY TUNES HD
 http://iptv61w.com:25461/live/moises123/moises123/5753.ts
-#EXTINF:-1,24H: LOS 3 CHIFLADOS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: LOS 3 CHIFLADOS
 http://iptv61w.com:25461/live/moises123/moises123/4105.ts
-#EXTINF:-1,24H: MR. BEEN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: MR. BEEN
 http://iptv61w.com:25461/live/moises123/moises123/6456.ts
-#EXTINF:-1,24H: PEPPA PIG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: PEPPA PIG
 http://iptv61w.com:25461/live/moises123/moises123/5646.ts
-#EXTINF:-1,24H: PANTERA ROSA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: PANTERA ROSA
 http://iptv61w.com:25461/live/moises123/moises123/7345.ts
-#EXTINF:-1,24H: TOM Y JERRY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: TOM Y JERRY
 http://iptv61w.com:25461/live/moises123/moises123/7346.ts
-#EXTINF:-1,24H: SUPER CAMPEONES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: SUPER CAMPEONES
 http://iptv61w.com:25461/live/moises123/moises123/6169.ts
-#EXTINF:-1,24H: SERIES RETRO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: SERIES RETRO
 http://iptv61w.com:25461/live/moises123/moises123/5915.ts
-#EXTINF:-1,24H: UFC EVENTOS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,24H: UFC EVENTOS
 http://iptv61w.com:25461/live/moises123/moises123/4210.ts
-#EXTINF:-1,AMC HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,AMC HD
 http://iptv61w.com:25461/live/moises123/moises123/4037.ts
-#EXTINF:-1,AXN ES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,AXN ES
 http://iptv61w.com:25461/live/moises123/moises123/4043.ts
-#EXTINF:-1,AXN WHITE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,AXN WHITE
 http://iptv61w.com:25461/live/moises123/moises123/4035.ts
-#EXTINF:-1,BEIN SPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,BEIN SPORT
 http://iptv61w.com:25461/live/moises123/moises123/4031.ts
-#EXTINF:-1,Barca TV.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Barca TV.
 http://iptv61w.com:25461/live/moises123/moises123/4033.ts
-#EXTINF:-1,BEIN SPORT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,BEIN SPORT HD
 http://iptv61w.com:25461/live/moises123/moises123/3966.ts
-#EXTINF:-1,DISNEY XD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DISNEY XD
 http://iptv61w.com:25461/live/moises123/moises123/4013.ts
-#EXTINF:-1,ESTRENOS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ESTRENOS
 http://iptv61w.com:25461/live/moises123/moises123/4010.ts
-#EXTINF:-1,DISNEY JR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DISNEY JR
 http://iptv61w.com:25461/live/moises123/moises123/4014.ts
-#EXTINF:-1,DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DISCOVERY CHANNEL
 http://iptv61w.com:25461/live/moises123/moises123/4015.ts
-#EXTINF:-1,FOX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FOX
 http://iptv61w.com:25461/live/moises123/moises123/4005.ts
-#EXTINF:-1,EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,EUROSPORT 1
 http://iptv61w.com:25461/live/moises123/moises123/4008.ts
-#EXTINF:-1,EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,EUROSPORT 2
 http://iptv61w.com:25461/live/moises123/moises123/4007.ts
-#EXTINF:-1,EUROSPORT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,EUROSPORT HD
 http://iptv61w.com:25461/live/moises123/moises123/3963.ts
-#EXTINF:-1,ESTRENOS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,ESTRENOS HD
 http://iptv61w.com:25461/live/moises123/moises123/3964.ts
-#EXTINF:-1,HISTORY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,HISTORY
 http://iptv61w.com:25461/live/moises123/moises123/4001.ts
-#EXTINF:-1,GolTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,GolTV HD
 http://iptv61w.com:25461/live/moises123/moises123/4002.ts
-#EXTINF:-1,FOX NEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FOX NEWS
 http://iptv61w.com:25461/live/moises123/moises123/4004.ts
-#EXTINF:-1,DEPORTES 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DEPORTES 2
 http://iptv61w.com:25461/live/moises123/moises123/4016.ts
-#EXTINF:-1,DEPORTES 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,DEPORTES 1
 http://iptv61w.com:25461/live/moises123/moises123/4017.ts
-#EXTINF:-1,CUATRO HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,CUATRO HD
 http://iptv61w.com:25461/live/moises123/moises123/3965.ts
-#EXTINF:-1,FOX LIFE ES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,FOX LIFE ES
 http://iptv61w.com:25461/live/moises123/moises123/4042.ts
-#EXTINF:-1,LALIGA TV BAR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,LALIGA TV BAR
 http://iptv61w.com:25461/live/moises123/moises123/3996.ts
-#EXTINF:-1,TELEMADRID .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,TELEMADRID .
 http://iptv61w.com:25461/live/moises123/moises123/3997.ts
-#EXTINF:-1,SPACE HD.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,SPACE HD.
 http://iptv61w.com:25461/live/moises123/moises123/3958.ts
 
-#EXTINF:-1 tvg-id="I187.41118.tvguide.com" tvg-name="" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="IPTV61-MOISES123",NEXT ==>
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61", NEXT ==>>
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PELICULAS",La Colombiana
 http://dl.dlfile.pro/2/Colombiana.2011.1080p.mkv
