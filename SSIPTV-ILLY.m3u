@@ -6,25 +6,33 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
 https://github.com/TVCABLEAR/
 
-#EXTINF:-1 tvg-id="CanalEstrellas.ar" tvg-name="Canal De Las Estrellas" tvg-logo="http://www.chileiptv.xyz/logos/20.jpg" group-title="Internacionales",EL CANAL DE LAS ESTRELLAS
+#EXTINF:-1 tvg-id="CanalEstrellas.ar" tvg-name="Canal De Las Estrellas1" tvg-logo="http://www.chileiptv.xyz/logos/20.jpg" group-title="Internacionales",DE LAS ESTRELLAS 1
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 tvg-id="CanalEstrellas.ar" tvg-name="Canal De Las Estrellas2" tvg-logo="http://www.chileiptv.xyz/logos/20.jpg" group-title="Internacionales",DE LAS ESTRELLAS 2
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/14911.ts
+#EXTINF:-1 tvg-id="CanalEstrellas.ar" tvg-name="Canal De Las Estrellas3" tvg-logo="http://www.chileiptv.xyz/logos/20.jpg" group-title="Internacionales",DE LAS ESTRELLAS 3
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/15069.ts
+#EXTINF:-1 tvg-id="CanalEstrellas.ar" tvg-name="Canal De Las Estrellas4" tvg-logo="http://www.chileiptv.xyz/logos/20.jpg" group-title="Internacionales",DE LAS ESTRELLAS 4
 http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/165.ts
 
-#EXTINF:-1 tvg-id="Tlnovelas.ar" tvg-name="TlNovelas" tvg-logo="http://www.chileiptv.xyz/logos/41.jpg" group-title="Internacionales",TLNOVELAS
+#EXTINF:-1 tvg-id="Tlnovelas.ar" tvg-name="TlNovelas" tvg-logo="http://www.chileiptv.xyz/logos/41.jpg" group-title="Internacionales",TLNOVELAS 1
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="Tlnovelas.ar" tvg-name="TlNovelas" tvg-logo="http://www.chileiptv.xyz/logos/41.jpg" group-title="Internacionales",TLNOVELAS 2
 http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/96.ts
 
 
-#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision" tvg-logo="http://www.chileiptv.xyz/logos/12.jpg" group-title="Internacionales",UNIVISION
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision" tvg-logo="http://www.chileiptv.xyz/logos/12.jpg" group-title="Internacionales",UNIVISION 1
 http://iptv61w.com:25461/live/moises123/moises123/5767.ts
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision" tvg-logo="http://www.chileiptv.xyz/logos/12.jpg" group-title="Internacionales",UNIVISION 2
 http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/418.ts
 
-#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="http://www.chileiptv.xyz/logos/13.jpg" group-title="Internacionales",TELEMUNDO
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="http://www.chileiptv.xyz/logos/13.jpg" group-title="Internacionales",TELEMUNDO 1
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="http://www.chileiptv.xyz/logos/13.jpg" group-title="Internacionales",TELEMUNDO 2
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="http://www.chileiptv.xyz/logos/13.jpg" group-title="Internacionales",TELEMUNDO 3
 http://iptv61w.com:25461/live/moises123/moises123/4483.ts
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="http://www.chileiptv.xyz/logos/13.jpg" group-title="Internacionales",TELEMUNDO 4
 http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/416.ts
 
 #EXTINF:-1,HD TELEMUNDO MIAMI HD 
