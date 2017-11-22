@@ -11,107 +11,107 @@ https://www.youtube.com/watch?v=9clwe9p6wgQ
 <!--https://m3u.iptvla.xyz/usuarios/lista/iptvclub/free.m3u-->
 
 #EXTINF:-1 tvg-id="I187.41118.tvguide.com" tvg-name="" tvg-logo="" group-title="z-omitir",LISTAS INTERNACIONALES
-https://www.youtube.com/watch?v=m294L79sEdA 
+https://www.youtube.com/watch?v=m294L79sEdA
 
 #EXTINF:-1 tvg-id="CanalEstrellas.ar" tvg-name="Canal De Las Estrellas" tvg-logo="http://www.chileiptv.xyz/logos/20.jpg" group-title="Internacionales",EL CANAL DE LAS ESTRELLAS
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8 
-http://tv.latintvweb.com:8000/live/Manuel/Manuel/14911.ts 
-http://tv.latintvweb.com:8000/live/Manuel/Manuel/15069.ts 
-http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/165.ts 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14911.ts
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15069.ts
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/165.ts
 
 #EXTINF:-1 tvg-id="Tlnovelas.ar" tvg-name="TlNovelas" tvg-logo="http://www.chileiptv.xyz/logos/41.jpg" group-title="Internacionales",TLNOVELAS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8 
-http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/96.ts 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/96.ts
 
 
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision" tvg-logo="http://www.chileiptv.xyz/logos/12.jpg" group-title="Internacionales",UNIVISION
-http://iptv61w.com:25461/live/moises123/moises123/5767.ts 
-http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/418.ts 
+http://iptv61w.com:25461/live/moises123/moises123/5767.ts
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/418.ts
 
 #EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo" tvg-logo="http://www.chileiptv.xyz/logos/13.jpg" group-title="Internacionales",TELEMUNDO
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on 
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8 
-http://iptv61w.com:25461/live/moises123/moises123/4483.ts 
-http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/416.ts 
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+http://iptv61w.com:25461/live/moises123/moises123/4483.ts
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/416.ts
 
 #EXTINF:-1,HD TELEMUNDO MIAMI HD 
-http://tv.latintvweb.com:8000/live/Manuel/Manuel/16993.ts 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16993.ts
 #EXTINF:-1,HD Telemundo Los Angeles HD 
-http://tv.latintvweb.com:8000/live/Manuel/Manuel/16992.ts 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16992.ts
 #EXTINF:-1,HD Telemundo NEW YORK USA 
-http://tv.latintvweb.com:8000/live/Manuel/Manuel/16990.ts 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16990.ts
 #EXTINF:-1,USA:TELEMUNDO 
-http://tv.latintvweb.com:8000/live/Manuel/Manuel/11563.ts 
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/340.png" group-title="PREMIUM",HOME & HEALTH 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11563.ts
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/340.png" group-title="PREMIUM",HOME & HEALTH
 http://iptv61w.com:25461/live/daniel/daniel/3765.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telemundo PR 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telemundo PR
 http://iptv61w.com:25461/live/moises123/moises123/6200.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telemundo  .
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telemundo
 http://iptv61w.com:25461/live/moises123/moises123/3833.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telenovelas 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Telenovelas
 http://iptv61w.com:25461/live/moises123/moises123/3834.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Discovery H&H 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Discovery H&H
 http://iptv61w.com:25461/live/moises123/moises123/3765.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Univision LA 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Univision LA
 http://iptv61w.com:25461/live/moises123/moises123/5767.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Univision PR 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Univision PR
 http://iptv61w.com:25461/live/moises123/moises123/3930.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,MTV LIVE HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,MTV LIVE HD
 http://iptv61w.com:25461/live/moises123/moises123/4685.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Ecuavisa HD 
 http://iptv61w.com:25461/live/moises123/moises123/3937.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Ecuavisa 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,Ecuavisa
 http://iptv61w.com:25461/live/moises123/moises123/3874.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,El Nueve HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,El Nueve HD
 http://iptv61w.com:25461/live/moises123/moises123/6473.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,RCN Novelas 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61" ,RCN Novelas
 http://iptv61w.com:25461/live/moises123/moises123/3820.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal-de-las-estrellas-en-vivo.jpg" group-title="MEXICO", LAS ESTRELLAS 
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal-de-las-estrellas-en-vivo.jpg" group-title="MEXICO", LAS ESTRELLAS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?TVcablear.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal-de-las-estrellas-en-vivo.jpg" group-title="MEXICO", LAS ESTRELLAS OPC 2 
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/Tlnovelas_%28TV_network%29_logo.jpg" group-title="MEXICO", TLNOVELAS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/Tlnovelas_%28TV_network%29_logo.jpg" group-title="MEXICO", TLNOVELAS
 http://live.izzitv.mx/Content/HLS/Live/Channel(TLNOVELAS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/Tlnovelas_%28TV_network%29_logo.jpg" group-title="MEXICO", TLNOVELAS OPC2 
 http://iptv61w.com:25461/live/daniel/daniel/3834.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Imagen." tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAmEAAAAJDM2ZjBkMmVkLTU3YWQtNDMzZi04ZTEyLTdiMmQ3NTkxZTMzNQ.png" group-title="CENTRO AMERICA",IMAGEN 
+#EXTINF:-1 tvg-id="" tvg-name="Imagen." tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAmEAAAAJDM2ZjBkMmVkLTU3YWQtNDMzZi04ZTEyLTdiMmQ3NTkxZTMzNQ.png" group-title="CENTRO AMERICA",IMAGEN
 http://192.99.39.218:25461/live/david1/david1/3901.ts
 
-#EXTINF:-1 tvg-id="I187.41118.tvguide.com" tvg-name="EcuadorTV." tvg-logo="" group-title="ECUADOR",EcuadorTV 
+#EXTINF:-1 tvg-id="I187.41118.tvguide.com" tvg-name="EcuadorTV." tvg-logo="" group-title="ECUADOR",EcuadorTV
 http://192.99.39.218:25461/live/david1/david1/3868.ts
 
-#EXTINF:-1 tvg-id="Ecuavisa HD" tvg-name="Ecuavisa HD" tvg-logo="http://www.iptvroku.com/logos/Ecuavisa.jpg" group-title="ECUADOR",Ecuavisa HD 
+#EXTINF:-1 tvg-id="Ecuavisa HD" tvg-name="Ecuavisa HD" tvg-logo="http://www.iptvroku.com/logos/Ecuavisa.jpg" group-title="ECUADOR",Ecuavisa HD
 http://192.99.39.218:25461/live/david1/david1/3937.ts
 
 #EXTINF:-1 tvg-id="Ecuavisa" tvg-name="Ecuavisa." tvg-logo="http://www.iptvroku.com/logos/Ecuavisa.jpg" group-title="ECUADOR",Ecuavisa 
 http://iptv61w.com:25461/live/moises123/moises123/3874.ts
 http://192.99.39.218:25461/live/david1/david1/3874.ts
 
-#EXTINF:-1 tvg-id="America TV" tvg-name="America TV ARG" tvg-logo="http://www.iptvroku.com/logos/america.jpg" group-title="ARGENTINA",America TV ARG 
+#EXTINF:-1 tvg-id="America TV" tvg-name="America TV ARG" tvg-logo="http://www.iptvroku.com/logos/america.jpg" group-title="ARGENTINA",America TV ARG
 http://192.99.39.218:25461/live/david1/david1/3882.ts
 
-#EXTINF:-1 tvg-id="ATV.mx" tvg-name="ATV (PE)" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/05/ATV-Logo.jpg" group-title="PERU",ATV 
+#EXTINF:-1 tvg-id="ATV.mx" tvg-name="ATV (PE)" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/05/ATV-Logo.jpg" group-title="PERU",ATV
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="I104.20404.tvguide.com" tvg-name="America TV (PE)" tvg-logo="http://www.iptvroku.com/logos/americaTVHD.jpg" group-title="PERU",America TV (PERU) 
+#EXTINF:-1 tvg-id="I104.20404.tvguide.com" tvg-name="America TV (PE)" tvg-logo="http://www.iptvroku.com/logos/americaTVHD.jpg" group-title="PERU",America TV (PERU)
 http://192.99.39.218:25461/live/david1/david1/3741.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-logo="https://s2-ssl.dmcdn.net/WCu9s/200x200-QaX.jpg" group-title="CENTRO AMERICA",Telemundo PR 
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-logo="https://s2-ssl.dmcdn.net/WCu9s/200x200-QaX.jpg" group-title="CENTRO AMERICA",Telemundo PR
 http://192.99.39.218:25461/live/david1/david1/6200.ts
 
-#EXTINF:-1 tvg-id="I145.77455.tvguide.com" tvg-name="Telemundo ." tvg-logo="" group-title="CENTRO AMERICA",TELEMUNDO 
+#EXTINF:-1 tvg-id="I145.77455.tvguide.com" tvg-name="Telemundo ." tvg-logo="" group-title="CENTRO AMERICA",TELEMUNDO
 http://192.99.39.218:25461/live/david1/david1/3833.ts
 
 
 
-#EXTINF:-1 tvg-id="I145.77455.tvguide.com" tvg-name="Telemundo ." tvg-logo="" group-title="HONDURAS", CANAL 5 EL LIDER 
-https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/index_800_av-b.m3u8?sd=10&rebase=on 
-https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/segment151057704_800_av-b.ts?sd=10&rebase=on 
-#EXTINF:-1 tvg-id="I145.77455.tvguide.com" tvg-name="Telemundo ." tvg-logo="" group-title="HONDURAS", TSI 
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/index_800_av-p.m3u8?sd=10&rebase=on 
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/segment151057746_800_av-p.ts?sd=10&rebase=on 
-#EXTINF:-1 tvg-id="I145.77455.tvguide.com" tvg-name="Telemundo ." tvg-logo="" group-title="HONDURAS", TELECADENA 
+#EXTINF:-1 tvg-id="I145.77455.tvguide.com" tvg-name="Telemundo ." tvg-logo="" group-title="HONDURAS", CANAL 5 EL LIDER
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/index_800_av-b.m3u8?sd=10&rebase=on
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/segment151057704_800_av-b.ts?sd=10&rebase=on
+#EXTINF:-1 tvg-id="I145.77455.tvguide.com" tvg-name="Telemundo ." tvg-logo="" group-title="HONDURAS", TSI
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/index_800_av-p.m3u8?sd=10&rebase=on
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/segment151057746_800_av-p.ts?sd=10&rebase=on
+#EXTINF:-1 tvg-id="I145.77455.tvguide.com" tvg-name="Telemundo ." tvg-logo="" group-title="HONDURAS", TELECADENA
 #
