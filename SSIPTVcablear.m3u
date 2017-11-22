@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/TVCABLEAR/iptv/master/ExperimentalChannell.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Experimental Channells",Lista M3u8
 https://raw.githubusercontent.com/TVCABLEAR/iptv/master/ExperimentalLista.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO", CANALES DE CLARO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO", PREMIUM CLARO
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO",NETWORK-JC 
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8 
@@ -130,7 +130,6 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TBS)/Stream(01)/ind
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM HD",CARTOON NETWORK
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM HD",TELEMUNDO 1
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM HD",TELEMUNDO 2 
@@ -1820,6 +1819,7 @@ http://iptv61w.com:25461/live/moises123/moises123/3958.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM IPTV61", NEXT ==>>
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PELICULAS", PELICULAS
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PELICULAS",La Colombiana
 http://dl.dlfile.pro/2/Colombiana.2011.1080p.mkv
@@ -1990,6 +1990,7 @@ http://tecnotv.xyz/tv3/simpsontv
 #EXTINF:0,TELEMUNDO
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM izzitv.mx", PREMIUM izzitv.mx
 
 #EXTINF:-1 group-title="PREMIUM izzitv.mx",CINEMAX
 http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
@@ -2020,6 +2021,8 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
 
 #EXTINF:-1 group-title="PREMIUM izzitv.mx",UNICABLE
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM izzitv.mx", NEXT ==>>
 
 #EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2292.png" group-title="PREMIUM live.izzitv", CINEMAX
 http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
