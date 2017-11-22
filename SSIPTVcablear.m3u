@@ -123,6 +123,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO", CLARO ==>>
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM HD", PREMIUM HD
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM HD",TBS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TBS)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM HD",TOONCAST
@@ -1876,7 +1877,7 @@ http://discontrol@media-es-am.crackle.com/1/0/n0/seoyk_480p_1mbps.mp4
 http://media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PELICULAS",Asesino de La Carretera
 http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
-#EXTINF:-1,La Marca de la Bestia (2005)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PELICULAS",La Marca de la Bestia (2005)
 http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PELICULAS",PORKYS III (CLASICA)
 http://bit.ly/PORKYSIII_MOVIE
@@ -1900,7 +1901,7 @@ http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4?
 http://discontrol@media-es-am.crackle.com/1/o/n0/cdoyk_480p_1mbps.mp4?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PELICULAS",Death Note (Exclusiva Netflix)
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:328-Death_Note.mp4/playlist.m3u8
-#EXTINF:-1,Desnudo(Exclusiva Netflix)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PELICULAS",Desnudo(Exclusiva Netflix)
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:306-Desnudo.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PELICULAS",CHIPS: Patrulla Motorizada Recargada (2017) HD
 https://ia601504.us.archive.org/5/items/Chips20017/Chips20017.mp4?Pelixmax1.mp4
@@ -1927,23 +1928,12 @@ https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv?Pelixmax1.mk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PELICULAS",Cementerio De Mascotas (TERROR)
 https://archive.org/download/06052017AQC06052017/06052017_AQC.avi?Pelixmax1.mp4
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PELICULAS",NEXT ==>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM tstv.lcdn",PREMIUM tstv.lcdn
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM tstv.lcdn", ID
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(01)/index.m3u8
-
-#EXTINF:-1, HISTORY 2
-http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
-
-#EXTINF:-1, EL GOURMET
-http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
-
-#EXTINF:-1, COMEDY CENTRAL
-http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
-
-#EXTINF:-1, DISTRITO COMEDIA
-http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
-
-#EXTINF:-1, WARNER CHANNEL
-http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM tstv.lcdn", FOX LIFE
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
@@ -1966,12 +1956,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM tstv.lcdn", CARTOON NETWORT
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/zn2C9xA.png" group-title="24/7",Los Simpson Random
-http://tecnotv.xyz/tv3/simpsontv
-
-
-
-#EXTINF:-1, DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM tstv.lcdn", DISCOVERY CHANNEL
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM tstv.lcdn", UNIVERSAL CHANNEL
@@ -1982,9 +1967,6 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM tstv.lcdn", AXN
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/Stream(01)/index.m3u8
-
-#EXTINF:0,TELEMUNDO
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM tstv.lcdn", FX
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/Stream(01)/index.m3u8
@@ -2001,39 +1983,13 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/S
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM tstv.lcdn",SONY
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/tbs.png" group-title="PREMIUM", TBS
-http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/med_gallery_1157_2_1147.png" group-title="PREMIUM", ISAT
-http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/med_gallery_1157_2_1147.png" group-title="PREMIUM", ISAT OPC2 NO DISPONIBLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM tstv.lcdn", NEXT ==>>
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156" group-title="PREMIUM", AMC 
-http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156" group-title="PREMIUM", AMC OPC2
-http://iptv61w.com:25461/live/daniel/daniel/3742.m3u8
-#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0003_tcm.png" group-title="PREMIUM", TCM
-http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0003_tcm.png" group-title="PREMIUM", TCM OPC2 NO DISPONIBLE
+#EXTINF:-1 tvg-logo="https://imgur.com/zn2C9xA.png" group-title="24/7",Los Simpson Random
+http://tecnotv.xyz/tv3/simpsontv
+#EXTINF:0,TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-za1hb9sNrLU/UqLjmOIZikI/AAAAAAAAA6M/1N4oIDZxIng/s1600/_0004_true_tv.png" group-title="PREMIUM", TRUTV
-http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-za1hb9sNrLU/UqLjmOIZikI/AAAAAAAAA6M/1N4oIDZxIng/s1600/_0004_true_tv.png" group-title="PREMIUM", TRUTV OPC2
-http://iptv61w.com:25461/live/daniel/daniel/4673.m3uu8
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="PREMIUM", E!
-http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="PREMIUM", E! OPC2 NO DISPONIBLE
-
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/11/ae_network_logo-svg.png?w=605" group-title="PREMIUM", A&E
-http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/11/ae_network_logo-svg.png?w=605" group-title="PREMIUM", A&E OPC2
-http://iptv61w.com:25461/live/daniel/daniel/3740.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/712px-Comedy_Central.svg.png" group-title="PREMIUM", COMEDY CENTAL
-http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/712px-Comedy_Central.svg.png" group-title="PREMIUM", COMEDY CENTAL OPC2
-http://iptv61w.com:25461/live/daniel/daniel/3710.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-LiaQDlzHFPU/U7UozRfRUpI/AAAAAAAAEQc/jK_3OyQ7nds/s1600/Lifetime.jpeg" group-title="PREMIUM", LIFETIME
-http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-LiaQDlzHFPU/U7UozRfRUpI/AAAAAAAAEQc/jK_3OyQ7nds/s1600/Lifetime.jpeg" group-title="PREMIUM", LIFETIME OPC2 NO DISPONIBLE
 
 #EXTINF:-1 group-title="PREMIUM izzitv.mx",CINEMAX
 http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
