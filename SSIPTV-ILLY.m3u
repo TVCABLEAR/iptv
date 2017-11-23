@@ -20,12 +20,19 @@ http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/165.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", TLNOVELAS 1
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", TLNOVELAS 2
 http://iptv61w.com:25461/live/moises123/moises123/3834.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", TLNOVELAS 3
-http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/96.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", DE CASA HD
+http://flus0.sanpedrowifi.com/live/decasa.HD.xtra/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", CANAL COCINA
+http://flus0.sanpedrowifi.com/live/cocina.SD.IRD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", GOURMET HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOURMET_HD)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", UNIVISION 1
 http://iptv61w.com:25461/live/moises123/moises123/5767.ts
