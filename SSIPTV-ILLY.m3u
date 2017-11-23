@@ -17,14 +17,15 @@ http://tv.latintvweb.com:8000/live/Manuel/Manuel/14911.ts
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", DE LAS ESTRELLAS 3
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/15068.ts
-http://tv.latintvweb.com:8000/live/Manuel/Manuel/15069.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", DE LAS ESTRELLAS 4
-http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/165.ts
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15069.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", TLNOVELAS 1
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", TLNOVELAS 2
 http://iptv61w.com:25461/live/moises123/moises123/3834.ts
@@ -58,8 +59,10 @@ http://iptv61w.com:25461/live/moises123/moises123/3833.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", TELEMUNDO MIAMI HD 
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/16993.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Telemundo PR
 http://iptv61w.com:25461/live/moises123/moises123/6200.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Telemundo Los Angeles HD 
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/16992.ts
 
@@ -83,12 +86,16 @@ http://iptv61w.com:25461/live/moises123/moises123/3930.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", UNIVISION TDN
 http://iptv61w.com:25461/live/moises123/moises123/4175.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", VE PLUS
 http://iptv61w.com:25461/live/moises123/moises123/4113.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", VENEVISION
 http://iptv61w.com:25461/live/moises123/moises123/3850.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", VENEVISION PLUS
 http://iptv61w.com:25461/live/moises123/moises123/3675.ts
+
 #EX#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", MTV LIVE HD
 http://iptv61w.com:25461/live/moises123/moises123/4685.ts
 
@@ -103,7 +110,8 @@ http://iptv61w.com:25461/live/moises123/moises123/6473.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", RCN Novelas
 http://iptv61w.com:25461/live/moises123/moises123/3820.ts
-http://iptv61w.com:25461/live/moises123/moises123/3820.ts
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", RCN SD
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 
@@ -121,6 +129,9 @@ http://iptv61w.com:25461/live/daniel/daniel/3834.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Ecuavisa 
 http://iptv61w.com:25461/live/moises123/moises123/3874.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", America TV (PERU)
+http://iptv61w.com:25461/live/moises123/moises123/3741.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", ATV
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
@@ -141,8 +152,8 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/segment151057746_800
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", TELECADENA
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", America TV (PERU)
-http://iptv61w.com:25461/live/moises123/moises123/3741.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", DE LAS ESTRELLAS 5
+http://us.iptvlatino.xyz:25461/live/yeyo/yeyo1/165.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", America TV ARG
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
@@ -150,11 +161,17 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", IMAGEN
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Ecuador 7 TV
 http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Ecuavisa HD
 http://iptv61w.com:25461/live/moises123/moises123/3874.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Ecuavisa HD (2)
 http://iptv61w.com:25461/live/moises123/moises123/3937.ts
 
 
