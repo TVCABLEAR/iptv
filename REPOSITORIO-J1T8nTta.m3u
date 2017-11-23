@@ -1,0 +1,81 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+ 
+#EXTINF:-1,AXN
+http://wowza2.mysoltv.com:1992/Latino_AXN_HD/index.m3u8
+#EXTINF:-1,Cinecanal
+http://wowza2.mysoltv.com:1992/Latino_Cinecanal_HD/index.m3u8
+#EXTINF:-1,Fox_Action
+http://wowza2.mysoltv.com:1992/Latino_Fox_Action_HD/index.m3u8
+#EXTINF:-1,Fox
+http://wowza2.mysoltv.com:1992/Latino_Fox_HD/index.m3u8
+#EXTINF:-1,Fox_Cinema
+http://wowza2.mysoltv.com:1992/Latino_Fox_Cinema_HD/index.m3u8
+#EXTINF:-1,Golden
+http://wowza2.mysoltv.com:1992/Latino_Golden_HD/index.m3u8
+#EXTINF:-1,History
+http://wowza2.mysoltv.com:1992/Latino_History_HD/index.m3u8
+#EXTINF:-1,H2
+http://wowza2.mysoltv.com:1992/Latino_H2/index.m3u8
+#EXTINF:-1,Multimedios_Monterrey http://wowza2.mysoltv.com:1992/Latino_Multimedios_Monterrey_HD/index.m3u8 #EXTINF:-1,Space http://wowza2.mysoltv.com:1992/Latino_Space_HD/index.m3u8
+#EXTINF:-1,Unicable
+http://wowza2.mysoltv.com:1992/Latino_Unicable_HD/index.m3u8
+#EXTINF:-1,UNIMAS
+http://wowza2.mysoltv.com:1992/Latino_UNIMAS_HD/index.m3u8
+#EXTINF:-1,Universal
+http://wowza2.mysoltv.com:1992/Latino_Universal_HD/index.m3u8
+#EXTINF:-1,UNIVISION
+http://wowza2.mysoltv.com:1992/Latino_UNIVISION_HD/index.m3u8
+#EXTINF:-1,Warner
+http://wowza2.mysoltv.com:1992/Latino_Warner_HD/index.m3u8
+#EXTINF:-1,Animal_Planet
+http://wowza2.mysoltv.com:1992/Latino_Animal_Planet/index.m3u8
+#EXTINF:-1,Cinecanal
+http://wowza2.mysoltv.com:1992/Latino_Cinecanal/index.m3u8
+#EXTINF:-1,CINELATINO
+http://wowza2.mysoltv.com:1992/Latino_CINELATINO/index.m3u8
+#EXTINF:-1,CINEMAX
+http://wowza2.mysoltv.com:1992/Latino_CINEMAX/index.m3u8
+#EXTINF:-1,Claro_Sports
+http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8
+#EXTINF:-1,Discovery_Channel
+http://wowza2.mysoltv.com:1992/Latino_Discovery_Channel/index.m3u8
+#EXTINF:-1,Disney
+http://wowza2.mysoltv.com:1992/Latino_Disney/index.m3u8
+ 
+#EXTINF:-1,Latino | Fox Movies HD.
+https://freedom.dreamsmx.com/freedom/foxmoviesizi/playlist.m3u8
+#EXTINF:-1,Latino | Discovery Kids
+https://freedom.dreamsmx.com/freedom/lmb/playlist.m3u8
+#EXTINF:-1,Bet Safe Star Sixes
+https://freedom.dreamsmx.com/freedom/MLB/playlist.m3u8
+#EXTINF:-1,UFC Fight Pass
+https://freedom.dreamsmx.com/freedom/mlb6/playlist.m3u8
+#EXTINF:-1,HBO
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+#EXTINF:-1,Hbo Plus-
+https://freedom.dreamsmx.com/freedom/hboplusdc/playlist.m3u8
+#EXTINF:-1,HBO Family.
+https://freedom.dreamsmx.com/freedom/hbopluswestizi/playlist.m3u8
+#EXTINF:-1,HBO Signature
+https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+#EXTINF:-1,Discovery Home & Health
+https://freedom.dreamsmx.com/freedom/formula1/playlist.m3u8
+#EXTINF:-1,Discovery Home & Health
+https://freedom.dreamsmx.com/freedom/formula1/playlist.m3u8
+#EXTINF:-1,Fox Comedy HD.
+https://freedom.dreamsmx.com/freedom/foxcomedy/playlist.m3u8
+#EXTINF:-1,Fox Family EN
+https://freedom.dreamsmx.com/freedom/foxfamili/playlist.m3u8
+#EXTINF:-1,HBO
+https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
+ 
+#EXTINF:-1,USA-REDBULL/6022
+http://51.15.144.38:8666/play/a00q/index.m3u8
+#EXTINF:-1,ES-FORMULA1
+http://51.15.144.38:8666/play/a01w/index.m3u8
