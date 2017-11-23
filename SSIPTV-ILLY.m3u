@@ -33,8 +33,7 @@ http://iptv61w.com:25461/live/moises123/moises123/3834.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", DE CASA HD
 http://flus0.sanpedrowifi.com/live/decasa.HD.xtra/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", CANAL COCINA
-http://flus0.sanpedrowifi.com/live/cocina.SD.IRD/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", GOURMET HD
 http://iptv61w.com:25461/live/moises123/moises123/3770.ts
@@ -72,17 +71,12 @@ http://tv.latintvweb.com:8000/live/Manuel/Manuel/16990.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", USA TELEMUNDO 
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/11563.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", HOME and HEALTH
-http://iptv61w.com:25461/live/daniel/daniel/3765.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Discovery H&H
 http://iptv61w.com:25461/live/moises123/moises123/3765.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Univision LA
-http://iptv61w.com:25461/live/moises123/moises123/5767.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Univision PR
-http://iptv61w.com:25461/live/moises123/moises123/3930.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", UNIVISION TDN
 http://iptv61w.com:25461/live/moises123/moises123/4175.ts
@@ -127,13 +121,22 @@ http://iptv61w.com:25461/live/moises123/moises123/3834.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", TLNOVELAS OPC2 
 http://iptv61w.com:25461/live/daniel/daniel/3834.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Ecuador 7 TV
+http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Ecuavisa HD
+http://iptv61w.com:25461/live/moises123/moises123/3874.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Ecuavisa HD (2)
+http://iptv61w.com:25461/live/moises123/moises123/3937.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Ecuavisa 
 http://iptv61w.com:25461/live/moises123/moises123/3874.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", America TV (PERU)
 http://iptv61w.com:25461/live/moises123/moises123/3741.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", ATV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", ATV (PE)
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", CANAL 5 EL LIDER 1
@@ -161,17 +164,16 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", IMAGEN
 http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", CANAL COCINA
+http://flus0.sanpedrowifi.com/live/cocina.SD.IRD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", Univision LA
+http://iptv61w.com:25461/live/moises123/moises123/5767.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", Univision PR
+http://iptv61w.com:25461/live/moises123/moises123/3930.ts
 
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Ecuador 7 TV
-http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Ecuavisa HD
-http://iptv61w.com:25461/live/moises123/moises123/3874.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Ecuavisa HD (2)
-http://iptv61w.com:25461/live/moises123/moises123/3937.ts
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", HOME and HEALTH
+http://iptv61w.com:25461/live/daniel/daniel/3765.m3u8
 
