@@ -75,7 +75,7 @@ http://iptv61w.com:25461/live/moises123/moises123/3850.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", VENEVISION PLUS
 http://iptv61w.com:25461/live/moises123/moises123/3675.ts
 
-#EX#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", MTV LIVE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", MTV LIVE HD
 http://iptv61w.com:25461/live/moises123/moises123/4685.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Ecuavisa HD 
@@ -98,8 +98,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?TVcablear.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", LAS ESTRELLAS OPC 2 
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Internacionales", Ecuador 7 TV
 http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
@@ -188,4 +186,258 @@ http://tecnotv.xyz/tv3/unimas
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TELIVISI-REGIONAL", UNIVISION
 http://tecnotv.xyz/tv3/univision
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", TLNOVELAS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", TBS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TBS)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", TNT SERIES
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", UNIMAS
+http://tecnotv.xyz/tv3/unimas
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", UNIVISION
+http://tecnotv.xyz/tv3/univision
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", DE LAS ESTRELLAS (SD)
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", DE LAS ESTRELLAS 1
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", DE LAS ESTRELLAS 2
+
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14911.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", DE LAS ESTRELLAS 3
+
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15068.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", DE LAS ESTRELLAS 4
+
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15069.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", Telenovelas Claro
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", TLNOVELAS moises
+
+http://iptv61w.com:25461/live/moises123/moises123/3834.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", Az CORAZON
+
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", GOURMET HD
+
+http://iptv61w.com:25461/live/moises123/moises123/3770.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", TELEMUNDO 1
+
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", TELEMUNDO 2
+
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", TELEMUNDO 3
+
+http://iptv61w.com:25461/live/moises123/moises123/4483.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", TELEMUNDO 4
+
+http://iptv61w.com:25461/live/moises123/moises123/3833.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", TELEMUNDO MIAMI HD 
+
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16993.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", Telemundo PR
+
+http://iptv61w.com:25461/live/moises123/moises123/6200.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", Telemundo Los Angeles HD 
+
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16992.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", Telemundo NEW YORK USA 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16990.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", USA TELEMUNDO 
+
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11563.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", Discovery H&H
+
+http://iptv61w.com:25461/live/moises123/moises123/3765.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", UNIVISION TDN
+http://iptv61w.com:25461/live/moises123/moises123/4175.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", VE PLUS
+
+http://iptv61w.com:25461/live/moises123/moises123/4113.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", VENEVISION
+
+http://iptv61w.com:25461/live/moises123/moises123/3850.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", VENEVISION PLUS
+
+http://iptv61w.com:25461/live/moises123/moises123/3675.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", MTV LIVE HD
+
+http://iptv61w.com:25461/live/moises123/moises123/4685.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", Ecuavisa HD 
+
+http://iptv61w.com:25461/live/moises123/moises123/3937.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", Ecuavisa
+http://iptv61w.com:25461/live/moises123/moises123/3874.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", El Nueve HD
+
+http://iptv61w.com:25461/live/moises123/moises123/6473.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", RCN Novelas
+
+http://iptv61w.com:25461/live/moises123/moises123/3820.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", RCN SD
+
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", LAS ESTRELLAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?TVcablear.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", LAS ESTRELLAS OPC 2 
+
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", Ecuador 7 TV
+
+http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", Ecuavisa HD
+
+http://iptv61w.com:25461/live/moises123/moises123/3874.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", Ecuavisa HD (2)
+
+http://iptv61w.com:25461/live/moises123/moises123/3937.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", Ecuavisa 
+
+http://iptv61w.com:25461/live/moises123/moises123/3874.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", America TV (PERU)
+
+http://iptv61w.com:25461/live/moises123/moises123/3741.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", ATV (PE)
+
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", CANAL 5 EL LIDER 1
+
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/index_800_av-b.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", CANAL 5 EL LIDER 2
+
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/segment151057704_800_av-b.ts?sd=10&rebase=on
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV",  TSI 1
+
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/index_800_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", TSI 2
+
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/segment151057746_800_av-p.ts?sd=10&rebase=on
+
 
