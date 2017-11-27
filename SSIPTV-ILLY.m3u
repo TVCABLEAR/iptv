@@ -38,7 +38,8 @@ http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-v
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", AMERICA TV (PERU)
 http://iptv61w.com:25461/live/moises123/moises123/3741.ts
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", TELEMETRO TV (Panama)
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", LAS ESTRELLAS Mex 0
