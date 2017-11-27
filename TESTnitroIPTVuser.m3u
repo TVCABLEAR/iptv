@@ -1,0 +1,140 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="uk.BTSpt//ESPNHD" tvg-name="UK: BT ESPN HD" tvg-logo="https://external.ford1-1.fna.fbcdn.net/safe_image.php?d=AQDXWsCa7W-8e3-f&w=264&h=264&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fe%2Fe4%2FBT_Sport_ESPN_logo.png%2F720px-BT_Sport_ESPN_logo.png&colorbox&f&_nc_hash=AQDI531eFH4QyH3e" group-title="UK SPORTS & INTERNATIONAL",UK: BT ESPN HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1314.ts
+#EXTINF:-1 tvg-id="uk.BT Sport 1 HD" tvg-name="UK: BT SPORTS 1 HD" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT SPORTS 1 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1318.ts
+#EXTINF:-1 tvg-id="UK: BT FHD 1" tvg-name="UK: BT FHD 1" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT FHD 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1315.ts
+#EXTINF:-1 tvg-id="uk.BT Sport 2 HD" tvg-name="UK: BT SPORTS 2 HD" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT SPORTS 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1319.ts
+#EXTINF:-1 tvg-id="UK: BT FHD 2" tvg-name="UK: BT FHD 2" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT FHD 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1316.ts
+#EXTINF:-1 tvg-id="uk.BT Sport 3 HD" tvg-name="UK: BT SPORTS 3 HD" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT SPORTS 3 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1320.ts
+#EXTINF:-1 tvg-id="UK: BT FHD 3" tvg-name="UK: BT FHD 3" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT FHD 3
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1317.ts
+#EXTINF:-1 tvg-id="uk.Sky Sports F1" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://i.redditmedia.com/jbIc0d8qKdbtisoC0YHRQyPS2Ee2BzA-DeG6cX3V6hw.jpg?w=320&s=a6f3fe95e50272bb0ce6a6cb761e0de5" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports F1 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1365.ts
+#EXTINF:-1 tvg-id="uk.Sky Sports 1" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Main Event HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1360.ts
+#EXTINF:-1 tvg-id="UK: SKY SPORTS FHD 1" tvg-name="UK: SKY SPORTS FHD F1" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS FHD F1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1368.ts
+#EXTINF:-1 tvg-id="uk.Sky Sports 2" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-2.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Cricket HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1361.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket FHD" tvg-logo="" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Cricket FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7947.ts
+#EXTINF:-1 tvg-id="UK: SKY SPORTS FHD 1" tvg-name="UK: SKY SPORTS Main Event FHD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS Main Event FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1366.ts
+#EXTINF:-1 tvg-id="uk.Sky Sports 3" tvg-name="UK: Sky Sports Action HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-3.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Action HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1362.ts
+#EXTINF:-1 tvg-id="UK: SKY SPORTS FHD 3" tvg-name="UK: SKY SPORTS Action FHD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-3.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS Action FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1367.ts
+#EXTINF:-1 tvg-id="uk.Sky Sports 4" tvg-name="UK: Sky Sports Golf HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-4.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Golf HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1363.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS Golf FHD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-4.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS Golf FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1303.ts
+#EXTINF:-1 tvg-id="uk.Sky Sports 5" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-5.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Premier League HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1364.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS Premier League FHD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-5.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS Premier League FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1304.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Arena FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7949.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena HD" tvg-logo="" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Arena HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7948.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football FHD" tvg-logo="" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Football FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7951.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football HD" tvg-logo="" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Football HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7950.ts
+#EXTINF:-1 tvg-id="uk.Premier Sports" tvg-name="UK: Premier Sports" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/12227209_990180371004841_9143985061435387495_n.jpg?oh=99ca078b2024d30a1e704edb56ee293d&oe=5950BC1A" group-title="UK SPORTS & INTERNATIONAL",UK: Premier Sports
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2089.ts
+#EXTINF:-1 tvg-id="UK: PREMIER SPORTS HD" tvg-name="UK: Premier Sports HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12227209_990180371004841_9143985061435387495_n.jpg?oh=531b225f0b4b2fd09e5493266ecee5fd&oe=5951D641" group-title="UK SPORTS & INTERNATIONAL",UK: Premier Sports HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1341.ts
+#EXTINF:-1 tvg-id="uk.Sky Sports News HD" tvg-name="UK: Sky Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Sky_Sports_News_HQ_logo_2015.svg/500px-Sky_Sports_News_HQ_logo_2015.svg.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports News
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1369.ts
+#EXTINF:-1 tvg-id="uk.Sky Sp Mix HD" tvg-name="UK: Sky Sports Mix" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/05/Sky-Sports-Mix.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Mix
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1305.ts
+#EXTINF:-1 tvg-id="uk.Racing UK HD" tvg-name="UK: Racing UK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Racinguk.png" group-title="UK SPORTS & INTERNATIONAL",UK: Racing UK HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1342.ts
+#EXTINF:-1 tvg-id="uk.Eurosport 1 HD" tvg-name="UK: Eurosport 1 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c8/Eurosport_1_HD.svg/revision/latest/scale-to-width-down/185?cb=20160505173101" group-title="UK SPORTS & INTERNATIONAL",UK: Eurosport 1 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2088.ts
+#EXTINF:-1 tvg-id="uk.Eurosport 2" tvg-name="UK: Eurosport 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDK4g0nrnG6-naEOaWdYYG9uY4Tqv9_SbSuGt2hU91OSj-D3i3" group-title="UK SPORTS & INTERNATIONAL",UK: Eurosport 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2087.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c8/Eurosport_1_HD.svg/revision/latest/scale-to-width-down/185?cb=20160505173101" group-title="UK SPORTS & INTERNATIONAL",UK: Eurosport 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3199.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 2" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest/scale-to-width-down/200?cb=20150426155551" group-title="UK SPORTS & INTERNATIONAL",UK: Eurosport 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3198.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS 1" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3404.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1" tvg-logo="https://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png/medium" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS F1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3405.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: CHELSEA TV HD" tvg-logo="http://www.chelseafc.com/content/cfc/en/homepage/news/boilerplate-config/latest-news/2016/08/under-18s--home-games-live-on-chelsea-tv.img.png" group-title="UK SPORTS & INTERNATIONAL",UK: CHELSEA TV HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3552.ts
+#EXTINF:-1 tvg-id="uk.MUTV HD" tvg-name="UK: MUTV HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8b/MUTV.png/revision/latest/scale-to-width-down/320?cb=20140909134334" group-title="UK SPORTS & INTERNATIONAL",UK: MUTV HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1337.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Liverpool TV" tvg-logo="https://v.cdn.vine.co/r/avatars/2DB3FEE2D71192518304376967168_309575c4f5b.1.5.jpg?versionId=A6N3NSZCPgF_OERlxZjx9DJmS0LireAH" group-title="UK SPORTS & INTERNATIONAL",UK: Liverpool TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3371.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: LFC HD" tvg-logo="http://www.media15.tv/wp-content/uploads/2015/07/square-lfctv.jpg" group-title="UK SPORTS & INTERNATIONAL",UK: LFC HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3551.ts
+#EXTINF:-1 tvg-id="uk.BoxNation" tvg-name="UK: BoxNation" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4e/BoxNation2.png/revision/latest/scale-to-width-down/313?cb=20150705003828" group-title="UK SPORTS & INTERNATIONAL",UK: BoxNation
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2191.ts
+#EXTINF:-1 tvg-id="uk.At The Races" tvg-name="UK: At The Races" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ42xnM-whCZqx1ZNzBNyUzwGDQksPnQcyu54CUc-k3QuWKeyr" group-title="UK SPORTS & INTERNATIONAL",UK: At The Races
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2086.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Racing UK" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/aa/Racinguk.jpg/revision/latest/scale-to-width-down/600?cb=20140411182930" group-title="UK SPORTS & INTERNATIONAL",UK: Racing UK
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3386.ts
+#EXTINF:-1 tvg-id="uk.eir Sport 1" tvg-name="UK: eir Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Eirsport1logo.png/300px-Eirsport1logo.png" group-title="UK SPORTS & INTERNATIONAL",UK: eir Sport 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2090.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: eir Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="UK SPORTS & INTERNATIONAL",UK: eir Sport 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5313.ts
+#EXTINF:-1 tvg-id="uk.RTÉ One" tvg-name="UK: RTE ONE HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/24/Rteone.png/revision/latest/scale-to-width-down/185?cb=20160722160939" group-title="U.K.",UK: RTE ONE HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3435.ts
+#EXTINF:-1 tvg-id="uk.RTÉ Two" tvg-name="UK: RTE TWO HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest/scale-to-width-down/300?cb=20140911191147" group-title="U.K.",UK: RTE TWO HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3436.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : SKY SPORTS 1 IRELAND" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="UK SPORTS & INTERNATIONAL",Sports : SKY SPORTS 1 IRELAND
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3571.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : SKY SPORTS 2 IRELAND" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-2.png" group-title="UK SPORTS & INTERNATIONAL",Sports : SKY SPORTS 2 IRELAND
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3570.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Ginx eSports" tvg-logo="https://pbs.twimg.com/profile_images/841923532263198720/BVxOQ7JX_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",UK: Ginx eSports
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3367.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS 2" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-2.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3403.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS 3" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-3.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS 3
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3402.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS 4" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-4.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS 4
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3401.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS 5" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-5.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS 5
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3400.ts
+#EXTINF:-1 tvg-id="uk.BT Sport//ESPN" tvg-name="UK: BT SPORT ESPN" tvg-logo="https://external.ford1-1.fna.fbcdn.net/safe_image.php?d=AQDXWsCa7W-8e3-f&w=264&h=264&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fe%2Fe4%2FBT_Sport_ESPN_logo.png%2F720px-BT_Sport_ESPN_logo.png&colorbox&f&_nc_hash=AQDI531eFH4QyH3e" group-title="UK SPORTS & INTERNATIONAL",UK: BT SPORT ESPN
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3396.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT SPORT 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3399.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT SPORT 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3398.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 3" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT SPORT 3
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3397.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 1" tvg-logo="https://s3.uswitchstatic.com/_img/library/news_image/bt_sport_extra_long_280x150x24_fill_hefca5125.jpg" group-title="UK SPORTS & INTERNATIONAL",UK: BT Sport Extra 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2095.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 2" tvg-logo="https://www.sasiptv.com/wp-content/uploads/2016/11/bt-sport-extra-2-.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT Sport Extra 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2094.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 3" tvg-logo="https://www.pitv.co.za/wp-content/uploads/2016/11/bt-sport-extra-3-.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT Sport Extra 3
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2093.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 4" tvg-logo="https://www.pitv.co.za/wp-content/uploads/2016/11/bt-sport-extra-4.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT Sport Extra 4
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2092.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 5" tvg-logo="https://www.pitv.co.za/wp-content/uploads/2016/11/bt-sport-extra-5.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT Sport Extra 5
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2091.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 6" tvg-logo="https://www.pitv.co.za/wp-content/uploads/2016/11/bt-sport-extra-6.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT Sport Extra 6
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3187.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eleven Sports HD" tvg-logo="https://pbs.twimg.com/profile_images/813353685128511488/X33CBMGa_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",UK: Eleven Sports HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2100.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : Skynet Sports HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10945387_1553241974923032_5974503814163962921_n.jpg?oh=71262e93082ee6310093201a04a6e16c&oe=59B34A44" group-title="UK SPORTS & INTERNATIONAL",SPORTS : Skynet Sports HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3563.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ASTRO SPORTS HD 1" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e0/SS1-Albania.jpg/revision/latest/scale-to-width-down/150?cb=20160805101035" group-title="UK SPORTS & INTERNATIONAL",UK: ASTRO SPORTS HD 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3557.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ASTRO SPORTS HD 2" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/68/SS2-Albania.jpg/revision/latest?cb=20160805102138" group-title="UK SPORTS & INTERNATIONAL",UK: ASTRO SPORTS HD 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3556.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ASTRO SPORTS HD 3" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/37/SS3-Albania.jpg/revision/latest/scale-to-width-down/150?cb=20160805102748" group-title="UK SPORTS & INTERNATIONAL",UK: ASTRO SPORTS HD 3
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3555.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ASTRO SPORTS HD 4" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d2/SS4-Albania.jpg/revision/latest/scale-to-width-down/150?cb=20160805103409" group-title="UK SPORTS & INTERNATIONAL",UK: ASTRO SPORTS HD 4
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3554.ts
