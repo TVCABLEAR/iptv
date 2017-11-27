@@ -161,3 +161,6 @@ http://45.43.208.2:1935/classique/classique/live.m3u8
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO", CANAL_CLARO
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL_CLARO)/Stream(01)/index.m3u8
+
+
+
