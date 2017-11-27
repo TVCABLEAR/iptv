@@ -138,3 +138,582 @@ http://nitrotv.for-the.biz:25461/live/EAS11/1111/3556.ts
 http://nitrotv.for-the.biz:25461/live/EAS11/1111/3555.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: ASTRO SPORTS HD 4" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d2/SS4-Albania.jpg/revision/latest/scale-to-width-down/150?cb=20160805103409" group-title="UK SPORTS & INTERNATIONAL",UK: ASTRO SPORTS HD 4
 http://nitrotv.for-the.biz:25461/live/EAS11/1111/3554.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12243551_10154323906794745_2225257515569397059_n.png?oh=06fec0d20f78478bcc0d34a2aab63a2c&oe=5962378B" group-title="SPAIN",ES: Eurosport 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3325.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 2" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest/scale-to-width-down/200?cb=20150426155551" group-title="SPAIN",ES: Eurosport 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3324.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max HD 1" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="UK SPORTS & INTERNATIONAL",Bein Sports Max HD 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2082.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max HD 2" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="UK SPORTS & INTERNATIONAL",Bein Sports Max HD 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2081.ts
+#EXTINF:-1 tvg-id="ar.HD11" tvg-name="Bein Sports 11 HD" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="UK SPORTS & INTERNATIONAL",Bein Sports 11 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2079.ts
+#EXTINF:-1 tvg-id="ar.HD12" tvg-name="Bein Sports 12 HD" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="UK SPORTS & INTERNATIONAL",Bein Sports 12 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2078.ts
+#EXTINF:-1 tvg-id="fr.HD1" tvg-name="FR:BeinSport1_HD" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="UK SPORTS & INTERNATIONAL",FR:BeinSport1_HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3633.ts
+#EXTINF:-1 tvg-id="fr.HD2" tvg-name="FR:BeinSport2_HD" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="UK SPORTS & INTERNATIONAL",FR:BeinSport2_HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3632.ts
+#EXTINF:-1 tvg-id="fr.HD3" tvg-name="FR:BeinSport3_HD" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="UK SPORTS & INTERNATIONAL",FR:BeinSport3_HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3631.ts
+#EXTINF:-1 tvg-id="fr.10MAX" tvg-name="FR:BeinSportMax10" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="UK SPORTS & INTERNATIONAL",FR:BeinSportMax10
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3630.ts
+#EXTINF:-1 tvg-id="fr.4MAX" tvg-name="FR:BeinSportMax4" tvg-logo="https://www.thelogodb.com/images/media/logo/vxwvps1437967525.png/preview" group-title="UK SPORTS & INTERNATIONAL",FR:BeinSportMax4
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3629.ts
+#EXTINF:-1 tvg-id="fr.5MAX" tvg-name="FR:BeinSportMax5" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg/revision/latest/scale-to-width-down/200?cb=20140414170307" group-title="UK SPORTS & INTERNATIONAL",FR:BeinSportMax5
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3628.ts
+#EXTINF:-1 tvg-id="fr.6MAX" tvg-name="FR:BeinSportMax6" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/38/Bein_sport_max_6.png/revision/latest?cb=20140415072229" group-title="UK SPORTS & INTERNATIONAL",FR:BeinSportMax6
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3627.ts
+#EXTINF:-1 tvg-id="fr.7MAX" tvg-name="FR:BeinSportMax7" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/98/Bein_sport_max_7.png/revision/latest?cb=20140415072434" group-title="UK SPORTS & INTERNATIONAL",FR:BeinSportMax7
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3626.ts
+#EXTINF:-1 tvg-id="fr.8MAX" tvg-name="FR:BeinSportMax8" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/4/48/Bein-sports-max-8_pmivscalaaop15paofin6utsd-1-.jpg/revision/latest/scale-to-width-down/200?cb=20140414170425" group-title="UK SPORTS & INTERNATIONAL",FR:BeinSportMax8
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3625.ts
+#EXTINF:-1 tvg-id="fr.9MAX" tvg-name="FR:BeinSportMax9" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/f1/Bein_sport_max_9.png/revision/latest?cb=20140415072739" group-title="UK SPORTS & INTERNATIONAL",FR:BeinSportMax9
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3624.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:EUROSPORT_2_HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest/scale-to-width-down/200?cb=20150426155551" group-title="UK SPORTS & INTERNATIONAL",FR:EUROSPORT_2_HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3622.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:EUROSPORT1_france" tvg-logo="https://pbs.twimg.com/profile_images/664921402596790273/4GS8mehE_400x400.png" group-title="UK SPORTS & INTERNATIONAL",FR:EUROSPORT1_france
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3623.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:EXTREME_SPORT_HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/d/dd/EXTREME_SPORT_CHANNEL_HD_2013.jpg/revision/latest/scale-to-width-down/220?cb=20150310175059" group-title="UK SPORTS & INTERNATIONAL",FR:EXTREME_SPORT_HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3621.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:FOOT" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/97/Foot_2011.png/revision/latest/scale-to-width-down/250?cb=20111122222217" group-title="UK SPORTS & INTERNATIONAL",FR:FOOT
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3620.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:INFOSPORT" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/fa/Infosport_2011.png/revision/latest/scale-to-width-down/250?cb=20111122223242" group-title="UK SPORTS & INTERNATIONAL",FR:INFOSPORT
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3619.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:SFR_SPORT1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Logo_sfr_sport1.jpg/120px-Logo_sfr_sport1.jpg" group-title="UK SPORTS & INTERNATIONAL",FR:SFR_SPORT1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3618.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:SFR_SPORT2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/SFR_Sport_2_logo_2016.png/320px-SFR_Sport_2_logo_2016.png" group-title="UK SPORTS & INTERNATIONAL",FR:SFR_SPORT2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3617.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:SFR_SPORT3" tvg-logo="http://img.static.myt.mu/assets/img/pl/logo_SFR_SPORT3.jpg" group-title="UK SPORTS & INTERNATIONAL",FR:SFR_SPORT3
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3616.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:SFR_SPORT5" tvg-logo="http://www.ariase.com/media/television/sfr-sport-5.jpg" group-title="UK SPORTS & INTERNATIONAL",FR:SFR_SPORT5
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3615.ts
+#EXTINF:-1 tvg-id="" tvg-name="GER:Sky_Bundesliga_1HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_bundesliga_hd1.jpg" group-title="UK SPORTS & INTERNATIONAL",GER:Sky_Bundesliga_1HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3613.ts
+#EXTINF:-1 tvg-id="" tvg-name="GER:Sky_Bundesliga1_SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_bundesliga_01.jpg" group-title="UK SPORTS & INTERNATIONAL",GER:Sky_Bundesliga1_SD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3614.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sports 1" tvg-logo="https://pbs.twimg.com/profile_images/820311012511346689/iLPhUJPn.jpg" group-title="BRASIL",BR: Fox Sports 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5387.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sports 2" tvg-logo="https://2.bp.blogspot.com/-CxFe3ZOeRW0/VsNXCHKKM6I/AAAAAAAAjIs/6G5t22AhyaY/s1600/foxsports21.jpg" group-title="BRASIL",BR: Fox Sports 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5388.ts
+#EXTINF:-1 tvg-id="" tvg-name="GER:Sky_Sport_1SD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="UK SPORTS & INTERNATIONAL",GER:Sky_Sport_1SD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3612.ts
+#EXTINF:-1 tvg-id="" tvg-name="GER:Sky_Sport_2SD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-2.png" group-title="UK SPORTS & INTERNATIONAL",GER:Sky_Sport_2SD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3611.ts
+#EXTINF:-1 tvg-id="" tvg-name="GER:Sky_Sport_HD1" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="UK SPORTS & INTERNATIONAL",GER:Sky_Sport_HD1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3610.ts
+#EXTINF:-1 tvg-id="" tvg-name="GER:Sky_Sport_HD2" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-2.png" group-title="UK SPORTS & INTERNATIONAL",GER:Sky_Sport_HD2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3609.ts
+#EXTINF:-1 tvg-id="" tvg-name="GER:SPORT_TIME_TV1" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10986452_10152664875896447_2617184568360520418_n.jpg?oh=0ac0bc3c8e56205a4fa5b18f98b3f87b&oe=599F1E3E" group-title="UK SPORTS & INTERNATIONAL",GER:SPORT_TIME_TV1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3606.ts
+#EXTINF:-1 tvg-id="" tvg-name="GER:Sport1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_nl_hd.jpg" group-title="UK SPORTS & INTERNATIONAL",GER:Sport1 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3608.ts
+#EXTINF:-1 tvg-id="" tvg-name="GER:SPORT1HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_de_plus_hd.jpg" group-title="UK SPORTS & INTERNATIONAL",GER:SPORT1HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3607.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : CANAL   DEPORTES HD" tvg-logo="http://tvlife.ucoz.com/tvlife/canales/canalplus/imgcanales/canal_plus_deportes.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : CANAL   DEPORTES HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3599.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : CANAL   FUTBALL HD" tvg-logo="http://2.bp.blogspot.com/-IQJtk5lVyTo/U0G_mnfnH_I/AAAAAAAAAL0/VggZ7XcyJ-g/s1600/canal+plus+futbol+en+vivo+online+gratis+por+www.televisiontvonline.com.png" group-title="UK SPORTS & INTERNATIONAL",SPORTS : CANAL   FUTBALL HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3598.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : Skynet Sports 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_net_sports1.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : Skynet Sports 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3569.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : Skynet Sports 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_net_sports2.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : Skynet Sports 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3568.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : Skynet Sports 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_net_sports3.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : Skynet Sports 3
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3567.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : Skynet Sports 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_net_sports4.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : Skynet Sports 4
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3566.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : Skynet Sports 5" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_net_sports5.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : Skynet Sports 5
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3565.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : Skynet Sports 6" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_net_sports6.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : Skynet Sports 6
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3564.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : FOX SPORTS ASIA HD 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_cono_sur.jpg" group-title="UK SPORTS & INTERNATIONAL",Sports : FOX SPORTS ASIA HD 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3595.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : FOX SPORTS ASIA HD 2" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160413213908" group-title="UK SPORTS & INTERNATIONAL",Sports : FOX SPORTS ASIA HD 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3594.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : FOX SPORTS ASIA HD 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_3.jpg" group-title="UK SPORTS & INTERNATIONAL",Sports : FOX SPORTS ASIA HD 3
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3593.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 1 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3591.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 1 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 1 FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3592.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3588.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 2 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 2 FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3589.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 3 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 3 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3586.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 3 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 3 FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3587.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS :  LE Sports Now HK 4 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS :  LE Sports Now HK 4 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3603.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS :  LE Sports Now HK 4 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS :  LE Sports Now HK 4 FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3604.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 5 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 5 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3584.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 5 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 5 FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3585.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : LE Sports Now HK 6 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",Sports : LE Sports Now HK 6 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3582.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 6 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 6 FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3583.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 7 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 7 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3581.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS :  LE Sports Now HK 7 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS :  LE Sports Now HK 7 FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3602.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 8 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 8 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3580.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS :  LE Sports Now HK 8 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS :  LE Sports Now HK 8 FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3601.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 9 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 9 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3578.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 9 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 9 FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3579.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 10 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS : LE Sports Now HK 10 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3590.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS :  LE Sports Now HK 10 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="UK SPORTS & INTERNATIONAL",SPORTS :  LE Sports Now HK 10 FHD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3605.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : SPORTS ACTIVE 11" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport_active2.jpg" group-title="UK SPORTS & INTERNATIONAL",Sports : SPORTS ACTIVE 11
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3562.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: My Fight Box HD" tvg-logo="" group-title="UK SPORTS & INTERNATIONAL",UK: My Fight Box HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7957.ts
+#EXTINF:-1 tvg-id="us.EPIX (East)" tvg-name="US: EPIX HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/1/1a/Epix_2009.svg/revision/latest/scale-to-width-down/640?cb=20160720093645" group-title="MOVIES PREMIUM",US: EPIX HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5874.ts
+#EXTINF:-1 tvg-id="us.EPIX2 SDTV (East)" tvg-name="US: EPIX2 HD" tvg-logo="https://csa.dishnetwork.com/images/logos/EPIX2HD.PNG" group-title="MOVIES PREMIUM",US: EPIX2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5875.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX 3 HD" tvg-logo="https://csa.dishnetwork.com/images/logos/EPIX3HD.PNG" group-title="MOVIES PREMIUM",US: EPIX 3 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3671.ts
+#EXTINF:-1 tvg-id="us.Cinemax HDTV (East)" tvg-name="US: Cinemax HD" tvg-logo="https://pbs.twimg.com/profile_images/738864283727978496/Y_icc3Lk_400x400.jpg" group-title="MOVIES PREMIUM",US: Cinemax HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1394.ts
+#EXTINF:-1 tvg-id="us.More Max HDTV (East)" tvg-name="US: Cinemax Moremax HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/8/87/MoreMax_2011.svg/revision/latest/scale-to-width-down/640?cb=20160721191425" group-title="MOVIES PREMIUM",US: Cinemax Moremax HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5870.ts
+#EXTINF:-1 tvg-id="us.ThrillerMAX HDTV (East)" tvg-name="US: Cinemax Thrillermax HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/15/ThrillerMax_2011.svg/revision/latest/scale-to-width-down/640?cb=20160721193057" group-title="MOVIES PREMIUM",US: Cinemax Thrillermax HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3679.ts
+#EXTINF:-1 tvg-id="us.Showtime HDTV (East)" tvg-name="US: Showtime HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/1/1e/Showtime_HD.svg/revision/latest/scale-to-width-down/640?cb=20141031203917" group-title="MOVIES PREMIUM",US: Showtime HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3670.ts
+#EXTINF:-1 tvg-id="us.Showtime 2 (East)" tvg-name="US: Showtime 2 HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d1/Showtime_2_logo.svg/revision/latest/scale-to-width-down/640?cb=20100321161414" group-title="MOVIES PREMIUM",US: Showtime 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5883.ts
+#EXTINF:-1 tvg-id="us.SHOWTIME FAMILY ZONE" tvg-name="US: Showtime Family Zone HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/640?cb=20121117045222" group-title="MOVIES PREMIUM",US: Showtime Family Zone HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5884.ts
+#EXTINF:-1 tvg-id="us.HBO HDTV (East)" tvg-name="US: HBO HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/8c/c3/41/8cc341ea1660cb59c0b4ffde59d34e50.jpg" group-title="MOVIES PREMIUM",US: HBO HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1464.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO 720" tvg-logo="" group-title="MOVIES PREMIUM",US: HBO 720
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7821.ts
+#EXTINF:-1 tvg-id="us.HBO 2 (East)" tvg-name="US: HBO 2 HD" tvg-logo="https://i.ytimg.com/vi/8VSpXssdP7M/hqdefault.jpg" group-title="MOVIES PREMIUM",US: HBO 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2444.ts
+#EXTINF:-1 tvg-id="us.HBO Zone HDTV (East)" tvg-name="US: HBO Zone HD" tvg-logo="http://home.heartofiowa.net/wp-content/uploads/2015/06/hbo_zone_color_v1.jpg" group-title="MOVIES PREMIUM",US: HBO Zone HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1412.ts
+#EXTINF:-1 tvg-id="us.HBO Comedy HDTV (East)" tvg-name="US: HBO Comedy HD" tvg-logo="https://i0.wp.com/thecomicscomic.com/wp-content/uploads/2016/08/HBO_Comedy.png?fit=600%2C400" group-title="MOVIES PREMIUM",US: HBO Comedy HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5879.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO 2 Comedy" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0d/HBO_Comedy_2014.png/revision/latest?cb=20151026111202" group-title="MOVIES PREMIUM",US: HBO 2 Comedy
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2437.ts
+#EXTINF:-1 tvg-id="us.HBO Signature HDTV (East)" tvg-name="US: HBO Signature HD" tvg-logo="http://hboasiapromos.s3.amazonaws.com/0_core/fb-signature-480x320.jpg" group-title="MOVIES PREMIUM",US: HBO Signature HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5880.ts
+#EXTINF:-1 tvg-id="us.HBO Family HDTV (East)" tvg-name="US: HBO Family HD" tvg-logo="http://images.mi.tv/channels/ar_hbo-family_m.png" group-title="MOVIES PREMIUM",US: HBO Family HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1411.ts
+#EXTINF:-1 tvg-id="ca.HBO Canada HDTV (East)" tvg-name="CA: HBO HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/8c/c3/41/8cc341ea1660cb59c0b4ffde59d34e50.jpg" group-title="MOVIES PREMIUM",CA: HBO HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1261.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: HBO 2 HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/8c/c3/41/8cc341ea1660cb59c0b4ffde59d34e50.jpg" group-title="MOVIES PREMIUM",CA: HBO 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1260.ts
+#EXTINF:-1 tvg-id="us.STARZ HD (East)" tvg-name="US: Starz HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/e/ed/Starz_2016.svg/revision/latest/scale-to-width-down/200?cb=20160329205502" group-title="MOVIES PREMIUM",US: Starz HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1434.ts
+#EXTINF:-1 tvg-id="us.STARZ Edge HD (East)" tvg-name="US: Starz Edge HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/6d/Starz_Edge_2016.svg/revision/latest/scale-to-width-down/200?cb=20160403221446" group-title="MOVIES PREMIUM",US: Starz Edge HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1433.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Sony Movie Channel HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest/scale-to-width-down/416?cb=20170110112428" group-title="MOVIES PREMIUM",US: Sony Movie Channel HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1415.ts
+#EXTINF:-1 tvg-id="us.Chiller" tvg-name="US: Chiller HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/5/58/Chiller_logo_2010.png/revision/latest?cb=20110122084214" group-title="MOVIES PREMIUM",US: Chiller HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3664.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MGM HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/551351_10150680016730956_1216456355_n.jpg?oh=2e963c4d9ece101526f5492ec92dc53f&oe=59E1195F" group-title="MOVIES PREMIUM",US: MGM HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1393.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Impact HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/ed/Impact_logo.jpg/revision/latest?cb=20150906141654" group-title="MOVIES PREMIUM",US: Impact HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2443.ts
+#EXTINF:-1 tvg-id="uk.Sky Hits HD" tvg-name="UK: Sky Hits HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ttpvsq1433965207.png" group-title="MOVIES PREMIUM",UK: Sky Hits HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1354.ts
+#EXTINF:-1 tvg-id="uk.Sky Select" tvg-name="UK: SKY MOVIES SELECT" tvg-logo="http://www.thelogodb.com/images/media/logo/ttpvsq1433965207.png" group-title="MOVIES PREMIUM",UK: SKY MOVIES SELECT
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1357.ts
+#EXTINF:-1 tvg-id="uk.Sky Thriller HD" tvg-name="UK: Sky Movies Thriller" tvg-logo="http://www.thelogodb.com/images/media/logo/xwxtvs1433841062.png" group-title="MOVIES PREMIUM",UK: Sky Movies Thriller
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1358.ts
+#EXTINF:-1 tvg-id="uk.Sky Action" tvg-name="UK: SKY MOVIES ACTION" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f0/Sky_uk_movies_action_adventure_hd.png/revision/latest?cb=20140329135514" group-title="MOVIES PREMIUM",UK: SKY MOVIES ACTION
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1348.ts
+#EXTINF:-1 tvg-id="uk.Sky Comedy" tvg-name="UK: Sky Comedy HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ssrvsu1433965152.png" group-title="MOVIES PREMIUM",UK: Sky Comedy HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1349.ts
+#EXTINF:-1 tvg-id="uk.Sky Premiere" tvg-name="UK: SKY MOVIES PREMIERE" tvg-logo="http://www.thelogodb.com/images/media/logo/qwytxv1433965174.png" group-title="MOVIES PREMIUM",UK: SKY MOVIES PREMIERE
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1355.ts
+#EXTINF:-1 tvg-id="uk.Sky ScFi/HorHD" tvg-name="UK: Sky Movies Sci-Fi and Horror HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/56/Sky_Cinema_Sci_Fi_%26_Horror_HD.png/revision/latest?cb=20160708175035" group-title="MOVIES PREMIUM",UK: Sky Movies Sci-Fi and Horror HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3393.ts
+#EXTINF:-1 tvg-id="uk.Sky Family HD" tvg-name="UK: SKY MOVIES FAMILY" tvg-logo="http://www.thelogodb.com/images/media/logo/qsyrrq1433965141.png" group-title="MOVIES PREMIUM",UK: SKY MOVIES FAMILY
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1352.ts
+#EXTINF:-1 tvg-id="uk.Sky Greats" tvg-name="UK: Sky Movies Greats" tvg-logo="http://www.thelogodb.com/images/media/logo/ssrvsu1433965152.png" group-title="MOVIES PREMIUM",UK: Sky Movies Greats
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1353.ts
+#EXTINF:-1 tvg-id="uk.Sky Disney" tvg-name="UK: Sky Movies Disney" tvg-logo="http://www.thelogodb.com/images/media/logo/wrxwtw1433965123.png" group-title="MOVIES PREMIUM",UK: Sky Movies Disney
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1350.ts
+#EXTINF:-1 tvg-id="uk.Drama" tvg-name="UK: SKY MOVIES DRAMA" tvg-logo="http://www.thelogodb.com/images/media/logo/vqxspw1433965132.png" group-title="MOVIES PREMIUM",UK: SKY MOVIES DRAMA
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1351.ts
+#EXTINF:-1 tvg-id="uk.Showcase" tvg-name="UK: Sky Movies Showcase" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_movies_showcase_hd.jpg" group-title="MOVIES PREMIUM",UK: Sky Movies Showcase
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3142.ts
+#EXTINF:-1 tvg-id="uk.Sky Comedy" tvg-name="UK: SKY MOVIES COMEDY" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_movies_comedy_hd.jpg" group-title="MOVIES PREMIUM",UK: SKY MOVIES COMEDY
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3391.ts
+#EXTINF:-1 tvg-id="uk.Premier HD" tvg-name="UK: Sky Movies Premier Plus" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b5/Sky_Movies_Premier.svg/revision/latest/scale-to-width-down/250?cb=20100403120932" group-title="MOVIES PREMIUM",UK: Sky Movies Premier Plus
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3407.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Movies Sci-Fi and Horror" tvg-logo="http://www.thelogodb.com/images/media/logo/typywu1433965191.png" group-title="MOVIES PREMIUM",UK: Sky Movies Sci-Fi and Horror
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1356.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Kids & Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Starz_Kids_%26_Family_2016.svg/250px-Starz_Kids_%26_Family_2016.svg.png" group-title="MOVIES PREMIUM",US: Starz Kids & Family HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6852.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Slice HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/6/60/Slice_2007.png/revision/latest/scale-to-width-down/150?cb=20110611232919" group-title="CANADA",CA: Slice HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1268.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/400px-PBS_Logo.svg.png" group-title="KIDS",CA: PBS Kids
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1286.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Animal Planet HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Animal_Planet_2008.svg/revision/latest/scale-to-width-down/185?cb=20091120170752" group-title="CANADA",CA: Animal Planet HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1267.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WPTZ_5_logo.png" group-title="CANADA",CA: NBC HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1265.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: ME TV HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/2/21/MeTV_logo_2014.png/revision/latest/scale-to-width-down/199?cb=20170114211815" group-title="CANADA",CA: ME TV HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1263.ts
+#EXTINF:-1 tvg-id="ca.The Golf Channel Canada HDTV" tvg-name="CA: Golf Channel HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/8/84/Golf_Channel_2014_II.svg/revision/latest/scale-to-width-down/185?cb=20170329134753" group-title="CANADA",CA: Golf Channel HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3721.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: YTV HD" tvg-logo="https://pbs.twimg.com/profile_images/817014072818286592/Uu9k9fJX_400x400.jpg" group-title="CANADA",CA: YTV HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3686.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: HLN HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/11666149_951767074869360_7997318389322158572_n.jpg?oh=40034a282905dc12bff69c30b3de7207&oe=5962ADB6" group-title="CANADA",CA: HLN HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1262.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: GSN HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/14292454_10157695844985227_2468889263416092674_n.jpg?oh=f479710412a306e36ea1cc0d946d539c&oe=59679E35" group-title="CANADA",CA: GSN HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1259.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a9/Global_logo.png/revision/latest/scale-to-width-down/185?cb=20130314143829" group-title="CANADA",CA: Global HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1258.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/200px-FOX_wordmark.svg.png" group-title="NETWORKS",CA: FOX HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1257.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/450px-The_CW.svg.png" group-title="CANADA",CA: CW HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1253.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/1545786_803108899705487_2075723915_n.jpg?oh=91ca89b71ab98c0f8e53bd6df98457a7&oe=59603F99" group-title="CANADA",CA: CTV HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1252.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Create HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/e/eb/Createtv.png/revision/latest/scale-to-width-down/250?cb=20150505173224" group-title="CANADA",CA: Create HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1251.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CITY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/City_logo_2012.svg/190px-City_logo_2012.svg.png" group-title="CANADA",CA: CITY HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1249.ts
+#EXTINF:-1 tvg-id="ca.CBC News Network HDTV" tvg-name="CA: CBC News Network HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/6/67/CBC_Logo_1992-Present.svg/revision/latest/scale-to-width-down/200?cb=20130328025325" group-title="NEWS",CA: CBC News Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1247.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Bravo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/400px-Bravo_2017_logo.svg.png" group-title="CANADA",CA: Bravo HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1245.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CP 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/CP24_Channel.png/300px-CP24_Channel.png" group-title="CANADA",CA: CP 24 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1250.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Comedy HD" tvg-logo="http://www.stashmedia.tv/wp-content/uploads/2010/12/comedy-logo.png" group-title="CANADA",CA: Comedy HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2963.ts
+#EXTINF:-1 tvg-id="ca.FX HDTV (Canada)" tvg-name="CA: FX HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d4/Fox96.svg/revision/latest/scale-to-width-down/200?cb=20170227135327" group-title="CANADA",CA: FX HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1462.ts
+#EXTINF:-1 tvg-id="ca.FXX HDTV Canada" tvg-name="CA: FXX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/260px-FXX_Logo.svg.png" group-title="CANADA",CA: FXX HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1463.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: FYI" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6d/FYI%2C_logo.svg/revision/latest/scale-to-width-down/320?cb=20140710000819" group-title="CANADA",CA: FYI
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2967.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: History HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/eb/History_Channel_2015.png/revision/latest/scale-to-width-down/461?cb=20160111145633" group-title="CANADA",CA: History HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2968.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Much" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/6d/MuchMusiclogo2013_%281%29.png/revision/latest?cb=20140901192717" group-title="CANADA",CA: Much
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2972.ts
+#EXTINF:-1 tvg-id="ca.The Learning Channel Canada" tvg-name="CA: TLC HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b8/TLCK_Channel_Logo.png/revision/latest/scale-to-width-down/200?cb=20151210143955" group-title="CANADA",CA: TLC HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1473.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: DejaView" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b6/DejaView_logo.svg/revision/latest/scale-to-width-down/601?cb=20100815072714" group-title="CANADA",CA: DejaView
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2966.ts
+
+
+#EXTINF:-1 tvg-id="ca.CBC News Network HDTV" tvg-name="CA: CBC HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/16711757_699643200207289_2737521412319369532_n.png?oh=5d80ac7cded90cb6d137a5d12ba9a354&oe=5954EF13" group-title="CANADA",CA: CBC HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1246.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: E! HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c0.4.320.320/p320x320/13087738_1360628333953951_8538894866483518960_n.png?oh=c89ce2549b6e557af4e1f3b4d069514d&oe=594D93B1" group-title="CANADA",CA: E! HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2103.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: AMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/AMItv.svg/200px-AMItv.svg.png" group-title="CANADA",CA: AMI
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3709.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Book Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BookTelevision_logo.svg/180px-BookTelevision_logo.svg.png" group-title="CANADA",CA: Book Television
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3707.ts
+#EXTINF:-1 tvg-id="ca.The Oprah Winfrey Network Canada HDTV" tvg-name="CA: OWN HD" tvg-logo="https://lh3.googleusercontent.com/Z7CHNpiuRksV4RwRBR03Bfsi13_x7SyKForSNMfLYNZmeNmvwuyCzGrUjYiWFcgoe9cQ7w=s85" group-title="CANADA",CA: OWN HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1471.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Crime Investigation" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9c/Crime_and_Investigation_Canada_TV_logo.png/revision/latest/scale-to-width-down/300?cb=20141114005511" group-title="CANADA",CA: Crime Investigation
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3705.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/CTV_logo_%281%29.svg/200px-CTV_logo_%281%29.svg.png" group-title="CANADA",CA: CTV News Channel
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3704.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Discovery_logo_2013.png/150px-Discovery_logo_2013.png" group-title="CANADA",CA: Discovery HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3702.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/130px-Discovery_Science_Canada_2011.PNG" group-title="CANADA",CA: Discovery Science
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3701.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: DIY" tvg-logo="http://www.thelogodb.com/images/media/logo/uxtqtp1477973070.png/medium" group-title="CANADA",CA: DIY
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3699.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: DTOUR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dtour_Logo.svg/400px-Dtour_Logo.svg.png" group-title="CANADA",CA: DTOUR HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3698.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/130px-Food_Network_New_Logo.png" group-title="CANADA",CA: Food Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3696.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: G4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/G4_%28TV_channel%29_logo.svg/100px-G4_%28TV_channel%29_logo.svg.png" group-title="CANADA",CA: G4
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3695.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Gusto" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c0/TV_Gusto.svg/revision/latest/scale-to-width-down/250?cb=20091205211755" group-title="CANADA",CA: Gusto
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3694.ts
+#EXTINF:-1 tvg-id="ca.Lifetime Canada HDTV" tvg-name="CA: Lifetime HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/1/1e/Lifetime_2013.png/revision/latest/scale-to-width-down/200?cb=20150531221814" group-title="CANADA",CA: Lifetime HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3718.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: MTV2" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/6/66/200px-Mtv2_logo.svg.png/revision/latest?cb=20110511003742" group-title="CANADA",CA: MTV2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3693.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Nat Geo HD" tvg-logo="http://lifestylebucket.com/wp-content/uploads/2012/11/NG_logo_2line_rgb_wht_on_bk.jpg" group-title="CANADA",CA: Nat Geo HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3716.ts
+#EXTINF:-1 tvg-id="ca.Nickelodeon Canada" tvg-name="CA: Nick" tvg-logo="http://1.bp.blogspot.com/-KYeVGeVceDk/U5S7BtLtU9I/AAAAAAAAYVg/iQ6p5xV0seQ/s400/nick-app-uk-icon-nickelodeon-application-logo_2.png" group-title="KIDS",CA: Nick
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3692.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: OLN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/OLN_logo_2012.png/200px-OLN_logo_2012.png" group-title="CANADA",CA: OLN
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3691.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: OWN" tvg-logo="https://lh3.googleusercontent.com/Z7CHNpiuRksV4RwRBR03Bfsi13_x7SyKForSNMfLYNZmeNmvwuyCzGrUjYiWFcgoe9cQ7w=s85" group-title="CANADA",CA: OWN
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3690.ts
+#EXTINF:-1 tvg-id="ca.Showcase Television (East)" tvg-name="CA: Showcase HD" tvg-logo="https://pbs.twimg.com/profile_images/785831433042472960/RGjtQIIU_400x400.jpg" group-title="CANADA",CA: Showcase HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3714.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Super Channel 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/378800000538792291/3231ac141d99d2f7b58fd7ab2e02b92d_400x400.jpeg" group-title="CANADA",CA: Super Channel 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3713.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/235px-Telemundo_logo_2012.svg.png" group-title="CANADA",CA: Fashion TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3689.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TV Encore" tvg-logo="https://pbs.twimg.com/profile_images/484161379570425856/-GN1AzJP_400x400.jpeg" group-title="CANADA",CA: TV Encore
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3688.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: IFC" tvg-logo="https://pbs.twimg.com/profile_images/3737093375/ffd184e4c041058db39e6efde2b36749_400x400.png" group-title="CANADA",CA: IFC
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3723.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Cpac" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cpac1.PNG" group-title="CANADA",CA: Cpac
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3706.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: AUX" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/c/c6/Aux_TV.svg/revision/latest/scale-to-width-down/300?cb=20150621212047" group-title="CANADA",CA: AUX
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3708.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: D HD" tvg-logo="https://image.winudf.com/v2/image/Y29tLnRoZS5zbXVyZi5ncmVla19pY29uXzBfZTUyN2Y2Yg/icon.png?w=170&fakeurl=1&type=.png" group-title="CANADA",CA: D HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3703.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="CANADA",CA: HGTV HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3720.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: MovieTime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/180px-Movietime.svg.png" group-title="CANADA",CA: MovieTime HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3717.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/200px-Logo_Nat_Geo_Wild.svg.png" group-title="CANADA",CA: Nat Geo Wild HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3715.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: K HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/1235995_10151830206133563_1765384406_n.png?oh=f041fc46eddd7dee2f1d7b2fb2f4794e&oe=595FE1B9" group-title="CANADA",CA: K HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3719.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TWN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TWN_Logo_2011.svg/230px-TWN_Logo_2011.svg.png" group-title="CANADA",CA: TWN HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3710.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Viceland" tvg-logo="https://pbs.twimg.com/profile_images/796442590795202577/QCXlbx_a_400x400.jpg" group-title="CANADA",CA: Viceland
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3687.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Cooking HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/99/Cooking_Channel_Canada.svg/revision/latest/scale-to-width-down/200?cb=20161215190741" group-title="CANADA",CA: Cooking HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2962.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Documentary HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/Canada_documentary_channel.png" group-title="CANADA",CA: Documentary HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1255.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBS HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/6/6e/CBS_2015.svg/revision/latest/scale-to-width-down/200?cb=20170305081929" group-title="CANADA",CA: CBS HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1248.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: ABC Spark" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6d/ABC_Spark_Freeform.png/revision/latest?cb=20160821185940" group-title="CANADA",CA: ABC Spark
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2959.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: BNN" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/12219483_10154376680648206_8740490563863293697_n.jpg?oh=9f4ce821aa177157334c9e8d52812f2f&oe=597910F2" group-title="CANADA",CA: BNN
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2960.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CMT" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/a3/CMT_Canada_%282015%29.svg/revision/latest/scale-to-width-down/640?cb=20151127152459" group-title="CANADA",CA: CMT
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2964.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CHRGD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Family_Chrgd_logo.jpg" group-title="CANADA",CA: CHRGD HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2965.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: ICI RDI HD" tvg-logo="https://pbs.twimg.com/profile_images/837397059816816642/9Opv6L2I_400x400.jpg" group-title="CANADA",CA: ICI RDI HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2969.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: MTV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/3e/MTV_Logo_2010.png/revision/latest/scale-to-width-down/320?cb=20130117015447" group-title="CANADA",CA: MTV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2971.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TMN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/TMN_Encore_Logo.png/160px-TMN_Encore_Logo.png" group-title="CANADA",CA: TMN 1 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3712.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TMN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/TMN_Encore_Logo.png/160px-TMN_Encore_Logo.png" group-title="CANADA",CA: TMN 4 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3711.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/The_Movie_Network_Logo.svg/120px-The_Movie_Network_Logo.svg.png" group-title="CANADA",CA: MOVIES HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1264.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: A&E HD" tvg-logo="http://youthindependent.com/wp-content/uploads/2016/01/aandelogo.jpg" group-title="CANADA",CA: A&E HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5456.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: ABC Spark HD" tvg-logo="http://www.corusent.com/wp-content/uploads/2016/04/logo_abcspark_teal-500x250.png" group-title="CANADA",CA: ABC Spark HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5455.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: BNN HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/12219483_10154376680648206_8740490563863293697_n.jpg?oh=9f4ce821aa177157334c9e8d52812f2f&oe=597910F2" group-title="CANADA",CA: BNN HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5438.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CNBC" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/10891972_10153082667464369_8047543635589507632_n.png?oh=666d9f5d7dba2105e21552c3807c2af2&oe=59C0F73B" group-title="CANADA",CA: CNBC
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5440.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Documentary Channel HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/3/38/Documentary_logo.svg/revision/latest/scale-to-width-down/200?cb=20100816061512" group-title="CANADA",CA: Documentary Channel HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5442.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Game TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/game_tv_kr.jpg" group-title="CANADA",CA: Game TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5444.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: HIFI HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hifi_music_art.jpg" group-title="CANADA",CA: HIFI HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5445.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Omni" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cfmt_omni1_toronto.jpg" group-title="CANADA",CA: Omni
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5447.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Omni2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cjmt_omni2_toronto.jpg" group-title="CANADA",CA: Omni2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5448.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Omni HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cfmt_omni1_toronto.jpg" group-title="CANADA",CA: Omni HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5449.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Smithsonian HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Smithsonian_Channel.PNG/200px-Smithsonian_Channel.PNG" group-title="CANADA",CA: Smithsonian HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5450.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Sundance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sundance_Channel.svg/180px-Sundance_Channel.svg.png" group-title="CANADA",CA: Sundance
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5451.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TVBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVBS-Logo.svg/260px-TVBS-Logo.svg.png" group-title="CANADA",CA: TVBS
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5452.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TVA HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/1385433_647033845336539_915032248_n.jpg?oh=663f0c130a8dd7638f27079537dcd603&oe=59BC9BD4" group-title="CANADA",CA: TVA HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5453.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TVO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/TVOKids_Logo.jpg" group-title="CANADA",CA: TVO
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5454.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Unis TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Unis_t%C3%A9l%C3%A9vision.png/175px-Unis_t%C3%A9l%C3%A9vision.png" group-title="CANADA",CA: Unis TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5437.ts
+#EXTINF:-1 tvg-id="us.Disney XD HDTV (East)" tvg-name="US: Disney XD HD" tvg-logo="https://c1.staticflickr.com/3/2626/3970715334_3fe14905b7.jpg" group-title="KIDS",US: Disney XD HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5724.ts
+#EXTINF:-1 tvg-id="us.The Disney Channel (East)" tvg-name="US: Disney Channel HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/4/44/DC_2017bubble-PurpleYellow.svg/revision/latest/scale-to-width-down/238?cb=20170411065131" group-title="KIDS",US: Disney Channel HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1456.ts
+#EXTINF:-1 tvg-id="us.Disney Junior HDTV East" tvg-name="US: Disney Jr HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/7/70/Disney_Junior.png/revision/latest?cb=20161213133839" group-title="KIDS",US: Disney Jr HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2427.ts
+#EXTINF:-1 tvg-id="us.Cartoon Network HDTV (East)" tvg-name="US: Cartoon Network HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/0/09/Cartoon_Network_2010_Extended.svg/revision/latest/scale-to-width-down/250?cb=20170427010537" group-title="KIDS",US: Cartoon Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1391.ts
+#EXTINF:-1 tvg-id="us.Boomerang" tvg-name="US: Boomerang HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/300?cb=20160911075557" group-title="KIDS",US: Boomerang HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2425.ts
+#EXTINF:-1 tvg-id="us.Nickelodeon HDTV (East)" tvg-name="US: Nickelodeon HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/7/76/Nick_hd.png/revision/latest/scale-to-width-down/185?cb=20110408021643" group-title="KIDS",US: Nickelodeon HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1425.ts
+#EXTINF:-1 tvg-id="us.Nick Jr. HDTV" tvg-name="US: Nick Jr. HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/2/2e/Screenshot_20170114-210340.png/revision/latest/scale-to-width-down/185?cb=20170115022451" group-title="KIDS",US: Nick Jr. HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1426.ts
+#EXTINF:-1 tvg-id="us.Nicktoons Network (East)" tvg-name="US: Nicktoons HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/c/c4/Nicktoons_green_cropped.svg/revision/latest/scale-to-width-down/300?cb=20170317065050" group-title="KIDS",US: Nicktoons HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1427.ts
+#EXTINF:-1 tvg-id="uk.Cartoon Net HD" tvg-name="UK: Cartoon Network HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/1/1f/Cartoon_Network_2004.svg/revision/latest/scale-to-width-down/200?cb=20170517104410" group-title="KIDS",UK: Cartoon Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1321.ts
+#EXTINF:-1 tvg-id="us.Sprout" tvg-name="US: SPROUT HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/1/11/Sprout_Logo_2015.jpg/revision/latest/scale-to-width-down/640?cb=20150906014714" group-title="KIDS",US: SPROUT HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3658.ts
+#EXTINF:-1 tvg-id="ca.Disney XD Canada (East)" tvg-name="CA: Disney XD HD" tvg-logo="https://c1.staticflickr.com/3/2626/3970715334_3fe14905b7.jpg" group-title="KIDS",CA: Disney XD HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1254.ts
+#EXTINF:-1 tvg-id="uk.Disney Chnl" tvg-name="UK: Disney Channel" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/77/DSC_D_poslrg.jpg/revision/latest/scale-to-width-down/200?cb=20161227004551" group-title="KIDS",UK: Disney Channel
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3410.ts
+#EXTINF:-1 tvg-id="uk.Disney Junior" tvg-name="UK: Disney Jr." tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_86291062.jpeg" group-title="KIDS",UK: Disney Jr.
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3194.ts
+#EXTINF:-1 tvg-id="uk.Disney XD" tvg-name="UK: Disney XD" tvg-logo="https://c1.staticflickr.com/3/2626/3970715334_3fe14905b7.jpg" group-title="KIDS",UK: Disney XD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3168.ts
+#EXTINF:-1 tvg-id="uk.Nickelodeon" tvg-name="UK: Nickelodeon HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/9/92/Nickelodeon_White_with_Orange_background.svg/revision/latest/scale-to-width-down/250?cb=20170508232831" group-title="KIDS",UK: Nickelodeon HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1340.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/150px-Boomerang_2014_logo.svg.png" group-title="KIDS",UK: Boomerang
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3176.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Baby TV" tvg-logo="https://lh3.googleusercontent.com/qJYMYaXRL_q3tkf2RZ4orLTeDY8Zf44NtoDxTfIyCkGyYLu70yeXTW3VL1S3QW5miWI=w300" group-title="KIDS",UK: Baby TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3188.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",UK: Cartoon Network
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3201.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cartoonito" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/42/Cartoonito_logo.svg/revision/latest/scale-to-width-down/250?cb=20100314195702" group-title="KIDS",UK: Cartoonito
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3175.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nick Jr" tvg-logo="http://a5.mzstatic.com/us/r30/Purple20/v4/90/74/97/9074978f-3cac-5e6f-0105-e3ae7c007843/icon175x175.png" group-title="KIDS",UK: Nick Jr
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3380.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nick Jr Too" tvg-logo="http://1.bp.blogspot.com/-yvoR-oU5Ch0/VFkvaMEbpUI/AAAAAAAAalw/pa_Or7pjsBM/w1200-h630-p-nu/Nick-Jr-Too-Logo-RegularCapital-Nickelodeon-UK-Junior-2-Jnr.png" group-title="KIDS",UK: Nick Jr Too
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3378.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nickelodeon" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/9/92/Nickelodeon_White_with_Orange_background.svg/revision/latest/scale-to-width-down/250?cb=20170508232831" group-title="KIDS",UK: Nickelodeon
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3384.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nicktoons" tvg-logo="http://vignette2.wikia.nocookie.net/nickelodeon/images/f/fe/Nicktoons_SPLAT!.PNG/revision/latest?cb=20141122014104" group-title="KIDS",UK: Nicktoons
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3434.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE jr" tvg-logo="https://pbs.twimg.com/profile_images/527460186152124418/MQgRbLwa_400x400.png" group-title="KIDS",UK: RTE jr
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3148.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Tiny Pop" tvg-logo="https://pbs.twimg.com/profile_images/1969203087/Tinypop_logo_2011_400x400.jpg" group-title="KIDS",UK: Tiny Pop
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3137.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: POP" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5b/Pop_logo.png/revision/latest/scale-to-width-down/250?cb=20151101125329" group-title="KIDS",UK: POP
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3150.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Disney Channel West HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Disney_Channel_2014.png" group-title="KIDS",CA: Disney Channel West HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2961.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Disney_Channel_2014.png/220px-Disney_Channel_2014.png" group-title="KIDS",CA: Family HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3700.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cbeebies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/360px-CBeebies.svg.png" group-title="KIDS",UK: Cbeebies HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3131.ts
+#EXTINF:-1 tvg-id="us.AMC HDTV (East)" tvg-name="US: AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/200px-AMC_logo_2016.svg.png" group-title="ENTERTAINMENT",US: AMC HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1448.ts
+#EXTINF:-1 tvg-id="us.A&E Network HDTV" tvg-name="US: A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/340px-A%26E_Network_logo.svg.png" group-title="ENTERTAINMENT",US: A&E HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1378.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: American Heroes HD" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2014/01/american_heroes_channel_logo_a_l.jpg" group-title="ENTERTAINMENT",US: American Heroes HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5893.ts
+#EXTINF:-1 tvg-id="us.Animal Planet HDTV (East)" tvg-name="US: Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/380px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="ENTERTAINMENT",US: Animal Planet HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1449.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: BET HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/5/58/F71a477d6e98f508107ee4988a20774d.jpeg/revision/latest?cb=20130527004829" group-title="ENTERTAINMENT",US: BET HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6201.ts
+#EXTINF:-1 tvg-id="us.BBC America HDTV (East)" tvg-name="US: BBC America HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/17630003_10155056918367978_6687098371278487256_n.jpg?oh=63b4f147676d3778e7b1d408a9553cc2&oe=5987B891" group-title="ENTERTAINMENT",US: BBC America HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3683.ts
+#EXTINF:-1 tvg-id="us.Bravo HDTV (East)" tvg-name="US: Bravo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/400px-Bravo_2017_logo.svg.png" group-title="ENTERTAINMENT",US: Bravo HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1390.ts
+#EXTINF:-1 tvg-id="us.CMT HDTV (East)" tvg-name="US: CMT HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/c/c7/XAo_Yh2z_400x400.jpg/revision/latest?cb=20170121082746" group-title="ENTERTAINMENT",US: CMT HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5871.ts
+#EXTINF:-1 tvg-id="us.Comedy Central HDTV (East)" tvg-name="US: Comedy Central HD" tvg-logo="http://www.stashmedia.tv/wp-content/uploads/2010/12/comedy-logo.png" group-title="ENTERTAINMENT",US: Comedy Central HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2105.ts
+#EXTINF:-1 tvg-id="us.The Cooking Channel HDTV" tvg-name="US: Cooking Channel HD" tvg-logo="http://blog.foodnetwork.com/fn-dish/files/2014/07/Cooking-Channel-Logo-200x200.jpg" group-title="ENTERTAINMENT",US: Cooking Channel HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3678.ts
+#EXTINF:-1 tvg-id="us.Science HDTV" tvg-name="US: Discovery Science HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cf/150px-Discovery_Science_Canada_2011.png/revision/latest?cb=20120123233047" group-title="ENTERTAINMENT",US: Discovery Science HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1455.ts
+#EXTINF:-1 tvg-id="us.Discovery Family Channel SDTV" tvg-name="US: Discovery Family HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/17884437_1273705272678552_5503447939438804554_n.jpg?oh=6209b1568901176802590d76f4fa6229&oe=5978C9E9" group-title="ENTERTAINMENT",US: Discovery Family HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3676.ts
+#EXTINF:-1 tvg-id="us.Destination America HDTV" tvg-name="US: Destination America HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/14329871_851952844905652_1284284211389622342_n.jpg?oh=374f9e2ca120b87edc65b71b00c85e02&oe=597CF54B" group-title="ENTERTAINMENT",US: Destination America HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5259.ts
+#EXTINF:-1 tvg-id="us.Do It Yourself Network HDTV (East)" tvg-name="US: DIY HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/17554410_10155070877392412_9073723903546325755_n.png?oh=66aa09335824ea28f0f87250f71e9637&oe=59B92871" group-title="ENTERTAINMENT",US: DIY HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3673.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Life HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/8/89/Discovery_Life_2016.jpg/revision/latest/scale-to-width-down/185?cb=20160901054039" group-title="ENTERTAINMENT",US: Discovery Life HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5887.ts
+#EXTINF:-1 tvg-id="us.The Discovery Channel HDTV (East)" tvg-name="US: Discovery HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/2a/DSC_DGlobe_2016_Reverse.svg/revision/latest/scale-to-width-down/200?cb=20170504003819" group-title="ENTERTAINMENT",US: Discovery HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1454.ts
+#EXTINF:-1 tvg-id="us.El Rey Network" tvg-name="US: El Rey Network HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/58/El_Rey_Network.svg/revision/latest/scale-to-width-down/320?cb=20161003203159" group-title="ENTERTAINMENT",US: El Rey Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5873.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: E! Entertainment HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c5/E_us_hd.png/revision/latest/scale-to-width-down/384?cb=20130214205447" group-title="ENTERTAINMENT",US: E! Entertainment HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3680.ts
+#EXTINF:-1 tvg-id="us.Crime and Investigation Network HDTV" tvg-name="US: Crime and Investigation HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/9/9c/Crime_and_Investigation_Canada_TV_logo.png/revision/latest?cb=20141114005511" group-title="ENTERTAINMENT",US: Crime and Investigation HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5872.ts
+#EXTINF:-1 tvg-id="us.National Geographic Channel HDTV" tvg-name="US: Nat Geo HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/fc/Natgeologo.svg/revision/latest/scale-to-width-down/250?cb=20150210032105" group-title="ENTERTAINMENT",US: Nat Geo HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1377.ts
+#EXTINF:-1 tvg-id="us.The Oprah Winfrey Network HDTV (East)" tvg-name="US: OWN HD" tvg-logo="http://i0.wp.com/cine3.com/wp-content/uploads/2014/03/Own-HD.png" group-title="ENTERTAINMENT",US: OWN HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3660.ts
+#EXTINF:-1 tvg-id="us.IFC HDTV (East)" tvg-name="US: IFC HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/f3/IFC_Logo.svg/revision/latest/scale-to-width-down/640?cb=20161112182354" group-title="ENTERTAINMENT",US: IFC HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3663.ts
+#EXTINF:-1 tvg-id="us.Lifetime Television HDTV (East)" tvg-name="US: Lifetime HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/1/1e/Lifetime_2013.png/revision/latest/scale-to-width-down/200?cb=20150531221814" group-title="ENTERTAINMENT",US: Lifetime HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1467.ts
+#EXTINF:-1 tvg-id="us.Hallmark Channel HDTV (East)" tvg-name="US: Hallmark HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Hallmark_Channel.png" group-title="ENTERTAINMENT",US: Hallmark HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1410.ts
+#EXTINF:-1 tvg-id="us.Syfy HDTV" tvg-name="US: SYFY HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/2/24/Syfy_logo.svg/revision/latest/scale-to-width-down/320?cb=20160810120339" group-title="ENTERTAINMENT",US: SYFY HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2948.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Oxygen HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/92/Oxygen_2014.svg/revision/latest/scale-to-width-down/640?cb=20161120181741" group-title="ENTERTAINMENT",US: Oxygen HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3672.ts
+#EXTINF:-1 tvg-id="us.NatGeo WILD HDTV" tvg-name="US: NAT GEO WILD HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/200?cb=20170426190523" group-title="ENTERTAINMENT",US: NAT GEO WILD HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1469.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: POP HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/8/8a/Pop_TV.svg/revision/latest/scale-to-width-down/640?cb=20140825195821" group-title="ENTERTAINMENT",US: POP HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5896.ts
+#EXTINF:-1 tvg-id="us.MTV HDTV (East)" tvg-name="US: MTV HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/12647302_10156489868355626_622035456033973636_n.jpg?oh=09a6c5b220ced61f0264a11d26663302&oe=5982AC4E" group-title="ENTERTAINMENT",US: MTV HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3662.ts
+#EXTINF:-1 tvg-id="us.MTV Live" tvg-name="US: MTV Live HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/90/MTV_Live.svg/revision/latest/scale-to-width-down/200?cb=20170319123337" group-title="ENTERTAINMENT",US: MTV Live HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1417.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: TLC HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/4/45/TLCHD.png/revision/latest/scale-to-width-down/640?cb=20150917211907" group-title="ENTERTAINMENT",US: TLC HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5892.ts
+#EXTINF:-1 tvg-id="us.FX HDTV (East)" tvg-name="US: FX HD" tvg-logo="http://americablejapan.net/images/station_logos/fx_hdjpg.jpg" group-title="ENTERTAINMENT",US: FX HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3668.ts
+#EXTINF:-1 tvg-id="us.FXX HDTV (East)" tvg-name="US: FXX HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e1/Fxx_us_hd.png/revision/latest/scale-to-width-down/640?cb=20130929134922" group-title="ENTERTAINMENT",US: FXX HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3667.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: FX Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/FXM_Retro.jpg" group-title="ENTERTAINMENT",US: FX Movie Channel
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5888.ts
+#EXTINF:-1 tvg-id="us.FYI HDTV" tvg-name="US: FYI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/FYI%2C_logo.png" group-title="ENTERTAINMENT",US: FYI HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5876.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fusion HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/b/b6/Fusion_logo.svg/revision/latest/scale-to-width-down/379?cb=20130520193937" group-title="ENTERTAINMENT",US: Fusion HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3666.ts
+#EXTINF:-1 tvg-id="us.Freeform HDTV (East)" tvg-name="US: FreeForm HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/3/3d/Screen_Shot_2016-01-23_at_10.06.54_AM.png/revision/latest/scale-to-width-down/185?cb=20160123154059" group-title="ENTERTAINMENT",US: FreeForm HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1407.ts
+#EXTINF:-1 tvg-id="us.Food Network HDTV (East)" tvg-name="US: Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="ENTERTAINMENT",US: Food Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1948.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HSN" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/1/1a/150px-HSN_logo_2003.svg.png/revision/latest/scale-to-width-down/175?cb=20130326232632" group-title="ENTERTAINMENT",US: HSN
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5429.ts
+#EXTINF:-1 tvg-id="us.HGTV HD" tvg-name="US: HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="ENTERTAINMENT",US: HGTV HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5881.ts
+#EXTINF:-1 tvg-id="us.Hallmark Movies and Mysteries HDTV" tvg-name="US: Hallmark Movies & Mysteries HD" tvg-logo="http://media.soapoperanetwork.com/2014/12/hallmark_moviesandmysteries_01_640x400.jpg" group-title="ENTERTAINMENT",US: Hallmark Movies & Mysteries HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5878.ts
+#EXTINF:-1 tvg-id="us.Investigation Discovery HDTV" tvg-name="US: ID HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/67/Investigation_discovery_us_hd.png/revision/latest/scale-to-width-down/179?cb=20130224001500" group-title="ENTERTAINMENT",US: ID HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1414.ts
+#EXTINF:-1 tvg-id="us.GSN (East)" tvg-name="US: GSN HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/f8/GSN_2015.svg/revision/latest/scale-to-width-down/480?cb=20170411021253" group-title="ENTERTAINMENT",US: GSN HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5877.ts
+#EXTINF:-1 tvg-id="us.LMN HDTV (East)" tvg-name="US: LMN HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/ee/LMN_HD_logo_2011.svg/revision/latest/scale-to-width-down/640?cb=20160816223130" group-title="ENTERTAINMENT",US: LMN HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5882.ts
+#EXTINF:-1 tvg-id="us.History HDTV (East)" tvg-name="US: History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="ENTERTAINMENT",US: History Channel HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1466.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Mello TV" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/1/19/Mello_2015.png/revision/latest/scale-to-width-down/200?cb=20150501190808" group-title="ENTERTAINMENT",US: Mello TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2946.ts
+#EXTINF:-1 tvg-id="us.Spike TV HDTV (East)" tvg-name="US: Spike HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Spike_logo_2015.svg/500px-Spike_logo_2015.svg.png" group-title="ENTERTAINMENT",US: Spike HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1432.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Turner Classic Movies HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/0/05/TBS_HD.svg/revision/latest/scale-to-width-down/640?cb=20151105213432" group-title="ENTERTAINMENT",US: Turner Classic Movies HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5894.ts
+#EXTINF:-1 tvg-id="us.TBS Superstation HDTV (East)" tvg-name="US: TBS HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p160x160/17523166_1491093574265118_6189948707588670440_n.png?oh=f6496cf0a2225f694790a5ed2f8df643&oe=599195F7" group-title="ENTERTAINMENT",US: TBS HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2106.ts
+#EXTINF:-1 tvg-id="us.Velocity HDTV" tvg-name="US: VELOCITY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png" group-title="ENTERTAINMENT",US: VELOCITY HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1475.ts
+#EXTINF:-1 tvg-id="us.TNT HD" tvg-name="US: TNT HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/e3/TNT.svg/revision/latest/scale-to-width-down/200?cb=20151126160432" group-title="ENTERTAINMENT",US: TNT HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2068.ts
+#EXTINF:-1 tvg-id="us.USA Network HDTV (East)" tvg-name="US: USA Network HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/12219386_10153393563193250_5055739969696020277_n.png?oh=cba8490788d09823a1c6e6fa31e90aa6&oe=59432F42" group-title="ENTERTAINMENT",US: USA Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2067.ts
+#EXTINF:-1 tvg-id="us.Women" tvg-name="US: WE HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/10703681_10152792379074924_5572962100886089570_n.png?oh=c22f9de8826edd476c478900381cbd1a&oe=598C790D" group-title="ENTERTAINMENT",US: WE HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3654.ts
+#EXTINF:-1 tvg-id="us.truTV HDTV (East)" tvg-name="US: TruTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/TruTV_2014.svg/400px-TruTV_2014.svg.png" group-title="ENTERTAINMENT",US: TruTV HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1856.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/150px-Universal_Channel_2013.png" group-title="ENTERTAINMENT",US: Universal HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5487.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Viceland" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c4/Viceland_stacked.png/revision/latest/scale-to-width-down/640?cb=20161101091228" group-title="ENTERTAINMENT",US: Viceland
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3734.ts
+#EXTINF:-1 tvg-id="us.Travel Channel HDTV (East)" tvg-name="US: Travel Channel HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/64/Travel_Channel_2014.svg/revision/latest/scale-to-width-down/200?cb=20161115234003" group-title="ENTERTAINMENT",US: Travel Channel HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3655.ts
+#EXTINF:-1 tvg-id="us.SundanceTV HDTV (East)" tvg-name="US: Sundance HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/10155840_10151974608206688_1105530323832868030_n.jpg?oh=cb7b4f716a8dd3093ce15683dc6cf9e6&oe=5979C5DE" group-title="ENTERTAINMENT",US: Sundance HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3656.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: VH1 HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/93/VH1_2013.svg/revision/latest/scale-to-width-down/200?cb=20130106192827" group-title="ENTERTAINMENT",US: VH1 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1476.ts
+#EXTINF:-1 tvg-id="us.TV Land HDTV (East)" tvg-name="US: TV Land HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/400px-TV_Land_2015_logo.svg.png" group-title="ENTERTAINMENT",US: TV Land HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1853.ts
+
