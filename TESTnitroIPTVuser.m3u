@@ -717,3 +717,67 @@ http://nitrotv.for-the.biz:25461/live/EAS11/1111/1476.ts
 #EXTINF:-1 tvg-id="us.TV Land HDTV (East)" tvg-name="US: TV Land HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/400px-TV_Land_2015_logo.svg.png" group-title="ENTERTAINMENT",US: TV Land HD
 http://nitrotv.for-the.biz:25461/live/EAS11/1111/1853.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="US: Hi-Yah! Network HD" tvg-logo="http://hi-yahtv.com/sites/default/files/pictures/wellgo-logo.png" group-title="ENTERTAINMENT",US: Hi-Yah! Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5890.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Buzzr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" group-title="ENTERTAINMENT",US: Buzzr
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6006.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Cozi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/400px-Cozi_TV_logo.svg.png" group-title="ENTERTAINMENT",US: Cozi
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7372.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Antenna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/350px-Antenna_TV_logo.svg.png" group-title="ENTERTAINMENT",US: Antenna TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7373.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Get TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/GetTV-logo.png/450px-GetTV-logo.png" group-title="ENTERTAINMENT",US: Get TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7375.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Grit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Grit_TV_Network_Logo.gif" group-title="ENTERTAINMENT",US: Grit
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7376.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: H&I" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Heroes_and_Icons_logo.png" group-title="ENTERTAINMENT",US: H&I
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7377.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ION Life" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/14650338_10154054211452399_7467179645744525218_n.png?oh=c51359df58b9d8c190a79f2f6822132d&oe=5A0D21F8" group-title="ENTERTAINMENT",US: ION Life
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7378.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" group-title="ENTERTAINMENT",US: Movies
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7379.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Qubo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Qubo_logo.png" group-title="ENTERTAINMENT",US: Qubo
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7380.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: This TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/430px-This_TV_logo.svg.png" group-title="ENTERTAINMENT",US: This TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7381.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Reelz HD" tvg-logo="https://i.vimeocdn.com/portrait/6169319_300x300" group-title="ENTERTAINMENT",US: Reelz HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7946.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC 213 1080p (USA)" tvg-logo="http://s2.evcdn.com/images/edpborder500/I0-001/032/552/553-9.jpeg_/ward-vs-kovalev-2-rematch-53.jpeg" group-title="PPV EVENTS (DAY OF ONLY)",UFC 213 1080p (USA)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3558.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC 213 1080p (EU)" tvg-logo="http://s2.evcdn.com/images/edpborder500/I0-001/032/552/553-9.jpeg_/ward-vs-kovalev-2-rematch-53.jpeg" group-title="PPV EVENTS (DAY OF ONLY)",UFC 213 1080p (EU)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5309.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC 213 720 (USA)" tvg-logo="http://s2.evcdn.com/images/edpborder500/I0-001/032/552/553-9.jpeg_/ward-vs-kovalev-2-rematch-53.jpeg" group-title="PPV EVENTS (DAY OF ONLY)",UFC 213 720 (USA)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5308.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC 213 SD (USA)" tvg-logo="http://s2.evcdn.com/images/edpborder500/I0-001/032/552/553-9.jpeg_/ward-vs-kovalev-2-rematch-53.jpeg" group-title="PPV EVENTS (DAY OF ONLY)",UFC 213 SD (USA)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3559.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC 213 SD (EU)" tvg-logo="http://s2.evcdn.com/images/edpborder500/I0-001/032/552/553-9.jpeg_/ward-vs-kovalev-2-rematch-53.jpeg" group-title="PPV EVENTS (DAY OF ONLY)",UFC 213 SD (EU)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5488.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky PPV 2 HD" tvg-logo="" group-title="PPV EVENTS (DAY OF ONLY)",UK: Sky PPV 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7653.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky PPV HD" tvg-logo="" group-title="PPV EVENTS (DAY OF ONLY)",UK: Sky PPV HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7652.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : RED FC TV ( LIVE ON MATCHES )" tvg-logo="http://dbdamj5cv4nub.cloudfront.net/images/news/0-0-1_2016_17_redtv_generic_header_rdax_778x440_80.jpg" group-title="PPV EVENTS (DAY OF ONLY)",Sports : RED FC TV ( LIVE ON MATCHES )
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5307.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : CELTIC FC TV ( LIVE ON MATCHES )" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/30/Celtic_FC_logo.svg/revision/latest/scale-to-width-down/200?cb=20120215112401" group-title="PPV EVENTS (DAY OF ONLY)",Sports : CELTIC FC TV ( LIVE ON MATCHES )
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3597.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : DUNDEE FC TV ( LIVE ON MATCHES )" tvg-logo="http://d1ssu070pg2v9i.cloudfront.net/pex/dfc/2016/08/02143515/dundee-football-club.jpg" group-title="PPV EVENTS (DAY OF ONLY)",Sports : DUNDEE FC TV ( LIVE ON MATCHES )
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3596.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Celtic FC TV ( LIive On Matches )" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Celtic_FC.svg/440px-Celtic_FC.svg.png" group-title="PPV EVENTS (DAY OF ONLY)",Sports: Celtic FC TV ( LIive On Matches )
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2096.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: RANGERS FC TV ( LIVE ON MATCHES)" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Rangers_FC_logo_%28intertwined_letters%29.svg/revision/latest/scale-to-width-down/175?cb=20130121220937" group-title="PPV EVENTS (DAY OF ONLY)",UK: RANGERS FC TV ( LIVE ON MATCHES)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1343.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : ABERDEEN FC TV ( LIVE ON MATCHES )" tvg-logo="http://dbdamj5cv4nub.cloudfront.net/images/news/0-0-1_2016_17_redtv_generic_header_rdax_778x440_80.jpg" group-title="PPV EVENTS (DAY OF ONLY)",Sports : ABERDEEN FC TV ( LIVE ON MATCHES )
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3600.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC EXTRA TIME HD 6 ( MATCH TIME )" tvg-logo="http://cdn.downdetector.com/static/uploads/c/300/2fb5d/nbc-live-extra-54k-logo.png" group-title="PPV EVENTS (DAY OF ONLY)",US: NBC EXTRA TIME HD 6 ( MATCH TIME )
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3549.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC EXTRA TIME HD5 ( MATCH TIME )" tvg-logo="http://cdn.downdetector.com/static/uploads/c/300/2fb5d/nbc-live-extra-54k-logo.png" group-title="PPV EVENTS (DAY OF ONLY)",US: NBC EXTRA TIME HD5 ( MATCH TIME )
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3544.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC EXTRA TIME HD4 ( MATCH TIME )" tvg-logo="http://cdn.downdetector.com/static/uploads/c/300/2fb5d/nbc-live-extra-54k-logo.png" group-title="PPV EVENTS (DAY OF ONLY)",US: NBC EXTRA TIME HD4 ( MATCH TIME )
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3545.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC EXTRA TIME HD3 ( MATCH TIME )" tvg-logo="http://cdn.downdetector.com/static/uploads/c/300/2fb5d/nbc-live-extra-54k-logo.png" group-title="PPV EVENTS (DAY OF ONLY)",US: NBC EXTRA TIME HD3 ( MATCH TIME )
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3546.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC EXTRA TIME HD2 ( MATCH TIME )" tvg-logo="http://cdn.downdetector.com/static/uploads/c/300/2fb5d/nbc-live-extra-54k-logo.png" group-title="PPV EVENTS (DAY OF ONLY)",US: NBC EXTRA TIME HD2 ( MATCH TIME )
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3547.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC EXTRA TIME HD 7 ( MATCH TIME )" tvg-logo="http://cdn.downdetector.com/static/uploads/c/300/2fb5d/nbc-live-extra-54k-logo.png" group-title="PPV EVENTS (DAY OF ONLY)",US: NBC EXTRA TIME HD 7 ( MATCH TIME )
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3548.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC EXTRA TIME HD ( MATCH TIME )" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png" group-title="PPV EVENTS (DAY OF ONLY)",US: NBC EXTRA TIME HD ( MATCH TIME )
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3550.ts
