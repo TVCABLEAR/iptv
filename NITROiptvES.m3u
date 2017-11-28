@@ -1,0 +1,794 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIMAS HD Los Angeles" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/67/UniM%C3%A1s_logo.svg/revision/latest/scale-to-width-down/200?cb=20121204132604" group-title="LATINO",LA: UNIMAS HD Los Angeles
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2932.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo 52 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Telemundo_52_2012.png" group-title="LATINO",LA: Telemundo 52 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6064.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Chicago HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c0.2.250.250/320662_10151344909673373_1256967336_n.jpg?oh=e91bafc7577d24d99d0ef18cf2cd4057&oe=59DD2DAE" group-title="LATINO",LA: Telemundo Chicago HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6057.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d6/Telemundo_2012.png/revision/latest/scale-to-width-down/175?cb=20130323064228" group-title="LATINO",LA: Telemundo HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6059.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo l HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d6/Telemundo_2012.png/revision/latest/scale-to-width-down/175?cb=20130323064228" group-title="LATINO",LA: Telemundo l HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6067.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo San Fransisco HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c0.2.250.250/182388_486735621371380_61093693_n.jpg?oh=186c0cc7c151ddcda3e6d89f77175295&oe=59A3A49B" group-title="LATINO",LA: Telemundo San Fransisco HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6058.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo 47 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Telemundo_New_York_2012.jpg" group-title="LATINO",LA: Telemundo 47 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6060.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/34/Telemundo_Internacional_2012.png/revision/latest?cb=20150610003055" group-title="LATINO",LA: Telemundo
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2935.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo 51 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Wscv51_telemundo_miami.png" group-title="LATINO",LA: Telemundo 51 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6062.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Houston HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Telemundo_Houston_2013_logo.png/300px-Telemundo_Houston_2013_logo.png" group-title="LATINO",LA: Telemundo Houston HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6063.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION HD" tvg-logo="http://www.mediamoves.com/wp-content/uploads/2013/01/Univision_logo_2012-700-e1374123467868.jpg" group-title="LATINO",LA: UNIVISION HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2931.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: UNIVISION Deportes HD" tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="LATINO",La: UNIVISION Deportes HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5312.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TDN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="LATINO",La: TDN Deportes
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5814.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: A&E HD 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="LATINO",La: A&E HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5912.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: AXN HD 1080p" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_lam.jpg" group-title="LATINO",La: AXN HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5913.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Cinecanal HD 1080p" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/14502860_10154120984935674_8185407925964978834_n.png?oh=f2e5b59ded7cd318b619ede21de75f5a&oe=59DE50D5" group-title="LATINO",La: Cinecanal HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5914.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Cinemax HD 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/350px-Cinemax_new.png" group-title="LATINO",La: Cinemax HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5915.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Comedy Central HD 1080p" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_lam_sur_hd.jpg" group-title="LATINO",La: Comedy Central HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5916.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: ESPN (Mx) HD 1080p" tvg-logo="http://1.bp.blogspot.com/-wELas1Zyc00/UTVXi0RfYpI/AAAAAAAAGao/9UYRDv5k3Qk/s1600/Espn+VIVO.png" group-title="PPV EVENTS (DAY OF ONLY)",La: ESPN (Mx) HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5917.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: FOX Premium Action 1080p" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/7/71/FOXPremiumAction.png/revision/latest/scale-to-width-down/220?cb=20170228194223" group-title="LATINO",La: FOX Premium Action 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5918.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox HD 1080p" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/c6/FOX_Logo.png/revision/latest/scale-to-width-down/200?cb=20151107233842" group-title="LATINO",La: Fox HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5919.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Movies HD 1080p" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png/revision/latest/scale-to-width-down/220?cb=20170228195006" group-title="LATINO",La: Fox Movies HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5920.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Sports 2 HD 1080p" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/5c/Fox_Sports_2_HD_logo.png/revision/latest/scale-to-width-down/300?cb=20160425194254" group-title="LATINO",La: Fox Sports 2 HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5921.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Sports HD 1080p" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/200?cb=20130319144854" group-title="LATINO",La: Fox Sports HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5922.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox1 (Oeste) HD 1080p" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/4/49/FOXPremiumSeries.png/revision/latest/scale-to-width-down/220?cb=20170305133126" group-title="LATINO",La: Fox1 (Oeste) HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5923.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: FX HD 1080p" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/5/56/FX_international_logo.svg/revision/latest/scale-to-width-down/250?cb=20110801225414" group-title="LATINO",La: FX HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5924.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: History Channel HD 1080p" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/2/2f/History_HD_2015_logo.png/revision/latest/scale-to-width-down/220?cb=20150626181747" group-title="LATINO",La: History Channel HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5925.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Space HD 1080p" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fe/SpaceHDLA.jpg/revision/latest/scale-to-width-down/185?cb=20160719224251" group-title="LATINO",La: Space HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5926.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TNT HD 1080p" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/a7/TNT_HD_2016.svg/revision/latest/scale-to-width-down/185?cb=20161129192511" group-title="LATINO",La: TNT HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5927.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TNT Series HD 1080p" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/4/49/Logo_TNT_Series_2016.png/revision/latest/scale-to-width-down/220?cb=20161130184702" group-title="LATINO",La: TNT Series HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5928.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TruTV HD 1080p" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/3/36/TruTV_2014.svg/revision/latest/scale-to-width-down/250?cb=20141027224052" group-title="LATINO",La: TruTV HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5929.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Universal Channel HD 1080p" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Uchd.png/revision/latest?cb=20160412190059" group-title="LATINO",La: Universal Channel HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5930.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Warner HD 1080p" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c2/Warner-azul.png/revision/latest/scale-to-width-down/250?cb=20160425222208" group-title="LATINO",La: Warner HD 1080p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5931.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: NatGeo Mundo HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/7f/Nat_Geo_Mundo.svg/revision/latest/scale-to-width-down/300?cb=20140626190709" group-title="LATINO",La: NatGeo Mundo HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6056.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: NBC Universo HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/8/84/NBCUniversal_2011.svg/revision/latest/scale-to-width-down/250?cb=20151201071939" group-title="LATINO",LA: NBC Universo HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6071.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Sony Channel HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/8/86/Sony_Channel.png/revision/latest/scale-to-width-down/220?cb=20160131042631" group-title="LATINO",La: Sony Channel HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6065.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Deportes HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/fe/Foxdeportes2012.png/revision/latest/scale-to-width-down/200?cb=20130311223301" group-title="LATINO",La: Fox Deportes HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5889.ts
+#EXTINF:-1 tvg-id="us.ESPN HDTV" tvg-name="La: ESPN Deportes HD" tvg-logo="http://txmgv24xack1i8jje2nayxpr.wpengine.netdna-cdn.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="PPV EVENTS (DAY OF ONLY)",La: ESPN Deportes HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3685.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: CNN en español HD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20409q.png" group-title="LATINO",La: CNN en español HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3072.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Discovery Channel HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/2a/DSC_DGlobe_2016_Reverse.svg/revision/latest/scale-to-width-down/200?cb=20170504003819" group-title="LATINO",La: Discovery Channel HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6061.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Discovery Familia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/440px-Discovery_Familia_logo.svg.png" group-title="LATINO",La: Discovery Familia HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6066.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Bein Sport Ñ HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/20/Bein_sports_%C3%B1.jpg/revision/latest/scale-to-width-down/220?cb=20170226193336" group-title="LATINO",La: Bein Sport Ñ HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3096.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: WAPA" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/17202898_10154506604882921_6822506713420470238_n.png?oh=4561ec802735c85cc3a1857b58b9442b&oe=59564BF5" group-title="LATINO",LA: WAPA
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2937.ts
+#EXTINF:-1 tvg-id="us.ESPN2 HDTV" tvg-name="La: ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/350px-Espn2.svg.png" group-title="LATINO",La: ESPN 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: ESPN" tvg-logo="https://pbs.twimg.com/profile_images/841837141000896513/Ou_VuHAq_400x400.jpg" group-title="PPV EVENTS (DAY OF ONLY)",La: ESPN
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2990.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: ESPN 3" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cc/ESPN_3_LA.png/revision/latest/scale-to-width-down/200?cb=20160308000139" group-title="LATINO",La: ESPN 3
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2989.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Sports" tvg-logo="http://3.bp.blogspot.com/-bMwjKQopiyg/T0LxqrNyQcI/AAAAAAAAST4/MdJpoOPlGBk/s1600/fs-2012.png" group-title="LATINO",La: Fox Sports
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/141.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Fox_Sports_2_Logo.jpg" group-title="LATINO",La: Fox Sports 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/142.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: FOX SPORTS SUR" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_cono_sur.jpg" group-title="LATINO",La: FOX SPORTS SUR
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5493.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Sports Chile" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_lam_cono_sur.jpg" group-title="LATINO",La: Fox Sports Chile
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5492.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Discovery Science" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science_ca.jpg" group-title="LATINO",La: Discovery Science
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3098.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: GolPeru" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/13522073_1031484876929577_5628482127750923638_n.png?oh=0a3366ea46da7b1431c6fd6d40ba87e2&oe=59582049" group-title="LATINO",La: GolPeru
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3023.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: AMC" tvg-logo="https://pbs.twimg.com/profile_images/737657926840668160/BdAUQ3wh_400x400.jpg" group-title="LATINO",La: AMC
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="LATINO",La: Animal Planet
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_AXN_logo.svg/300px-2016_AXN_logo.svg.png" group-title="LATINO",La: AXN
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Az Cinema" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15941258_1192511860796216_7741034144437855629_n.jpg?oh=bf39bd79263bffd5e4802ea8a8f0acd3&oe=5950DD77" group-title="MEXICO",La: Az Cinema
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3101.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Azteca Noticias" tvg-logo="https://pbs.twimg.com/profile_images/838928352308154368/TNteqcch.jpg" group-title="MEXICO",La: Azteca Noticias
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3000.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Azteca 13" tvg-logo="http://epeltech.files.wordpress.com/2014/01/tv-azteca.jpg" group-title="MEXICO",La: Azteca 13
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3002.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Azteca 7" tvg-logo="http://images.mi.tv/channels/hn_azteca-7_m.png" group-title="MEXICO",La: Azteca 7
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3001.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Anime TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Anime_Network_2014_logo.png" group-title="MEXICO",La: Anime TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3090.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/150px-Boomerang_2014_logo.svg.png" group-title="LATINO",La: Boomerang
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3097.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: A&E Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="LATINO",La: A&E Latino
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: MTV Live" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/12647302_10156489868355626_622035456033973636_n.jpg?oh=09a6c5b220ced61f0264a11d26663302&oe=5982AC4E" group-title="LATINO",La: MTV Live
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3092.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: FilmZone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_Film_Zone_logo.PNG/120px-The_Film_Zone_logo.PNG" group-title="MEXICO",La: FilmZone
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3095.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png" group-title="LATINO",La: Cartoon Network
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/25.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Az Mundo" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15894874_1819446024992627_947055655167784875_n.jpg?oh=3096b97f61bcb7105e5c70163c3503f9&oe=5995D5BF" group-title="MEXICO",LA: Az Mundo
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3100.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Discovery Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_lam.jpg" group-title="LATINO",La: Discovery Channel
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Cinemax" tvg-logo="https://pbs.twimg.com/profile_images/738864283727978496/Y_icc3Lk_400x400.jpg" group-title="LATINO",La: Cinemax
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3073.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Comedy Central" tvg-logo="http://www.stashmedia.tv/wp-content/uploads/2010/12/comedy-logo.png" group-title="LATINO",La: Comedy Central
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2995.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Cinecanal" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p480x480/14502860_10154120984935674_8185407925964978834_n.png?oh=9a66b02c46fe223ea2a11991d40a95a2&oe=5994394C" group-title="LATINO",La: Cinecanal
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2997.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: E! Entertainment Television" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c0.4.320.320/p320x320/13087738_1360628333953951_8538894866483518960_n.png?oh=c89ce2549b6e557af4e1f3b4d069514d&oe=594D93B1" group-title="LATINO",La: E! Entertainment Television
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2991.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Investigation Discovery" tvg-logo="https://pbs.twimg.com/profile_images/844289791021793282/jjrbhiay_400x400.jpg" group-title="LATINO",La: Investigation Discovery
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2993.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Discovery Theater" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ5AZNP36uQuEMDZJGeuwuvamfV2CTBFjs_1yMXEerrTmolYE8EA" group-title="LATINO",La: Discovery Theater
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/42.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/360px-Discovery_Turbo_logo.svg.png" group-title="LATINO",La: Discovery Turbo
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2992.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="LATINO",La: Discovery World
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3050.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Disney Channel" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGXWjxscW8FNY-8AzlNsS9KKcOw1TilPXkK7spq5rzgdrhlLG-" group-title="LATINO",La: Disney Channel
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/44.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Disney JR" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/bb/Disney_Junior.svg/revision/latest/scale-to-width-down/200?cb=20170412012323" group-title="LATINO",La: Disney JR
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/45.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Discovery Civilization" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/38/Discovery_Civilization_1998.png/revision/latest/scale-to-width-down/250?cb=20091112185125" group-title="LATINO",La: Discovery Civilization
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2994.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: FX" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBKBeTVR9jz9NCOvqTyGF62JdMPI30V3xgL2AO4Pf0yHsgw3Y93A" group-title="LATINO",La: FX
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox" tvg-logo="https://pbs.twimg.com/profile_images/789580040195284993/ubR3kxfU_400x400.jpg" group-title="LATINO",La: Fox
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3043.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox 1" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/4/49/FOXPremiumSeries.png/revision/latest/scale-to-width-down/220?cb=20170305133126" group-title="LATINO",La: Fox 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Cinema" tvg-logo="http://1.bp.blogspot.com/-zwUHiIjR2tA/VmdbA-AcQMI/AAAAAAAAAUI/ni5IR_wnZfU/s1600/foxcinema.png" group-title="LATINO",La: Fox Cinema
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2988.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Classics" tvg-logo="http://2.bp.blogspot.com/-ug8KAQSSrFw/VFouXXqH69I/AAAAAAAAo8A/D2XiEnv5em0/s1600/fox-classics.png" group-title="LATINO",La: Fox Classics
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3044.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fox_life_it.png/400px-Fox_life_it.png" group-title="LATINO",La: Fox Life
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/59.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Lifetime" tvg-logo="https://external.ford1-1.fna.fbcdn.net/safe_image.php?d=AQApsUuO0o_Z6pvs&w=50&h=50&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F3%2F34%2FLifetime_logo_2013.png&cfs=1&fallback=hub_likes&f&_nc_hash=AQAQ9lB9JI9Ev4GE" group-title="LATINO",La: Lifetime
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3033.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: HBO Family" tvg-logo="http://2.bp.blogspot.com/-fWMY8sHAuHs/TqB9xKDM_-I/AAAAAAAAQh0/N-fI53l9A84/s200/hbo-family.png" group-title="LATINO",La: HBO Family
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3040.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: MTV LATINO" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ45kIwGI8ObWUtrI3GcGeK4GLsi8OA_7QM3TlieM4O4MvVowi" group-title="LATINO",La: MTV LATINO
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/81.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/350px-Logo_Nat_Geo_Wild.svg.png" group-title="LATINO",La: Nat Geo Wild
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/86.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: NICK Jr" tvg-logo="http://a5.mzstatic.com/us/r30/Purple20/v4/90/74/97/9074978f-3cac-5e6f-0105-e3ae7c007843/icon175x175.png" group-title="LATINO",La: NICK Jr
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2976.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Nick Toons" tvg-logo="http://vignette2.wikia.nocookie.net/nickelodeon/images/f/fe/Nicktoons_SPLAT!.PNG/revision/latest?cb=20141122014104" group-title="LATINO",La: Nick Toons
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3029.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: MTV Hits" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/580591_10151975356286351_1006541818_n.jpg?oh=8f955d0321d72aea4751ddafac8c6f28&oe=59961A78" group-title="LATINO",La: MTV Hits
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3031.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/This_is_hor_help.png/220px-This_is_hor_help.png" group-title="LATINO",La: Fox Action
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3045.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Warner" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/12/Warner_tv_asia.png/revision/latest/scale-to-width-down/250?cb=20120212152553" group-title="LATINO",La: Warner
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3005.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/120px-Canal_Sony_logo.svg.png" group-title="LATINO",La: Sony Channel
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3016.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Space" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Space_logo_2013.svg/240px-Space_logo_2013.svg.png" group-title="LATINO",La: Space
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/99.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/400px-Universal_Channel_Logo_2013.svg.png" group-title="LATINO",La: Studio Universal
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Discovery Kids" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHYjG1tVqL-zkScIq3VHwmXny-mh5J2q9rJnsG45kohUpLIArBiQ" group-title="LATINO",La: Discovery Kids
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/43.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: VH1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vh1_lam_central.jpg" group-title="LATINO",La: VH1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3007.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/440px-Nickelodeon_logo_new.svg.png" group-title="LATINO",La: Nickelodeon
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/88.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Telehit" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/13512039_10154375500897948_3649177788828937918_n.png?oh=8d1fd9597dd434c30d0c6aa093fdb801&oe=596091EC" group-title="MEXICO",La: Telehit
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3012.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/400px-Tooncast_logo.svg.png" group-title="LATINO",La: Tooncast
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: NatGeo" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqyq6dw6qqFT9gV9Z3cwDAO3LOg-LyN5CEydK9bD8MGWgMGXuQ" group-title="LATINO",La: NatGeo
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/85.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/220px-Glitzlogo.png" group-title="LATINO",La: Glitz
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2985.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/99px-Logo_Golden_TV.svg.png" group-title="LATINO",La: Golden
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/63.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: HBO 2" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6c/HBO2_logo.svg/revision/latest/scale-to-width-down/200?cb=20100322085852" group-title="LATINO",La: HBO 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2981.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Golden Edge" tvg-logo="http://1.bp.blogspot.com/-DW-38CWlBRg/UJhN7D-7RII/AAAAAAAAXD8/V2IMhibN_dM/s320/goldenedge.png" group-title="LATINO",La: Golden Edge
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2984.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: ESPN Plus" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/c/ca/ESPN_Plus.png/revision/latest/scale-to-width-down/215?cb=20111129182009" group-title="LATINO",La: ESPN Plus
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2987.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: El Gourmet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/250px-Elgourmetlogo2015.png" group-title="LATINO",La: El Gourmet
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: H2" tvg-logo="http://18839-presscdn.pagely.netdna-cdn.com/wp-content/uploads/2015/11/H2-logo.jpg" group-title="LATINO",La: H2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2983.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: HBO" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_lam.jpg" group-title="LATINO",La: HBO
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2982.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Galavision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Gala_TV.jpg" group-title="LATINO",La: Galavision
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2986.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: HBO Signature" tvg-logo="http://1.bp.blogspot.com/-Q619G832r_8/Tx3ZhLy_AVI/AAAAAAAAR5s/EqAx2cTSXSg/s200/hbo-signature.png" group-title="LATINO",La: HBO Signature
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2980.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/200px-History_Logo.svg.png" group-title="LATINO",La: History Channel
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/70.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: HBO Plus" tvg-logo="https://pbs.twimg.com/profile_images/2959091410/f59064c2ea1265d88157bd9dd0894f5d_400x400.jpeg" group-title="LATINO",La: HBO Plus
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3039.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Tru Tv" tvg-logo="https://pbs.twimg.com/profile_images/486171177652453377/AbnyiQ1I_400x400.jpeg" group-title="LATINO",La: Tru Tv
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2974.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Formula 1 TV" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d0/Canal_F1_Latin_America.svg/revision/latest/scale-to-width-down/300?cb=20170325212925" group-title="LATINO",La: Formula 1 TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3046.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TVE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tve_internacional_asia_africa.jpg" group-title="LATINO",La: TVE
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2973.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Unicable.png/200px-Unicable.png" group-title="LATINO",La: Unicable
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/129.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Ve Plus TV" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/ff/Ve_Plus_2017.png/revision/latest/scale-to-width-down/220?cb=20170306222120" group-title="LATINO",La: Ve Plus TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5330.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: MI MUSICA TV HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c31.0.200.200/p200x200/207879_398572183542051_1657948048_n.jpg?oh=fc7554d7fe5c28dd0b15b1c92b0b1501&oe=5990EED5" group-title="LATINO",La: MI MUSICA TV HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5344.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Universal Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/universal_channel_us.jpg" group-title="LATINO",La: Universal Channel
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3008.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Movies" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png/revision/latest/scale-to-width-down/220?cb=20170228195006" group-title="LATINO",La: Fox Movies
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/58.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Tiin" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/16640988_1437107756301388_128064813392638798_n.png?oh=43594d4b79a4f65138a9ce48b98f321d&oe=5960E37B" group-title="LATINO",La: Tiin
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3011.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Tlnovelas" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/16473899_1421123434573150_1117910964079135311_n.png?oh=80ee81b157fa67d2c66bc8be125a9d77&oe=595076B8" group-title="LATINO",La: Tlnovelas
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3009.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TNT Series" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tnt_es.jpg" group-title="LATINO",La: TNT Series
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/107.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Disney XD" tvg-logo="https://apprecs.org/ios/images/app-icons/256/5a/530003802.jpg" group-title="SPAIN",La: Disney XD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Home and Health" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/7/7c/H%26h_Discovery.png/revision/latest/scale-to-width-down/185?cb=20160812225416" group-title="LATINO",La: Home and Health
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3038.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: I Sat" tvg-logo="http://2.bp.blogspot.com/_YkZZPo1aKZU/TNq6hsVnwII/AAAAAAAAOwI/LXRIapzZvlc/s400/isat-2010.png" group-title="LATINO",La: I Sat
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3036.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Canal De Las Estrellas" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/26/XEW-TV2014.png/revision/latest/scale-to-width-down/220?cb=20160124175714" group-title="MEXICO",La: Canal De Las Estrellas
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2998.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fashion TV" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/8/87/Ftv.jpg/revision/latest/scale-to-width-down/150?cb=20100528184323" group-title="LATINO",La: Fashion TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2978.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TNT" tvg-logo="http://img1.wikia.nocookie.net/__cb20091120155408/logopedia/images/thumb/4/41/TNT_logo_2008.png/130px-0%2C640%2C8%2C574-TNT_logo_2008.png" group-title="LATINO",La: TNT
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2975.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TLC" tvg-logo="https://pbs.twimg.com/profile_images/807298199472009216/jSJEyPDJ_400x400.jpg" group-title="LATINO",La: TLC
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3010.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TCM" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TCM_Latin_America.png/revision/latest/scale-to-width-down/200?cb=20151209165240" group-title="LATINO",La: TCM
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3014.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: SyFy" tvg-logo="https://pbs.twimg.com/profile_images/750289338265657344/hpz-a_9h_400x400.jpg" group-title="LATINO",La: SyFy
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3015.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: AYM Sports" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/52/165104_149063901812135_6685373_n.jpg/revision/latest/scale-to-width-down/200?cb=20130608195911" group-title="LATINO",La: AYM Sports
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5398.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: HCH Honduras" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/17352165_1257775467673877_1919326798893865821_n.jpg?oh=a726efbee4009a6a89c2137b5f2388ed&oe=59881A3A" group-title="LATINO",La: HCH Honduras
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5430.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Todo Deportes Honduras" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/todo_deportes_tv_hn.jpg" group-title="LATINO",La: Todo Deportes Honduras
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5414.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Televicentro Honduras" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/1382884_242369059247224_525853937_n.jpg?oh=8dd447822852822920b054b50f901aa8&oe=597E69FB" group-title="LATINO",La: Televicentro Honduras
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5472.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Nex TV Panama" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/14595775_1099228033459021_9099321600836039576_n.png?oh=5993e3839d1e26d0c683d666ee971b13&oe=597BDD12" group-title="LATINO",La: Nex TV Panama
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5465.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: AmericaTV (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/115px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="LATINO",La: AmericaTV (Argentina)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3111.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TYC Sports (Argentina)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tyc_sports.jpg" group-title="LATINO",La: TYC Sports (Argentina)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3102.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: MUSICTOP Argentina" tvg-logo="https://lh3.googleusercontent.com/F3fKClIYSwcqwKmfelqaF2BukTYGjt0ClNQjWy5uM9r3m8iZMYNh1ViPfHM35-k-PRFJRDc=s170" group-title="LATINO",La: MUSICTOP Argentina
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5333.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Telpin Canal 2 Argentian" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/7602_711458678922368_2498541826660694411_n.jpg?oh=78d8f142aafc69aaec6f8ffd360d686b&oe=597DCF28" group-title="LATINO",La: Telpin Canal 2 Argentian
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5337.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: CANAL 4 (ARG)" tvg-logo="https://www.entornopolitico.com/admin/fotos/2014-03-19/22954_55x.jpg" group-title="LATINO",La: CANAL 4 (ARG)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5360.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TN (Argentina)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/15894350_10155748300044863_3233525193847795535_n.png?oh=3828419a121139cbe44f29d07675b421&oe=5954460D" group-title="LATINO",La: TN (Argentina)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3104.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: MusicTopHD Ar" tvg-logo="https://lh3.googleusercontent.com/7SmMmFlu149Awzht_XVpUcGqXIE9AeKobfmK5uxo4BAr1k9LuoAoUT4_dHiobXcEso6b=s170" group-title="LATINO",La: MusicTopHD Ar
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5484.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Canal 9 (Argentina)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal9_salta.jpg" group-title="LATINO",La: Canal 9 (Argentina)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3108.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Power HD Ar" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c67.47.585.585/303656_269914916444002_1400586457_n.jpg?oh=4cbc310ad593d68a744d9b0f8d1dbe86&oe=59E57BB0" group-title="LATINO",La: Power HD Ar
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5395.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TV Maná Argentina" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/10354169_733588103379386_824347640650443191_n.jpg?oh=f919f63a924ddeb7512812bc762be8f9&oe=5989B434" group-title="LATINO",La: TV Maná Argentina
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5401.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: CHV (Chile)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Chv2015.png/440px-Chv2015.png" group-title="LATINO",La: CHV (Chile)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3085.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Canal 13 HD (Chile)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canal13Chile_Vectorial.svg/200px-Canal13Chile_Vectorial.svg.png" group-title="LATINO",La: Canal 13 HD (Chile)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2059.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: CDF Premium(Chile)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_del_futbol_premium.jpg" group-title="LATINO",La: CDF Premium(Chile)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3088.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Cadena H" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/18301131_1329876690437801_4040505609043836390_n.png?oh=5925ae6fc749eefaba0805680ec2a547&oe=59E1A636" group-title="LATINO",La: Cadena H
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3087.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: LA RED (Chile)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/500px-La_Red_Logotipo.svg.png" group-title="LATINO",La: LA RED (Chile)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3081.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: MEGA (Chile)" tvg-logo="https://pbs.twimg.com/profile_images/666476907924496384/uj1ZRXip_400x400.jpg" group-title="LATINO",La: MEGA (Chile)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3080.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Cinecanal Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cinecanal_2016.png" group-title="LATINO",La: Cinecanal Plus
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3086.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: CNN (Chile)" tvg-logo="https://pbs.twimg.com/profile_images/848009134784081920/6Qx-Z9o0_400x400.jpg" group-title="LATINO",La: CNN (Chile)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3083.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TeleTrak (Chile)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/teletrak.jpg" group-title="LATINO",La: TeleTrak (Chile)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3077.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: NIU TV(Chile)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/17796687_1250844888326530_4812590561513425452_n.png?oh=4ee377eba4d30e7826c983db68ba9a59&oe=59B3CE62" group-title="LATINO",La: NIU TV(Chile)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5339.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: EL PINGUINO TV Chile" tvg-logo="http://canales33.mex.tl/imagesnew2/0/1/0/0/0/2/9/6/7/0/El%20Pinguino.jpg" group-title="LATINO",La: EL PINGUINO TV Chile
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5358.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TVN HD (Chile)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvn_cl.jpg" group-title="LATINO",La: TVN HD (Chile)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2055.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: UCV Ch" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ucv_tv.jpg" group-title="LATINO",La: UCV Ch
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3075.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/De_pelicula_logo.png/440px-De_pelicula_logo.png" group-title="LATINO",La: De Pelicula
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3078.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TVN Ch" tvg-logo="https://pbs.twimg.com/profile_images/762950403365412864/2lKZxT3h_400x400.jpg" group-title="LATINO",La: TVN Ch
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3076.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: America peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/115px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="LATINO",La: America peru
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3004.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Panamericana(Peru)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/14731228_1157432490959112_5186652336705410172_n.png?oh=a3371be9f6ad2bd663b4bd3f1abec593&oe=595306BD" group-title="LATINO",La: Panamericana(Peru)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3022.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: ATV (Peru)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/23/ATV%2B_%282015-%29.png/revision/latest?cb=20150330214005" group-title="LATINO",La: ATV (Peru)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3025.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Sol TV Perú" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/20619_1089193231098655_1776559725805360553_n.png?oh=c6472761d6fe39eb7476135ad7df24e2&oe=597951AE" group-title="LATINO",La: Sol TV Perú
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5402.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TV Perú 7-3" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c420.211.180.180/999709_654136887955798_8106978_n.png?oh=5469f8af9e5b4db42c4bbfc8a06f7c32&oe=59924B51" group-title="LATINO",La: TV Perú 7-3
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5389.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Peru Magico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Per%C3%BA_M%C3%A1gico_%28Logo_2014%29.png" group-title="LATINO",La: Peru Magico
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3020.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TV Peru" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c420.211.180.180/999709_654136887955798_8106978_n.png?oh=5469f8af9e5b4db42c4bbfc8a06f7c32&oe=59924B51" group-title="LATINO",La: TV Peru
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3019.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: WILLAX PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Willax_Televisi%C3%B3n_PNG.png/150px-Willax_Televisi%C3%B3n_PNG.png" group-title="LATINO",La: WILLAX PERU
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5352.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Tele Uno TV Costa Rica" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/15337656_1136787703041531_4091317546850380164_n.png?oh=9a6b5c7952edd76549e7c604c9783e69&oe=59886F50" group-title="LATINO",La: Tele Uno TV Costa Rica
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5334.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: DW Español Alemania" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/10262264_755643621136396_3183137191926543406_n.png?oh=d574c72f06fa33ecc3fa07a95019f957&oe=5978C018" group-title="LATINO",La: DW Español Alemania
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5345.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Canal 2 Nicaragua" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal2_ni.jpg" group-title="LATINO",La: Canal 2 Nicaragua
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5379.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Canal 11 Venezuela" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/7/79/Canal11delacosta-2012.png/revision/latest?cb=20121001112158" group-title="LATINO",La: Canal 11 Venezuela
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5382.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Canal i Venezuela" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/23/Logo_canali_2015.png/revision/latest/scale-to-width-down/400?cb=20151017014316" group-title="LATINO",La: Canal i Venezuela
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5381.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TIGO Musci (Colombia)" tvg-logo="https://instagram.ford1-1.fna.fbcdn.net/t51.2885-19/s150x150/13696794_1239539242747627_1041296677_a.jpg" group-title="LATINO",La: TIGO Musci (Colombia)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3054.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Canal Antiestres(Colombia)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/15977815_10155005267152853_3697829508235690599_n.png?oh=e1649653d3ca675843e05df2e67be060&oe=59571526" group-title="LATINO",La: Canal Antiestres(Colombia)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3071.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: CantinazoTV(Colombia)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p480x480/14237757_1066473216799554_1705457222322115823_n.jpg?oh=85c75ea2dc996366ac3f8c329e6d81e6&oe=5994E380" group-title="LATINO",La: CantinazoTV(Colombia)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3068.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Cosmovision (Colombia)" tvg-logo="https://pbs.twimg.com/profile_images/659049504952446976/nEDElHaJ_400x400.jpg" group-title="LATINO",La: Cosmovision (Colombia)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3063.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Canal UNE (Colombia)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/11224771_10153473591979994_5138979911495349927_n.png?oh=66cd67005728899010c8049144c6a8e1&oe=595F804B" group-title="LATINO",La: Canal UNE (Colombia)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3069.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Caracol(Colombia)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c3.0.436.436/11665521_938214496221162_5171539037703643491_n.jpg?oh=2f95ae411bab7e78308684327c0b860d&oe=598D3C88" group-title="LATINO",La: Caracol(Colombia)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3093.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Lifedesign (Colombia)" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c187.0.480.480/p480x480/10441061_822321924464770_5388464768373546926_n.jpg?oh=aabd8e7630c6341fca7305ec76df6968&oe=599B0450" group-title="LATINO",La: Lifedesign (Colombia)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3062.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: El Financiero Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="LATINO",La: El Financiero Bloomberg
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3051.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: RCN (Colombia)" tvg-logo="http://2.bp.blogspot.com/-7dk6kcZSyto/U4uIsvjLJqI/AAAAAAAAl2Y/sS7odxgR7XY/s1600/rcn-tvcolombia.png" group-title="LATINO",La: RCN (Colombia)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3059.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TELEMEDELLIN (Colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Telemedellin.svg/130px-Telemedellin.svg.png" group-title="LATINO",La: TELEMEDELLIN (Colombia)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3055.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TRENDY CHANNEL Co" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trendy_channel.jpg" group-title="LATINO",La: TRENDY CHANNEL Co
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3053.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: WIN SPORTS Co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Win_Sport_logo.png" group-title="LATINO",La: WIN SPORTS Co
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3052.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: CANAL CAPITAL Colombia" tvg-logo="https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/p200x200/17796687_1250844888326530_4812590561513425452_n.png?oh=6addb0e1766a67b32f987ca7f61fdb6e&oe=597F440C" group-title="LATINO",La: CANAL CAPITAL Colombia
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5340.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Sun Channel Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_sun.jpg" group-title="LATINO",La: Sun Channel Colombia
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5469.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: CITY TV Co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/City_logo_2012.svg/420px-City_logo_2012.svg.png" group-title="LATINO",La: CITY TV Co
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3064.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Senal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/600px-Se%C3%B1al_Colombia_logo.svg.png" group-title="LATINO",La: Senal Colombia
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3058.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Teleantioquia (Colombia)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tele_antioquia.jpg" group-title="LATINO",La: Teleantioquia (Colombia)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3057.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Telecafe (Colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Telecafe11.png/130px-Telecafe11.png" group-title="LATINO",La: Telecafe (Colombia)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3056.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Cali TV" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/15823293_1303404423068036_3354235968118853035_n.png?oh=aa68211016ccc39cf8d3bee1062d2fb7&oe=598114FD" group-title="LATINO",La: Cali TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5399.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Migente Tv Colombia" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p50x50/15941104_1325833150820048_7375405748587856636_n.jpg?oh=5291fbddaaf84a585e25591455756f0b&oe=59BF051B" group-title="LATINO",La: Migente Tv Colombia
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5353.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Canal Trece(Colombia)" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4d/CanalTrece2017.png/revision/latest/scale-to-width-down/220?cb=20170319130438" group-title="LATINO",La: Canal Trece(Colombia)
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3070.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Garage TV" tvg-logo="https://pbs.twimg.com/profile_images/527224288361730048/Qe0TV8cB_400x400.jpeg" group-title="LATINO",La: Garage TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2051.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TV Agro Colombia" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/16114921_10154378497208877_7327398377070713662_n.jpg?oh=180ebc615a2c4052e4022057abeafad2&oe=598BABC8" group-title="LATINO",La: TV Agro Colombia
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5431.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: EL TIEMPO TELEVISIÓN Colombia" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/13062057_1057939094278817_51361673537284074_n.jpg?oh=973bf853d56feb5b72b965fb6917e4e1&oe=59BC6A42" group-title="LATINO",La: EL TIEMPO TELEVISIÓN Colombia
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5343.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Cable Noticias Colombia" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c2.2.40.40/p43x43/1538832_978160925546350_2280793756916930110_n.jpg?oh=cd84b5d6ba35e7e22ab467e87f478e09&oe=5974526C" group-title="LATINO",La: Cable Noticias Colombia
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5338.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: LOGOS BOLIVIA" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/10653797_10152310615953045_1961206783679085629_n.jpg?oh=9e3e0337c07db8de3654d857f58782a6&oe=59A3E4DA" group-title="LATINO",La: LOGOS BOLIVIA
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5357.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: UFC Network" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/15032210_10154558444986276_1073184971293450718_n.png?oh=9d885ba118ba92d386642788606944b4&oe=59E6CD99" group-title="LATINO",LA: UFC Network
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5494.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Canal 25 Santiago RD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal25_do.jpg" group-title="LATINO",La: Canal 25 Santiago RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3119.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Señales TV RD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/17098253_1139289872866454_5092982612039623687_n.jpg?oh=88ac8885c3dca2403ad40418cb501f14&oe=59600F1B" group-title="LATINO",La: Señales TV RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3121.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Super Canal 33 RD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/SuperCanal_television_network_logo.png" group-title="LATINO",La: Super Canal 33 RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3122.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Telecanal 16 RD" tvg-logo="https://pbs.twimg.com/profile_images/530364446535725057/0T_KmImI_400x400.jpeg" group-title="LATINO",La: Telecanal 16 RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3123.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Teleislas RD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c0.4.200.200/p200x200/644530_10151199404650412_1381312438_n.jpg?oh=4070ae37dfacfff070bf67be4ca76cd0&oe=59608696" group-title="LATINO",La: Teleislas RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3127.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Teleradio América RD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/11209556_1671783359803054_8549813851296956706_n.png?oh=5f4e7bc50d7dbca2093c5ceebc5ff832&oe=594F5B0F" group-title="LATINO",La: Teleradio América RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3124.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Colorvision RD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c0.26.200.200/p200x200/11133730_1667367470157817_8092438056368267232_n.png?oh=4f092b4c87648db11c37ba7c859d206f&oe=598E91C9" group-title="LATINO",La: Colorvision RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5457.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Capital 21" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/16266157_648262475299018_4757267683615814633_n.jpg?oh=7db44ceae97e3c1a8f1462f5951a407a&oe=59873112" group-title="LATINO",La: Capital 21
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5378.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Telesistema 11 RD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c9.0.162.162/552743_286842634750057_1951718641_n.jpg?oh=15f66defbb7eb65ee124a70b7b9b6d71&oe=595A0582" group-title="LATINO",La: Telesistema 11 RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3130.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Teleuniverso RD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/14212780_1195528550498797_8032264041667057645_n.jpg?oh=4cfc91ffb3587ae06da97542308688c7&oe=598F75C8" group-title="LATINO",La: Teleuniverso RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3125.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Telever Canal 12 RD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/14925665_683306801819465_2893798770098820283_n.jpg?oh=68e7fe5909999564de584ea1d5416d39&oe=5965290D" group-title="LATINO",La: Telever Canal 12 RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3126.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Microvision De La Vega RD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/16999067_1427641650601297_4775931655572016422_n.jpg?oh=4f19dc0b7d58786f97ac7226b3e3d55b&oe=59BF9A3F" group-title="LATINO",La: Microvision De La Vega RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5415.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Tele Vida" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/12936676_10154187520392164_7817048912380932195_n.jpg?oh=a403d02224d034dc04887f01ad97832d&oe=597E0B6D" group-title="LATINO",La: Tele Vida
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5371.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TV Marti" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg/225px-Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg.png" group-title="LATINO",La: TV Marti
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5407.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TVS Satelital" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c14.14.172.172/p200x200/1002594_342947705838940_1234567092_n.png?oh=cd6ad1724aafc61c2fa70586ab73d5e5&oe=598CD1E0" group-title="LATINO",La: TVS Satelital
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5405.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Aristegui Noticias" tvg-logo="https://lh3.googleusercontent.com/_wuBcURvlCQW1ywxWdsfzzl8R_ABRWWxQffKEi6XvdcJ_GK0s_KuX1BVTlvAciuYP6s=w300" group-title="LATINO",La: Aristegui Noticias
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5418.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Colosal" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c106.0.688.688/10009760_724679404230544_37863365_n.jpg?oh=971c1f6af384d78a01a939335de99a60&oe=59CD30F4" group-title="LATINO",La: Colosal
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5433.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: DeporTV" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/15356599_1278476658886598_8188384992571774704_n.png?oh=c6ddb06ed40015ec945bba03566644e1&oe=59C14056" group-title="LATINO",La: DeporTV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5419.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Antena 3 Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antena3_Atresmedia.png/200px-Antena3_Atresmedia.png" group-title="LATINO",La: Antena 3 Internacional
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5461.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/125px-AtreseriesLogo.svg.png" group-title="LATINO",La: Atreseries
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5462.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Canal 38 Carnaval" tvg-logo="https://pbs.twimg.com/profile_images/804699897631010816/PdNo-bft_400x400.jpg" group-title="LATINO",La: Canal 38 Carnaval
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5479.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Canal BHTV" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p160x160/11822344_10153427217135664_3754613267107184320_n.jpg?oh=153122d537d0f972090aa9abef4bccac&oe=59C0FE1F" group-title="LATINO",La: Canal BHTV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5423.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Canal RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/NOTICIRPP.png/225px-NOTICIRPP.png" group-title="LATINO",La: Canal RPP
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5424.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: HISPANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hispantv_logo.jpg/200px-Hispantv_logo.jpg" group-title="LATINO",La: HISPANTV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5482.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: La Otra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/LaOtra-Logo-2014.png/250px-LaOtra-Logo-2014.png" group-title="LATINO",La: La Otra
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5463.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Lateletuya" tvg-logo="https://pbs.twimg.com/profile_images/849389486958161920/SSXoaB0V_400x400.jpg" group-title="LATINO",La: Lateletuya
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5459.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: MVS NOTICIAS" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/d/dc/Logo-mvscomunicaciones.jpg/revision/latest/scale-to-width-down/250?cb=20110607194522" group-title="MEXICO",La: MVS NOTICIAS
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5346.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/150px-Neox.svg.png" group-title="LATINO",La: Neox
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5464.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Oromar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/200px-Oromar_logo.png" group-title="LATINO",La: Oromar TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5470.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Promar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Promar_TV.JPG" group-title="LATINO",La: Promar
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5473.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TopLatino" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c165.132.637.637/s100x100/15822560_10154892145964695_8246474915338496468_n.jpg?oh=6fdc1253eb55e200e1309cff33a094cd&oe=597F2629" group-title="LATINO",La: TopLatino
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5483.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: VTV" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c2.0.200.200/p200x200/14232515_643215359168828_7214556582183576622_n.jpg?oh=a47da2cdf8fc7900ec1f6def52b4ebba&oe=5976F490" group-title="LATINO",La: VTV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5471.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: VTV 8" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/18057131_1455011764549229_1006900891527697559_n.jpg?oh=14e1d30135da7aec7a98f56dc8dbebfe&oe=59BC1635" group-title="LATINO",La: VTV 8
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5475.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: TV 5 Monde" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/12295424_10154456149534408_6789145947486739981_n.jpg?oh=fb3231dea7bd7696f3517fd99b054301&oe=59765BB2" group-title="LATINO",La: TV 5 Monde
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5370.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Banda Ancha TV" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c29.0.100.100/p100x100/12321248_1176017415743606_8781235558429177065_n.jpg?oh=5344ade6ed7b63ddc30c412e91e3a545&oe=59C24C34" group-title="LATINO",La: Banda Ancha TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5396.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: VISION 3000 CANAL 3 RD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEj9mJXikDEVTxCM8iTptzvna8G4SPfMlz5dHIPQPxzFnOCvFAPaKz" group-title="LATINO",La: VISION 3000 CANAL 3 RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5504.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Wobi" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/wobi_br.jpg" group-title="LATINO",La: Wobi
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5816.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemicro Canal 5 DR" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/telemicro_canal5.jpg" group-title="LATINO",LA: Telemicro Canal 5 DR
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5835.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Teleformula" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tele_formula.jpg" group-title="LATINO",La: Teleformula
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5815.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: TBS" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/d/d3/TBS_2015_Transparent.svg/revision/latest/scale-to-width-down/250?cb=20160507101132" group-title="LATINO",LA: TBS
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5813.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: SUPER TV 55 DR" tvg-logo="http://juancardenes.tripod.com/images/LogoSTV55.jpg" group-title="LATINO",La: SUPER TV 55 DR
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5497.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Sundance TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sundance_channel_lam.jpg" group-title="LATINO",La: Sundance TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5812.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: ROMANA TV CANAL 42 RD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/17362019_1776701049312332_5812598244525642825_n.jpg?oh=f6729df465b2600f3bd5e68d07a35296&oe=59AE4078" group-title="LATINO",La: ROMANA TV CANAL 42 RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5500.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Ritmoson" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/1/1d/Rms.jpg/revision/latest/scale-to-width-down/220?cb=20161205193811" group-title="LATINO",La: Ritmoson
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5817.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: PX TV" tvg-logo="" group-title="LATINO",La: PX TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5810.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Paramount Channel" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/1c/Paramount_Television_2013.svg/revision/latest/scale-to-width-down/200?cb=20170516092710" group-title="LATINO",La: Paramount Channel
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5809.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Mundo fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MundoFOX_Latino_2013.png/400px-MundoFOX_Latino_2013.png" group-title="LATINO",La: Mundo fox
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5818.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Golden Premiere 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/300px-Logo_Golden_TV.svg.png" group-title="LATINO",La: Golden Premiere 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5798.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Golden Premiere 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/300px-Logo_Golden_TV.svg.png" group-title="LATINO",La: Golden Premiere 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5799.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: MIA TV RD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c5.0.640.640/13244611_1064927740222324_2080612315557823669_n.jpg?oh=16a26bc24f58548cfe9837d63d19015a&oe=59CA7805" group-title="LATINO",La: MIA TV RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5498.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Max" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/max_lam.jpg" group-title="LATINO",La: Max
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5803.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Max Prime" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/max_prime.jpg" group-title="LATINO",La: Max Prime
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5804.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Max Prime 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/max_prime.jpg" group-title="LATINO",La: Max Prime 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5805.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Max UP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Max-up-canal.png/490px-Max-up-canal.png" group-title="LATINO",La: Max UP
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5806.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: iPe Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="LATINO",La: iPe Peru
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5819.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: DOMINICAN YORK TV" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/dominican-york-tv.jpg" group-title="LATINO",La: DOMINICAN YORK TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5499.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Digital 15 RD" tvg-logo="" group-title="LATINO",La: Digital 15 RD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7696.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Capital TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/capital_tv_uk.jpg" group-title="LATINO",La: Capital TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5820.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: BHTv" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/11822344_10153427217135664_3754613267107184320_n.jpg?oh=2e32f31510c6914fe730a621db1883ea&oe=59C57CF0" group-title="LATINO",La: BHTv
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5821.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: BBC Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_entertainment_lam.jpg" group-title="LATINO",La: BBC Entertainment
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5491.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="LATINO",La: ADN 40
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5824.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Abn Latino" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/3abn_latino.jpg" group-title="LATINO",La: Abn Latino
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5823.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: A plus" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/7d/A%2B-0.png/revision/latest/scale-to-width-down/220?cb=20170326223148" group-title="MEXICO",La: A plus
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5910.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: A1 Sports" tvg-logo="" group-title="LATINO",La: A1 Sports
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5901.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Az Click" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/11146298_900315113366179_5916988743723675518_n.jpg?oh=c8e9781ee70500aa81c44f100afa4a97&oe=595CDA74" group-title="MEXICO",La: Az Click
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3003.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Baby TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv_lam.jpg" group-title="LATINO",La: Baby TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5844.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: CGTN" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p720x720/15740995_1489560107751471_6217657570454684800_n.png?oh=715e587b5096d366e593bf325846cc20&oe=59D18A0C" group-title="LATINO",La: CGTN
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5909.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Cine AR" tvg-logo="" group-title="LATINO",La: Cine AR
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5902.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Distrito Comedia" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkRyKEI7Vx-nch-lEukkb63pr4BZeTaqRAzRtabf3dDuKwHsg3" group-title="MEXICO",La: Distrito Comedia
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Life HD" tvg-logo="https://pbs.twimg.com/profile_images/661137418460884992/Jsr-YcNd_400x400.png" group-title="LATINO",La: Fox Life HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6055.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Foro TV" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/7/74/Foro_TV_2016_logo.png/revision/latest/scale-to-width-down/300?cb=20160822213630" group-title="MEXICO",La: Foro TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5460.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Fox Comedy" tvg-logo="https://lh3.googleusercontent.com/P1-JRxEO-5_FMHX-xMZ4dYajDX3uuejaQ3UU4iqBOwMw6FVEJ3-DRzwzPr9y2LSXb8_7gl0=s113" group-title="LATINO",La: Fox Comedy
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5842.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: FOX Family" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/3/3d/Screen_Shot_2016-01-23_at_10.06.54_AM.png/revision/latest/scale-to-width-down/185?cb=20160123154059" group-title="LATINO",La: FOX Family
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5841.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Teleritmo" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_%282015-%29.png/revision/latest/scale-to-width-down/200?cb=20151111060623" group-title="MEXICO",La: Teleritmo
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5350.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Hola TV" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/6/65/Hola_tv_logo.png/revision/latest/scale-to-width-down/220?cb=20151122155608" group-title="LATINO",La: Hola TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5801.ts
+#EXTINF:-1 tvg-id="" tvg-name="La: Latina TV" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/14716326_1390281717681008_7696505963862848165_n.png?oh=7796ff40ac03e383f62f10042c79b3b5&oe=5A095937" group-title="LATINO",La: Latina TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5900.ts
+#EXTINF:-1 tvg-id="us.ESPN HDTV" tvg-name="US: ESPN 720p" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/1b/ESPN.jpg/revision/latest/scale-to-width-down/200?cb=20160113004635" group-title="SPORTS (USA/CA)",US: ESPN 720p
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/7508.ts
+#EXTINF:-1 tvg-id="us.ESPN HDTV" tvg-name="US: ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/450px-ESPN_wordmark.svg.png" group-title="SPORTS (USA/CA)",US: ESPN HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1401.ts
+#EXTINF:-1 tvg-id="us.ESPN2 HDTV" tvg-name="US: ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/450px-ESPN2_logo.svg.png" group-title="SPORTS (USA/CA)",US: ESPN 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1403.ts
+#EXTINF:-1 tvg-id="us.ESPN News HDTV" tvg-name="US: ESPN News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/450px-ESPN_wordmark.svg.png" group-title="SPORTS (USA/CA)",US: ESPN News HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1402.ts
+#EXTINF:-1 tvg-id="us.ESPN Classic" tvg-name="CA: ESPN Classic" tvg-logo="https://pbs.twimg.com/profile_images/2630075177/cb58ea9a45c4f409cddd4f8dff518656_400x400.jpeg" group-title="SPORTS (USA/CA)",CA: ESPN Classic
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3697.ts
+#EXTINF:-1 tvg-id="us.ESPNU HDTV" tvg-name="US: ESPN U HD" tvg-logo="http://txmgv24xack1i8jje2nayxpr.wpengine.netdna-cdn.com/us/files/2014/09/eu-590x400.png" group-title="SPORTS (USA/CA)",US: ESPN U HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3735.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN Bases Loaded HD" tvg-logo="https://www.mctvohio.com/uploads/espn-show-logo-bases-loaded.png" group-title="SPORTS (USA/CA)",US: ESPN Bases Loaded HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5485.ts
+#EXTINF:-1 tvg-id="us.Fox Sports 1 HDTV" tvg-name="US: Fox Sports 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/664177630720081920/GRftjRV6_400x400.jpg" group-title="SPORTS (USA/CA)",US: Fox Sports 1 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5505.ts
+#EXTINF:-1 tvg-id="us.Fox Sports 2 HDTV" tvg-name="US: Fox Sports 2 HD" tvg-logo="https://18839-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2016/03/FS2-live-stream.jpg" group-title="SPORTS (USA/CA)",US: Fox Sports 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5506.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Soccer Plus HD" tvg-logo="http://hd-report.com/wp-content/uploads/2010/06/fox-soccer-plus.jpg" group-title="SPORTS (USA/CA)",US: Fox Soccer Plus HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3665.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Prime Ticket 1 HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ea/Fox_sports_primeticket_2012.png/revision/latest/scale-to-width-down/200?cb=20121115230936" group-title="SPORTS (USA/CA)",US: Fox Sports Prime Ticket 1 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6030.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Arizona HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Fox_Sports_Arizona_2012_logo.png" group-title="SPORTS (USA/CA)",US: Fox Sports Arizona HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5944.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Carolina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Fox_Sports_Carolinas_2012_logo.png" group-title="SPORTS (USA/CA)",US: Fox Sports Carolina HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6039.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports College Central HD" tvg-logo="https://static1.squarespace.com/static/52b47d11e4b06a22b6c38405/t/54661cbde4b00c5eabbe291c/1415978173928/FCSC_Logo_2.jpg" group-title="SPORTS (USA/CA)",US: Fox Sports College Central HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5939.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Cincinnati HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Fox_Sports_Ohio_2012_logo.png/200px-Fox_Sports_Ohio_2012_logo.png" group-title="SPORTS (USA/CA)",US: Fox Sports Cincinnati HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6027.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Detroit HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/5/50/Fox_sports_detroit_hd_2012.png/revision/latest/scale-to-width-down/185?cb=20131225040153" group-title="SPORTS (USA/CA)",US: Fox Sports Detroit HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6037.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Fl North HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/0/09/Fox_sports_florida_hd_2012.png/revision/latest/scale-to-width-down/185?cb=20141006210400" group-title="SPORTS (USA/CA)",US: Fox Sports Fl North HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6033.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Florida HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/0/09/Fox_sports_florida_hd_2012.png/revision/latest/scale-to-width-down/185?cb=20141006210400" group-title="SPORTS (USA/CA)",US: Fox Sports Florida HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5943.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Floridia HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/0/09/Fox_sports_florida_hd_2012.png/revision/latest/scale-to-width-down/185?cb=20141006210400" group-title="SPORTS (USA/CA)",US: Fox Sports Floridia HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6012.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/200?cb=20130319144854" group-title="SPORTS (USA/CA)",US: Fox Sports HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6013.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports HD HOU/TX/LA" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/e2/Qskib3dqsaj29vpzn316.jpeg/revision/latest?cb=20121007171247" group-title="SPORTS (USA/CA)",US: Fox Sports HD HOU/TX/LA
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6014.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Indiana arb HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/9d/Fox_sports_indiana_hd_2012.png/revision/latest/scale-to-width-down/185?cb=20141006210718" group-title="SPORTS (USA/CA)",US: Fox Sports Indiana arb HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6019.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Inidana HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/9d/Fox_sports_indiana_hd_2012.png/revision/latest/scale-to-width-down/185?cb=20141006210718" group-title="SPORTS (USA/CA)",US: Fox Sports Inidana HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6008.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Midwest HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/77/Fox_sports_midwest_hd_2012.png/revision/latest/scale-to-width-down/185?cb=20141006210004" group-title="SPORTS (USA/CA)",US: Fox Sports Midwest HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6031.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Net HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/5f/Fox_Sports_Northwest_HD_%282008%29.png/revision/latest?cb=20110409002911" group-title="SPORTS (USA/CA)",US: Fox Sports Net HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6028.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports North HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDM2AVMAWxxE45foPFtVcZHDuDw5IFQ_F09cr-hd59NIyJgpW" group-title="SPORTS (USA/CA)",US: Fox Sports North HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5942.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Ohio" tvg-logo="http://www.hiramterriers.com/sports/wbkb/2014-15/photos/Misc./FSO.jpg?max_width=600&max_height=600" group-title="SPORTS (USA/CA)",US: Fox Sports Ohio
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6016.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Ohio HD" tvg-logo="http://www.hiramterriers.com/sports/wbkb/2014-15/photos/Misc./FSO.jpg?max_width=600&max_height=600" group-title="SPORTS (USA/CA)",US: Fox Sports Ohio HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6022.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Ohio HD zlbj" tvg-logo="http://www.hiramterriers.com/sports/wbkb/2014-15/photos/Misc./FSO.jpg?max_width=600&max_height=600" group-title="SPORTS (USA/CA)",US: Fox Sports Ohio HD zlbj
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6020.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Ohio zl HD" tvg-logo="http://www.hiramterriers.com/sports/wbkb/2014-15/photos/Misc./FSO.jpg?max_width=600&max_height=600" group-title="SPORTS (USA/CA)",US: Fox Sports Ohio zl HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6017.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Prime Ticket HD Clippers" tvg-logo="http://i.cdn.turner.com/nba/nba/teamsites/images/legacy/clippers/prime-ticket-300-logo_0.jpg" group-title="SPORTS (USA/CA)",US: Fox Sports Prime Ticket HD Clippers
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6009.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Sand Diego HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Fox_Sports_San_Diego_2012_logo.png" group-title="SPORTS (USA/CA)",US: Fox Sports Sand Diego HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6034.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports SE HPG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Fox_Sports_Southeast_2015_logo.jpeg" group-title="SPORTS (USA/CA)",US: Fox Sports SE HPG HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6025.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports SE wis HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Fox_Sports_Southeast_2015_logo.jpeg" group-title="SPORTS (USA/CA)",US: Fox Sports SE wis HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6029.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports South Georgia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Fox_Sports_South_logo.png" group-title="SPORTS (USA/CA)",US: Fox Sports South Georgia HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6024.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports South HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Fox_Sports_South_logo.png" group-title="SPORTS (USA/CA)",US: Fox Sports South HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5941.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Southeast HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Fox_Sports_Southeast_2015_logo.jpeg" group-title="SPORTS (USA/CA)",US: Fox Sports Southeast HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6038.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Southeast Hornets HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Fox_Sports_Southeast_2015_logo.jpeg" group-title="SPORTS (USA/CA)",US: Fox Sports Southeast Hornets HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6026.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Southwest 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Fox_Sports_Southwest_2012_Logo.png" group-title="SPORTS (USA/CA)",US: Fox Sports Southwest 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6018.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Southwest HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Fox_Sports_Southwest_2012_Logo.png" group-title="SPORTS (USA/CA)",US: Fox Sports Southwest HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5940.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Sun HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/Sun_Sports_logo_2012.png" group-title="SPORTS (USA/CA)",US: Fox Sports Sun HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5945.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports SW HD zlb" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/b/b9/Fox_sports_southwest_hd_2012.png/revision/latest/scale-to-width-down/185?cb=20161201021323" group-title="SPORTS (USA/CA)",US: Fox Sports SW HD zlb
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6011.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports SW Houston HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Fox_Sports_Southwest_2012_Logo.png" group-title="SPORTS (USA/CA)",US: Fox Sports SW Houston HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6036.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports SW Rangers HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Fox_Sports_Southwest_2012_Logo.png" group-title="SPORTS (USA/CA)",US: Fox Sports SW Rangers HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6035.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Tennessee HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/af/Fox_sports_tennessee_hd_2012.png/revision/latest/scale-to-width-down/185?cb=20161201020256" group-title="SPORTS (USA/CA)",US: Fox Sports Tennessee HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6032.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Westf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcaRSK_FZ5l6ozRkNMQq9rj3uNugXszgXgifDZ-KUil5MixpLB" group-title="SPORTS (USA/CA)",US: Fox Sports Westf
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6015.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Wisconsin HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a4/Fox_sports_wisconsin_hd_2012.png/revision/latest/scale-to-width-down/185?cb=20161201040135" group-title="SPORTS (USA/CA)",US: Fox Sports Wisconsin HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6040.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports WSAD HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/200?cb=20130319144854" group-title="SPORTS (USA/CA)",US: Fox Sports WSAD HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6023.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Yes Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/YES_Network_logo.png/400px-YES_Network_logo.png" group-title="SPORTS (USA/CA)",US: Fox Sports Yes Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6043.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox SW Dallas HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/b/b9/Fox_sports_southwest_hd_2012.png/revision/latest/scale-to-width-down/185?cb=20161201021323" group-title="SPORTS (USA/CA)",US: Fox SW Dallas HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6042.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox SW Mavericks HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/b/b9/Fox_sports_southwest_hd_2012.png/revision/latest/scale-to-width-down/185?cb=20161201021323" group-title="SPORTS (USA/CA)",US: Fox SW Mavericks HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6041.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox College Sports Atlantic HD" tvg-logo="https://wtcks.com/assets/images/NoCrop_136x136/6b18af77b22d4e7e9610a551de2c20e4.jpg" group-title="SPORTS (USA/CA)",US: Fox College Sports Atlantic HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6010.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox College Sports Pacific HD" tvg-logo="http://boltfiber.com/wp-content/uploads/2016/03/FCSPac.jpg" group-title="SPORTS (USA/CA)",US: Fox College Sports Pacific HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6021.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Suns Sports Miami HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/Sun_Sports_logo_2012.png" group-title="SPORTS (USA/CA)",US: Suns Sports Miami HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6007.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/FSPlus_New2011.jpg" group-title="SPORTS (USA/CA)",US: Fox Plus HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6075.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN Bay Area Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/NBC_Sports_Bay_Area.png" group-title="SPORTS (USA/CA)",US: CSN Bay Area Plus HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6053.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN BayArea HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/NBC_Sports_Bay_Area.png" group-title="SPORTS (USA/CA)",US: CSN BayArea HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6044.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN California   HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/NBC_Sports_California.png" group-title="SPORTS (USA/CA)",US: CSN California   HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6045.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN California HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/NBC_Sports_California.png" group-title="SPORTS (USA/CA)",US: CSN California HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6051.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN Chicago Plus 2 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/fe/CSN_Chicago_2012.png/revision/latest/scale-to-width-down/200?cb=20140220024154" group-title="SPORTS (USA/CA)",US: CSN Chicago Plus 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6048.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN Chicago Plus HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/fe/CSN_Chicago_2012.png/revision/latest/scale-to-width-down/200?cb=20140220024154" group-title="SPORTS (USA/CA)",US: CSN Chicago Plus HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6047.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN Mid Atlantic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/CSNMidAtlantic.png" group-title="SPORTS (USA/CA)",US: CSN Mid Atlantic HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6054.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN New England HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/0/0f/CSN_New_England_2012.png/revision/latest/scale-to-width-down/200?cb=20140220024635" group-title="SPORTS (USA/CA)",US: CSN New England HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6049.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN Northwest Alternate HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/CSNNorthwest.png" group-title="SPORTS (USA/CA)",US: CSN Northwest Alternate HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6046.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN Northwest HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/CSNNorthwest.png" group-title="SPORTS (USA/CA)",US: CSN Northwest HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6052.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN Philly HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CSNPhiladelphia.png" group-title="SPORTS (USA/CA)",US: CSN Philly HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6050.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NESN HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/e9/NECN_logo.png/revision/latest/scale-to-width-down/200?cb=20150804175527" group-title="SPORTS (USA/CA)",US: NESN HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5458.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NESN Plus HD" tvg-logo="https://nesncom.files.wordpress.com/2014/01/nesnplus-story-logo.png" group-title="SPORTS (USA/CA)",US: NESN Plus HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5436.ts
+#EXTINF:-1 tvg-id="us.MLB Network HDTV" tvg-name="US: MLB Network HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/d/dd/MLB_Network.svg/revision/latest/scale-to-width-down/150?cb=20100629135103" group-title="SPORTS (USA/CA)",US: MLB Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1416.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Redzone HD" tvg-logo="http://www.eatel.com/assets/img/uploads/_737xAUTO_crop_center-center/NFL-Red-Zone.jpg" group-title="SPORTS (USA/CA)",US: NFL Redzone HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3669.ts
+#EXTINF:-1 tvg-id="us.The NFL Network HDTV" tvg-name="US: NFL Network HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p100x100/12274221_10154036163004171_6892010803070327645_n.png?oh=64c72bb8def0eac897be817ffab2e9b5&oe=59542E01" group-title="SPORTS (USA/CA)",US: NFL Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1422.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL NOW HD" tvg-logo="https://imagecomposer.nfl.com/?f=png&w=400&l=http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png" group-title="SPORTS (USA/CA)",US: NFL NOW HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5311.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Now 2 HD" tvg-logo="https://imagecomposer.nfl.com/?f=png&w=400&l=http://static.nfl.com/static/content/static/img/ctv/anchor-images/nfl-now.png" group-title="SPORTS (USA/CA)",US: NFL Now 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6073.ts
+#EXTINF:-1 tvg-id="us.NHL Network US HDTV" tvg-name="US: NHL Network HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/a/ae/Md_nhl_logo.jpg/revision/latest/scale-to-width-down/250?cb=20150903001526" group-title="SPORTS (USA/CA)",US: NHL Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1424.ts
+#EXTINF:-1 tvg-id="us.SEC Network HDTV" tvg-name="US: Sec Network HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/8/89/SEC-Logo.jpg/revision/latest/scale-to-width-down/185?cb=20140822002207" group-title="SPORTS (USA/CA)",US: Sec Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1472.ts
+#EXTINF:-1 tvg-id="us.The Longhorn Network" tvg-name="US: Longhorn Network HD" tvg-logo="http://espnmediazone.com/us/files/2011/08/Longhorn_Network.jpg" group-title="SPORTS (USA/CA)",US: Longhorn Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5310.ts
+#EXTINF:-1 tvg-id="us.NBA TV HDTV" tvg-name="US: NBA TV HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/e6/JmKIaUdP_400x400.png/revision/latest/scale-to-width-down/200?cb=20150910163314" group-title="SPORTS (USA/CA)",US: NBA TV HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1470.ts
+#EXTINF:-1 tvg-id="ca.NBA TV Canada" tvg-name="CA: NBA TV" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/e6/JmKIaUdP_400x400.png/revision/latest?cb=20150910163314" group-title="SPORTS (USA/CA)",CA: NBA TV
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3724.ts
+#EXTINF:-1 tvg-id="us.WWE" tvg-name="US: WWE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/WWENetworkLogo.png/400px-WWENetworkLogo.png" group-title="SPORTS (USA/CA)",US: WWE HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3653.ts
+#EXTINF:-1 tvg-id="ca.TSNHD" tvg-name="CA: TSN HD 1" tvg-logo="https://pbs.twimg.com/profile_images/819208300650754048/6MStq2EB.jpg" group-title="SPORTS (USA/CA)",CA: TSN HD 1
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1279.ts
+#EXTINF:-1 tvg-id="ca.TSN2HD" tvg-name="CA: TSN HD 2" tvg-logo="https://pbs.twimg.com/profile_images/819208300650754048/6MStq2EB.jpg" group-title="SPORTS (USA/CA)",CA: TSN HD 2
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1280.ts
+#EXTINF:-1 tvg-id="ca.TSN3HD" tvg-name="CA: TSN HD 3" tvg-logo="https://pbs.twimg.com/profile_images/819208300650754048/6MStq2EB.jpg" group-title="SPORTS (USA/CA)",CA: TSN HD 3
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1281.ts
+#EXTINF:-1 tvg-id="ca.TSN4HD" tvg-name="CA: TSN HD 4" tvg-logo="https://pbs.twimg.com/profile_images/819208300650754048/6MStq2EB.jpg" group-title="SPORTS (USA/CA)",CA: TSN HD 4
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1282.ts
+#EXTINF:-1 tvg-id="ca.TSN5HD" tvg-name="CA: TSN HD 5" tvg-logo="https://pbs.twimg.com/profile_images/819208300650754048/6MStq2EB.jpg" group-title="SPORTS (USA/CA)",CA: TSN HD 5
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1283.ts
+#EXTINF:-1 tvg-id="CA: SPORTS NET 360 HD" tvg-name="CA: SPORTS NET 360 HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS (USA/CA)",CA: SPORTS NET 360 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3652.ts
+#EXTINF:-1 tvg-id="ca.Rogers Sportsnet One HDTV" tvg-name="CA: SPORTS NET ONE HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS (USA/CA)",CA: SPORTS NET ONE HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3650.ts
+#EXTINF:-1 tvg-id="CA: SPORTS NET ONE HD" tvg-name="CA: SPORTS NET CENTRAL HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS (USA/CA)",CA: SPORTS NET CENTRAL HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1431.ts
+#EXTINF:-1 tvg-id="ca.Rogers Sportsnet West HDTV" tvg-name="CA: SPORTS NET WEST HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS (USA/CA)",CA: SPORTS NET WEST HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3647.ts
+#EXTINF:-1 tvg-id="ca.Rogers SportsNet World HDTV" tvg-name="CA: SPORTS NET WORLD HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS (USA/CA)",CA: SPORTS NET WORLD HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3646.ts
+#EXTINF:-1 tvg-id="ca.Rogers Sportsnet Pacific HDTV" tvg-name="CA: SPORTS NET PACIFIC HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS (USA/CA)",CA: SPORTS NET PACIFIC HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3648.ts
+#EXTINF:-1 tvg-id="ca.Rogers Sportsnet Ontario HDTV" tvg-name="CA: SPORTS NET ONTARIO HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS (USA/CA)",CA: SPORTS NET ONTARIO HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3649.ts
+#EXTINF:-1 tvg-id="us.Tennis Channel HDTV" tvg-name="US: Tennis HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Tennis_Channel.svg/revision/latest/scale-to-width-down/165?cb=20150207234929" group-title="SPORTS (USA/CA)",US: Tennis HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1862.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Tennis 2 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Tennis_Channel.svg/revision/latest/scale-to-width-down/165?cb=20150207234929" group-title="SPORTS (USA/CA)",US: Tennis 2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6092.ts
+#EXTINF:-1 tvg-id="" tvg-name="US:Tennis 3 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Tennis_Channel.svg/revision/latest/scale-to-width-down/165?cb=20150207234929" group-title="SPORTS (USA/CA)",US:Tennis 3 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6093.ts
+#EXTINF:-1 tvg-id="" tvg-name="US:Tennis 4 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Tennis_Channel.svg/revision/latest/scale-to-width-down/165?cb=20150207234929" group-title="SPORTS (USA/CA)",US:Tennis 4 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6094.ts
+#EXTINF:-1 tvg-id="us.NBC Sports Network HDTV" tvg-name="US: NBC SN HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/c2.0.200.200/p200x200/300390_244262705629089_933405361_n.jpg?oh=ac7d8e3f52cf9b8d9ed4f436562d577c&oe=594FB40B" group-title="SPORTS (USA/CA)",US: NBC SN HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1421.ts
+#EXTINF:-1 tvg-id="us.The Golf Channel HDTV" tvg-name="US: Golf Channel HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/96/Golf_Channel_2014.svg/revision/latest/scale-to-width-down/300?cb=20131220201925" group-title="SPORTS (USA/CA)",US: Golf Channel HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1408.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: World Fishing Network" tvg-logo="http://www.htcinc.net/media/images/world_fishing_network.png" group-title="SPORTS (USA/CA)",CA: World Fishing Network
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5443.ts
+#EXTINF:-1 tvg-id="us.The Sportsman Channel HDTV" tvg-name="US: Sportsman HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/a3/SPMN-main.gif/revision/latest?cb=20130827194502" group-title="MOVIES PREMIUM",US: Sportsman HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5885.ts
+#EXTINF:-1 tvg-id="us.beIN Sports HDTV (English)" tvg-name="US: Bein Sports HD" tvg-logo="http://3.bp.blogspot.com/-UxtHtlW988M/U4-PyVkqW4I/AAAAAAAANf8/dt8upSBWdak/s1600/bein+sports.jpg" group-title="SPORTS (USA/CA)",US: Bein Sports HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1450.ts
+#EXTINF:-1 tvg-id="us.CBS Sports Network HDTV" tvg-name="US: CBS Sports Network HD" tvg-logo="https://pbs.twimg.com/profile_images/702335194813095937/ESUB_9f__400x400.jpg" group-title="SPORTS (USA/CA)",US: CBS Sports Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/3681.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: BTN HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Big_Ten_Network.png/revision/latest/scale-to-width-down/185?cb=20110801012417" group-title="SPORTS (USA/CA)",US: BTN HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6076.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: BTN2 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Big_Ten_Network.png/revision/latest/scale-to-width-down/185?cb=20110801012417" group-title="SPORTS (USA/CA)",US: BTN2 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6077.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: BTN3 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Big_Ten_Network.png/revision/latest/scale-to-width-down/185?cb=20110801012417" group-title="SPORTS (USA/CA)",US: BTN3 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6078.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: BTN4 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Big_Ten_Network.png/revision/latest/scale-to-width-down/185?cb=20110801012417" group-title="SPORTS (USA/CA)",US: BTN4 HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/6079.ts
+#EXTINF:-1 tvg-id="us.PAC-12 Bay Area" tvg-name="US: PAC-12 Bay Area" tvg-logo="http://media.pennlive.com/fanbox/photo/pac-12-logo-8ead731544290fda.png" group-title="SPORTS (USA/CA)",US: PAC-12 Bay Area
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5256.ts
+#EXTINF:-1 tvg-id="us.PAC-12 Network" tvg-name="US: PAC- National" tvg-logo="http://media.pennlive.com/fanbox/photo/pac-12-logo-8ead731544290fda.png" group-title="SPORTS (USA/CA)",US: PAC- National
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5258.ts
+#EXTINF:-1 tvg-id="us.PAC-12 Mountain" tvg-name="US: PAC-12 Moutain" tvg-logo="http://media.pennlive.com/fanbox/photo/pac-12-logo-8ead731544290fda.png" group-title="SPORTS (USA/CA)",US: PAC-12 Moutain
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5254.ts
+#EXTINF:-1 tvg-id="us.PAC-12 Los Angeles" tvg-name="US: PAC-12 Los Angeles" tvg-logo="http://media.pennlive.com/fanbox/photo/pac-12-logo-8ead731544290fda.png" group-title="SPORTS (USA/CA)",US: PAC-12 Los Angeles
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5255.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PAC-12 Arizona" tvg-logo="http://media.pennlive.com/fanbox/photo/pac-12-logo-8ead731544290fda.png" group-title="SPORTS (USA/CA)",US: PAC-12 Arizona
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5257.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PAC-12 Oregon" tvg-logo="http://media.pennlive.com/fanbox/photo/pac-12-logo-8ead731544290fda.png" group-title="SPORTS (USA/CA)",US: PAC-12 Oregon
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5253.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PAC-12 Washington" tvg-logo="http://static.pac-12.com.s3.amazonaws.com/images/logos/pac-12-logo.png" group-title="SPORTS (USA/CA)",US: PAC-12 Washington
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5252.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fight network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLqdUjGu3yMfXgpkokx2Pd_ufat5mmL2Jtu6g3eWJYONBHarX" group-title="SPORTS (USA/CA)",US: Fight network
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/2958.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Willow Cricket HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="SPORTS (USA/CA)",US: Willow Cricket HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/1445.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Eleven Sports Network HD" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2017/03/eleven-sports-network.png" group-title="SPORTS (USA/CA)",US: Eleven Sports Network HD
+http://nitrotv.for-the.biz:25461/live/EAS11/1111/5886.ts
