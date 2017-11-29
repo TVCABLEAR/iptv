@@ -7,7 +7,7 @@ https://github.com/TVCABLEAR/
 https://github.com/TVCABLEAR/
 
 
-#EXTINF:0,-DEPORTES-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES",<<< DEPORTES >>>
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/21gsJZo.png" group-title="DEPORTES",ESPN HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/Stream(01)/index.m3u8
@@ -116,7 +116,9 @@ http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/380px-Pac-12_logo.svg.png" group-title="DEPORTES",Pac 12 Washington
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 
-#EXTINF:0,-INFANTILES-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES",<<< FIN >>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="INFANTILES",<<< INFANTILES >>>
 
 #EXTINF:-1 tvg-logo="http://cdn.kidscreen.com/wp/wp-content/uploads/2011/02/BabyTV_Logo_TM-300x215.png" group-title="INFANTILES", Baby TV HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BABYTV)/Stream(01)/index.m3u8
@@ -157,7 +159,9 @@ http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_bd953c955fc4422795fa303f2c6bf548~mv2.png/v1/fill/w_273,h_244,al_c,lg_1,usm_0.33_1.00_0.00/76b12f_bd953c955fc4422795fa303f2c6bf548~mv2.png" group-title="INFANTILES",Peque Tv
 http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
 
-#EXTINF:0,-ENTRETENIMIENTO-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="INFANTILES",<<< F I N >>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="ENTRETENIMIENTO",<<< ENTRETENIMIENTO >>>
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/_YkZZPo1aKZU/TNq6hsVnwII/AAAAAAAAOwI/LXRIapzZvlc/s400/isat-2010.png" group-title="ENTRETENIMIENTO",ISAT HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/index.m3u8
@@ -316,7 +320,10 @@ http://flus0.sanpedrowifi.com/live/cuatro.SD.IRD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://hogar.movistar.cl/imagenes/mi_movistar.png" group-title="ENTRETENIMIENTO",Telecinco
 http://flus0.sanpedrowifi.com/live/telecinco.SD.IRD/mono.m3u8
 
-#EXTINF:0,-MODA-
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="ENTRETENIMIENTO",<<< FIN DE LISTA >>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="MODA",<<< MODA >>>
 
 #EXTINF:-1 tvg-logo="http://www.tafimedia.com/tafiimage/70.png" group-title="MODA",World Fashion
 http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
@@ -331,7 +338,9 @@ http://cdn-11.bonus-tv.ru/publictv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.demiurg.tv/upload/iblock/d5e/10653.jpg" group-title="MODA",Class Tv Moda
 http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
 
-#EXTINF:0,-CULTURA-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="MODA",<<< FIN DE LISTA >>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CULTURA",<<< CULTURA >>>
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Animal_Planet-logo-4559600D22-seeklogo.com.png" group-title="CULTURA", Animal Planet USA
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
@@ -350,8 +359,9 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-logo="https://cache.tikilive.com/public/files/shows/146/146728/43867-800x450-FFFFFF.jpg" group-title="CULTURA", Silence TV
 http://109.236.85.100:8081/sipTV/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CULTURA",<<< FIN DE LISTA >>>
 
-#EXTINF:0,-NOTICIAS-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOTICIAS",<<< NOTICIAS >>>
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1178_7_9658.png" group-title="NOTICIAS",24 Horas
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
@@ -401,7 +411,9 @@ http://live.cgtn.com/cctv-e.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlineservisyazilimi.com/wp-content/uploads/2015/11/20110201141238CNN_T%C3%BCrk_logosu.png" group-title="NOTICIAS",CNN Turkia
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 
-#EXTINF:0,-LATINOS-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOTICIAS",<<< F I N >>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LATINOS",<<< LATINOS >>>
 
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.imgur.com/5SVzDLM.jpg",Televisiete
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/playlist.m3u8
@@ -450,7 +462,9 @@ http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="http://www.sertv.gob.pa/images/NewWeb/logos/logo-sertv-portal.png",Ser Tv
 http://162.213.123.181:1935/sertv/live/playlist.m3u8
 
-#EXTINF:0,-CHILE-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LATINOS",<<< FIN >>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CHILE",<<< CHILE >>>
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN HD 
 http://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?iptvgratis?chile.m3u8
@@ -499,7 +513,9 @@ http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.TVCHILE.png.a134e9433d393cad2f30517439400be9.png" group-title="CHILE",Tv Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-#EXTINF:0,-ARGENTINA-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CHILE",<<< FIN >>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="ARGENTINA",<<< ARGENTINA >>>
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/America_2_logo.png/100px-America_2_logo.png" group-title="ARGENTINA",America 
 http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/playlist.m3u8?sense=true
@@ -554,7 +570,9 @@ http://painel.serveron.com.br:1935/8166/8166/live.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="ARGENTINA",Litus Tv
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:0,-COLOMBIA-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="ARGENTINA",<<< FIN >>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="COLOMBIA",<<< COLOMBIA >>>
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vPSv8o3.png" group-title="COLOMBIA",Caracol
 http://bit.ly/Caracol-TvNinjaxD?Colombia.m3u8
@@ -597,7 +615,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?iptvgratis?chile.
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png",Cali Tv 
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:0,-PERU-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="COLOMBIA",<<< FIN >>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PERU",<<< PERU >>>
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="PERU", America HD
 http://fcnttt.heliohost.org/hmac.m3u8?canal=atv
@@ -640,7 +660,9 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://megatvarequipa.com/wp-content/uploads/2014/03/FOOTERLOGO.jpg" group-title="PERU",Mega tv Arequipa
 http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
 
-#EXTINF:0,-BOLIVIA-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PERU",<<< FIN >>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="BOLIVIA",<<< BOLIVIA >>>
 
 #EXTINF:-1 tvg-logo="http://es.boliviayp.com/img/bo/e/1479904622-35-bolivia-tv-canal-7.png" group-title="BOLIVIA", Bolivia TV 
 http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
@@ -653,7 +675,9 @@ http://192.99.46.56:1935/patbolivia/patsantacruz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/604374953606172672/pOVosTru.jpg" group-title="BOLIVIA",Radio Tv Popular
 http://fourcast.tv/hls/800.m3u8
 
-#EXTINF:0,-VENEZUELA-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="BOLIVIA",<<< FIN >>>
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/200px-TeleSUR-Logo.svg.png" group-title="VENEZUELA",TeleSUR 
 https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
@@ -670,7 +694,7 @@ http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_06/medium.575b60c674791_LogoTELET1.png.0c556fe72e39b46a6431967a83e1ea99.png" group-title="VENEZUELA",La Tele Tuya
 http://enc-fwt.lorini.net/telet/telet/index.m3u8
 
-#EXTINF:0,-ECUADOR-
+
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-uzHQrnStVzc/VmhNPka-VNI/AAAAAAAAB40/tQkabnOziTs/s1600/tumblr_mkjpnr3ta71s9xl00o1_500.jpg" group-title="ECUADOR",ecuador Tv
 http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
@@ -686,7 +710,7 @@ http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8
 
 
-#EXTINF:0,-URUGUAY-
+
 
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ef/Unicanal-logo.png/revision/latest?cb=20140115100336" group-title="URUGUAY",Unicanal
 http://strm.unicanal.com.py/live/unicanal.m3u8
@@ -697,14 +721,14 @@ http://q.gs/9830047/onceuuruguaytodokodim3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://3l1iad18k2t92kvydgixead1-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/logo-latele-2016-2.png" group-title="URUGUAY",Tele Doce
 http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8
 
-#EXTINF:0,-PARAGUAY-
+
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/9a/Telefuturo_py.png/revision/latest?cb=20120513205927" group-title="PARAGUAY",Telefuturo
 http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/9a/Telefuturo_py.png/revision/latest?cb=20120513205927" group-title="PARAGUAY",Telefuturo
 http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
 
-#EXTINF:0,-MEXICO-
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO",ADN 40
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
@@ -739,7 +763,7 @@ http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/playlist.m3u8?iptvgrat
 #EXTINF:-1 group-title="MEXICO" tvg-logo="http://www.tlaxcalatelevision.tv/images/stock/img-varios/tlaxcala-television.png",Tlaxcala Television
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
-#EXTINF:0,-ESPAÑA-
+
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-r0ZSfApmBPI/VSiWrkaNhmI/AAAAAAAAAmE/HNmaaERRznU/s320/Antena%2B3.png" group-title="ESPAÑA",Antena 3 Internacional
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?iptvgratis?chile.m3u8
@@ -752,7 +776,7 @@ http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?ip
 #EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/6fb358fa640c07279bfdad56844ba8ab" group-title="ESPAÑA",Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
 
-#EXTINF:0,-MUSICA-
+
 
 #EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/recursos/co//gc/imagenes/1471984441879-Imagen.png" group-title="MUSICA", HTV
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HTV)/Stream(01)/index.m3u8
@@ -968,7 +992,7 @@ https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%2
 #EXTINF:0 tvg-logo="http://www.kodinerds.net/index.php/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="Videomix" ,Megamix Central
 https://ia801508.us.archive.org/27/items/rapido_201511/PitchPerfection-SongsMashupByMegamixCentral.mp4
 
-#EXTINF:0,-RECITALES-
+
 
 #EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",Coldplay en Concierto
 https://ia601509.us.archive.org/18/items/Fredniza17concert1/fredniza17.mp4
@@ -1005,7 +1029,7 @@ http://209.126.108.87/VIDEOS%20MUSICALES/ROCK/Scorpions%20-%20Still%20Loving%20Y
 #EXTINF:0 tvg-logo="https://www.radioglobohonduras.com/img-mic.png" group-title="Recitales",foreigner waiting for girl
 http://209.126.108.87/VIDEOS%20MUSICALES/ROCK/Foreigner%20%20Waiting%20For%20A%20Girl%20Like%20You%20@%20Live%20720p%20HD.mp4
 
-#EXTINF:0,-RADIOTV-
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fZffdxL.jpg" group-title="RADIOTV",Carnaval Tv HD
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist_w684197806_b1428000.m3u8?iptvgratis?chile.m3u8
