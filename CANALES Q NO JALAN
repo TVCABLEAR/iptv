@@ -1,0 +1,738 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",PREMIUM Latin Web
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",HD TELEMUNDO MIAMI HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16993.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",HD Telemundo Los Angeles HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16992.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",HD Telemundo NEW YORK USA 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/16990.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",USA:TELEMUNDO 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11563.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",HBO (FULL HD) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17057.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",HBO 2 FULL HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17058.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",HBO PLUS FULL HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17059.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",HBO HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15211.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",HBO 2 HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15199.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",HBO SIGNATURE HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15210.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",Latino {} HBO West HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11244.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",Latino {} HBO East HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11249.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",Latino {} HBO Family HD 1080P 
+ttp://tv.latintvweb.com:8000/live/Manuel/Manuel/11248.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",Latino {} HBO Plus HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11247.ts 
+#EXTINF:-1,#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb",Latino {} HBO Plus 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11246.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} HBO SIGNATURE HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11245.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", A&E(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14860.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", AXN(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14859.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", FX(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14864.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", FOX (1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17050.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Fox Premium Action(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14863.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Fox Premium Series(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14862.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", FOX PREMIUM MOVIES(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17051.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", AMC(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14847.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Cinemax(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14972.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Cinecanal(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14849.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Comedy Central(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14858.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", DHE(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14851.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Distrito Comedia(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14857.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Golden HD(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14848.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Paramount(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14850.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Sony(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14856.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Space(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14846.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Studio Universal(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14845.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Syfy(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14855.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Tnt Series(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14854.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", TNT (1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14844.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Universal Channel(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14853.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Warner Channel(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14852.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Black HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11233.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Cinema HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11232.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Comedy HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11231.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Comedy HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11230.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz East HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11229.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Edge HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11228.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Encore Action 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11227.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Encore Black HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11226.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Encore Classic HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11225.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Encore HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11224.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Encore HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11223.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Encore Suspense HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11222.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Encore Western HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11221.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Family HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11220.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11219.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz Kids & Family HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11218.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Starz West HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11217.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Straz Encore Family HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11216.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} 5 StarMax HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11256.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} ActionMax HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11255.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cartelera Premiere HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11254.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinemax Action HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11252.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinemax East HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11251.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinemax HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11250.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} IndiePlex HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11243.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} MoreMax HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11242.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} MovieMax HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11241.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} MoviePlex HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11240.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} OuterMax HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11239.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} RetroPlex HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11238.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Showtime Beyond HD 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11237.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Showtime East HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11236.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Showtime HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11235.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Showtime West HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11234.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Boomerang(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14869.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Cartoon Network(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14868.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Natgeo Kids(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14866.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Natgeo Wild(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14865.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Nick 2(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14867.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Nickelodeon(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14870.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Baby First(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14889.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Animal Planet(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14881.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Natgeo (1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17056.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Discovery Channel(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14880.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Discovery Home&Health(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14879.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Discovery Investigation(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14878.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Discovery Kids(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14877.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Discovery Theater(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14876.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Discovery TLC(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14875.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Discovery Turbo(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14874.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Discovery World(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14873.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", History(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14872.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", TruTV (1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17048.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", RT Documentales(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14871.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", MTV LIVE (1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17052.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", SUNDANCE 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17055.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", TELEHITS HD (1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17053.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", VH1 (1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17054.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", A3S(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14882.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", RT Noticias(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14969.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", TVM(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14966.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Star TVE(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14968.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Televisa Puebla(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14967.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Antena 3(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14974.ts  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Azteca 13(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14965.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Azteca Internacional(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14964.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Az Cinema(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14891.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Az Clic(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14890.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Az CorazON(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14915.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Az Mundo(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14897.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Azteca 7(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14914.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Canal Judicial(1080) 
+ttp://tv.latintvweb.com:8000/live/Manuel/Manuel/14973.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", FXM(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14971.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Imagen Televisa(1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14970.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Adn 40(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14916.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Bloomberg(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14888.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Canal 5(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14913.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Canal del Congreso(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14893.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", E!(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14904.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", El Gourmet(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14903.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Food Network(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14895.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Foro TV(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14912.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Fox Life(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14902.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Gala TV(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14910.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Glitz(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14901.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HAVOC(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14896.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HMX(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14909.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Hola TV(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14900.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Las Estrellas(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14911.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Lifetime(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14885.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", mas chip (1080) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14899.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Mexiquense(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14887.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Milenio TV(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14886.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Morbidtv(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14894.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Multimedios Plus(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14907.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Multimedios(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14908.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", TELEFORMULA (1080)
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17049.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Once TV(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14906.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", maxine woodside 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14905.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Televisa MTY(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14892.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", TVC(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14883.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Unicable(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14898.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Wobi TV(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14884.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", a&e 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15005.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Amc 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15004.ts  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Axn 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15003.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HBO (A) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/3248.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HBO2 (A) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/3247.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", MAX.(A) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/3246.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", CineCanal 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15002.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", CineMax 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15001.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Fox Premium Action 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14995.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Fox Premium Cinema 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14994.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Fox Premium Classics 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14993.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Fox Premium Movies 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14990.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Fox Premium Series 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14996.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Comedy Central 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15000.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", DePelicula 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14999.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", DHE 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14978.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", DistritoComedia 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14998.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", FX 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14975.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", FXM Latinoam 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14991.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Fox 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14997.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Golden Edge 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14989.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Golden 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14988.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Multimedios 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14987.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Paramount 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14977.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Sony 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14986.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Space 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14985.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Studio Universal 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14984.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Syfy 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14983.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", TbS 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14982.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Tnt 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14981.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Tnt Series 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14980.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", UNIVERSAL CHANNEL 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14979.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Warner Channel 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14976.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", AnimalPlanet 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15024.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Discovery Civilization 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15016.ts 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", DiscoveryChannel 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15023.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Discovery Home&He 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15022.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", DiscoveryScience 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15021.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Discovery Theater 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15020.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", DiscoveryTlc 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15019.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", DiscoveryTurbo 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15018.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Discovery World 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15017.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", History 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15015.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", ,H2 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/3459.ts #
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", InvestigationDiscovery 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15014.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Natgeo 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15013.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", NatGeoWild 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15012.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", RT Documentales 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15010.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Tru Tv 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15011.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Baby First 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15084.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Boomerang 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15094.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Cartoon Network 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15093.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Discovery Kids HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15081.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Disney Channel 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15091.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Disney Jr 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15090.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", DisneyXd 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15089.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Natgeo Kids 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15082.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Nick 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15088.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Nick 2 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15083.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", NickJr 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15086.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", NickToons 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15085.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Tiin 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15079.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Tooncast 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15080.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Yes 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2373.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Bandamax 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15113.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Mtv 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15114.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ MtvHits 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15112.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ MtvLive 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15111.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Ritmoson 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15110.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Sundance 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15106.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ TeleHits 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15109.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Teleritmo 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15105.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Vh1 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15108.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Vh1Classics 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15107.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Azteca 7 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15060.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ A Plus 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15040.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Antena3 Series 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15039.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Adn 40 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15066.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ AymSports 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15067.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ AzCinema 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15065.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ AzClic 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15064.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ AzCorazon 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15063.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ AzMundo 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15062.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Azteca 13 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15061.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Azteca internacional 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15038.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Canal 11 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15059.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Canal 5 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15058.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Congreso de la union 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15032.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ E! 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15057.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ ElFinanciero 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15056.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ ElGourmet 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15055.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Food Network 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15033.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Foro TV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15054.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ FoxLife 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15053.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Gala TV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15052.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Garagetv 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15051.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Glitz 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15050.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ HAVOC 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15035.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Hmx 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15049.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ HolaTv 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15048.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ I-Sat 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15047.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Imagen Televisi 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15027.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Las Estrellas 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15069.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Lifetime 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15046.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ MasChic 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15045.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Mexiquense 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15034.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ MilenioTv 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15044.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Ocho 
+TV http://tv.latintvweb.com:8000/live/Manuel/Manuel/15037.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ PxTv 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15028.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ SuresTV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15036.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ TCM 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15026.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ TeleFormula 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15025.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Telenovelas 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15068.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ TVC 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15029.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ TVE 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15043.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ TVM 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15031.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Unicable 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15042.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", HQ Wobi 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15041.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", *****CINEMA PPV EXTRENOS***** 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17191.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 01 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17145.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 02 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17190.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 03 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17189.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 04 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17188.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 05 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17187.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 06 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17186.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 07 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17185.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 08 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17184.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 09 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17183.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 10 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17182.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 11 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17181.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 12 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17180.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 13 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17179.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 14 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17178.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 15 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17177.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 16 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17176.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 17 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17175.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 18 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17174.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 19 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17173.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 20 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17172.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 21 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17171.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 22 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17170.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 23 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17169.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 24 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17168.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 25 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17167.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 26 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17166.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 27 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17165.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 28 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17164.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 29 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17163.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 30 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17162.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 31 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17161.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 32 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17160.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 33 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17159.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 34 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17158.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 35 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17157.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Latino {} Cinema 36 PPV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17156.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", PE: America Tv 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2328.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", PE: ATV 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2329.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", PE: Canal N 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2324.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", PE: MOVISTAR PERU 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2323.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", PE: Latina 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2326.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", PE: Panamericana 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2327.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", PE: Peru Magico 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2325.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", PE: TNP 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2322.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Dragon Ball HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17034.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Dragon Ball Super Full HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17003.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Dragon Ball Z HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17033.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", South Park HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17016.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", Súper Campeones SD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17015.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", The Simpsons HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/17013.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM LatinWeb", NEXT ==>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",DEPORTES LATINWEB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",EVENTOS DEPORTIVOS 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2108.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Eventos DEPORTIVOS 2
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2572.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",UFC Latinoamérica 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15238.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",UFC - Fighting 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/6294.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",UFC NET (A) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/3222.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",FIGHT NETWORK/ MMA NETWORK (A) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/3221.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",LAT [DEP] - DIRECTV SPORTS (720 HD) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15198.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",DIRECTV Sports 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11684.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",,DirecTV Sports.. 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/3311.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",ARG - TNT SPORTS HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15222.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",LAT [DEP] - 
+FOX SPORT PREMIUM 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15223.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",USA:FOX DEPORTES HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11605.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Latino ||Fox Sports Argentina HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15169.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Latino ||Fox Sports 2 Argentina HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15170.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Fox Sports Ar. (A) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/3455.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Fox Sports 2 Argentina (A) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/3456.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Fox sport 3 ar (A) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/3750.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Fox Sports 1 Chile (A) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/3223.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",FOX SPORTS 1 COLOMBIA SUR 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15207.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Fox Sports 1
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15073.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Fox Sports 2 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15072.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Fox Sports 3 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15071.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Fox Sports 1(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14843.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Fox Sports 2(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14839.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Fox Sports 3(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14842.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Latino ||ESPN ARGENTINA HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15174.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Latino ||ESPN 2 ARGENTINA 
+HD http://tv.latintvweb.com:8000/live/Manuel/Manuel/15176.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Latino ||ESPN 3 ARGENTINA HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15175.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",ESPN Argentina (A) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/3454.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",LAT [DEP] - ESPN ARGENTINA 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15213.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",ARG - ESPN 2 (720 HD) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15214.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Espn 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15078.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Espn2 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15077.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Espn3 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15076.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",EspnPlus 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15075.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",ESPN Deportes HD: 1080P 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/6302.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",ESPN Plus(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14840.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",ESPN(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14841.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",CHILE - CDF HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15212.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",CDF BASICO 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2332.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",CDF PREMIUM 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2331.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",EC: DIRECTV (EVENTO) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/12443.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",EC: CNT SPORT 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2314.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Futbol de ecuador (solo evento) 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/3536.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",,WIN SPORT. 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/8682.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",PE: Gol Peru 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/2330.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",TYC SPORT HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/11599.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",VTV HD 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/6301.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",F1 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15074.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Golf Latin America(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14837.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",Px Sports(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14836.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",TVC Deportes 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15070.ts 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb",TVC Deportes(1080). 
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14838.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DEPORTES LatinWeb", NEXT ==>>
