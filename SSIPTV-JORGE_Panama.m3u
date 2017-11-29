@@ -1,0 +1,166 @@
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",<<== CANALES CLARO ==>>
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(TNT_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",CRIMEN E INVESTIGACION
+http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",SATAR CHANEL
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",DE PELICULA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",CINE LATINO
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",TELENOVELAS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i2.esmas.com/2015/01/06/734691/canal-5-330x330.jpg" group-title="CANAL 5",Canal 5 (0)
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 HD" tvg-logo="http://tecnotv.info/logoss/canal%205%20HD.png" group-title="CANAL 5",Canal 5 HD (1)
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="CANAL 5", Canal 5 HD (2)
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANAL 5" ,HQ Canal 5
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15058.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(DISNEY_JR)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(TNT_SERIES_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(CLARO_SPORTS_LATAM_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_SPORTS_LATAM_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",HBO_PLUS_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",HBO_2_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",HBO
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",ZONA FILM
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",GOLDEN
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",FOX MOVIES
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",FOX ACTION
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(FOX_CINEMA_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(TOONCAST)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(LIFETIME)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(ANIMAL_PLANET_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(NATGEO)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(H2)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(DISCOVERY_HOME_HEALTH_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(DISCOVERY_CHANNEL_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(ID_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(AZCORAZON_HD)
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(CARTOON_NETWORK_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(AE)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(SPACE_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(THE_FILM_ZONE_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(ISAT)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(CINECANAL_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(CINEMAX)
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(FOX_CLASSICS_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(FOX_CINEMA_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(FOX1_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(WARNER_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(HBO_FAMILY_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(AXN_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(FOX_LIFE)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(GLITZ)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GLITZ)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",CDF
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w1477672342.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(UNIVERSAL_CHANNEL_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(DISNEY_XD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(BOOMERANG)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",(NATGEO_KIDS_HD)
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",RAITALIA
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CANALES CLARO",NFL NOW
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
