@@ -23,23 +23,44 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(0
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", UNIVISION TLENOVELAS 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", UNIVISION TLENOVELAS
 http://planetaiks.info:8000/live/jhonny/jhonny/3225.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", TLNOVELAS 1
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
 
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", TLENOVELAS 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", PASIONES
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PASIONES_HD)/index.m3u8
 
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", AZ CORAZON
 http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/Stream(01)/index.m3u8
 
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", RCN NOVELAS
 http://iptv61w.com:25461/live/moises123/moises123/3820.ts
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", RCN SD
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
@@ -267,28 +288,4 @@ http://tv.latintvweb.com:8000/live/Manuel/Manuel/16990.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TELEMUNDO", TELEMUNDO USA
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/11563.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", TELECADENA
-http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", IMAGEN
-http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", CANAL COCINA
-http://flus0.sanpedrowifi.com/live/cocina.SD.IRD/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", DE CASA HD
-http://flus0.sanpedrowifi.com/live/decasa.HD.xtra/mono.m3u8
-
-
-
-
-
-
-
-
-
 
