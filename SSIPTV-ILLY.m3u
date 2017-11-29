@@ -290,3 +290,12 @@ http://tv.latintvweb.com:8000/live/Manuel/Manuel/16990.ts
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/11563.ts
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", IMAGEN
+https://github.com/TVCABLEAR/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", COCINA
+https://github.com/TVCABLEAR/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", TELECADENA
+https://github.com/TVCABLEAR/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", SHOWS
+https://github.com/TVCABLEAR/
+
