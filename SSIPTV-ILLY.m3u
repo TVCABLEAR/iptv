@@ -290,12 +290,15 @@ http://tv.latintvweb.com:8000/live/Manuel/Manuel/16990.ts
 http://tv.latintvweb.com:8000/live/Manuel/Manuel/11563.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", IMAGEN
-https://github.com/TVCABLEAR/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", COCINA
-https://github.com/TVCABLEAR/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", TELECADENA
-https://github.com/TVCABLEAR/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NO JALAN", SHOWS
-https://github.com/TVCABLEAR/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PROXIMAMENTE", IMAGEN
+https://www.youtube.com/watch?v=bWpBSNc1Aoo
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PROXIMAMENTE", COCINA
+https://www.youtube.com/watch?v=H08jU1j5V3o
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PROXIMAMENTE", TELECADENA 7y4
+https://www.youtube.com/watch?v=oQg1ffK3yQ4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PROXIMAMENTE", VIÑA DEL MAR
+https://www.youtube.com/watch?v=KLyrHwaXwqc
 
