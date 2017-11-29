@@ -194,23 +194,25 @@ http://ar.watcha.live/ch3/hi.m3u8
 http://iptv61w.com:25461/live/moises123/moises123/6473.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", UNIVISION TLENOVELAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", UNIVISION TLENOVELAS 1
 http://149.56.26.6:25461/live/2130/2130/5888.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", UNIVISION TLENOVELAS 2
+http://planetaiks.info:8000/live/jhonny/jhonny/3225.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", TLENOVELAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", TLENOVELAS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", PASIONES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", PASIONES
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PASIONES_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", AZ CORAZON
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", AZ CORAZON
 http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", RCN NOVELAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", RCN NOVELAS
 http://iptv61w.com:25461/live/moises123/moises123/3820.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", RCN SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TLENOVELAS", RCN SD
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", OROMAR TV (Ecuador)
