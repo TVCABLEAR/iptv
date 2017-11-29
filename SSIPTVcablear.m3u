@@ -11,6 +11,67 @@ https://raw.githubusercontent.com/TVCABLEAR/iptv/master/ExperimentalChannell.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Experimental Channells",Lista M3u8
 https://raw.githubusercontent.com/TVCABLEAR/iptv/master/ExperimentalLista.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Connect 2" tvg-logo="http://209.126.124.25/posters/1489616598284.jpg" group-title="HD",Bein Connect 2
+http://planetaiks.info:8000/live/jhonny/jhonny/3274.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Connect 3" tvg-logo="http://209.126.124.25/posters/1489616598284.jpg" group-title="HD",Bein Connect 3
+http://planetaiks.info:8000/live/jhonny/jhonny/3275.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Connect 5" tvg-logo="http://209.126.124.25/posters/1489616598284.jpg" group-title="HD",Bein Connect 5
+http://planetaiks.info:8000/live/jhonny/jhonny/3276.m3u8
+#EXTINF:-1 tvg-ID="Chiller.us" tvg-name="CHILLER HD" tvg-logo="http://209.126.124.25/posters/1501882128232.jpg" group-title="HD",CHILLER HD
+http://planetaiks.info:8000/live/jhonny/jhonny/3224.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CHELSEA HD" tvg-logo="http://209.126.124.25/posters/1501804769542.png" group-title="HD",CHELSEA HD
+http://planetaiks.info:8000/live/jhonny/jhonny/3222.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="El Rey Network" tvg-logo="http://209.126.124.25/posters/1506176922440.jpg" group-title="HD",El Rey Network
+http://planetaiks.info:8000/live/jhonny/jhonny/3277.m3u8
+#EXTINF:-1 tvg-ID="ElevenSport.pl" tvg-name="ELEVEN SPORTS" tvg-logo="http://209.126.124.25/posters/1501106481326.png" group-title="HD",ELEVEN SPORTS
+http://planetaiks.info:8000/live/jhonny/jhonny/3204.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FANTASY HD" tvg-logo="http://209.126.124.25/posters/1501805418396.png" group-title="HD",FANTASY HD
+http://planetaiks.info:8000/live/jhonny/jhonny/3223.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT NETWORK" tvg-logo="http://209.126.124.25/posters/1499802455420.jpg" group-title="HD",FIGHT NETWORK
+http://planetaiks.info:8000/live/jhonny/jhonny/3178.m3u8
+#EXTINF:-1 tvg-ID="FoodNetwork.us" tvg-name="FOODNETWORK" tvg-logo="http://209.126.124.25/posters/1500419765256.jpg" group-title="HD",FOODNETWORK
+http://planetaiks.info:8000/live/jhonny/jhonny/3183.m3u8
+#EXTINF:-1 tvg-ID="FoxDeportes.us" tvg-name="FOX DEPORTES HD" tvg-logo="http://209.126.124.25/posters/1500511434434.png" group-title="HD",FOX DEPORTES HD
+http://planetaiks.info:8000/live/jhonny/jhonny/3187.m3u8
+#EXTINF:-1 tvg-ID="FoxLife.mx" tvg-name="FOX LIFE HD" tvg-logo="http://209.126.124.25/posters/1473879152332.jpg" group-title="HD",FOX LIFE HD
+http://planetaiks.info:8000/live/jhonny/jhonny/3272.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Florida" tvg-logo="http://209.126.124.25/posters/1506141632180.jpg" group-title="HD",Fox Sports Florida
+http://planetaiks.info:8000/live/jhonny/jhonny/3271.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FUSE" tvg-logo="http://209.126.124.25/posters/1506142137454.jpg" group-title="HD",FUSE
+http://planetaiks.info:8000/live/jhonny/jhonny/3273.m3u8
+#EXTINF:-1 tvg-ID="FXMovieChannel.us" tvg-name="FXM" tvg-logo="http://209.126.124.25/posters/1501052625256.png" group-title="HD",FXM
+http://planetaiks.info:8000/live/jhonny/jhonny/3201.m3u8
+#EXTINF:-1 tvg-ID="FXX.us" tvg-name="FXX" tvg-logo="http://209.126.124.25/posters/1499823959305.png" group-title="HD",FXX
+http://planetaiks.info:8000/live/jhonny/jhonny/3180.m3u8
+#EXTINF:-1 tvg-ID="Galavision.us" tvg-name="GALAVISION (ENG)" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/97/Galavision_2012_3d.png" group-title="HD",GALAVISION (ENG)
+http://planetaiks.info:8000/live/jhonny/jhonny/3175.m3u8
+#EXTINF:-1 tvg-ID="GolTV.us" tvg-name="GOLTV ESP" tvg-logo="http://209.126.124.25/posters/1500513242553.jpg" group-title="HD",GOLTV ESP
+http://planetaiks.info:8000/live/jhonny/jhonny/3190.m3u8
+#EXTINF:-1 tvg-ID="Hallmark.us" tvg-name="Hallmark" tvg-logo="http://209.126.124.25/posters/1501042707403.png" group-title="HD",Hallmark
+http://planetaiks.info:8000/live/jhonny/jhonny/3200.m3u8
+#EXTINF:-1 tvg-ID="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Misteries" tvg-logo="http://209.126.124.25/posters/1501042436263.png" group-title="HD",Hallmark Movies & Misteries
+http://planetaiks.info:8000/live/jhonny/jhonny/3199.m3u8
+#EXTINF:-1 tvg-ID="Hallmark.us" tvg-name="HOLA TV" tvg-logo="http://209.126.124.25/posters/1498961331469.png" group-title="HD",HOLA TV
+http://planetaiks.info:8000/live/jhonny/jhonny/3289.m3u8
+#EXTINF:-1 tvg-ID="LMN.us" tvg-name="Lifetime Movie" tvg-logo="http://209.126.124.25/posters/1501086722294.jpg" group-title="HD",Lifetime Movie
+http://planetaiks.info:8000/live/jhonny/jhonny/3202.m3u8
+#EXTINF:-1 tvg-ID="Nacional.mx" tvg-name="NATGEO MUNDO HD" tvg-logo="http://209.126.124.25/posters/1499983856369.png" group-title="HD",NATGEO MUNDO HD
+http://planetaiks.info:8000/live/jhonny/jhonny/3182.m3u8
+#EXTINF:-1 tvg-ID="Oxygen.us" tvg-name="OXYGEN" tvg-logo="http://209.126.124.25/posters/1501108064556.jpg" group-title="HD",OXYGEN
+http://planetaiks.info:8000/live/jhonny/jhonny/3205.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="REVOLT MUSIC" tvg-logo="http://209.126.124.25/posters/1504462387252.jpg" group-title="HD",REVOLT MUSIC
+http://planetaiks.info:8000/live/jhonny/jhonny/3257.m3u8
+#EXTINF:-1 tvg-ID="Ritmoson.mx" tvg-name="RITMOSON HD" tvg-logo="http://planetadish.biz/cvr/tv/ritmoson.jpg" group-title="HD",RITMOSON HD
+http://planetaiks.info:8000/live/jhonny/jhonny/3268.m3u8
+#EXTINF:-1 tvg-ID="TravelChannel.us" tvg-name="TRAVEL HD" tvg-logo="http://209.126.124.25/posters/1500510822338.png" group-title="HD",TRAVEL HD
+http://planetaiks.info:8000/live/jhonny/jhonny/3186.m3u8
+#EXTINF:-1 tvg-ID="GolTV.us" tvg-name="TyC Sports" tvg-logo="http://209.126.124.25/posters/1500859697125.png" group-title="HD",TyC Sports
+http://planetaiks.info:8000/live/jhonny/jhonny/3191.m3u8
+#EXTINF:-1 tvg-ID="UniMas.us" tvg-name="UNIMAS HD" tvg-logo="http://209.126.124.25/posters/1473800292306.png" group-title="HD",UNIMAS HD
+http://planetaiks.info:8000/live/jhonny/jhonny/3176.m3u8
+#EXTINF:-1 tvg-ID="UnivisionTelenovelas.us" tvg-name="Univision Tlnovelas" tvg-logo="http://209.126.124.25/posters/1502047461435.jpeg" group-title="HD",Univision Tlnovelas
+http://planetaiks.info:8000/live/jhonny/jhonny/3225.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO", PREMIUM CLARO
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO",NETWORK-JC 
