@@ -7,13 +7,6 @@ https://github.com/TVCABLEAR/
 https://github.com/TVCABLEAR/
 
 
-#EXTM3U
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TVCABLEAR", ======>SPOR KANALLARI<======
 http://prod.proserver300.com:8080/live/delta/delta/8206.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TVCABLEAR", TR | BEIN SPORTS HD 1
