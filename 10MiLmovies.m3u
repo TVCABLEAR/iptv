@@ -6,16 +6,38 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
 https://github.com/TVCABLEAR/
 
-#EXTINF: 0, MENTES PELIGROSAS
-https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
-#EXTINF: 0, Intrusos
-https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
-#EXTINF: 0, INDESTRUCTIBLES 3
-https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
-#EXTINF: 0, FRANCOTIRADOR
-https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
-#EXTINF: 0, FOCUS
-https://ia600309.us.archive.org/21/items/hemelgelvez4_gmail_FCS/FCS.mp4
+
+
+#EXTINF:-1,Las Aventuras Del Capitan Calzoncillos
+https://www971.playercdn.net/proxd0/170826/094FIWUZ0QFD9KJCQ46WV.mp4
+#EXTINF:-1,Un Jefe En Pañales
+https://doc-00-58-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/bvosoj5ngktcfgratak4uo7h313co8f5/1504468800000/10320792681971352173/*/0B8sK34l8dm1TQVcwUDY4LXpCc1k?e=download
+#EXTINF:-1,La Vida Secreta De Tus Mascotas
+https://doc-0g-5o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/kbkjcgsdvcgpoidos33k8ihnb5u2fu6k/1504468800000/02546203829874559304/*/0B_GVDkWKbxJzQV80c2lHTHNGaGc?e=download
+#EXTINF:-1,Death Note (Español)
+https://www946.playercdn.net/86/2/u0cNBjg72UXoyoF2o1sSCQ/1504719551/170825/950FIWOYCA8D9LE67FQPV.mp4
+#EXTINF:-1,Spirit
+https://str01.vidoza.net/hls/gchj4wffnwh6ucqkpvbvl3onsnsmz4nab7irk56f7rybbkym6specgov4ulq/index-v1-a1.m3u8
+#EXTINF:-1,Moana (Vaiana)
+https://str13.vidoza.net/hls/gchjcwyto2h6ucqkpxsflywus2zsgruninvc6g7qh3tinhjcrotmmpxx2gua/index-v1-a1.m3u8
+#EXTINF:-1,Trolls
+https://openload.co/embed/33mqxC2RRBU/Trolls.2016.1080P-DUAL.LATiNO.mp4
+#EXTINF:-1,Hermano Oso
+https://str14.vidoza.net/hls/gchjxaskn6h6ucqkpwuflm4ot4uz4wx3wnsd3i6ie6e325uhv4tvld5nak2a/index-v1-a1.m3u8
+#EXTINF:-1,El libro de la selva
+https://str10.vidoza.net/hls/gchjdlxuosh6ucqkpwsfl4ofzhmzs6b42oprt5hrpe6gv5aiqb57hmda7c5q/index-v1-a1.m3u8
+#EXTINF:-1,Angry Birds
+https://r1---sn-5hnednlr.c.drive.google.com/videoplayback?id=10b1c01ae18d066d&itag=59&source=webdrive&requiressl=yes&pl=20&ttl=transient&ei=A5atWbClEI31-AXljbHQAQ&driveid=0B68M3A9SIf_jQ1dXV0JQbFVUSjA&app=explorer&mime=video/mp4&lmt=1478829037902932&ip=83.255.111.40&ipbits=0&expire=1504551955&cp=QVNFVkZfUFlTRlhOOnhseEdBQjhXcDJZ&sparams=app,cp,driveid,ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,requiressl,source,ttl&signature=7BA48683970537A48A1A9603620589FC9FCB652E.74EC446827F0C8810B2C4A3987E60F5E0A0A631B&key=cms1&cpn=w3_kfvsAjnNB57dT&c=WEB&cver=1.20170830&redirect_counter=1&cm2rm=sn-5goez7d&req_id=6359ff18b0636e2&cms_redirect=yes&mm=34&mn=sn-5hnednlr&ms=ltu&mt=1504548270&mv=m
+#EXTINF:-1,Gritando Y Pateando (Un entrenador genial)
+https://www944.playercdn.net/86/3/KWo8lpEdW6SKW6uydgkoxQ/1504721430/170803/938FI78UK4PD0K6GIPK7W.mp4
+#EXTINF:-1,Alien:Covenant
+https://str10.vidoza.net/hls/gchj7retnoh6ucqkpx3vlmohszlsce6nwvvo4r46evtwture5seywjmb353a/index-v1-a1.m3u8
+#EXTINF:-1,Gru:Mi villian favorito 3
+https://www396.playercdn.net/87/0/hjMapxNOeQHGsFGLva708A/1504721991/170901/215FJ3XQP4ARO4DVLHDTM.mp4
+#EXTINF:-1,Valiente (Brave)
+https://www1006.playercdn.net/87/0/NqWvlMWoCEbT-5SoP3iKeg/1504722425/170729/769FI19PHTYRMFVXF5WLE.mp4
+
+
 #EXTINF: 0, RESUCITADOS
 https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
 #EXTINF: 0, ROBOCOP
