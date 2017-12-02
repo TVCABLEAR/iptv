@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",<-- TVCABLEAR -->
 https://github.com/TVCABLEAR/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",<-- Globalentv@gmail.com -->
 https://github.com/TVCABLEAR/
 
 
@@ -12,280 +12,418 @@ https://github.com/TVCABLEAR/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",hombre araña devuelta a casa
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:0-Spider_Man_homecoming.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",it2017
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:397-It.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",culto a CHUKY
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:398-Culto_a_Chuckyyyy.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",transformes5
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:1-Transformers_5_el_ultimo_caballero.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",piratas del CARIBE5
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:11-Piratas_del_Caribe_La_venganza_de_Salazar_2017.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",que le pasó al lunes
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:334-Que_le_paso_a_Lunes.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",CAPITAN CALZONCILLOS
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:333-Las_aventuras_del_Capitan_Calzoncillos.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",la torre oscura
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:332-La_Torre_Oscura.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE", duro de cuidar
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:331-Duro_de_cuidar.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",mi prima Rachelle
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:329-Mi_prima_Rachel.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",death note
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:328-Death_Note.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",hasta que el cuerpo no aguante
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:324-Hasta_que_el_cuerpo_aguante.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",anabell2
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:321-Annabelle_2_La_creacion.mp4/playlist.m3u8
-Si no despierto
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Si no despierto
 hostingdesoporte.com:1935/americavod/_definst_/http/mp4:307-Before_Falli.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Desnudo
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:306-Desnudo.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Todo todo
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:293-todo_todo.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La descendiente2
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:288-Descendants_2.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Triunfos robados
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:370-Triunfos_robados_Enfrentamiento_mundial.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Emoji
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:261-Emoji_La_película.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Planeta de los.simios. la guerra
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:238-El_planeta_de_los_simios_La_guerra.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Un don ecepcional
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:247-Un_don_excepcional.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La increíble Jessica James
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:272-La_increible_Jessica_James.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",El.instituto
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:254-The_Institute.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Mi villano favorito3
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:335-Mi_villano_favorito_3.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La momia2017
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:4-La_momia.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Dunkerque
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:249-Dunkerque.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Stasis
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:246-Stasis.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Hasta el.hueso
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:239-Hasta_el_hueso.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Viaje salvaj
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:256-Viaje_salvaje.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Un golpe con estilo
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:250-Un_golpe_con_estilo.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Guardianes de la bahía
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:3-Baywatch_Guardianes_de_la_bahia.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La mujer maravilla
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La Mujer maravilla
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:5-La_Mujer_Maravilla_2017.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Life. Vida inteligente
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:6-Life_Vida_Inteligente.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Power Rangers
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:7-Power_rangers.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Chips. Patrulla motorizada 
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:8-CHIPS_Patrulla_Motorizada_Recargada.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Nunca digas su nombre
 hostingdesoporte.com:1935/americavod/_definst_/http/mp4:9-Nunca_digas_su_nombre.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Máquina de guerra
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:10-Maquina_de_guerra.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",cura siniest
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:12-La_cura_siniestra.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Logan
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:13-Logan.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",XxX reactivo
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:14-xXx_Reactivado.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Alien covenant
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:235-Alien_Covenant.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",John wick un día para matar
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:16-John_Wick_2.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Pelea de maestros
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:17-Pelea_De_Maestros.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Huye
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:18-Huye.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Sandy wexler
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:19-Sandy_Wexler.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Vigilante nocturno
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:421-Vigilante_nocturno.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",El mago de las mentiras
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:409-El_mago_de_las_mentiras.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Baby el aprendizaje del crimen
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:408-Baby_El_aprendiz_del_crimen.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Lego.. Batman
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:21-Lego_Batman.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",El.rey Arturo
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:25-El_Rey_Arturo_La_leyenda_de_la_espada.mp4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Ghost in the Shell el alma de la.maquinA
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Ghost in the Shell el alma de la MaquinA
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:26-Ghost_in_the_Shell.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Jefe en pañales
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:28-Un_jefe_en_pañales.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Blame
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:37-Blame!.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Los pitufos en.la.aldea perdida
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:42-Los_pitufos_la_aldea_escondida.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Monster truck
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:44-Monster_Trucks.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Zootoopia
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:366-Zootopia.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Alvin y las ardillas aventura sobre ruedas
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:336-Alvin_y_las_ardillas_Aventura_sobre_ruedas.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Final fantási xV la película
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:294-Kingsglaive_final_fantasy_xv_2016.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Buscando a dory
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:286-Buscando_a_Dory.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Sing
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:277-Sing_Ven_y_canta.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Moana
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:274-Moana_Un_mar_de_aventuras.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La fiesta de las salchichas
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:271-La_fiesta_de_las_salchichas.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Yugi oh
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:230-Yu_Gi_Oh_The_Dark_Side_of_Dimensions.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Turbo
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:224-Turbo.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Ralph el.demoledor
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:206-Ralph_el_demoledor.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Los croods
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:177-Los_Croods.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Guardia es de la galaxia 2
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:20-Guardianes_de_la_Galaxia_2.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Rápido y furioso 8
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:29-Rapido_y_Furioso_8.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La razón de estar contigo
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:30-La_razon_de_estar_contigo.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La gran muralla
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:33-La_gran_muralla.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Un espacio entre nosotros
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:45-Un_espacio_entre_nosotros.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Órbita 9
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:255-orbita_9.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Un golpe con estilo
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:250-Un_golpe_con_estilo.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Persecución al límite
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:346-Persecucion_al_limite.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Nerve
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:299-Nerve_Un_juego_sin_reglas.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Jack reacher
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:270-Jack_Reacher_Sin_regreso.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Boyka
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:263-Boyka_Undisputed_IV.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Ya no.me siento a gusto en este mundo
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:251-Ya_no%20me_siento_a_gusto_en_este_mundo.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Regresión
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:245-Regresion.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Ríos policía del más allá
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:204R_I_P_D_Policia_del_mas_alla.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Quiénes son los mollera
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:203-Quien_son_los_Miller.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Neruda
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:186-Neruda.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Jugada salvaje
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:162-Jugada_salvaje.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Infierno
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:157-Inferno.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Hackers amenaza en la red
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:151-Hacker_Amenaza_en_la_Red.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Escape imposible
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:141-Escape_imposible.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Si no despierto
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:307-Before_Falli.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Quiero matar a mi jefe
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:201-Quiero_matar_a_mi_jefe.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Los ilusionista nada es lo que parece
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:155-Ilusionistas.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Focus maestros de la estafa
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:146-Focus_Maestros_de_la_Estafa.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Iroman
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:413-Iron_Man.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Iroman 2
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:414-Iron_Man_2.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Iroman 3
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:415-Iron_Man_3.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Capitán América civil war
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:412-Capitan_America_3_Civil_War.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Capitán América el soldado de invierno
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:411-Capitan_America_El_soldado_de_invierno.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Capitán america el primer vengador
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:410-Capitan_America_El_primer_vengador.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Resident Evil 5
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:382-Resident_Evil_5_Venganza.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Resident Evil 4
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:381-Resident_Evil_4_Ultratumba.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Resident Evil 3
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:380-Resident_Evil_3_Extincion.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Resident Evil 2
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:379-Resident_Evil_2_Apocalipsis.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Cómo ser un latín lover
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:24-Como_para_Ser_un_Latin_Lover.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La autopista
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:38-La_autopista_10.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Scary movie 5
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:420-Scary_Movie_5.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Scary movie 4
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:419-Scary_Movie_4.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Scary movie 3
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:418-Scary_Movie_3.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Scary movie 2
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:417-Scary_Movie_2.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",50 sombras más oscuras
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:22-Cincuenta_sombras_mas_oscuras.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La bella y la.bestia
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:34-La_Bella_y_la_Bestia.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La cabaña
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:35-La_Cabaña.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",El.aro 3
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:40-Rings.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Contra golpe
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:258-Contragolpe.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Código de silencio
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:322-Codigo_de_silencio.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Amores caníbales
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:407-Amores_canibales.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Ted
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:362-Ted.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",El príncipe de Persia
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:359-Principe_de_Persia_Las_arenas_del_tiempo.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Inmortales
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:356-Inmortales.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Alicia atraves del espejo
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:283-Alicia_a_traves_delespejo.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Diario de Greg viaje de locos
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:257-Diario_de_Greg_Un_viaje_de_locos.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Max stell
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:241-Max_Steel.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Tomorrowland el mundo del mañana
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:223-Tomorrowland_El_Mundo_del_Manana.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Home no hay lugar como el.hogar
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:154-Home_No_hay_lugar_como_el_hogar.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Frozen
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:148-Frozen_una_aventura_congelada.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Enredados
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:140-Enredados.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Todos los días de mi vida
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:365-Todos_los_dias_de_mi_vida.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",En el nombre del amor
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:280-En_nombre_del_amor.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",El bebé de Bridey Jones
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:265-El_bebe_de_Bridget_Jones.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La muñeca vudú
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:367-La_muneca_vudu.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Soy el número 4
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:361-Soy_el_numero_cuatro.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La leyenda del tesoro perdido 2
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:358-La_busqueda_2.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La leyenda del tesoro perdido
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:357-La_busqueda.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Revenant
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:347-Revenant_El_Renacido.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",En tiempo de brujas
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:352-En_tiempo_de_brujas.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Pequeño demonio
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:344-Pequeno_demonio.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",La morgue
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:315-La_Morgue.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",El conjuro 2
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:310-El_conjuro_2.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Morgan
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:275-Morgan.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Inframundo 
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:269-Inframundo_Guerras_de_sangre.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",The burning dead
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:218-The_Burning_Dead.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Ritual del más alla
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:369-Ritual_del_mas_alla.mp4/playlist.m3u8
 
