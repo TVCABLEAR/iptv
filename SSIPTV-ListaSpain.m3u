@@ -9,6 +9,50 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
 https://github.com/TVCABLEAR/
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | Antena 3 HD
+http://prod.proserver300.com:8080/live/Eko/Eko/8120.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | BEIN SPORT ES
+http://prod.proserver300.com:8080/live/Eko/Eko/8111.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV"1,SP | CANAL  COMEDIA HD
+http://prod.proserver300.com:8080/live/Eko/Eko/8113.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | CANAL  DEPORTES
+http://prod.proserver300.com:8080/live/Eko/Eko/8117.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | CANAL  LIGA HD
+http://prod.proserver300.com:8080/live/Eko/Eko/8109.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | CANAL ESTRENOS
+http://prod.proserver300.com:8080/live/Eko/Eko/8114.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | CANAL HOLLYWOOD
+http://prod.proserver300.com:8080/live/Eko/Eko/8123.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | CANAL SERIES
+http://prod.proserver300.com:8080/live/Eko/Eko/8124.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | CAZA Y PESCA
+http://prod.proserver300.com:8080/live/Eko/Eko/8115.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | CUATRO
+http://prod.proserver300.com:8080/live/Eko/Eko/8122.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | DCINE
+http://prod.proserver300.com:8080/live/Eko/Eko/8126.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | DISCOVERY CHANNEL
+http://prod.proserver300.com:8080/live/Eko/Eko/8127.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | ENERGY
+http://prod.proserver300.com:8080/live/Eko/Eko/8121.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | MEGA
+http://prod.proserver300.com:8080/live/Eko/Eko/8119.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | NAT GEO WILD
+http://prod.proserver300.com:8080/live/Eko/Eko/8108.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | NOVA
+http://prod.proserver300.com:8080/live/Eko/Eko/8112.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | Taquilla1
+http://prod.proserver300.com:8080/live/Eko/Eko/8116.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | Taquilla2
+http://prod.proserver300.com:8080/live/Eko/Eko/8118.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | Taquilla3
+http://prod.proserver300.com:8080/live/Eko/Eko/8125.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | Taquilla4
+http://prod.proserver300.com:8080/live/Eko/Eko/8107.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",SP | TVE LA1
+http://prod.proserver300.com:8080/live/Eko/Eko/8110.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="DarkSide IPTV Demo",DARKSIDE>>>
 
