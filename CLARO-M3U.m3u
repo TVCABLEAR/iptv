@@ -8,11 +8,8 @@ https://github.com/TVCABLEAR/
 https://github.com/TVCABLEAR/
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO",<<PREMIUM CLARO>>
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO", NETWORK-JC 
-http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO", TV UNO
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO", AE
@@ -162,5 +159,6 @@ http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO", CANAL_CLARO
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL_CLARO)/Stream(01)/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PREMIUM CLARO",<<FIN DE LISTA>>
+https://www.youtube.com/watch?v=Qg43xcshtmA
 
