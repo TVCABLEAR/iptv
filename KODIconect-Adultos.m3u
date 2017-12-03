@@ -8,150 +8,168 @@ https://www.youtube.com/watch?v=0fIBvOzItzs
 #EXTINF:-1,<< Listas Adultos >>
 https://www.youtube.com/watch?v=tL0graENXKM
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/52g4gTGbFAc/hqdefault_live.jpg",[COLOR gold][B]IIIDXIII [COLOR white] LISTA ADULTA (+18)[/B][/COLOR]
-http://www.youtube.com/c/IIIDXIII
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/52g4gTGbFAc/hqdefault_live.jpg",[COLOR white][B]INSCREVA-SE:[/B][/COLOR][COLOR gold][B] youtube.com/[COLOR white]IIIDXIII[/B][/COLOR]
+#EXTINF:-1,LISTA ADULTA (+18)
 http://www.youtube.com/c/IIIDXIII
 
+
  
-#EXTINF:-1 group-title="Internacional" ,English: Passie XXX tv
+#EXTINF:-1, Passie XXX tv
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
   
-#EXTINF:-1 group-title="Internacional" ,English: CANDY
+#EXTINF:-1, CANDY
 http://media.platinumstream.ru/candy/tracks-v2a1/index-1486694848-now.m3u8
  
-#EXTINF:-1 group-title="Internacional" ,English: CCTV Hot - Chinese
+#EXTINF:-1,CCTV Hot - Chinese
 http://219.146.248.44/live/5/30/e9301e073cf94732a380b765c8b9573d.m3u8?type=web.cloudplay
 
  
-#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", Fundorado Tv 720P
+#EXTINF:-1, Fundorado Tv 720P
 http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8?MWINFO
  
-#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", Jasmin Channel 720P
+#EXTINF:-1, Jasmin Channel 720P
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
  
  
-#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", Penthohouse (KODI APENAS)
+#EXTINF:-1, Penthohouse (KODI APENAS)
 rtmp://edge1.everyon.tv/etv1sb/ playpath=phd10927 swfUrl=http://adult-channels.com/tv/jwplayer.flash.swf live=1 pageUrl=http://www.maxmegatvonlinehd.com/canais-adultos-ao-vivo/penthouse.html?MWINFO
  
-#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png" group-title="ADULTO", Playboy Tv(KODI APENAS)
+#EXTINF:-1, Playboy Tv(KODI APENAS)
 rtmp://edge2.everyon.tv/etv2sb//pld10499?MWINFO
 
  
-#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", Visit-X Tv 720P
+#EXTINF:-1, Visit-X Tv 720P
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO
-#EXTINF:-1 tvg-id="Latinas [Brazil]" https://i.ytimg.com/vi/zahBzurylyo/maxresdefault.jpg" group-title="Adulto",Latinas
+
+#EXTINF:-1,Latinas
 http://ic.bf24b800.0f4d7a.1.c3503.d.rncdn3.com/0/65/65468/tubeclips/DPL/custom/DPL_65468_750.flv
-#EXTINF:-1 tvg-id="Brazzers [Brazil]" http://adult-channels.com/wp-content/uploads/2015/08/brazzers-tv-logo.jpg" group-title="Adulto",Brazzers
- 
-#EXTINF:1 tvg-logo="" group-title="CANAIS ADULTOS [+18]", [COLOR purple][B] BRAZZERS 1 (Adulto +18)[/B][/COLOR]
+
+#EXTINF:-1,Brazzers
+https://www.youtube.com/watch?v=PfsyubAh6Ew
+
+#EXTINF:-1, BRAZZERS 3 (Adulto +18)
 http://static.brazzers.com/scenes/3327/180sec.flv
-#EXTINF:1 tvg-logo="" group-title="CANAIS ADULTOS [+18]", [COLOR purple][B] BRAZZERS 4 (Adulto +18)[/B][/COLOR]
+#EXTINF:-1, BRAZZERS 4 (Adulto +18)
 http://static.brazzers.com/scenes/3330/180sec.flv
-#EXTINF:1 tvg-logo="" group-title="CANAIS ADULTOS [+18]", [COLOR purple][B] BRAZZERS 5 (Adulto +18)[/B][/COLOR]
+#EXTINF:-1, BRAZZERS 5 (Adulto +18) 
 http://static.brazzers.com/scenes/3340/180sec.flv
 
 
-#EXTINF:1 tvg-id=".igor" tvg-logo=".png" tvg-logo="http://i.imgur.com/4mummWZ.jpg" group-title="PORNOS",
+#EXTINF:-1,PORNOS
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD2
+
+#EXTINF:-1,Adult 4K: VOD2
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD3
+#EXTINF:-1,Adult 4K: VOD3
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD4
+#EXTINF:-1,Adult 4K: VOD4
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD5
+#EXTINF:-1,Adult 4K: VOD5
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD6
+#EXTINF:-1,Adult 4K: VOD6
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD7
+#EXTINF:-1,,Adult 4K: VOD7
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD8
+#EXTINF:-1,Adult 4K: VOD8
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD9
+#EXTINF:-1,Adult 4K: VOD9
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/52g4gTGbFAc/hqdefault_live.jpg",[COLOR red][B]-=-= AMADORES -=-=[/B][/COLOR]
-http://
+#EXTINF:-1,-=-= AMADORES -=-=
+https://www.youtube.com/watch?v=nJKYj2x5mHo
 
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",XXL
+#EXTINF:-1, XXL A
 http://drainmainvein.com/media/videos/mp4/602.mp4
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",XXL
+
+#EXTINF:-1, XXL A1
 http://drainmainvein.com/media/videos/mp4/603.mp4
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",XXL
+#EXTINF:-1, XXL A2
 http://drainmainvein.com/media/videos/mp4/604.mp4
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",XXL
+#EXTINF:-1 ,XXL A3
 http://drainmainvein.com/media/videos/mp4/605.mp4
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",XXL
+#EXTINF:-1, XXL A4
 http://drainmainvein.com/media/videos/mp4/606.mp4
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",XXL
+#EXTINF:-1, XXL A5
 http://drainmainvein.com/media/videos/mp4/513.mp4
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",XXL
+#EXTINF:-1, XXL A6
 http://drainmainvein.com/media/videos/mp4/514.mp4
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",XXL
+#EXTINF:-1, XXL A7
 http://drainmainvein.com/media/videos/mp4/515.mp4
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",XXL
+#EXTINF:-1, XXL A8
 http://drainmainvein.com/media/videos/mp4/516.mp4
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",XXL
+#EXTINF:-1, XXL A9
 http://drainmainvein.com/media/videos/mp4/518.mp4
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",XXL
+#EXTINF:-1, XXL A10
 http://drainmainvein.com/media/videos/mp4/519.mp4
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",XXL
+#EXTINF:-1, XXL A11
 http://drainmainvein.com/media/videos/mp4/520.mp4
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",xxx 
+#EXTINF:-1, XXX A1
 http://188.165.220.116:8081/live2/65/playlist.m3u8
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",xxx
+#EXTINF:-1, XXX A2
 http://188.165.220.116:8081/live/90/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/52g4gTGbFAc/hqdefault_live.jpg",[COLOR red][B]-=-= BRAZZERS -=-=[/B][/COLOR]
-http://
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",BRAZZERS
+
+#EXTINF:-1, CCC
+https://www.youtube.com/watch?v=6mv_rL_MsIU
+
+#EXTINF:1, BRAZZERS 1
 http://static.brazzers.com/scenes/3327/180sec.flv
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",BRAZZERS
+#EXTINF:1, BRAZZERS 2
 http://static.brazzers.com/scenes/3328/180sec.flv
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",BRAZZERS
+#EXTINF:1, BRAZZERS 3
 http://static.brazzers.com/scenes/3329/180sec.flv
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",BRAZZERS
+#EXTINF:1, BRAZZERS 4
 http://static.brazzers.com/scenes/3330/180sec.flv
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",BRAZZERS
+#EXTINF:1, BRAZZERS 5
 http://static.brazzers.com/scenes/3340/180sec.flv
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",BRAZZERS
+#EXTINF:1, BRAZZERS 6
 http://static.brazzers.com/scenes/3341/180sec.flv
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",BRAZZERS
+#EXTINF:1, BRAZZERS 7
 http://static.brazzers.com/scenes/3342/180sec.flv
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",BRAZZERS
+#EXTINF:1, BRAZZERS 8
 http://static.brazzers.com/scenes/3343/180sec.flv
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",BRAZZERS
+#EXTINF:1, BRAZZERS 9
 http://static.brazzers.com/scenes/3344/180sec.flv
-#EXTINF:1 tvg-logo="http://is.gd/ZENh9U" group-title="FILMES",BRAZZERS
+#EXTINF:1, BRAZZERS 10
 http://static.brazzers.com/scenes/3345/180sec.flv
 
-#EXTINF:-1 tvg-logo="http://www.youtube.com/c/IIIDXIII",[COLOR red][B]-=-= VIDEO ADULTO 3D -=-=[/B][/COLOR]
-http://
+#EXTINF:-1,-=-= VIDEO ADULTO 3D -=-=
+https://www.youtube.com/watch?v=_3rBj0MB7lA
 
-#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-+18 3D
+#EXTINF:-1, XXXVOD3D-+18 3D 1
 http://galleries.3Dcatchyfetish.com/tube/027/trailer.f4v
-#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-1+18 3D
+
+#EXTINF:-1, XXXVOD3D-+18 3D 2
 http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
-#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-10+18 3D
+
+#EXTINF:-1, XXXVOD3D-+18 3D 3
 http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
-#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-11+18 3D
+
+#EXTINF:-1, XXXVOD3D-+18 3D 4
 http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
-#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-12+18 3D
+
+#EXTINF:-1, XXXVOD3D-+18 3D 5
 http://galleries.3Dcatchyfetish.com/tube/012/trailer.f4v
-#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-13+18 3D
+
+#EXTINF:-1, XXXVOD3D-+18 3D 6
 http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
-#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-14+18 3D
+
+#EXTINF:-1, XXXVOD3D-+18 3D 7
 http://galleries.3Dcatchyfetish.com/tube/014/trailer.f4v
-#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-15+18 3D
+
+#EXTINF:-1, XXXVOD3D-+18 3D 8
 http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
-#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-16+18 3D
+
+#EXTINF:-1, XXXVOD3D-+18 3D 9
 http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
-#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-17+18 3D
+
+#EXTINF:-1, XXXVOD3D-+18 3D 10
 http://galleries.3Dcatchyfetish.com/tube/017/trailer.f4v
-#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-18+18 3D
+
+#EXTINF:-1, XXXVOD3D-+18 3D 11
 http://galleries.3Dcatchyfetish.com/tube/018/trailer.f4v
-#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-19+18 3D
+
+#EXTINF:-1, XXXVOD3D-+18 3D 12
 http://galleries.3Dcatchyfetish.com/tube/019/trailer.f4v
+
 #EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-2+18 3D
 http://galleries.3dcatchyfetish.com/tube/002/trailer.f4v
 #EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="CLIPES",XXXVOD3D-20+18 3D
