@@ -427,4 +427,5 @@ http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:218-T
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE",Ritual del más alla
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:369-Ritual_del_mas_alla.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE", FIN DE LISTA >>
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="VOLVER AL CINE", << FIN DE LISTA >>
+https://www.youtube.com/watch?v=Qg43xcshtmA
