@@ -1,4 +1,6 @@
-#EXTM3u: 
+#EXTM3U
+
+
 #EXTINF:-1 tvg-logo="https://www.google.com.ec/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwis5eSU_vHTAhWG7iYKHdVrDNkQjRwIBw&url=https%3A%2F%2Fpastebin.com%2FEqQcF6UZ&psig=AFQjCNFZI3T6pHX__UiJiuc6k7LQIW0UIQ&ust=1494940671177037", Antena 3 Internacional
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="ESPAÑA",Atreseries
