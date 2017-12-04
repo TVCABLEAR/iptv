@@ -119,5 +119,63 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CABLENOTICIAS_HD)/i
 #EXTINF:-1,CNN USA
 http://189.216.247.113/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
 
+#EXTINF:-1,>>>>KIDS<<<<
+https://youtu.be/ZXsxN1Z_plI
+#EXTINF:-1,DISNEY HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/index.m3u8
+#EXTINF:-1,NICK JR 1
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1,NICK_JR 2
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1,NATGEOKIDS HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/index.m3u8
+#EXTINF:-1,NICK2 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_2_HD)/index.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/index.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/index.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICKELODEON_HD)/index.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG_HD)/index.m3u8
+#EXTINF:-1,DISNEY XD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/index.m3u8
+#EXTINF:-1,BABYTV
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BABYTV)/index.m3u8
+#EXTINF:-1,DISNEY JR
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/index.m3u8
+#EXTINF:-1,TOONCAST
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/index.m3u8
+
+#EXTINF:-1,>>>>MUSICA<<<<
+https://youtu.be/ZXsxN1Z_plI
+#EXTINF:-1,MTV LIVE  HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_LIVE_HD)/index.m3u8
+#EXTINF:-1,HTV
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HTV)/index.m3u8
+#EXTINF:-1,RADIOLA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RADIOLA)/index.m3u8
+#EXTINF:-1,VH1 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1_HD)/index.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1_CLASSIC)/index.m3u8
+#EXTINF:-1,TELEHIT
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELEHIT)/index.m3u8
+#EXTINF:-1,MTV_HITS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_HITS)/index.m3u8
+#EXTINF:-1,BANDA MAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:-1,CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1,CAPITAL MUSIC
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1,Heart TV Music
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,M2O TV Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,Melody TV Music
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
 
 
