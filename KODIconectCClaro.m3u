@@ -96,4 +96,21 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_TURBO)/in
 #EXTINF:-1,TLC HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC_HD)/index.m3u8
 
+#EXTINF:-1,NOTICIAS
+https://youtu.be/ZXsxN1Z_plI
+#EXTINF:-1,ALJAZEERA_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ALJAZEERA_HD)/index.m3u8
+#EXTINF:-1,FRANCE24_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FRANCE24_HD)/index.m3u8
+#EXTINF:-1,BBC_WORLD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BBC_WORLD)/index.m3u8
+#EXTINF:-1,CNN_INTERNACIONAL
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/index.m3u8
+#EXTINF:-1,DATA_IFX
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DATA_IFX)/index.m3u8
+#EXTINF:-1,BLOOMBERG
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BLOOMBERG)/index.m3u8
+#EXTINF:-1,FOX NEWS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel
+
 
