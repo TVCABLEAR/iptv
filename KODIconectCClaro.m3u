@@ -111,6 +111,6 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DATA_IFX)/index.m3u
 #EXTINF:-1,BLOOMBERG
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BLOOMBERG)/index.m3u8
 #EXTINF:-1,FOX NEWS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXNEWS)/index.m3u8
 
 
