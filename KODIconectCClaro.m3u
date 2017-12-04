@@ -112,5 +112,12 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DATA_IFX)/index.m3u
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BLOOMBERG)/index.m3u8
 #EXTINF:-1,FOX NEWS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXNEWS)/index.m3u8
+#EXTINF:-1,NTN24
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NTN24)/index.m3u8
+#EXTINF:-1,CABLENOTICIAS_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CABLENOTICIAS_HD)/index.m3u8
+#EXTINF:-1,CNN USA
+http://189.216.247.113/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
+
 
 
