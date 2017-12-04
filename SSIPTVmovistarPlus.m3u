@@ -1,0 +1,143 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+
+#EXTINF:-1,ES: ########## SPAIN ##########
+http://server.internext.tv:8000/live/star45/star45/7497.ts
+#EXTINF:-1,ES | AMC HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12490.ts
+#EXTINF:-1,ES | ANTENA_3 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12505.ts
+#EXTINF:-1,ES | AXN White HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12489.ts
+#EXTINF:-1,ES | BABY TV premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12456.ts
+#EXTINF:-1,ES | BARCA TV premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12472.ts
+#EXTINF:-1,ES | BeIN Laliga premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12470.ts
+#EXTINF:-1,ES | BeIN SPORTS ES HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12469.ts
+#EXTINF:-1,ES | BOING premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12457.ts
+#EXTINF:-1,ES | CALLE 13 HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12484.ts
+#EXTINF:-1,ES | CANAL Cocina
+http://server.internext.tv:8000/live/star45/star45/12468.ts
+#EXTINF:-1,ES | CANAL DeCasa premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12467.ts
+#EXTINF:-1,ES | CANAL_SUR_ANDALUCIA premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12444.ts
+#EXTINF:-1,ES | COMEDY Central premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12480.ts
+#EXTINF:-1,ES | COSMO HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12479.ts
+#EXTINF:-1,ES | Crimen & Investigation premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12466.ts
+#EXTINF:-1,ES | Cuatro premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12504.ts
+#EXTINF:-1,ES | DISNEY Channel premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12460.ts
+#EXTINF:-1,ES | DISNEY Junior premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12459.ts
+#EXTINF:-1,ES | DISNEY XD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12458.ts
+#EXTINF:-1,ES | ENERGY premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12478.ts
+#EXTINF:-1,ES | FOX HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12483.ts
+#EXTINF:-1,ES | FOX Life HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12482.ts
+#EXTINF:-1,ES | Historia premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12463.ts
+#EXTINF:-1,ES | HOLLYWOOD HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12491.ts
+#EXTINF:-1,ES | La Sexta_HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12503.ts
+#EXTINF:-1,ES | MOVISTAR Accion HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12497.ts
+#EXTINF:-1,ES | MOVISTAR Comedia HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12496.ts
+#EXTINF:-1,ES | MOVISTAR Dcine premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12495.ts
+#EXTINF:-1,ES | MOVISTAR Deportes 1 HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12477.ts
+#EXTINF:-1,ES | MOVISTAR Estrenos premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12498.ts
+#EXTINF:-1,ES | MOVISTAR F1 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12475.ts
+#EXTINF:-1,ES | MOVISTAR GOLF premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12474.ts
+#EXTINF:-1,ES | MOVISTAR MotoGP premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12473.ts
+#EXTINF:-1,ES | MOVISTAR Portada premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12488.ts
+#EXTINF:-1,ES | MOVISTAR Series premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12487.ts
+#EXTINF:-1,ES | MOVISTAR SERIES XTRA premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12486.ts
+#EXTINF:-1,ES | MOVISTAR TOROS TV premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12485.ts
+#EXTINF:-1,ES | Movistar Xtra premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12494.ts
+#EXTINF:-1,ES | MOVISTAR_FUTBOL premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12476.ts
+#EXTINF:-1,ES | MTV premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12455.ts
+#EXTINF:-1,ES | Nat Geo Wild premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12464.ts
+#EXTINF:-1,ES | National Geographic premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12465.ts
+#EXTINF:-1,ES | Neox Tv premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12502.ts
+#EXTINF:-1,ES | Nova premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12501.ts
+#EXTINF:-1,ES | Odisea Tv premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12462.ts
+#EXTINF:-1,ES | PARAMOUNT Channel premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12492.ts
+#EXTINF:-1,ES | REAL MADRID TV premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12471.ts
+#EXTINF:-1,ES | SYFY HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12481.ts
+#EXTINF:-1,ES | TAQUILLA 1 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12454.ts
+#EXTINF:-1,ES | TAQUILLA 10 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12445.ts
+#EXTINF:-1,ES | TAQUILLA 2 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12453.ts
+#EXTINF:-1,ES | TAQUILLA 3 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12452.ts
+#EXTINF:-1,ES | TAQUILLA 4 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12451.ts
+#EXTINF:-1,ES | TAQUILLA 5 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12450.ts
+#EXTINF:-1,ES | TAQUILLA 6 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12449.ts
+#EXTINF:-1,ES | TAQUILLA 7 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12448.ts
+#EXTINF:-1,ES | TAQUILLA 8 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12447.ts
+#EXTINF:-1,ES | TAQUILLA 9 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12446.ts
+#EXTINF:-1,ES | Telecinco HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12500.ts
+#EXTINF:-1,ES | Telesur premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12499.ts
+#EXTINF:-1,ES | TNT HD premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12493.ts
+#EXTINF:-1,ES | TVE Clan
+http://server.internext.tv:8000/live/star45/star45/12506.ts
+#EXTINF:-1,ES | TVE LA 2 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12507.ts
+#EXTINF:-1,ES | TVE_LA 1 premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12508.ts
+#EXTINF:-1,ES | VIAJAR premiumtv.org
+http://server.internext.tv:8000/live/star45/star45/12461.ts
