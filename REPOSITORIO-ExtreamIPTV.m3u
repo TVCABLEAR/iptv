@@ -1,23 +1,15 @@
 #EXTM3U
 
-#EXTINF:0,-LISTA GRATIS-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
 
-#EXTINF:-1 tvg-logo="https://nomeloexplicaron.files.wordpress.com/2015/05/bloc-de-notas.png" group-title="LISTA GRATIS", Creación de XTREAM IPTV
-http://m3u.iptvla.xyz/usuarios/src1/StudioUniversal/Fanstv/uC2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
 
-#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/47fc7532-2c5b-427a-af99-c1bf8b12438f/dd3d051621bfc5c55659e847f89521db.png" group-title="LISTA GRATIS",PROHIBIDO PUBLICARLA
-http://m3u.iptvla.xyz/usuarios/src1/StudioUniversal/Fanstv/uC2.m3u8
+#EXTINF:1,EXTREAMIPV update
+http://www.xtreamiptv.cl/free.m3u
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7f/94/f5/7f94f50381ac3dbd5b49d85f63ab433a.jpg" group-title="LISTA GRATIS", PROHIBIDO SU VENTA
-http://m3u.iptvla.xyz/usuarios/src1/StudioUniversal/Fanstv/uC2.m3u8
-
-
-
-
-
-
-
-#EXTINF:0,-CHILE-
+#EXTINF:-1,<<<< LISTA CHILE->>>
 
 #EXTINF:0 type="favorites" tvg-logo="http://2.bp.blogspot.com/-2zj4Ey0x7zk/VP87C4FtLpI/AAAAAAAAEHw/9CjzippWGR4/s1600/Canal%2B13%2BHD%2B2.png" group-title="CHILE", Canal 13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8?iptvgratis?chile.m3u8
@@ -96,7 +88,7 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 
 
-#EXTINF:0,-ARGENTINA-
+#EXTINF:-1,<<<< LISTA ARGENTINA-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/TNC6ww46M6I/AAAAAAAAOs0/G-v0dN2-Bb0/s400/canalcuatro-cablehogar.gif" group-title="ARGENTINA",Canal 4 Cablehogar
 http://media203.services.digitar.net:1935/cablehogar/cablehogar/playlist.m3u8
@@ -178,7 +170,7 @@ http://ar.watcha.live/ch18/lo.m3u8|User-agent=iPhone
 
 
 
-#EXTINF:0,-PERU-
+#EXTINF:-1,<<<< LISTA PERU-
 
 #EXTINF:-1 tvg-logo="https://fotos.subefotos.com/4be39464c8ddc97373823fcf0f159fc7o.png" group-title="PERU",TV PERÚ HD (Lima - Perú)
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
@@ -255,7 +247,7 @@ http://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live
 
 
 
-#EXTINF:0,-VENEZUELA-
+#EXTINF:-1,<<<< LISTA VENEZUELA-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/200px-TeleSUR-Logo.svg.png" group-title="VENEZUELA",TeleSUR 
 https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
@@ -291,7 +283,7 @@ http://enc-fwt.lorini.net/telet/telet/index.m3u8
 
 
 
-#EXTINF:0,-ECUADOR-
+#EXTINF:-1,<<<< LISTA ECUADOR-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/200px-Oromar_logo.png" group-title="ECUADOR",Oromar TV
 http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
@@ -336,7 +328,7 @@ http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
 
 
 
-#EXTINF:0,-PUERTO RICO-
+#EXTINF:-1,<<<< LISTA PUERTO RICO-
 
 
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/3/3a/Telemundo_Puerto_Rico_logo.png/revision/latest?cb=20120909212737" group-title="PUERTO RICO", Telemundo PR
@@ -371,7 +363,7 @@ http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 
 
 
-#EXTINF:0,-DEPORTES-
+#EXTINF:-1,<<<< LISTA DEPORTES-
 
 
 #EXTINF:-1 tvg-logo="http://tab3live.com/upload/7051488378180.png" group-title="DEPORTES",AD Sports 1 HD
@@ -536,8 +528,7 @@ https://live11.userapi.com/637614/live/ZPS1VdJCfc4/playlist.m3u8
 
 
 
-
-#EXTINF:0,-INFANTILES-
+#EXTINF:-1,<<<< LISTA INFANTILES-
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b9jUASs.png" group-title="INFANTILES",TVN Kids
 http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/index-v1-a1.m3u8?
@@ -600,7 +591,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/Stream(0
 
 
 
-#EXTINF:0,-CINE Y SERIES-
+#EXTINF:-1,<<<< LISTA CINE Y SERIES-
 
 
 #EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="CINE Y SERIES", CINE +
@@ -723,7 +714,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(EUROCHANNEL)/Stream
 
 
 
-#EXTINF:0,-España-
+#EXTINF:-1,<<<< LISTA ESPAÑA -
 
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/-RigzES2ZCHs/AAAAAAAAAAI/AAAAAAAAAAA/7Sj9DbFYW3U/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="España", Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
@@ -855,7 +846,7 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 
 
-#EXTINF:0,-MEXICO-
+#EXTINF:-1,<<<< LISTA MEXICO-
 
 #EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="MEXICO", Las Estrellas Latinoamerica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
@@ -1001,7 +992,7 @@ http://149.56.26.6:25461/live/dreamscanales/123456/38878.m3u8
 
 
 
-#EXTINF:0,-LATINO-
+#EXTINF:-1,<<<< LISTA LATINO-
 
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif" group-title="LATINO", Unicable
 http://bitly.com/2udzqqg
@@ -1129,7 +1120,7 @@ http://149.56.26.6:25461/live/dreamscanales/123456/1660.m3u8
 
 
 
-#EXTINF:0,-CentroAmerica-
+#EXTINF:-1,<<<< LISTA CentroAmerica-
 
 #EXTINF:-1 tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" group-title="CentroAmerica",  NEX TV
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
@@ -1195,7 +1186,7 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
 
 
 
-#EXTINF:0,-CULTURA-
+#EXTINF:-1,<<<< LISTA CULTURA-
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/channels/images/6af7c4b2450a42c4b654ea80a3042557-hd.png" group-title="CULTURA", TRAVEL CHANNEL
@@ -1263,7 +1254,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HOLA_TV_HD)/Stream(
 
 
 
-#EXTINF:0,-MUSICA-
+#EXTINF:-1,<<<< LISTA MUSICA-
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/p2c8bPp.png" group-title="MUSICA", MTV LIVE
 http://wowza2.mysoltv.com:1992/Latino_MTV_LIVE/index.m3u8
@@ -1447,7 +1438,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_HD)/Stream(01)/
 
 
 
-#EXTINF:0,-USA-
+#EXTINF:-1,<<<< LISTA USA-
 
 #EXTINF:-1 tvg-logo="http://www.bolsamania.com/seriesadictos/wp-content/uploads/2011/01/abc-logo.jpg" group-title="USA", ABC
 http://149.56.26.6:25461/live/dreamscanales/123456/8551.m3u8
@@ -1628,7 +1619,7 @@ http://149.56.26.6:25461/live/dreamscanales/123456/8452.m3u8
 
 
 
-#EXTINF:0,-SOLO MEXICO (CON GEO)-
+#EXTINF:-1,<<<< LISTA SOLO MEXICO (CON GEO)-
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/5.png" group-title="SOLO MEXICO (CON GEO)", Distrito Comedia (geo)
 http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(01)/index.m3u8
@@ -1648,7 +1639,7 @@ http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/Stream(05)/index.m
 
 
 
-#EXTINF:0,-Conciertos-
+#EXTINF:-1,<<<< LISTA Conciertos-
 
 #EXTINF:1 tvg-logo="http://www.dvd-peliculas.com/_images/_fotos/19171.jpg" group-title="Conciertos", Camila Viña del Mar 2012
 https://www.youtube.com/watch?v=3kTDfixwjbI
@@ -1747,7 +1738,7 @@ https://www.youtube.com/watch?v=HT0ebIu6umw
 
 
 
----ESTRENOS TS LATINOS---
+#EXTINF:-1,<<<<  ESTRENOS TS LATINOS---
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEd4r3UXcAA0Dbz.jpg" group-title="Estrenos TS Lat", Como Cortar a Tu Patan
@@ -1781,7 +1772,7 @@ https://archive.org/download/HaSRREGIO/HaSRREGIO.mkv
 
 
 
----ESTRENOS HD LATINOS---
+#EXTINF:-1,<<<< ESTRENOS HD LATINOS---
 
 
 #EXTINF:-1 tvg-logo="https://images1.dallasobserver.com/imager/u/teaser/9877544/243877h1.jpg" group-title="Estrenos HD Lat", Marjorie Prime
@@ -1849,9 +1840,9 @@ http://www.cinevall.com/videos/terremoto.m4v
 
 
 
----PELICULAS XTREAM IPTV---
+#EXTINF:-1,<<<< PELICULAS XTREAM IPTV
 
-#EXTM3U
+
 
 #EXTINF:-1 tvg-logo="http://www.peliculasabc.net/files/uploads/2006.jpg" group-title="XTREAM IPTV",Capitan Calzoncillos HD
 http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:333-Las_aventuras_del_Capitan_Calzoncillos.mp4/playlist.m3u8
@@ -1996,7 +1987,7 @@ http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:397-I
 
 
 
----PELICULAS NUEVAS---
+#EXTINF:-1,<<<<  PELICULAS NUEVAS---
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/06/11/27/0502981.jpg" group-title="PELICULAS NUEVAS", Wheelman 
 https://archive.org/download/96352487.SRREGIO.NET/96352487.SRREGIO.NET.mp4
@@ -2576,7 +2567,7 @@ http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:369-R
 
 
 
----INFANTILES---
+#EXTINF:-1,<<<< LISTA INFANTILE 2
 
 #EXTINF:-1 tvg-logo="http://www.playcamcine.com/wp-content/uploads/2017/05/xxhdpi.jpg" group-title="Infantiles", Una Cigueña en Apuros
 http://bit.ly/2gBPscZ?JoCaRoMovie
@@ -2702,7 +2693,7 @@ http://bit.ly/2hOe9PM?JoCaRoMovie
 
 
 
----VARIAS LATINO---
+#EXTINF:-1,<<<< LISTA VARIAS LATINO---
 
 
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/06/02/16/13/319196.jpg" group-title="Varias Lat", Tarzan
