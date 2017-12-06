@@ -1,162 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TUTORIALES", FOXplay PARA SIEMPRE ?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 group-title="TUTORIALES", FOXPLAY PARA SIEMPRE?
 https://www.youtube.com/watch?v=vU-DXf0KoN8
 
 #EXTINF:-1 group-title="TUTORIALES", FOX PREMIUM GRATIS
 https://www.youtube.com/watch?v=j1ZueOfQ1BM
 
-#EXTINF:-1 group-title="TUTORIALES", COMO BUSCAR LISTAS M3U
+#EXTINF:-1 group-title="TUTORIALES", COMO BUSCAR LISTAS
 https://www.youtube.com/watch?v=3wFsIQXUC7o
 
 #EXTINF:-1 group-title="TUTORIALES", LISTAS REMOTAS 2017/8
 https://www.youtube.com/watch?v=fMcH9w47ToE
-
-#EXTINF:-1 group-title="NOUSIPTV" , Canal +
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/838.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Canal J HD FR
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/839.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Canal Plus Cinema HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/278.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Canal Plus Decale HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/808.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Canal Plus Emotion HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/275.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Canal Plus Family
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/833.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Canal Plus Premier HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/276.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Canal Plus Series HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/293.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Canal Plus Sport HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/277.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Cine Plus Frisson HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/280.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Cine Polar
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/827.ts
-#EXTINF:-1 group-title="NOUSIPTV" , D17
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/828.ts
-#EXTINF:-1 group-title="NOUSIPTV" , D8
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/822.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Discovery France
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/829.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Arte HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/294.ts
-#EXTINF:-1 group-title="NOUSIPTV" , M6 HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/273.ts
-#EXTINF:-1 group-title="NOUSIPTV" , NRJ12
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/832.ts
-#EXTINF:-1 group-title="NOUSIPTV" , NT1
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/824.ts
-#EXTINF:-1 group-title="NOUSIPTV" , National Geographic FR
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/830.ts
-#EXTINF:-1 group-title="NOUSIPTV" , FOOT+ 24
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/835.ts
-#EXTINF:-1 group-title="NOUSIPTV" , InfoSport +
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/836.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Disney Junior HD 3D
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/292.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Disney Junior HD DE
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/687.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Boomerang
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/821.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Teletoon +
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/837.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Action HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/819.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Animaux HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/843.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Fox Crime
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/25.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Paris Premiere
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/825.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Serie Club HD FR
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/840.ts
-#EXTINF:-1 group-title="NOUSIPTV" , SyFy France
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/834.ts
-#EXTINF:-1 group-title="NOUSIPTV" , TMC HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/823.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Weo HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/842.ts
-#EXTINF:-1 group-title="NOUSIPTV" , w9 HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/807.ts
-#EXTINF:-1 group-title="NOUSIPTV" , TRT HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/313.ts
-#EXTINF:-1 group-title="NOUSIPTV" , TRT Belgesel
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/711.ts
-#EXTINF:-1 group-title="NOUSIPTV" , TRT Muzic
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/563.ts
-#EXTINF:-1 group-title="NOUSIPTV" , TRT Spor
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/712.ts
-#EXTINF:-1 group-title="NOUSIPTV" , NTV Turk
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/314.ts
-#EXTINF:-1 group-title="NOUSIPTV" , A Spor TR
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/710.ts
-#EXTINF:-1 group-title="NOUSIPTV" , ATV Turk
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/312.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Show TV HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/316.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Star TV
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/352.ts
-#EXTINF:-1 group-title="NOUSIPTV" , KANAL 7 HD
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/317.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Fox Turk
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/315.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Dream TV
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/326.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Kanal D
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/324.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Euro D Turk
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/704.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Kral TV Turkey
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/562.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Dream Turk
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/325.ts
-#EXTINF:-1 group-title="NOUSIPTV" , CNN Turk
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/311.ts
-#EXTINF:-1 group-title="NOUSIPTV" , NTV Sport Turk
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/318.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Moviemax HD TR
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/708.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Salon 1
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/319.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Salon 2
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/320.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Salon 3
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/321.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Samanyolu TV
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/706.ts
-#EXTINF:-1 group-title="NOUSIPTV" , TGRT EU
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/702.ts
-#EXTINF:-1 group-title="NOUSIPTV" , TRT 3 Spor
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/713.ts
-#EXTINF:-1 group-title="NOUSIPTV" , Turk Sports
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/322.ts
-#EXTINF:-1 group-title="NOUSIPTV" , TV 8 Turk
-http://allgames.onlygames.co:43666/live/shqip1/shqip22/705.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-2 group-title="NOUSIPTV",<<<NOUSIPTV>>>
