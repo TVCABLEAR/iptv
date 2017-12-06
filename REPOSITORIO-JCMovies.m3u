@@ -1,5 +1,12 @@
-#EXTM3U 
+#EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
 
 #EXTINF:-1 tvg-name="Macario" tvg-logo="https://2.bp.blogspot.com/-gzKVdtdSVxA/U0nVMabe6bI/AAAAAAAAdCg/ee_Amk6kWTM/s640/Macario-CSF-1960-Roberto_Gavaldon-Cartel.jpg" group-title="Mexicanas",Macario
 http://bit.ly/2hHpOjq
