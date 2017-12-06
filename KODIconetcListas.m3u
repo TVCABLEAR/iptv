@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1,INFORMACION SOBRE LISTAS
+https://github.com/TVCABLEAR/iptv/blob/master/LOADING.gif
+https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png
+
 
 #EXTINF:-1,Canal +
 http://allgames.onlygames.co:43666/live/shqip1/shqip22/838.ts
