@@ -604,3 +604,88 @@ http://cdn2.ujjina.com:1935/iptvpacifico/livepacificotv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TV CHANNELLS",PAX CATÓLICO Perú
 http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b1735000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", ENTRETENIMIENTO:Fox -
+http://35.196.195.222/hls/live/channel5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", ENTRETENIMIENTO:TNT -
+http://35.196.195.222/hls/live/channel8.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:AZTEKA 13-
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:TV MEXIQUENSE-
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:AZ CLICK-
+http://bit.ly/2yFTOFY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:CANAL 5-
+http://s1.iptvmanagerpro.com/stream_14_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:GALATV YUCATAN-
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:MULTIMEDIOS-
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:CANAL ONCE-
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:ADN 40-
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:AZTECA A+-
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:EFEKTO TV -
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:TV MAS-
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:MILENIO TV-
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:CANAL 2 OBREGON -
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:CANAL 7 MAZATLAN -
+http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:CANAL 2 LOS MOCHIS-
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:TELEMAR CAMPECHE-
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", MEXICO:CANAL JUDICIAL-
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", PREMIUM:FOX MOVIES-
+http://144.217.79.223:8000/live/vidal/vidal/604.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", PREMIUM:UNIVERSAL CHANNEL-
+http://144.217.79.223:8000/live/vidal/vidal/255.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", PREMIUM:DISCOVERY CHANNEL-
+http://144.217.79.223:8000/live/vidal/vidal/2038.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", PREMIUM:FX-
+http://144.217.79.223:8000/live/vidal/vidal/268.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", PREMIUM:SONY-
+http://144.217.79.223:8000/live/vidal/vidal/269.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", PREMIUM:WARNER BROTHER-
+http://144.217.79.223:8000/live/vidal/vidal/398.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", PREMIUM:GLITZ-
+http://144.217.79.223:8000/live/vidal/vidal/2307.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", PREMIUM:FILM ZONE-
+http://144.217.79.223:8000/live/vidal/vidal/256.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", PREMIUM:SPACE-
+http://144.217.79.223:8000/live/vidal/vidal/265.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", PREMIUM:CINECAL-
+http://144.217.79.223:8000/live/vidal/vidal/1385.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", INFANTILES:DisneyChannel-
+http://144.217.79.223:8000/live/vidal/vidal/820.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", INFANTILES:TOONSCAST-
+http://144.217.79.223:8000/live/vidal/vidal/2329.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", INFANTILES:DiscoveryKids-
+http://144.217.79.223:8000/live/vidal/vidal/822.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", INFANTILES:BOOMERANG-
+http://144.217.79.223:8000/live/vidal/vidal/827.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", INFANTILES:DISNEY XD-
+http://144.217.79.223:8000/live/vidal/vidal/818.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", DEPORTES:WIN SPORT-
+http://144.217.79.223:8000/live/vidal/vidal/351.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", DEPORTES:FOX SPORT 2-
+http://144.217.79.223:8000/live/vidal/vidal/602.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", DEPORTES:ESPN-
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", DEPORTES:ESPN 2-
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", DEPORTES:ESPN 3-
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(07)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", LATINOS:LATINA HD-
+http://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", LATINOS:TELEMUNDO-
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Diciembre2017", LATINOS:RCN-
+http://vivoplay-i.akamaihd.net/hls/live/255327/canal1/master2500k.m3u8
