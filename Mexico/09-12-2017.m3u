@@ -1,0 +1,48 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+
+#EXTINF:-1 type="stream" channelId="-1" tvg-group="MEXICO MX", A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 type="stream" channelId="255" tvg-name="Azteca 7" tvg-group="MEXICO MX", AZTECA 7
+http://149.56.26.6:25461/live/2130/2130/25075.ts
+
+#EXTINF:-1 type="stream" channelId="2660" tvg-group="MEXICO MX", AZTECA 13 HD 
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+#EXTINF:-1 type="stream" channelId="-1"  tvg-group="MEXICO MX", AZTECA CINEMA(1080).
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14891.ts
+
+#EXTINF:-1 type="stream" channelId="-1"  tvg-group="MEXICO MX", AZTECA MUNDO
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZMUNDO_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 type="stream" channelId="1954" tvg-name="Estrellas" tvg-group="MEXICO MX", Las Estrellas
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:-1 type="stream" channelId="-1"  tvg-group="MEXICO MX", MVS NOTICIAS
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+
+#EXTINF:-1 type="stream" channelId="-1"  tvg-group="MEXICO MX", CANAL DEL CONGRESO
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
+
+#EXTINF:-1 type="stream" channelId="-1"  tvg-group="MEXICO MX", CANAL JUDICIAL
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+
+#EXTINF:-1 type="stream" channelId="2690" tvg-group="MEXICO MX", ADN 40 HD
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
+#EXTINF:-1 type="stream" channelId="1953" tvg-group="MEXICO MX", DE PELICULA HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/index.m3u8
+
+#EXTINF:-1 type="stream" channelId="328" tvg-group="MEXICO MX", FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1 type="stream" channelId="388" tvg-group="MEXICO MX", UNICABLE
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/Stream(01)/index.m3u8
