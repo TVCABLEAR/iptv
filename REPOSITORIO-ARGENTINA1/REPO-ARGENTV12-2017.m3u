@@ -1,7 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1,ARGENTINA CRONICA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1, CRONICATV US
+http://us.watcha.live/ch18/hi.m3u8
+#EXTINF:-1, CRONICATV AR
 http://ar.watcha.live/ch18/hi.m3u8
 
 #EXTINF:-1,ARGENTINA TELEFE HD
