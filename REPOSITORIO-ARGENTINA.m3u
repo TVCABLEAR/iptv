@@ -1,4 +1,58 @@
-http://ar.watcha.live/ch18/hi.m3u8 Crónica HD
 
-[8:09:04] Jorge MIANA:
-#EXTM3U #EXTINF:-1,17 TELEFE http://ar.watcha.live/ch6/hi.m3u8 #EXTINF:-1,18 CANAL 13 http://ar.watcha.live/ch7/hi.m3u8 #EXTINF:-1,19 CANAL 9 http://ar.watcha.live/ch5/hi.m3u8 #EXTINF:-1,20 C5N http://ar.watcha.live/ch1/hi.m3u8 #EXTINF:-1,21 A24 http://ar.watcha.live/ch2/hi.m3u8 #EXTINF:-1,22 CINE ARGENTINO http://us.watcha.live/ch17/hi.m3u8 #EXTINF:-1,23 T Y C SPORT HD http://190.57.234.164/V5/5/1.m3u8 #EXTINF:-1,24 FOX SPORTS ARG http://190.57.234.164/V5/2/1.m3u8 #EXTINF:-1,25 Fox Sports 3 (ARG) http://190.57.234.164/V5/1/1.m3u8 #EXTINF:-1,26 FOX SPORTS http://190.57.234.164/V6/6/1.m3u8 #EXTINF:-1,30 CN 24/7 - 17CTV - Neuquén http://142.4.208.146:1935/cn247/cn247/chunklist_w1749576870.m3u8 #EXTINF:-1,31 ORBE TV http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8?sd=10&rebase=on #EXTINF:-1,32 TV PUBLICA http://190.57.234.164/V2/1/1.m3u8 #EXTINF:-1,33 AMERICA http://190.57.234.164/V2/7/1.m3u8 #EXTINF:-1,34 CANAL 10 MDP http://186.0.233.76:1935/Canal10MDQ/smil:canal10mdq.smil/chunklist_w1639354169_b1912000_sleng.m3u8 #EXTINF:-1,35 - 24/7 Noticias NQN http://142.4.208.146:1935/cn247/cn247/chunklist.m3u8 #EXTINF:-1,36 Telemax en Vivo - Argentina http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1695602278_b364000_sleng.m3u8 #EXTINF:-1,ARGENTINA:39 Canal 4 Jujuy http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8 #EXTINF:-1,ARGENTINA:40 Canal 9 Salta http://panel.dattalive.com:1935/8250/8250/playlist.m3u8 #EXTINF:-1,ARGENTINA:42 Canal de la Ciudad http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8 #EXTINF:-1,ARGENTINA:44 Cool 103.7 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8 #EXTINF:-1,ARGENTINA:46 Music Top http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8 #EXTINF:-1,ARGENTINA:48 Power HD http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8 #EXTINF:-1,ARGENTINA:49 Radio One http://server5.stweb.tv/radioone/live/playlist.m3u8 #EXTINF:-1,ARGENTINA:50 Tec TV http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8 #EXTINF:-1,ARGENTINA:51 TelpinTV Canal 2 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+
+#EXTM3U 
+#EXTINF:-1,ARGENTINA:18 CRONICA TV HD
+http://ar.watcha.live/ch18/hi.m3u8 Crónica HD
+#EXTINF:-1,ARGENTINA:17 TELEFE 
+http://ar.watcha.live/ch6/hi.m3u8 
+#EXTINF:-1,ARGENTINA:18 CANAL 13 
+http://ar.watcha.live/ch7/hi.m3u8 
+#EXTINF:-1,ARGENTINA:19 CANAL 9
+http://ar.watcha.live/ch5/hi.m3u8 
+#EXTINF:-1,ARGENTINA:20 C5N 
+http://ar.watcha.live/ch1/hi.m3u8 
+#EXTINF:-1,ARGENTINA:21 A24 
+http://ar.watcha.live/ch2/hi.m3u8 
+#EXTINF:-1,ARGENTINA:22 CINE AR
+http://us.watcha.live/ch17/hi.m3u8 
+#EXTINF:-1,ARGENTINA:23 T Y C SPORT HD 
+http://190.57.234.164/V5/5/1.m3u8 
+#EXTINF:-1,ARGENTINA:24 FOX SPORTS 1
+http://190.57.234.164/V5/2/1.m3u8 
+#EXTINF:-1,ARGENTINA:25 FOX SPORTS 3
+http://190.57.234.164/V5/1/1.m3u8 
+#EXTINF:-1,ARGENTINA:26 FOX SPORTS 2 
+http://190.57.234.164/V6/6/1.m3u8 
+#EXTINF:-1,ARGENTINA:30 CN 24/7 - 17CTV - Neuquén 
+http://142.4.208.146:1935/cn247/cn247/chunklist_w1749576870.m3u8 
+#EXTINF:-1,ARGENTINA:31 ORBE TV 
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8?sd=10&rebase=on 
+#EXTINF:-1,ARGENTINA:32 TV PUBLICA 
+http://190.57.234.164/V2/1/1.m3u8 
+#EXTINF:-1,ARGENTINA:33 AMERICA 
+http://190.57.234.164/V2/7/1.m3u8 
+#EXTINF:-1,ARGENTINA:34 CANAL 10 MDP 
+http://186.0.233.76:1935/Canal10MDQ/smil:canal10mdq.smil/chunklist_w1639354169_b1912000_sleng.m3u8 
+#EXTINF:-1,ARGENTINA:35 - 24/7 Noticias NQN 
+http://142.4.208.146:1935/cn247/cn247/chunklist.m3u8 
+#EXTINF:-1,ARGENTINA:36 Telemax en Vivo - Argentina 
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1695602278_b364000_sleng.m3u8 
+#EXTINF:-1,ARGENTINA:39 Canal 4 JUJUY 
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8 
+#EXTINF:-1,ARGENTINA:40 Canal 9 SALTA 
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8 
+#EXTINF:-1,ARGENTINA:42 Canal de la Ciudad 
+http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8 
+#EXTINF:-1,ARGENTINA:44 Cool 103.7 
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8 
+#EXTINF:-1,ARGENTINA:46 Music Top 
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8 
+#EXTINF:-1,ARGENTINA:48 Power HD 
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8 
+#EXTINF:-1,ARGENTINA:49 Radio One 
+http://server5.stweb.tv/radioone/live/playlist.m3u8 
+#EXTINF:-1,ARGENTINA:50 Tec TV 
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8 
+#EXTINF:-1,ARGENTINA:51 TelpinTV Canal 2 
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
