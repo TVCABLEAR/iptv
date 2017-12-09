@@ -1,0 +1,571 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/lared.png" group-title="Canales Chile", La Red HD
+http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/ucv.png" group-title="Canales Chile", UCV HD
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/tvn.jpg" group-title="Canales Chile", TVN HD
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/mega.png" group-title="Canales Chile", MEGA HD
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/chv.png" group-title="Canales Chile", CHV (432p)
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/chv.png" group-title="Canales Chile", CHV (352p)
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/c13.png" group-title="Canales Chile", Canal 13 (432p)
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-desktopc3vW.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/c13.png" group-title="Canales Chile", Canal 13 (352p)
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/c13.png" group-title="Canales Chile", HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8?
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/rectv.png" group-title="Canales Chile", REC TV
+http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/13cn.jpg" group-title="Canales Chile", 13C
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/etctv.png" group-title="Canales Chile", ETC TV
+http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/chunklist.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/cnnchile.jpg" group-title="Canales Chile", CNN Chile
+rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/cnnchile.jpg" group-title="Canales Chile", CNN Chile (alt)
+rtmpt://200.83.3.28/CNN-CHILE playpath=CNN-CHILE swfUrl=http://vtr.com/cnnf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://elpi.co/
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/bbtv.jpg" group-title="Canales Chile", BioBio Chile TV
+http://movilstream.digitalproserver.com/bbtvscl/bbtvsclvivo/livestream1/chunklist.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/tvchile.png" group-title="Canales Chile", TVN Señal Int. (TV Chile)
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/vivedeportes.jpg" group-title="Canales Chile", ViveDeportes
+http://200.104.250.182:1935/vtr_vivedeportes_online/vivedeportes-ipad/playlist.m3u8?wowzasessionid=1070247734
+ 
+#EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/cdo.png" group-title="Canales Chile", CDO HD
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w1856510482_b2048000.m3u8
+ 
+#EXTINF:-1, tvg-logo="" group-title="Canales Chile", Camara de Diputados
+rtmp://camara.ztreaming.com:80/camara8 playpath=streamcam8.sdp swfUrl=http://www.cdtv.cl/flowplayer.commercial-3.2.5.swf live=1 pageUrl=http://www.cdtv.cl/
+ 
+#EXTINF:-1, tvg-logo="" group-title="Canales Chile", TV Senado
+http://senadortmp.janus.cl/senadotv/senado600/playlist.m3u8
+ 
+#EXTINF:-1, tvg-logo="" group-title="Canales Chile", Teletrak
+http://movilstream.digitalproserver.com/sporting/sportingvivo/livestream1/chunklist.m3u8
+ 
+#EXTINF:-1, tvg-logo="" group-title="Canales Chile", Poder Judicial TV (leer changelog)
+http://cdn.ztreaming.com/eltelon/ngrp:live_all/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",13HD
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-desktopc3vW.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",13SD
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",13C
+http://190.96.94.214/13c/grpz13c/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",CHVHD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",CHVSD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",MEGAHD
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",MEGA
+http://mdstrm.com/live-stream-playlist/53f25f590e6b60d52a5ae31f.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",La Red
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",La RedHD
+http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",TVN
+http://mdstrm.com/live-stream-playlist-v/525431f81bc42c4539000057.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",TVNHD
+http://wow3.tvn.cl:1935/liveedge/smil:tvnelemental.smil/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",TVCHILE
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",UCVHD
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",UCV
+http://movilstream.digitalproserver.com/ucvtv/ucvtvvivo/ucvtv.smil/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",ETCTV
+http://stream210.digitalproserver.com:1935/etctv/etctvvivo/livestream1/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",ETCTV
+http://stream210.digitalproserver.com/etctv/etctvvivo/livestream2/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",ETCTV
+http://stream210.digitalproserver.com/etctv/etctvvivo/livestream3/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",RECTV
+http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",VIVEDEPORTES
+rtsp://200.104.250.183/vtr_vivedeportes_online/vivedeportes-web
+ 
+#EXTINF:-1, group-title="Canales Chile",CNN CHILE
+rtsp://200.104.250.183/vtr_cnn_online/cnn-web
+ 
+#EXTINF:-1, group-title="Canales Chile",GOL TV
+http://www.ienlace-tv.com:1935/live12/livestream1.sdp/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",ESPN
+rtmp://wdc.cxnlive.com/live/espn.stream
+ 
+#EXTINF:-1, group-title="Canales Chile",Fox Sport
+rtmp://wdc.cxnlive.com/live/foxsd.stream
+
+ 
+#EXTINF:-1, group-title="Canales Chile",BBC 1
+http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_one_london/bbc_one_london.isml/bbc_one_london-audio_2=96000-video=1374000.m3u8?Vd?u#bt!25
+ 
+#EXTINF:-1, group-title="Canales Chile",BBC 2
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
+ 
+#EXTINF:0,ITV
+http://uk.stream.yo.tv/livehttporigin/ITV1_360p.stream/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",Channel 4
+http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",CHANNEL 5
+http://uk.stream.yo.tv/livehttporigin/Channel5_360p.stream/chunklist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",BBC Three
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc3.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",Comedy Central
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+ 
+#EXTINF:-1, group-title="Canales Chile",FX HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=104&lan=2&rows=40&f=.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",SYFY
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+ 
+#EXTINF:-1, group-title="Canales Chile",DMAX
+http://202.75.23.34/live/ch32/01.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",CBS Reality
+http://83.139.104.123/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",FOX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=88&lan=2&rows=40&f=.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",FOX LIFE
+http://130.0.24.5:9999/udp/228.200.200.24:30000
+ 
+#EXTINF:-1, group-title="Canales Chile",FOX CRIME
+http://130.0.24.5:9999/udp/228.200.200.25:30000
+ 
+#EXTINF:-1, group-title="Canales Chile",WARNER TV
+rtmp://31.204.128.76/live/master22?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",Classic TV
+rtmp://204.107.26.252:8086/live/514.high.stream
+ 
+#EXTINF:-1, group-title="Canales Chile",Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",HD MEDIA 3D
+rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream
+ 
+#EXTINF:-1, group-title="Canales Chile",Discovery Channel
+http://202.75.23.34/live/ch29/03.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",Discovery World
+http://202.75.23.34/live/ch30/01.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",Nat Geo Wild
+http://202.75.23.35/live/ch39/03.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",National Geographic
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",Animal Planet HD
+http://202.75.23.34/live/ch31/03.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",Outdoor Channel
+rtmp://lm02.everyon.tv:1935/ptv2/pld613?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",Viasat Explorer
+http://83.139.104.123/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",Viasat History
+http://83.139.104.123/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",TLC
+http://202.75.23.34/live/ch35/01.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",GINX (Games)
+rtmp://204.107.26.252:8086/live/796.high.stream
+ 
+#EXTINF:-1, group-title="Canales Chile",Beauty TV
+rtsp://46.249.213.87/broadcast/beautytv-tablet.3gp
+ 
+#EXTINF:-1, group-title="Canales Chile",Home And Health
+http://202.75.23.34/live/ch34/01.m3u8
+ 
+ 
+#EXTINF:-1, group-title="Canales Chile",BBC [COLOR red]N[/COLOR]ews
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25
+ 
+#EXTINF:-1, group-title="Canales Chile",I24 [COLOR red]N[/COLOR]ews
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",ABC [COLOR red]N[/COLOR]ews
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+ 
+#EXTINF:-1, group-title="Canales Chile",Al Jazeera [COLOR red]N[/COLOR]ews
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",CNBC
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on timeout=10
+ 
+#EXTINF:-1, group-title="Canales Chile",RT America
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8?Vd?u#bt!25
+ 
+#EXTINF:-1, group-title="Canales Chile",CCTV [COLOR red]N[/COLOR]ews
+http://77.36.61.45:8010/CCTVNews.m3u8?Vd?u#bt!25
+
+ 
+#EXTINF:-1, group-title="Canales Chile",CBEEBIES
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+ 
+#EXTINF:-1, group-title="Canales Chile",DISNEY JR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+ 
+#EXTINF:-1, group-title="Canales Chile",DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+ 
+#EXTINF:-1, group-title="Canales Chile",DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+ 
+#EXTINF:-1, group-title="Canales Chile",CARTOON NETWORK
+rtmp://rtmp.zerocast.tv:1935/live playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+ 
+#EXTINF:-1, group-title="Canales Chile",[COLOR orange] Nick[/COLOR]elodeon
+http://hls.novotelecom.ru/streaming/nickelodeon/tvrec/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",[COLOR orange] NICK[/COLOR] JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+ 
+#EXTINF:-1, group-title="Canales Chile",Boomerang
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",CARTOONS AND COMEDY
+rtmp://mi2.gv.filmon.com:1935/live/_definst_/2734.low.stream?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",CartoonitO
+http://202.75.23.36/live/ch49/03.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",Tom&Jerry
+http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+
+ 
+#EXTINF:-1, group-title="Canales Chile",LIVE DANCE HD
+rtmp://91.201.78.3/live playpath=dancehd swfurl=http://www.livehd.tv/player/player.swf live=1 pageurl=http://www.livehd.tv/live.php?stream=dance&resolution=hd/?b?b*t$ token=6c69766568642e747620657374652063656c206d616920746172652121
+ 
+#EXTINF:-1, group-title="Canales Chile",LIVE JAZZ HD
+rtmp://91.201.78.3/live playpath=jazzhd swfurl=http://www.livehd.tv/player/player.swf live=1 pageurl=http://www.livehd.tv/live.php?stream=jazz&resolution=hd/?b?b*t$ token=6c69766568642e747620657374652063656c206d616920746172652121
+ 
+#EXTINF:-1, group-title="Canales Chile",LIVE MIX HD
+rtmp://91.201.78.3/live playpath=onehdhd swfurl=http://www.livehd.tv/player/player.swf live=1 pageurl=http://www.livehd.tv/live.php?stream=livemix&resolution=hd/?b?b*t$ token=6c69766568642e747620657374652063656c206d616920746172652121
+ 
+#EXTINF:-1, group-title="Canales Chile",LIVE POP HD
+rtmp://91.201.78.3/live playpath=pophd swfurl=http://www.livehd.tv/player/player.swf live=1 pageurl=http://www.livehd.tv/live.php?stream=pop&resolution=hd/?b?b*t$ token=6c69766568642e747620657374652063656c206d616920746172652121
+ 
+#EXTINF:-1, group-title="Canales Chile",LIVE ROCK HD
+rtmp://91.201.78.3/live playpath=rockhd swfurl=http://www.livehd.tv/player/player.swf live=1 pageurl=http://www.livehd.tv/live.php?stream=rock&resolution=hd/?b?b*t$ token=6c69766568642e747620657374652063656c206d616920746172652121
+ 
+#EXTINF:0,VH1
+rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates/?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",4 Music
+http://81.23.58.184:8080/udp/0.0.0.0:20004
+ 
+#EXTINF:-1, group-title="Canales Chile",Heart TV
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo//Heart
+ 
+#EXTINF:-1, group-title="Canales Chile",Heat
+http://csm-e.cds1.yospace.com/csm/live/86561584.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",Kiss TV
+http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",Magic.
+http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",The Box
+http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",Now Thats What I Call Music Channel
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",Clubland.
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",Kerrang!
+http://csm-e.tm.yospace.com/csm/live/78581309.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",gotica tv
+rtmp://149.11.34.6:1935/live/gotica.stream
+ 
+#EXTINF:-1, group-title="Canales Chile",[COLOR pink] Pink[/COLOR] Live
+http://on108.setplex.net/fastv_2psh/PinkLiveglobal_rly_greece_103/playlist.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",[COLOR pink] Pink[/COLOR] M
+http://on108.setplex.net/fastv_2psh/PinkMglobal_rly_greece_109/hasbahca.m3u8?b?b*t$
+ 
+
+#EXTINF:-1, group-title="Canales Chile",FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+ 
+#EXTINF:-1, group-title="Canales Chile",Fox Premiers
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=300&lan=2&rows=40&f=.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",Fox Action
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=304&lan=2&rows=40&f=.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile", FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+ 
+#EXTINF:-1, group-title="Canales Chile",Fox Family
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=343&lan=2&rows=40&f=.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",FOX CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+ 
+#EXTINF:-1, group-title="Canales Chile",FILM ZONE HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+ 
+#EXTINF:-1, group-title="Canales Chile",Cinestar Action
+http://83.139.104.123/Content/HLS/Live/Channel(cinestar_action_and_thriller)/Stream(03)/index.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",CineStar PREMIERE 1
+http://83.139.104.123/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",CineStar PREMIERE 2
+http://83.139.104.123/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",[COLOR pink] Pink[/COLOR] Action
+http://on108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/playlist.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",[COLOR pink] Pink[/COLOR] Action 2
+http://on108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/playlist.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",[COLOR pink] Pink[/COLOR] Movies 3
+http://on108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/playlist.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",[COLOR pink] Pink[/COLOR] Comedy
+http://on108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/playlist.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",[COLOR pink] Pink[/COLOR] Horror
+http://on108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/playlist.m3u8?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",Classic Movies
+rtmp://mi2.gv.filmon.com:8086/live/206.high.stream?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",Martial Arts
+rtmp://mi2.gv.filmon.com:8086/live/10.high.stream
+
+ 
+#EXTINF:-1, group-title="Canales Chile",sky sports 1 [COLOR green] 80% works[/COLOR]
+http://178.33.24.14:15551/
+ 
+#EXTINF:-1, group-title="Canales Chile",sky sports 2 [COLOR green] 90% works[/COLOR]
+rtmp://46.246.29.130:1935/stream playpath=C9GiZ6Is2i.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php
+ 
+#EXTINF:-1, group-title="Canales Chile",sky sports 3 [COLOR green] 90% works[/COLOR]
+rtmp://46.246.29.130:1935/stream playpath=0szq1PrXpA.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php timeout=10
+ 
+#EXTINF:-1, group-title="Canales Chile",sky sports 4 [COLOR green] 90% works[/COLOR]
+rtmp://46.246.29.130:1935/stream playpath=1vvIomapXJ.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php timeout=10
+ 
+#EXTINF:-1, group-title="Canales Chile",sky sports 5 [COLOR green] 70% works[/COLOR]
+rtmp://46.246.29.130:1935/stream playpath=00npFnXMLx.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php  timeout=10
+ 
+#EXTINF:-1, group-title="Canales Chile",FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+ 
+#EXTINF:-1, group-title="Canales Chile",FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+ 
+#EXTINF:0,Viasat Golf
+http://84.32.80.15:7781/udp/233.136.41.85:1234
+ 
+#EXTINF:-1, group-title="Canales Chile",Bein Sport Eng
+http://180.250.29.21/jhos/bein3/1420248720/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",Bein Sports 1 Eng
+http://180.250.29.21/jhos/bein1/1420248174/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",Bein Sports 2 eng
+http://180.250.29.21/jhos/bein2/1420248352/playlist.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",Wrestling TV
+rtmp://77.50.145.30/live/rtplive?b?b*t$
+ 
+#EXTINF:-1, group-title="Canales Chile",BT Sport 1 [COLOR green] 85% works[/COLOR]
+rtmp://46.246.29.130:1935/stream playpath=0B0AridcOE.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php timeout=10
+ 
+#EXTINF:-1, group-title="Canales Chile",Setanta Sports
+http://202.75.23.36/live/ch44/01.m3u8?Vd?u#bt!25
+ 
+#EXTINF:-1, group-title="Canales Chile",ESPN
+rtmp://46.246.29.130:1935/stream playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php timeout=10
+ 
+#EXTINF:-1, group-title="Canales Chile",ESPN2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+ 
+#EXTINF:-1, group-title="Canales Chile",Sports Night HD
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+ 
+#EXTINF:-1, group-title="Canales Chile", SPORT TIME TV
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+ 
+#EXTINF:-1, group-title="Canales Chile",EUROSPORT
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",EUROSPORT 2
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+ 
+#EXTINF:-1, group-title="Canales Chile",Extreme Sports
+http://83.139.104.123/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8?b?b*t$
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/tv chile.jpg",TV Chile
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/tvn.jpg",TVN Chile HD 720
+http://edge-20-gtd.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/tvn.jpg",TVN Chile
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b500000.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/mega-cl.jpg",MEGA HD 720 Chile
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/mega-cl.jpg",MEGA Chile
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b400.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/la red.jpg",La Red HD 720 Chile
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/Canal 13 chile.jpg",Canal 13 Chile HD
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-desktopc3vW.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/Canal 13 chile.jpg",Canal 13 Chile
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/chilevision.jpg",Chilevision HD 720 Chile
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/chilevision.jpg",Chilevision Chile
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/ rectvchile.jpg",REC TV Chile
+http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/canal 9 bio bio.jpg",Canal 9 Bio Bio HD 720
+http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8?MegaIPTVArgentina
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/canal 9 bio bio.jpg",Canal 9 Bio Bio
+http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w500751237_b1200000.m3u8?MegaIPTVArgentina
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/canaldelvino.jpg",Canal del Vino Chile
+http://evo.eltelon.com:443/live/canaldelvinotv/playlist.m3u8?MegaIPTVArgentina
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/cesfamtv.jpg",Cesfam TV Chile
+http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/dchtv.jpg",DCH TV Chile
+http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/subtv.jpg",SUB TV Santiago Chile
+mmsh://190.196.9.186:8080/subtv
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/elpinguino.jpg",El Pingüino TV Chile
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/canal2chile.jpg",Canal 2 San Antonio Chile
+rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/canal2vtv.jpg",Canal 2 ValleTV Chile
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?MegaIPTVArgentina
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/atv-valdivia.jpg",ATV Valdivia Chile
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/tv4.jpg",TV 4 Chile
+http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/tvindependencia.jpg",TV Independencia Chile
+http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?MegaIPTVArgentina
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/campustvcl.jpg",Campus TV Chile
+http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/aysentv.jpg",Aysen TV Chile
+http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/hasbahca.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/aricatv.jpg",Arica TV Canal 12 Chile
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/quintavision.jpg",Quinta Vision Viña del Mar Chile
+http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/canal5linares.jpg",Canal 5 Linares Chile
+rtmp://v1.streaminglatinoamerica.com/canal5/canal5
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/tvred.jpg",TV Red Chile
+http://69.164.193.177:1935/live/myStream/chunklist.m3u8?wowzasessionid=2143164950
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",HSN
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Enlace TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Enlace Juvenil
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Juce TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Teleantillas Canal 2
+http://mek4.mekstream.com/teleantillas/smil:teleantillas.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Certv Canal 4
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Antena Latina Canal 7
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Peravia Vision Canal 8 Bani
+http://ss7.domint.net:1966/pr_str/peravia/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Color Vision Canal 9
+http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Luna Vision Canal 10 Bonao
+http://ss7.domint.net:1986/yv_str/yuna/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Telesistema Canal 11
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",TV Higuey Canal 12
+http://asx.domiplay.net:1935/rtplive/tvhiguey.sdp/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Telefuturo Canal 23
+http://ss7.domint.net:1950/tf_str/futu/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Canal 25 Santiago
+http://ss7.domint.net:2074/tdtv_str/vision/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",CDN Canal 37
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Teleradio America Canal 45
+http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",TNI Canal 51 Santiago
+http://ss7.domint.net:2078/tni_str/canal51/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Super TV 55 Santiago
+http://ss7.domint.net:2022/stv_str/tv55/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",TV Recuerdos Canal 56 Santo Domingo
+http://media.az-streamingserver.com:1935/7248/7248/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Telecontacto Canal 57 Santiago
+http://stream.prostudionetwork.com:1957/telecontacto/TC/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",CDN Sports Max
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 group-title="TV Chile" tvg-logo="Images/playertvicon.png",Telemundo
+http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
