@@ -113,8 +113,11 @@ http://iptv61w.com:25461/live/moises123/moises123/6473.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", VE PLUS
 http://iptv61w.com:25461/live/moises123/moises123/4113.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", LATINA (PERU)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", LATINA 1(PERU)
 http://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", LATINA 2(PERU)
+http://46.166.142.225:8088/stream/fulltvhd4/playlist.m3u8?id=7474&wowzasessionid=0600522&pk=ee35a73a400709ebfce40531c06b6bcef5ed7146a5df0e533ed937c72d09f717
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", ATV 1 (PERU)
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8
