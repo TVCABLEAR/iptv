@@ -1,0 +1,36 @@
+#EXTM3U
+
+#EXTINF:-1,BEIN SPORTS
+http://192.99.18.65:8000/live/PERSONL/1212/424.m3u8
+#EXTINF:-1,ESPN+
+http://192.99.18.65:8000/live/PERSONL/1212/442.m3u8
+#EXTINF:-1,ESPN DEPORTES
+http://192.99.18.65:8000/live/PERSONL/1212/1067.m3u8
+#EXTINF:-1,ESPN 2
+http://192.99.18.65:8000/live/PERSONL/1212/1048.m3u8
+#EXTINF:-1,ESPN 3
+http://149.56.26.6:25461/live/dreamscanales/123456/5225.m3u8
+#EXTINF:-1,FOX SPORT
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
+#EXTINF:-1,FOX SPORT 3
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8
+#EXTINF:-1,BOX NATION
+http://192.99.18.65:8000/live/PERSONL/1212/665.m3u8
+#EXTINF:-1,WWE NETWORK
+http://192.99.18.65:8000/live/PERSONL/1212/526.m3u8
+#EXTINF:-1,CLARO SPORT
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_SPORTS_LATAM_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,J SPORT 1
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
+#EXTINF:-1,J SPORT 2
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs06.stream/playlist.m3u8
+#EXTINF:-1,CDN SPORT MAX
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
+#EXTINF:-1, TELEFORMULA
+http://gformula.mmdlive.lldns.net/gformula/596433f167b64696bb03398fecdefbad/chunklist_b732000.m3u8
+#EXTINF:-1,UNIVISION TDN
+http://sced.cdnak.neulion.net:80/250/nlds/univision/as/live/udnoo_hd_1600_ipad.m3u8
+#EXTINF:-1,TeleSur
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
