@@ -12,4 +12,4 @@ https://raw.githubusercontent.com/TVCABLEAR/iptv/master/ExperimentalChannell.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Experimental Channells",Lista M3u8
 https://raw.githubusercontent.com/TVCABLEAR/iptv/master/ExperimentalLista.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Experimental Channells",C CENTRAL
-https://raw.githubusercontent.com/TVCABLEAR/iptv/master/canales/ccentral.m3u8
+https://raw.githubusercontent.com/TVCABLEAR/iptv/master/stream/ccomedy.m3u8
