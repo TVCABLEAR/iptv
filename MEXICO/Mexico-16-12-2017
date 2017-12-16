@@ -1,0 +1,510 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---------TVCABLEAR---------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",--------globalentv@gmail.com-----
+https://github.com/TVCABLEAR/
+
+
+#EXTINF:-1, LISTA REMOTA ACTUALIZADA
+http://iptvmexico.xyz/listas/lista.m3u
+
+#EXTINF:0 tvg-name="IPTV", CANAL 1 IPTVMEXICO XYZ
+http://iptvmexico.xyz/ch/1.m3u8
+
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Canal 2 HD" tvg-logo="http://iptvmexico.xyz/logos/png/1.png", Canal 2 HD
+http://www.iptvmexico.xyz/1.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Foro TV HD" tvg-logo="http://iptvmexico.xyz/logos/png/2001.png", Foro TV HD
+http://www.iptvmexico.xyz/2001.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Canal 5 HD" tvg-logo="http://iptvmexico.xyz/logos/png/294.png", Canal 5 HD
+http://www.iptvmexico.xyz/294.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Azteca 7 HD" tvg-logo="http://iptvmexico.xyz/logos/png/720.png", Azteca 7 HD
+http://www.iptvmexico.xyz/720.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Gala TV HD" tvg-logo="http://iptvmexico.xyz/logos/png/129.png", Gala TV HD
+http://www.iptvmexico.xyz/129.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Once TV" tvg-logo="http://iptvmexico.xyz/logos/png/35.png", Once Tv
+http://www.iptvmexico.xyz/35.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Azteca 13 HD" tvg-logo="http://iptvmexico.xyz/logos/png/26.png", Azteca 13 HD
+http://www.iptvmexico.xyz/26.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Az Corazon" tvg-logo="http://iptvmexico.xyz/logos/png/394.png", Az Corazon
+http://www.iptvmexico.xyz/394.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Az Mundo" tvg-logo="http://iptvmexico.xyz/logos/png/2072.png", Az Mundo
+http://www.iptvmexico.xyz/2072.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Canal 22" tvg-logo="http://iptvmexico.xyz/logos/png/32.png", Canal 22
+http://www.iptvmexico.xyz/32.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Mexiquense TV" tvg-logo="http://iptvmexico.xyz/logos/png/2041.png", Mexiquense TV
+http://www.iptvmexico.xyz/2041.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="ADN 40" tvg-logo="http://iptvmexico.xyz/logos/png/2003.png", ADN 40
+http://www.iptvmexico.xyz/2003.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Claro Sports" tvg-logo="http://iptvmexico.xyz/logos/png/2030.png", ClaroSports
+http://www.iptvmexico.xyz/2030.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="ESPN" tvg-logo="http://iptvmexico.xyz/logos/png/408.png", ESPN
+http://www.iptvmexico.xyz/408.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="ESPN 2" tvg-logo="http://iptvmexico.xyz/logos/png/2010.png", ESPN 2
+http://www.iptvmexico.xyz/2010.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="ESPN 3" tvg-logo="http://iptvmexico.xyz/logos/png/2011.png", ESPN 3
+http://www.iptvmexico.xyz/2011.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="F1 LatinoAmerica" tvg-logo="http://iptvmexico.xyz/logos/png/847.png", F1 LatinoAmerica
+http://www.iptvmexico.xyz/847.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox Sports HD" tvg-logo="http://iptvmexico.xyz/logos/png/57.png", Fox Sports HD
+http://www.iptvmexico.xyz/57.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Golf Channel HD" tvg-logo="http://iptvmexico.xyz/logos/png/2062.png", Golf Channel HD
+http://www.iptvmexico.xyz/2062.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TDN" tvg-logo="http://iptvmexico.xyz/logos/png/2018.png", TDN
+http://www.iptvmexico.xyz/2018.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Univision TDN" tvg-logo="http://iptvmexico.xyz/logos/png/2019.png", Univision TDN
+http://www.iptvmexico.xyz/2019.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Anime TV" tvg-logo="http://iptvmexico.xyz/logos/png/965.png", Anime TV
+http://www.iptvmexico.xyz/965.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Baby TV" tvg-logo="http://iptvmexico.xyz/logos/png/2054.png", Baby TV
+http://www.iptvmexico.xyz/2054.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Boomerang" tvg-logo="http://iptvmexico.xyz/logos/png/224.png", Boomerang
+http://www.iptvmexico.xyz/224.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Cartoon Network" tvg-logo="http://iptvmexico.xyz/logos/png/36.png", Cartoon Network
+http://www.iptvmexico.xyz/36.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Kids" tvg-logo="http://iptvmexico.xyz/logos/png/45.png", Discovery Kids
+http://www.iptvmexico.xyz/45.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Disney Channel" tvg-logo="http://iptvmexico.xyz/logos/png/41.png", Disney Channel
+http://www.iptvmexico.xyz/41.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Disney Junior" tvg-logo="http://iptvmexico.xyz/logos/png/89.png", Disney Junior
+http://www.iptvmexico.xyz/89.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Disney XD" tvg-logo="http://iptvmexico.xyz/logos/png/123.png", Disney XD
+http://www.iptvmexico.xyz/123.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Locomotion" tvg-logo="http://iptvmexico.xyz/logos/png/2022.png", Locomotion
+http://www.iptvmexico.xyz/2022.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="http://iptvmexico.xyz/logos/png/2035.png", Los Simpson
+http://www.iptvmexico.xyz/2035.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Natgeo Kids HD" tvg-logo="http://iptvmexico.xyz/logos/png/2064.png", Natgeo Kids HD
+http://www.iptvmexico.xyz/2064.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Nick 2 HD" tvg-logo="http://iptvmexico.xyz/logos/png/2015.png", Nick 2
+http://www.iptvmexico.xyz/2015.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Nickelodeon HD" tvg-logo="http://iptvmexico.xyz/logos/png/44.png", Nickelodeon HD
+http://www.iptvmexico.xyz/44.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Nick Jr" tvg-logo="http://iptvmexico.xyz/logos/png/222.png", Nick Jr.
+http://www.iptvmexico.xyz/222.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="NickToons" tvg-logo="http://iptvmexico.xyz/logos/png/310.png", NickToons
+http://www.iptvmexico.xyz/310.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="NiuMedia" tvg-logo="https://lh3.googleusercontent.com/ue6Egka2vQ4RUXmC0bQmHfWInNt7TtAUJbju1euIaNpYSs2xgsC-6Cy12bYsX7zF4301=w300", NiuMedia
+http://www.iptvmexico.xyz/2080.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Paka Paka" tvg-logo="http://iptvmexico.xyz/logos/png/2029.png", Paka Paka
+http://www.iptvmexico.xyz/2029.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Retro Cartoon" tvg-logo="http://iptvmexico.xyz/logos/png/2039.png", Retro Cartoon
+http://www.iptvmexico.xyz/2039.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TIIN" tvg-logo="http://iptvmexico.xyz/logos/png/208.png", TIIN
+http://www.iptvmexico.xyz/208.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Tooncast" tvg-logo="http://iptvmexico.xyz/logos/png/131.png", Tooncast
+http://www.iptvmexico.xyz/131.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="AMC" tvg-logo="http://iptvmexico.xyz/logos/png/232.png", AMC
+http://www.iptvmexico.xyz/232.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Cine Latino" tvg-logo="http://iptvmexico.xyz/logos/png/2047.png", Cine Latino
+http://www.iptvmexico.xyz/2047.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Cinecanal" tvg-logo="http://iptvmexico.xyz/logos/png/110.png", Cinecanal
+http://www.iptvmexico.xyz/110.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Cinecanal HD" tvg-logo="http://iptvmexico.xyz/logos/png/111.png", Cinecanal HD
+http://www.iptvmexico.xyz/111.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Cinema Dinamita" tvg-logo="http://iptvmexico.xyz/logos/png/2048.png", Cinema Dinamita
+http://www.iptvmexico.xyz/2048.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Cinemax (O)" tvg-logo="http://iptvmexico.xyz/logos/png/1385.png", Cinemax (O)
+http://www.iptvmexico.xyz/1385.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Claro Cinema" tvg-logo="http://iptvmexico.xyz/logos/png/2049.png", Claro Cinema
+http://www.iptvmexico.xyz/2049.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="De Pelicula" tvg-logo="http://iptvmexico.xyz/logos/png/365.png", De Película
+http://www.iptvmexico.xyz/365.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="ExtremaTV" tvg-logo="http://iptvmexico.xyz/logos/png/2023.png", ExtremaTV
+http://www.iptvmexico.xyz/2023.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Euro Channel" tvg-logo="http://iptvmexico.xyz/logos/png/2050.png", Euro Channel
+http://www.iptvmexico.xyz/2050.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Golden Edge" tvg-logo="http://iptvmexico.xyz/logos/png/179.png", Golden Edge
+http://www.iptvmexico.xyz/179.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Golden HD" tvg-logo="http://iptvmexico.xyz/logos/png/231.png", Golden HD
+http://www.iptvmexico.xyz/231.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="I.Sat" tvg-logo="http://iptvmexico.xyz/logos/png/301.png", I.Sat
+http://www.iptvmexico.xyz/301.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Multipremier" tvg-logo="http://iptvmexico.xyz/logos/png/2046.png", Multipremier
+http://www.iptvmexico.xyz/2046.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Paramount Channel" tvg-logo="http://iptvmexico.xyz/logos/png/2016.png", Paramount Channel
+http://www.iptvmexico.xyz/2016.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Space HD" tvg-logo="http://iptvmexico.xyz/logos/png/2061.png", Space HD
+http://www.iptvmexico.xyz/2061.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Studio Universal" tvg-logo="http://iptvmexico.xyz/logos/png/233.png", Studio Univeral
+http://www.iptvmexico.xyz/233.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Sundance Channel" tvg-logo="http://iptvmexico.xyz/logos/png/2017.png", Sundance Channel
+http://www.iptvmexico.xyz/2017.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="SyFy" tvg-logo="http://iptvmexico.xyz/logos/png/211.png", SyFy
+http://www.iptvmexico.xyz/211.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TCM" tvg-logo="http://iptvmexico.xyz/logos/png/234.png", TCM
+http://www.iptvmexico.xyz/234.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TNT" tvg-logo="http://iptvmexico.xyz/logos/png/30.png", TNT
+http://www.iptvmexico.xyz/302.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TNT HD" tvg-logo="http://iptvmexico.xyz/logos/png/31.png", TNT HD
+http://www.iptvmexico.xyz/31.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="AE" tvg-logo="http://iptvmexico.xyz/logos/png/323.png", A&E
+http://www.iptvmexico.xyz/323.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="AE Mundo HD" tvg-logo="http://iptvmexico.xyz/logos/png/324.png", A&E Mundo HD
+http://www.iptvmexico.xyz/324.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="AXN HD" tvg-logo="http://iptvmexico.xyz/logos/png/321.png", AXN HD
+http://www.iptvmexico.xyz/321.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="AtreSeries" tvg-logo="http://iptvmexico.xyz/logos/png/2007.png", AtreSeries
+http://www.iptvmexico.xyz/2007.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Comedy Central HD" tvg-logo="http://iptvmexico.xyz/logos/png/284.png", Comedy Central HD
+http://www.iptvmexico.xyz/284.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Distrito Comedia" tvg-logo="http://iptvmexico.xyz/logos/png/181.png", Distrito Comedia
+http://www.iptvmexico.xyz/181.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox HD" tvg-logo="http://iptvmexico.xyz/logos/png/438.png", Fox
+http://www.iptvmexico.xyz/438.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox Life HD" tvg-logo="http://iptvmexico.xyz/logos/png/216.png", Fox Life HD
+http://www.iptvmexico.xyz/216.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="FX" tvg-logo="http://iptvmexico.xyz/logos/png/115.png", FX
+http://www.iptvmexico.xyz/115.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Investigation Discovery" tvg-logo="http://iptvmexico.xyz/logos/png/2051.png", Investigation Discovery
+http://www.iptvmexico.xyz/2051.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Neox" tvg-logo="http://iptvmexico.xyz/logos/png/2025.png", Neox
+http://www.iptvmexico.xyz/2025.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Sony HD" tvg-logo="http://iptvmexico.xyz/logos/png/22.png", Sony HD
+http://www.iptvmexico.xyz/22.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TBS veryfunny" tvg-logo="http://iptvmexico.xyz/logos/png/286.png", TBS veryfunny
+http://www.iptvmexico.xyz/286.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TNT Series" tvg-logo="http://iptvmexico.xyz/logos/png/200.png", TNT Series
+http://www.iptvmexico.xyz/200.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TruTV HD" tvg-logo="http://iptvmexico.xyz/logos/png/320.png", TruTV HD
+http://www.iptvmexico.xyz/320.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Universal Channel" tvg-logo="http://iptvmexico.xyz/logos/png/148.png", Universal Channel
+http://www.iptvmexico.xyz/148.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Universal Channel HD" tvg-logo="http://iptvmexico.xyz/logos/png/344.png", Universal Channel HD
+http://www.iptvmexico.xyz/344.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Warner Channel" tvg-logo="http://iptvmexico.xyz/logos/png/327.png", Warner Channel
+http://www.iptvmexico.xyz/327.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Warner HD" tvg-logo="http://iptvmexico.xyz/logos/png/21.png", Warner HD
+http://www.iptvmexico.xyz/21.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="HBO" tvg-logo="http://iptvmexico.xyz/logos/png/2042.png", HBO HD
+http://www.iptvmexico.xyz/2042.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="HBO 2" tvg-logo="http://iptvmexico.xyz/logos/png/2043.png", HBO 2 HD
+http://www.iptvmexico.xyz/2043.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="HBO Plus" tvg-logo="http://iptvmexico.xyz/logos/png/2044.png", HBO Plus HD
+http://www.iptvmexico.xyz/2044.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="HBO Family" tvg-logo="http://iptvmexico.xyz/logos/png/2045.png", HBO Family HD
+http://www.iptvmexico.xyz/2045.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="HBO Signature" tvg-logo="http://iptvmexico.xyz/logos/png/2058.png", HBO Signature HD
+http://www.iptvmexico.xyz/2058.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="MAX" tvg-logo="http://iptvmexico.xyz/logos/png/2055.png", MAX
+http://www.iptvmexico.xyz/2055.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="MAX Prime HD" tvg-logo="http://iptvmexico.xyz/logos/png/2056.png", MAX Prime
+http://www.iptvmexico.xyz/2056.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Max UP HD" tvg-logo="http://iptvmexico.xyz/logos/png/2057.png", Max UP
+http://www.iptvmexico.xyz/2057.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="FOX Family HD" tvg-logo="http://iptvmexico.xyz/logos/png/2059.png", FOX Family HD
+http://www.iptvmexico.xyz/2059.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="FOX Comedy HD" tvg-logo="http://iptvmexico.xyz/logos/png/2060.png", FOX Comedy HD
+http://www.iptvmexico.xyz/2060.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox Premium Series HD" tvg-logo="http://iptvmexico.xyz/logos/png/379.png", Fox Premium Series HD
+http://www.iptvmexico.xyz/379.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox Action HD" tvg-logo="http://iptvmexico.xyz/logos/png/217.png", Fox Action HD
+http://www.iptvmexico.xyz/217.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox Movies HD" tvg-logo="http://iptvmexico.xyz/logos/png/305.png", Fox Movies HD
+http://www.iptvmexico.xyz/305.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox Cinema" tvg-logo="http://iptvmexico.xyz/logos/png/230.png", Fox Cinema
+http://www.iptvmexico.xyz/230.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox Classics" tvg-logo="http://iptvmexico.xyz/logos/png/228.png", Fox Classics
+http://www.iptvmexico.xyz/228.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TV Agro HD" tvg-logo="http://iptvmexico.xyz/logos/png/2076.png", TV Agro HD
+http://www.iptvmexico.xyz/2076.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Animal Planet" tvg-logo="http://iptvmexico.xyz/logos/png/114.png", Animal Planet
+http://www.iptvmexico.xyz/114.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Canal Uno HD" tvg-logo="http://iptvmexico.xyz/logos/png/2077.png", Canal Uno HD
+http://www.iptvmexico.xyz/2077.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery World HD" tvg-logo="http://iptvmexico.xyz/logos/png/226.png", Discovery World HD
+http://www.iptvmexico.xyz/226.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery World LatinoAmerica" tvg-logo="http://iptvmexico.xyz/logos/png/368.png", Discovery World LatinoAmérica
+http://www.iptvmexico.xyz/368.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Channel HD" tvg-logo="http://iptvmexico.xyz/logos/png/40.png", Discovery Channel HD
+http://www.iptvmexico.xyz/40.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Civilization" tvg-logo="http://iptvmexico.xyz/logos/png/287.png", Discovery Civilization
+http://www.iptvmexico.xyz/287.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Science" tvg-logo="http://iptvmexico.xyz/logos/png/288.png", Discovery Science
+http://www.iptvmexico.xyz/288.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Turbo" tvg-logo="http://iptvmexico.xyz/logos/png/289.png", Discovery Turbo
+http://www.iptvmexico.xyz/289.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Theater" tvg-logo="http://iptvmexico.xyz/logos/png/290.png", Discovery Theater
+http://www.iptvmexico.xyz/290.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Home and Health" tvg-logo="http://iptvmexico.xyz/logos/png/292.png", Discovery Home and Health
+http://www.iptvmexico.xyz/292.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="H2 (History 2)" tvg-logo="http://iptvmexico.xyz/logos/png/2012.png", H2 (History 2)
+http://www.iptvmexico.xyz/2012.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="History Channel HD" tvg-logo="http://iptvmexico.xyz/logos/png/270.png", History Channel HD
+http://www.iptvmexico.xyz/270.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Inti HD" tvg-logo="http://iptvmexico.xyz/logos/png/2079.png", Inti HD
+http://www.iptvmexico.xyz/2079.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="NatGeo" tvg-logo="http://iptvmexico.xyz/logos/png/50.png", NatGeo
+http://www.iptvmexico.xyz/50.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="NatGeo Wild" tvg-logo="http://iptvmexico.xyz/logos/png/2014.png", NatGeo Wild
+http://www.iptvmexico.xyz/2014.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Sun Channel" tvg-logo="http://iptvmexico.xyz/logos/png/2034.png", Sun Channel
+http://www.iptvmexico.xyz/2034.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TLC" tvg-logo="http://iptvmexico.xyz/logos/png/833.png", TLC
+http://www.iptvmexico.xyz/833.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="WOBI" tvg-logo="http://iptvmexico.xyz/logos/png/903.png", WOBI
+http://www.iptvmexico.xyz/903.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="A+" tvg-logo="http://iptvmexico.xyz/logos/png/2020.png", A+
+http://www.iptvmexico.xyz/2020.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Antena 3" tvg-logo="http://iptvmexico.xyz/logos/png/77.png", Antena 3
+http://www.iptvmexico.xyz/77.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Canal Claro HD" tvg-logo="http://iptvmexico.xyz/logos/png/2071.png", Canal Claro HD
+http://www.iptvmexico.xyz/2071.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Caracol HD" tvg-logo="http://iptvmexico.xyz/logos/png/2074.png", Caracol HD
+http://www.iptvmexico.xyz/2074.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="E! Entertainment Television" tvg-logo="http://iptvmexico.xyz/logos/png/215.png", E! Entertainment Television
+http://www.iptvmexico.xyz/215.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Garage TV" tvg-logo="http://iptvmexico.xyz/logos/png/760.png", Garage TV
+http://www.iptvmexico.xyz/760.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="El 4" tvg-logo="http://iptvmexico.xyz/logos/png/2036.png", El 4
+http://www.iptvmexico.xyz/2036.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="ElGourmet" tvg-logo="http://iptvmexico.xyz/logos/png/312.png", El Gourmet
+http://www.iptvmexico.xyz/312.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Glitz" tvg-logo="http://iptvmexico.xyz/logos/png/3068.png", Glitz
+http://www.iptvmexico.xyz/2068.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Hola TV" tvg-logo="http://iptvmexico.xyz/logos/png/1209.png", Hola TV
+http://www.iptvmexico.xyz/1209.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="La Sexta" tvg-logo="http://iptvmexico.xyz/logos/png/2004.png", La Sexta
+http://www.iptvmexico.xyz/2004.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Mas Chic" tvg-logo="http://iptvmexico.xyz/logos/png/2070.png", Mas Chic
+http://www.iptvmexico.xyz/2070.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Pasiones" tvg-logo="http://iptvmexico.xyz/logos/png/2073.png", Pasiones
+http://www.iptvmexico.xyz/2073.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="RCN HD" tvg-logo="http://iptvmexico.xyz/logos/png/2037.png", RCN HD
+http://www.iptvmexico.xyz/2037.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="RCN Nuestra Tele" tvg-logo="http://iptvmexico.xyz/logos/png/2075.png", RCN Nuestra Tele
+http://www.iptvmexico.xyz/2075.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="RCN Telenovelas" tvg-logo="http://iptvmexico.xyz/logos/png/2069.png", RCN Telenovelas
+http://www.iptvmexico.xyz/2069.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Telemundo" tvg-logo="http://iptvmexico.xyz/logos/png/2027.png", Telemundo
+http://www.iptvmexico.xyz/2027.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Tlnovelas" tvg-logo="http://iptvmexico.xyz/logos/png/12.png", Tlnovelas
+http://www.iptvmexico.xyz/12.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Trendy" tvg-logo="http://iptvmexico.xyz/logos/png/2021.png", Trendy
+http://www.iptvmexico.xyz/2021.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TVE Internacional" tvg-logo="http://iptvmexico.xyz/logos/png/140.png", TVE Internacional (Televisión Española)
+http://www.iptvmexico.xyz/140.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Unicable" tvg-logo="http://iptvmexico.xyz/logos/png/212.png", Unicable HD
+http://www.iptvmexico.xyz/212.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="BBC World" tvg-logo="http://iptvmexico.xyz/logos/png/2067.png", BBC World
+http://www.iptvmexico.xyz/2067.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Efekto TV" tvg-logo="http://iptvmexico.xyz/logos/png/2024.png", Efekto TV
+http://www.iptvmexico.xyz/2024.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="MVS Noticias" tvg-logo="http://iptvmexico.xyz/logos/png/2040.png", MVS Noticias
+http://www.iptvmexico.xyz/2040.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="CNN en Espanol" tvg-logo="http://iptvmexico.xyz/logos/png/2008.png", CNN en Español
+http://www.iptvmexico.xyz/2008.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="CNN HD" tvg-logo="http://iptvmexico.xyz/logos/png/2009.png", CNN HD
+http://www.iptvmexico.xyz/2009.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Milenio TV" tvg-logo="http://iptvmexico.xyz/logos/png/2013.png", Milenio HD
+http://www.iptvmexico.xyz/1283.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Bloomberg" tvg-logo="http://iptvmexico.xyz/logos/png/2028.png", Bloomberg
+http://www.iptvmexico.xyz/2028.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="NTN24" tvg-logo="http://iptvmexico.xyz/logos/png/2065.png", NTN24
+http://www.iptvmexico.xyz/2065.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Teleformula" tvg-logo="http://iptvmexico.xyz/logos/png/440.png", Telefórmula
+http://www.iptvmexico.xyz/440.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox News" tvg-logo="http://iptvmexico.xyz/logos/png/2066.png", Fox News
+http://www.iptvmexico.xyz/2066.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Bandamax" tvg-logo="http://iptvmexico.xyz/logos/png/361.png", Bandamax
+http://www.iptvmexico.xyz/361.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Concert Channel HD" tvg-logo="http://iptvmexico.xyz/logos/png/2078.png", Concert Channel HD
+http://www.iptvmexico.xyz/2078.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="HTV" tvg-logo="http://iptvmexico.xyz/logos/png/2052.png", HTV
+http://www.iptvmexico.xyz/2052.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="MC Music" tvg-logo="http://iptvmexico.xyz/logos/png/2033.png", MC Music
+http://www.iptvmexico.xyz/2033.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Mi Musica" tvg-logo="http://iptvmexico.xyz/logos/png/2031.png", Mi Musica
+http://www.iptvmexico.xyz/2031.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="MTV" tvg-logo="http://iptvmexico.xyz/logos/png/18.png", MTV HD
+http://www.iptvmexico.xyz/18.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="MTV Hits" tvg-logo="http://iptvmexico.xyz/logos/png/399.png", MTV Hits
+http://www.iptvmexico.xyz/399.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="MTV Live HD" tvg-logo="http://iptvmexico.xyz/logos/png/405.png", MTV Live HD
+http://www.iptvmexico.xyz/405.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="One TV" tvg-logo="http://iptvmexico.xyz/logos/png/1276.png", One TV
+http://www.iptvmexico.xyz/1276.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Radiola" tvg-logo="http://iptvmexico.xyz/logos/png/2063.png", Radiola
+http://www.iptvmexico.xyz/2063.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Ritmoson" tvg-logo="http://iptvmexico.xyz/logos/png/209.png", Ritmoson
+http://www.iptvmexico.xyz/209.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Telehit" tvg-logo="http://iptvmexico.xyz/logos/png/501.png", Telehit
+http://www.iptvmexico.xyz/501.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Tigo Music" tvg-logo="http://iptvmexico.xyz/logos/png/2026.png", Tigo Music
+http://www.iptvmexico.xyz/2026.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="VH1" tvg-logo="http://iptvmexico.xyz/logos/png/235.png", VH1
+http://www.iptvmexico.xyz/235.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="VH1 Classic" tvg-logo="http://iptvmexico.xyz/logos/png/2053.png", VH1 Classic
+http://www.iptvmexico.xyz/2053.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Virgin Music" tvg-logo="http://iptvmexico.xyz/logos/png/2032.png", Virgin Music
+http://www.iptvmexico.xyz/2032.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="DW Latinoamerica" tvg-logo="http://iptvmexico.xyz/logos/png/2005.png", DW Latinoamerica
+http://www.iptvmexico.xyz/2005.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TV5Monde" tvg-logo="http://iptvmexico.xyz/logos/png/2038.png", TV5Monde
+http://www.iptvmexico.xyz/2038.m3u8
