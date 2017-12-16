@@ -1,0 +1,53 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 group-title="z-omitir", =ECUADOR=
+https://www.youtube.com/c/MIKEDOMOIPTV
+
+#EXTINF:-1 group-title="ECUADOR", ECUADOR TV
+http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
+
+#EXTINF:-1 group-title="ECUADOR", TELEAMAZONAS
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8?PelixMax.m3u8
+
+#EXTINF:-1 group-title="ECUADOR", ECUAVISA
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
+
+#EXTINF:-1 group-title="ECUADOR", CANELA TV
+http://servicioamerica.com:1935/8200/8200/chunklist_w1403035025.m3u8
+
+#EXTINF:-1 group-title="ECUADOR", OROVISION
+http://37.187.108.127:554/ecuadortv01/tv/playlist.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1 group-title="ECUADOR", TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+ #EXTINF:-1 group-title="ECUADOR", TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+#EXTINF:-1 group-title="ECUADOR",Tc MI CANAL
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+ #EXTINF:-1 group-title="ECUADOR", RTS
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8
+
+#EXTINF:-1 group-title="ECUADOR", OROMAR Tv
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 group-title="ECUADOR", TVS
+http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_sleng.m3u8
+
+#EXTINF:-1 group-title="ECUADOR", UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:-1 group-title="ECUADOR", UNCION TV 25 (*)
+https://www.youtube.com/watch?v=3MNvFyJc05I
+
+
+
