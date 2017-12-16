@@ -1,4 +1,12 @@
-EXTM3U
+#EXTM3U
 
-#EXTINF:-1,C CENTRAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---------TVCABLEAR---------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",--------globalentv@gmail.com-----
+https://github.com/TVCABLEAR/
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TVCABLEAR",C CENTRAL
 https://tvcablear.github.io/html/canales/ccentral.m3u8
