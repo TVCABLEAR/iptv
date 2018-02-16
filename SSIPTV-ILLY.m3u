@@ -317,230 +317,133 @@ https://www.youtube.com/watch?v=oQg1ffK3yQ4
 https://www.youtube.com/watch?v=KLyrHwaXwqc
 
 
-#EXTINF:-1 tvg-logo="http://www.vcc.com.py/img/41.png" group-title="Entretenimiento", Las Estrellas Latino
+#==============================================================================
+#                                   VARIEDADES
+#==============================================================================
+
+
+#EXTINF:-1 tvg-logo="http://www.vcc.com.py/img/41.png" group-title="VARIEDADES", <<< VARIEDADES >>>
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
 
- 
+#EXTINF:-1 tvg-logo="http://www.vcc.com.py/img/41.png" group-title="VARIEDADES",  LAS ESTRELLAS (01)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AztecaUno.png/160px-AztecaUno.png", Azteca uno
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AztecaUno.png/160px-AztecaUno.png", AZTECA (02)
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
 
- 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png", Azteca 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png",  AZTECA 7 (03)
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_1_av-p.m3u8?sd=10&rebase=on
 
 
- 
-
-
-#EXTINF:-1 tvg-logo="http://www.amastv.com/img/logo_amas_slogan.png",A+
+#EXTINF:-1 tvg-logo="http://www.amastv.com/img/logo_amas_slogan.png",   A+ (04)
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Azmundo.png", Az Mundo
-https://latamonly-lh.akamaihd.net/i/azmundo_1@571254/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.bonsai3.com/newsite/img/branding/azclic_logo.png", Az Clic
-https://latamonly-lh.akamaihd.net/i/azclick_1@571255/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_6112.png", Az Corazon
-https://latamonly-lh.akamaihd.net/i/azcorazon_1@571257/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png", Pasiones
-https://latamonly-lh.akamaihd.net/i/pasiones_1@580283/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_709.png", Show Business
-https://latamonly-lh.akamaihd.net/i/showbusiness_1@576899/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png", Univision
-https://goo.gl/4ZuhjN
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png", Unimas
-https://goo.gl/jGF75e
-
-
-#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png", Telemundo
+#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png",  TELEMUNDO (05)
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png", Telemundo internacional
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/telemun_int.php/Stream(04)/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2016_11/medium.583e6d149b8cc_RCNNovelas.png.9b4fa0909dd7af2e6ecbaf3aa80a4c80.png", RCN novelas
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/rcn_tln.php/Stream(04)/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/30259/s30259_h5_aa.png", E!
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/e_ent.php/Stream(04)/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png", City TV
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/citytv.php/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo.png", Caracol Internacional
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/caracol_int.php/Stream(04)/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://radio-miami.org/wp-content/uploads/2017/03/Am%C3%A9rica_Tev%C3%A9_Logo-1.png", America Teve
-http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fusion_TV_2013_logo.png", Fusion Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fusion_TV_2013_logo.png", FUSION TV (06)
 http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FORO TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FORO TV (07)
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1048_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large.Canal-UNO.png.e70c0776f11c309940c68f740e2ea9e6.png", Canal 1
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large.Canal-UNO.png.e70c0776f11c309940c68f740e2ea9e6.png", CANAL UNO (08)
 http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo.png", Caracol 
+#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo.png", CANAL CARACOL (09)
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARACOL_HD)/Stream(02)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/neivasocial.ucoz.net/img_2/rcn.png", RCN
+#EXTINF:-1 tvg-logo="https://i2.wp.com/neivasocial.ucoz.net/img_2/rcn.png", RCN (10)
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Trendy_Channel_-_Logo.png", Trendy Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Trendy_Channel_-_Logo.png", TRENDY CHANEL (11)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/thumb.VePlus-2017HQ.png.5db360b52644dd4cc3f576dc3d8b2b60.png", Ve plus Tv
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/thumb.VePlus-2017HQ.png.5db360b52644dd4cc3f576dc3d8b2b60.png", VE PLUS (12)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.mundomas.tv/wp-content/uploads/2017/03/logo1.png",Mundo Mas
+#EXTINF:0 tvg-logo="http://www.mundomas.tv/wp-content/uploads/2017/03/logo1.png", MUNDO MAS (13)
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png", Multimedios Laguna
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png", MULTIMEDIOS LAGUNA (14)
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png", Multimedios Monterrey 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png", MULTIMEDIOS MONTERREY (15 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/175.png", America 
-http://ar.watcha.live/ch3/hi.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yF_rZsYlJ_g/UDLfCNKv8qI/AAAAAAAAVTY/TPxVVmPcw-Q/s1600/eldoce-hd-2012.png", El Doce 
-http://prepublish.f.qaotic.net/a14/ngrp:el12_live01-100083_all/chunklist_b1596000.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_08/large.magazine-logo-agosto.png.c2bb91989d0cd18bc880cef6785619bb.png", Ciudad Magazine
-http://prepublish.f.qaotic.net/f01/ngrp:magazine_live01-100083_all/chunklist_b946000.m3u8
-
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/6.png", El Trece Argentina
-http://ar.watcha.live/ch7/hi.m3u8
-
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/96.png", El Nueve 
-http://ar.watcha.live/ch5/hi.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/2332.png, Canal de la Ciudad
-http://prepublish.f.qaotic.net/b06/ngrp:gcba_video3-100042_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net
-
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/35.png", Telefe 
-http://ar.watcha.live/ch6/hi.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-0Y5RvxRdyOY/VRdO6WxI-rI/AAAAAAAAAaM/ep0DLk0wmXU/s320/TLX%2BTelemax.png",Telemax
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-0Y5RvxRdyOY/VRdO6WxI-rI/AAAAAAAAAaM/ep0DLk0wmXU/s320/TLX%2BTelemax.png", TLX HD (16)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png", Canal M
+#EXTINF:-1 tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png", CANAL M (17)
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_Teledoce.png", Teledoce
-http://ar.watcha.live/ch24/hi.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.montecarlotv.com.uy/dia-de-los-abuelos/wp-content/uploads/2017/05/blano.png", MonteCarlo TV
-http://ar.watcha.live/ch25/hi.m3u8
-
-#EXTINF:-1 tvg-logo="https://tuteledigital.files.wordpress.com/2013/03/bola_cuatro_tw.png", Cuatro HD
+#EXTINF:-1 tvg-logo="https://tuteledigital.files.wordpress.com/2013/03/bola_cuatro_tw.png", CUATRO HD (18)
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.esacademic.com/pictures/eswiki/84/Telecinco_TV.png", Telecinco HD
+#EXTINF:-1 tvg-logo="http://www.esacademic.com/pictures/eswiki/84/Telecinco_TV.png", TELECINCO HD (19)
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png", La Sexta
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png", LA SEXTA (20)
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png", Miami TV USA
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 
 #==============================================================================
 #                                   CINE Y SERIES
 #==============================================================================
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Cine y series", Cine+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Cine y series", <<< CINE Y SERIES >>>
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Antena3hd.png", Antena 3 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Cine y series", CINE+ (01)
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Antena3hd.png", ANTENA 3 (02)
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Antena3hd.png", Antena 3 Internacional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Antena3hd.png", ANTENA 3 Internacional (03)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_3169.png", Atreseries
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_3169.png", A3S A3series (04)
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="http://latelete.tv/img/nova.png", Nova
+#EXTINF:-1 tvg-logo="http://latelete.tv/img/nova.png", NOVA (05)
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="http://latelete.tv/img/mega.png", Mega
+#EXTINF:-1 tvg-logo="http://latelete.tv/img/mega.png", MEGA (06)
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png", Neox
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png", NEOX (07)
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png", Factoria de Ficcion
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png", FACTORIA DE FICCION (08)
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png", Divinity
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png", DIVINITY (09)
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png", BeMad
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png", BE MAD (10)
 http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_2.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_06/thumb.507_tvc-platino.png.9a062e386a1e8460ad2ebf323df9fae9.png", Cine Platino
-https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.pctv.com.mx/Portals/_default/Skins/Incredible/css/tvc/canales/cinemexicano-292048.png", Cine Mexicano
-https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://static.ontvtonight.com/static/2/Open/400x300_1845/Source/88552/mispeliculasmis.png", Mis Peliculas
-https://latamonly-lh.akamaihd.net/i/mispeliculas_1@321856/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", Star TVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", STAR TVE (11)
 https://latamonly-lh.akamaihd.net/i/startvehd_1@578071/master.m3u8
-
-
-
