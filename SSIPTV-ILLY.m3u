@@ -22,73 +22,74 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.vcc.com.py/img/41.png" group-title="VARIEDADES",  LAS ESTRELLAS (01)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AztecaUno.png/160px-AztecaUno.png", AZTECA (02)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AztecaUno.png/160px-AztecaUno.png", AZTECA 1 (02)
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_Azteca_7.png",  AZTECA 7 (03)
 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_1_av-p.m3u8?sd=10&rebase=on
 
-
-#EXTINF:-1 tvg-logo="http://www.amastv.com/img/logo_amas_slogan.png",   A+ (04)
+#EXTINF:-1 tvg-logo="http://www.gruposalinas.com/images/nv/Azteca_04.png",  AZTECA 13 (04)
+http://tvnet.iptvsur.com:25461/live/6363/6363/11336.ts
+#EXTINF:-1 tvg-logo="http://www.amastv.com/img/logo_amas_slogan.png",   A+ (05)
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png",  TELEMUNDO (05)
+#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png",  TELEMUNDO (06)
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fusion_TV_2013_logo.png", FUSION TV (06)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fusion_TV_2013_logo.png", FUSION TV (07)
 http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FORO TV (07)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png", FORO TV (08)
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1048_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large.Canal-UNO.png.e70c0776f11c309940c68f740e2ea9e6.png", CANAL UNO (08)
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_07/large.Canal-UNO.png.e70c0776f11c309940c68f740e2ea9e6.png", CANAL UNO (09)
 http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo.png", CANAL CARACOL (09)
+#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo.png", CANAL CARACOL (10)
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARACOL_HD)/Stream(02)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/neivasocial.ucoz.net/img_2/rcn.png", RCN (10)
+#EXTINF:-1 tvg-logo="https://i2.wp.com/neivasocial.ucoz.net/img_2/rcn.png", RCN (11)
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Trendy_Channel_-_Logo.png", TRENDY CHANEL (11)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Trendy_Channel_-_Logo.png", TRENDY CHANEL (12)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/thumb.VePlus-2017HQ.png.5db360b52644dd4cc3f576dc3d8b2b60.png", VE PLUS (12)
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/thumb.VePlus-2017HQ.png.5db360b52644dd4cc3f576dc3d8b2b60.png", VE PLUS (13)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.mundomas.tv/wp-content/uploads/2017/03/logo1.png", MUNDO MAS (13)
+#EXTINF:0 tvg-logo="http://www.mundomas.tv/wp-content/uploads/2017/03/logo1.png", MUNDO MAS (14)
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png", MULTIMEDIOS LAGUNA (14)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png", MULTIMEDIOS LAGUNA (15)
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png", MULTIMEDIOS MONTERREY (15 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png", MULTIMEDIOS MONTERREY (16) 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-0Y5RvxRdyOY/VRdO6WxI-rI/AAAAAAAAAaM/ep0DLk0wmXU/s320/TLX%2BTelemax.png", TLX HD (16)
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-0Y5RvxRdyOY/VRdO6WxI-rI/AAAAAAAAAaM/ep0DLk0wmXU/s320/TLX%2BTelemax.png", TLX HD (17)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png", CANAL M (17)
+#EXTINF:-1 tvg-logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png", CANAL M (18)
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
 
-#EXTINF:-1 tvg-logo="https://tuteledigital.files.wordpress.com/2013/03/bola_cuatro_tw.png", CUATRO HD (18)
+#EXTINF:-1 tvg-logo="https://tuteledigital.files.wordpress.com/2013/03/bola_cuatro_tw.png", CUATRO HD (19)
 http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.esacademic.com/pictures/eswiki/84/Telecinco_TV.png", TELECINCO HD (19)
+#EXTINF:-1 tvg-logo="http://www.esacademic.com/pictures/eswiki/84/Telecinco_TV.png", TELECINCO HD (20)
 http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png", LA SEXTA (20)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png", LA SEXTA (21)
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 
@@ -115,6 +116,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_3169.png", A3S A3series (04)
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
+
 
 
 #EXTINF:-1 tvg-logo="http://latelete.tv/img/nova.png", NOVA (05)
@@ -158,6 +160,49 @@ https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", RCN NOVELAS opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/3815.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", RCN NOVELAS opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/3815.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", WIPR
+http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", IMAGEN opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/3901.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", IMAGEN opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/3901.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", UNIVISION OPC1
+http://tvnet.iptvsur.com:25461/live/6363/6363/5767.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", UNIVISION OPC2
+http://tvnet.iptvsur.com:25461/live/6363/6363/5767.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", TLNOVELAS opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/3834.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", TLNOVELAS opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/3834.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", TLENOVELAS 2
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", PASIONES opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/4691.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", PASIONES opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/4691.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", AZ CORAZON opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/9067.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", AZ CORAZON opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/9067.m3u8
+
 #==============================================================================
 #                                   PAISES
 #==============================================================================
@@ -193,35 +238,55 @@ http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b981072.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", ATV + (PERU)
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", LATINA opc1 (PERU)
+http://tvnet.iptvsur.com:25461/live/6363/6363/3798.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", AMERICA TV (PERU)
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", TELEMETRO TV (Panama)
-http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", ECUAVISA HD 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", ECUAVISA
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", LATINA opc2 (PERU)
+http://tvnet.iptvsur.com:25461/live/6363/6363/3798.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", AMERICATV ARGENTINA
 
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", EL NUEVE ARGENTINA
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", AMERICA TV (ARG) 1
+http://tvnet.iptvsur.com:25461/live/6363/6363/10932.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", VE PLUS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", AMERICA TV (ARG) 2
+http://tvnet.iptvsur.com:25461/live/6363/6363/10932.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", TELEMETRO TV (Panama) 1
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", TELEMETRO TV (Panama) 2
+http://tvnet.iptvsur.com:25461/live/6363/6363/5946.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", TELEMETRO TV (Panama) 3
+http://tvnet.iptvsur.com:25461/live/6363/6363/5946.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", ECUAVISA HD opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/3937.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", ECUAVISA HD opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/3937.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", ECUAVISA opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/3874.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", ECUAVISA opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/3874.tm3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", LATINA 1(PERU)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", VE PLUS opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/4113.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", LATINA 2(PERU)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="PAISES", VE PLUS opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/4113.m3u8
+
+
 
 
 #==============================================================================
@@ -249,18 +314,89 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", LAS ESTRELLAS Mex 1
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", CANAL 5 MX opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/3890.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", CANAL 5 MX opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/3890.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", DISCOVERY H&H op1
+http://tvnet.iptvsur.com:25461/live/6363/6363/7470.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", DISCOVERY H&H op2
+http://tvnet.iptvsur.com:25461/live/6363/6363/7470.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", DISCOVERY H&H opc3
+http://tvnet.iptvsur.com:25461/live/6363/6363/3765.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", DISCOVERY H&H opc4
+http://tvnet.iptvsur.com:25461/live/6363/6363/3765.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", LAS ESTRELLAS Mex 2
-http://tv.latintvweb.com:8000/live/Manuel/Manuel/14911.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", GOURMET HD opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/3770.ts
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", GOURMET HD opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/3770.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", WIPR
-http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", GALAVISION opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/4672.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", GALAVISION opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/4672.M3U8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", MTV LIVE HD
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", VENEVISION opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/3850.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", VENEVISION opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/3850.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", VENEVISION PLUS opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/3675.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", VENEVISION PLUS opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/3675.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", CANAL 5 EL LIDER opc1
+http://p2.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/403.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", CANAL 5 EL LIDER opc1
+http://p2.iptvprivateserver.tv:80/live/1dCt2yvVu8/JDecAEDGKN/403.m3u8
+
+#==============================================================================
+#                                   SERIES
+#==============================================================================
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SERIES", <<< SERIES >>>
+http://tvnet.iptvsur.com:25461/live/6363/6363/3828.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SERIES", TBS SERIES opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/3828.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SERIES", TBS SERIES opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/3828.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SERIES", TNT SERIES opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/3724.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SERIES", TNT SERIES opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/3724.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SERIES", WARNER BROS opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/4676.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SERIES", WARNER BROS opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/4676.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_3169.png", A3S A3series opc1
+http://us.iptvlatino.xyz:25461/live/bTvj31fok1/ 7RCfcgRZLw/173.ts
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_3169.png", A3S A3series opc2
+http://us.iptvlatino.xyz:25461/live/bTvj31fok1/ 7RCfcgRZLw/173.m3u8
 
 
 #==============================================================================
@@ -271,110 +407,57 @@ http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", <<< UNIVISION >>>
 http://tecnotv.xyz/tv3/univision
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", US NBC UNIVERSO 1 
+http://tvnet.iptvsur.com:25461/live/6363/6363/9521.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION 0
-http://tecnotv.xyz/tv3/univision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", US NBC UNIVERSO 2
+http://tvnet.iptvsur.com:25461/live/6363/6363/9521.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION 00 (PR)
+http://tvnet.iptvsur.com:25461/live/6363/6363/3930.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION 01 (PR)
+http://tvnet.iptvsur.com:25461/live/6363/6363/3930.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION 10 (TDN)
+http://tvnet.iptvsur.com:25461/live/6363/6363/4175.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION 11 (TDN)
+http://tvnet.iptvsur.com:25461/live/6363/6363/4175.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION 20 (LA)
+http://tvnet.iptvsur.com:25461/live/6363/6363/5767.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION 21 (LA)
+http://tvnet.iptvsur.com:25461/live/6363/6363/5767.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", WAPA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", WAPA opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/3931.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", WAPA opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/3931.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", UNIMAS
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", WAPA 2 opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/3932.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", UNICABLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", WAPA 2 opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/3932.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", DISCOVERY H&H
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", UNIMAS opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/6205.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", UNIMAS opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/6205.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION 5888
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", UNICABLE FHD opc1
+http://tvnet.iptvsur.com:25461/live/6363/6363/11252.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CablearTV", UNICABLE FHD opc2
+http://tvnet.iptvsur.com:25461/live/6363/6363/11252.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION 1068
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION TDN
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", GALAVISION 1
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", GALAVISION 2
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", MTV LIVE HD
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", GOURMET HD
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", VENEVISION
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", VENEVISION PLUS
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", CANAL 5 EL LIDER 1
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", CANAL 5 EL LIDER 2
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", TBS SERIES
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", TNT SERIES
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", WARNER SERIES
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", NBC UNIVERSO 
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", IMAGEN
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", UNIVISION TLENOVELAS
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", TLNOVELAS 1
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", TLENOVELAS 2
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", PASIONES
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", AZ CORAZON
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="UNIVISION", RCN NOVELAS
 
 
 #==============================================================================
