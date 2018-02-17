@@ -487,7 +487,182 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&r
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TELEMUNDO", TELEMUNDO 51 OPC2
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#=============================================================================
+#                               LISTA DEMO TANIA
+#=============================================================================
 
+#EXTINF:-1 tvg-logo="http://jaybot7.com/blog/wp-content/uploads/2010/10/demodude-300x132.png", <<< LISTA DEMO >>>
+https://www.youtube.com/watch?v=6C08xJ2oDw4
+#EXTINF:-1 tvg-logo="http://jaybot7.com/blog/wp-content/uploads/2010/10/demodude-300x132.png", <<< VENCE 19-02-2018 >>>
+https://www.youtube.com/watch?v=6C08xJ2oDw4
+
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1bcb/f/2011/323/7/9/novelas_png_by_stephhart-d4go80t.png", ]]] CANALES DE NOVELAS [[[
+https://www.youtube.com/watch?v=lw8Pq2rn82s
+
+#EXTINF:-1, TELECADENA 7/4 
+http://w-suhd.com:8000/live/wxyz/6789/21103.ts
+#EXTINF:-1, UNIVISION TLNOVELAS 
+http://w-suhd.com:8000/live/wxyz/6789/23431.ts
+#EXTINF:-1, UNIMAS  [HD] 
+http://w-suhd.com:8000/live/wxyz/6789/18415.ts
+#EXTINF:-1, UNIMAS HD * 
+http://w-suhd.com:8000/live/wxyz/6789/23574.ts
+#EXTINF:-1, GALAVISION HD 
+http://w-suhd.com:8000/live/wxyz/6789/16678.ts
+#EXTINF:-1, HN: 5 EL LIDER [HD] 
+http://w-suhd.com:8000/live/wxyz/6789/15332.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWO9mXb43jJ2X3p6XvU3LioTZP5gKBfL-0qbaXKKQOw29NQ9G", ]]] CANALES TELEMUNDO [[[
+https://www.youtube.com/watch?v=lIS3QBe2c_I
+
+#EXTINF:-1, CO: TELEMUNDO INTERNACIONAL 
+http://w-suhd.com:8000/live/wxyz/6789/22743.ts
+#EXTINF:-1, TELEMUNDO (LOS ANGELES) KVEA-DT 
+http://w-suhd.com:8000/live/wxyz/6789/23433.ts
+#EXTINF:-1, TELEMUNDO (PHOENIX) KTAZ-DT 
+http://w-suhd.com:8000/live/wxyz/6789/23432.ts
+#EXTINF:-1, TELEMUNDO * 
+http://w-suhd.com:8000/live/wxyz/6789/23576.ts
+#EXTINF:-1, TELEMUNDO HD (CHICAGO) 
+http://w-suhd.com:8000/live/wxyz/6789/23436.ts
+#EXTINF:-1, TELEMUNDO HD (NY) 
+http://w-suhd.com:8000/live/wxyz/6789/20390.ts
+#EXTINF:-1, TELEMUNDO INTERNACIONAL 
+http://w-suhd.com:8000/live/wxyz/6789/16425.ts
+#EXTINF:-1, TELEMUNDO MIAMI 
+http://w-suhd.com:8000/live/wxyz/6789/20865.ts
+
+#EXTINF:-1  tvg-logo="https://mutumnet.files.wordpress.com/2009/06/variedades-mutumnet.png", ]]] CANALES DE VARIEDADES [[[
+https://www.youtube.com/watch?v=SMqPYL1D6hQ
+
+#EXTINF:-1, CANAL DE LAS ESTRELLAS 
+http://w-suhd.com:8000/live/wxyz/6789/17692.ts
+#EXTINF:-1, LAS ESTRELLAS FHD 
+http://w-suhd.com:8000/live/wxyz/6789/20276.ts
+#EXTINF:-1, US: NBC (KNBCDT) LA 
+http://w-suhd.com:8000/live/wxyz/6789/23430.ts
+
+
+#EXTINF:-1 tvg-logo="http://www.prevensystem.com/componentes/editor/ckfinder/userfiles/images/cine.png", ]]] CANALES DE CINE [[[
+https://www.youtube.com/watch?v=KqnOrCCCEaw
+
+#EXTINF:-1, SKY CINEMA VILLIANS HD 
+http://w-suhd.com:8000/live/wxyz/6789/23522.ts
+#EXTINF:-1, SKY CINEMA THRILLER HD 
+http://w-suhd.com:8000/live/wxyz/6789/23519.ts
+#EXTINF:-1, SKY CINEMA SELECT HD 
+http://w-suhd.com:8000/live/wxyz/6789/23499.ts
+SKY CINEMA SCI-FI & HORROR HD 
+http://w-suhd.com:8000/live/wxyz/6789/23520.ts
+#EXTINF:-1, SKY CINEMA PREMIERE HD 
+http://w-suhd.com:8000/live/wxyz/6789/23521.ts
+#EXTINF:-1, SKY CINEMA HITS HD 
+http://w-suhd.com:8000/live/wxyz/6789/23495.ts
+#EXTINF:-1, SKY CINEMA HEROES HD 
+http://w-suhd.com:8000/live/wxyz/6789/23496.ts
+#EXTINF:-1, SKY CINEMA FAMILY HD 
+http://w-suhd.com:8000/live/wxyz/6789/23498.ts
+#EXTINF:-1, SKY CINEMA DRAMA HD 
+http://w-suhd.com:8000/live/wxyz/6789/23524.ts
+#EXTINF:-1, SKY CINEMA DISNEY HD 
+http://w-suhd.com:8000/live/wxyz/6789/23497.ts
+#EXTINF:-1, SKY CINEMA COMEDY HD 
+http://w-suhd.com:8000/live/wxyz/6789/23523.ts
+#EXTINF:-1, FOX PREMIUM CINEMA 
+http://w-suhd.com:8000/live/wxyz/6789/16552.ts
+#EXTINF:-1, ES: M. DCINE HD ~ 
+http://w-suhd.com:8000/live/wxyz/6789/17889.ts
+#EXTINF:-1, ES: M. DCINE HD 
+http://w-suhd.com:8000/live/wxyz/6789/17953.ts
+#EXTINF:-1, ES: DCINE ESPANOL HD 
+http://w-suhd.com:8000/live/wxyz/6789/17974.ts
+#EXTINF:-1, CINEMAX MOREMAX 
+http://w-suhd.com:8000/live/wxyz/6789/23515.ts
+#EXTINF:-1, CINEMAX ACTIONMAX 
+http://w-suhd.com:8000/live/wxyz/6789/23516.ts
+#EXTINF:-1, CINEMAX 5 STAR 
+http://w-suhd.com:8000/live/wxyz/6789/23517.ts
+#EXTINF:-1, CINEMAX (W) 
+http://w-suhd.com:8000/live/wxyz/6789/16559.ts
+#EXTINF:-1, CINEMAX  (W) 
+http://w-suhd.com:8000/live/wxyz/6789/18382.ts
+#EXTINF:-1, CINEMAX 
+http://w-suhd.com:8000/live/wxyz/6789/23518.ts
+#EXTINF:-1, CINECANAL HD 
+http://w-suhd.com:8000/live/wxyz/6789/16549.ts
+#EXTINF:-1, CINECANAL   HD 
+http://w-suhd.com:8000/live/wxyz/6789/18324.ts
+#EXTINF:-1, CINE SONY 
+http://w-suhd.com:8000/live/wxyz/6789/16945.ts
+#EXTINF:-1, CINE LATINO 
+http://w-suhd.com:8000/live/wxyz/6789/22746.ts
+
+#EXTINF:-1, AZ CINEMA 1 
+http://w-suhd.com:8000/live/wxyz/6789/16546.ts
+
+#EXTINF:-1, AZ CINEMA 2 
+http://w-suhd.com:8000/live/wxyz/6789/18329.ts
+
+#EXTINF:-1, ES: M. COMEDIA HD 
+http://w-suhd.com:8000/live/wxyz/6789/17954.ts
+#EXTINF:-1, ES: M. COMEDIA HD ~ 
+http://w-suhd.com:8000/live/wxyz/6789/17890.ts
+#EXTINF:-1, FOX COMEDY HD 
+http://w-suhd.com:8000/live/wxyz/6789/18401.ts
+#EXTINF:-1, HBO COMEDY HD 
+http://w-suhd.com:8000/live/wxyz/6789/23511.ts
+#EXTINF:-1, SKY CINEMA COMEDY HD 
+http://w-suhd.com:8000/live/wxyz/6789/23523.ts
+#EXTINF:-1, STARZ COMEDY 
+http://w-suhd.com:8000/live/wxyz/6789/23503.ts
+#EXTINF:-1, STARZ EDGE 
+http://w-suhd.com:8000/live/wxyz/6789/23504.ts
+#EXTINF:-1, STARZ ENCORE 
+http://w-suhd.com:8000/live/wxyz/6789/23505.ts
+#EXTINF:-1, STARZ HD 
+http://w-suhd.com:8000/live/wxyz/6789/23507.ts
+#EXTINF:-1, STARZ KIDS & FAMILY 
+http://w-suhd.com:8000/live/wxyz/6789/23506.ts
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_kfAZVn_LDU/VmNDvW2OiSI/AAAAAAAALsw/zcl43-l0388/s640/series.png", ]]] CANALES DE SERIES [[[
+https://www.youtube.com/watch?v=RHib3g0WmBE
+
+#EXTINF:-1, ANTENA3 SERIES #2 aqui
+http://w-suhd.com:8000/live/wxyz/6789/21254.ts
+#EXTINF:-1, ES: A3SERIES HD 
+http://w-suhd.com:8000/live/wxyz/6789/17992.ts
+#EXTINF:-1, ES: A3SERIES HD ~ 
+http://w-suhd.com:8000/live/wxyz/6789/17924.ts
+#EXTINF:-1, ES: A3SERIES HD ~ 
+http://w-suhd.com:8000/live/wxyz/6789/17924.ts
+#EXTINF:-1, ES: M. SERIES HD 
+http://w-suhd.com:8000/live/wxyz/6789/17952.ts
+#EXTINF:-1, ES: M. SERIES HD ~ 
+http://w-suhd.com:8000/live/wxyz/6789/17888.ts
+#EXTINF:-1, ES: M. SERIES XTRA HD 
+http://w-suhd.com:8000/live/wxyz/6789/17951.ts
+#EXTINF:-1, ES: M. SERIES XTRAHD ~ 
+http://w-suhd.com:8000/live/wxyz/6789/17887.ts
+#EXTINF:-1, FOX PREMIUM SERIES 
+http://w-suhd.com:8000/live/wxyz/6789/18684.ts
+#EXTINF:-1, FOX PREMIUM SERIES HD 
+http://w-suhd.com:8000/live/wxyz/6789/18351.ts
+#EXTINF:-1, TNT  SERIES 
+http://w-suhd.com:8000/live/wxyz/6789/18346.ts
+#EXTINF:-1, TNT SERIES 
+http://w-suhd.com:8000/live/wxyz/6789/16455.ts
+#EXTINF:-1, COMEDY  CENTRAL  HD 
+http://w-suhd.com:8000/live/wxyz/6789/18327.ts
+#EXTINF:-1, COMEDY CENTRAL  HD 
+http://w-suhd.com:8000/live/wxyz/6789/16448.ts
+#EXTINF:-1, DISTRITO COMEDIA 
+http://w-suhd.com:8000/live/wxyz/6789/16458.ts
+#EXTINF:-1, EL COMEDIANTE (2017) pelicula
+http://w-suhd.com:8000/movie/wxyz/6789/17671.mkv
+#EXTINF:-1, ES: COMEDY CENTRAL HD 
+http://w-suhd.com:8000/live/wxyz/6789/17978.ts
+#EXTINF:-1, ES: COMEDY CENTRAL HD ~ 
+http://w-suhd.com:8000/live/wxyz/6789/17914.ts
 
 #==============================================================================
 #                                   PROXIMAMENTE
