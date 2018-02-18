@@ -167,6 +167,11 @@ http://tvnet.iptvsur.com:25461/live/6363/6363/3815.ts
 http://tvnet.iptvsur.com:25461/live/6363/6363/3815.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/7_de_guatemala_televisiete-mediano.png" group-title="GUATEMALA",TELEVISIETE
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NOVELAS", WIPR
 http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8
 
